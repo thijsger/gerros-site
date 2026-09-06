@@ -168,6 +168,27 @@
       "title": "Triptych",
       "tag": "Cockpit HUD with everything in one glance",
       "cat": "faces"
+    },
+    "cue": {
+      "title": "Cue",
+      "tag": "Snooker and pool scoring on your watch",
+      "cat": "sport",
+      "pending": true,
+      "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce"
+    },
+    "recover": {
+      "title": "Recover",
+      "tag": "Rest timer driven by your heart rate",
+      "cat": "health",
+      "pending": true,
+      "id": "cbbd7d39-09f9-4172-94c6-a981894fe065"
+    },
+    "adapt": {
+      "title": "Adapt",
+      "tag": "Calorie target that learns from your scale",
+      "cat": "health",
+      "pending": true,
+      "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8"
     }
   },
   "wearos": [

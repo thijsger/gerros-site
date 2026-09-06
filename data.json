@@ -661,5 +661,80 @@
   "whatsnew": "",
   "devices": 0,
   "updates": 1
+ },
+ {
+  "id": null,
+  "slug": "cue",
+  "name": "Cue",
+  "desc": "Cue keeps the score of your snooker or pool match on your wrist, so the table stays clear and nobody argues about the count. Tap the ball you potted, tap a foul, and Cue handles the rest: whose turn it is, which ball is on, the running break, and how many points are still on the table.\n\nThe numbers that matter in a tight frame are always on screen. Points remaining, whether you are on a frame ball, and exactly how many snookers you need. When the reds are gone the colours come off in order automatically, and a tie on the black re-spots it. Pool players get a clean race counter for 8-ball and 9-ball: one tap per rack, progress bars towards the race.\n\nWHAT IT DOES\n- Snooker scoring: tap the ball, Cue knows whether it is legal and what it is worth\n- Automatic ball-on: reds and colours alternate, then yellow to black in sequence\n- Points remaining, frame ball, snookers needed and difference at a glance\n- Fouls from 4 to 7 with the correct award, free ball and re-spot on a tie\n- Undo any pot or foul, end a break with a swipe\n- Best of 3, 5, 7, 9 and more, frame dots under each player\n- 15, 10 or 6 reds for short frames\n- 8-ball and 9-ball race counters: tap a side for the rack\n- Stats: frames played, wins, highest break, pots and fouls per player\n- History of your last frames with score and break\n- Glance shows the live score, five languages, buttons or touch",
+  "nl": "Cue houdt de stand van je snooker- of poolwedstrijd bij op je pols, zodat de tafel vrij blijft en niemand discussieert over de telling. Tik op de bal die je potte, tik een fout aan, en Cue doet de rest: wie aan de beurt is, welke bal aan de beurt is, de lopende break en hoeveel punten er nog op tafel liggen.\n\nDe cijfers die er in een spannend frame toe doen staan altijd op het scherm. Punten over, of je op een frameball zit, en precies hoeveel snookers je nodig hebt. Zijn de rode ballen op, dan gaan de kleuren automatisch in volgorde, en bij gelijkspel op zwart wordt die teruggelegd. Poolspelers krijgen een strakke race-teller voor 8-ball en 9-ball: één tik per rack, met voortgangsbalken naar de race.\n\nWAT HET DOET\n- Snookerscore: tik op de bal, Cue weet of hij geldig is en wat hij waard is\n- Automatisch ball-on: rood en kleur om en om, daarna geel tot zwart op volgorde\n- Punten over, frameball, benodigde snookers en verschil in één oogopslag\n- Fouten van 4 tot 7 met de juiste toekenning, free ball en terugleggen bij gelijkspel\n- Elke pot of fout ongedaan maken, break beëindigen met een veeg\n- Best of 3, 5, 7, 9 en meer, framestippen onder elke speler\n- 15, 10 of 6 rode ballen voor korte frames\n- 8-ball- en 9-ball-race-tellers: tik op een kant voor het rack\n- Stats: gespeelde frames, winst, hoogste break, pots en fouten per speler\n- Geschiedenis van je laatste frames met score en break\n- Glance toont de live stand, vijf talen, knoppen of touch",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": null,
+  "icon": "assets/icons/cue.png",
+  "shots": [
+   "assets/shots/cue-1.jpg",
+   "assets/shots/cue-2.jpg",
+   "assets/shots/cue-3.jpg",
+   "assets/shots/cue-4.jpg",
+   "assets/shots/cue-5.jpg"
+  ],
+  "changed": null,
+  "whatsnew": "",
+  "devices": 105,
+  "updates": 1
+ },
+ {
+  "id": null,
+  "slug": "recover",
+  "name": "Recover",
+  "desc": "Recover replaces the fixed rest timer with one that listens to your heart. After every set it watches your heart rate come down and starts the next set when you are actually recovered, not when an arbitrary 90 seconds are up. Strong lifters rest less, hard sets get more, and a bad day gets the extra time it needs.\n\nUnder the hood Recover fits your recovery curve live. From the peak after the set and your resting rate it estimates your recovery constant, the number of seconds it takes your heart rate to fall about two thirds of the way back. That gives a real countdown, a light tap ten seconds out, and a firm buzz when you are ready. Your goal sets the threshold: strength waits until you are nearly fully recovered, hypertrophy goes earlier, conditioning earlier still. Across sessions the constant becomes your fitness score: lower means you recover faster.\n\nWHAT IT DOES\n- Rest until your heart rate is back in range, with a live countdown to ready\n- Goal presets: strength, hypertrophy, conditioning, each with its own recovery threshold\n- Minimum and maximum rest so the session never stalls or rushes\n- Ten-second warning and a ready buzz, no need to look at the watch\n- Set clock, set counter, peak heart rate per set\n- Your recovery constant per session, chart of the last twelve, trend in percent\n- Session summary: sets, average rest, average peak, duration\n- Saves the workout as a strength training activity in Garmin Connect\n- Works with the wrist sensor or a chest strap\n- Glance with your last recovery constant and trend, five languages",
+  "nl": "Recover vervangt de vaste rusttimer door één die naar je hart luistert. Na elke set kijkt hij hoe je hartslag zakt en start de volgende set wanneer je écht hersteld bent, niet wanneer er willekeurig 90 seconden om zijn. Sterke lifters rusten korter, zware sets krijgen meer, en een slechte dag krijgt de extra tijd die hij nodig heeft.\n\nOnder de motorkap fit Recover live je herstelcurve. Uit de piek na de set en je rusthartslag schat hij je herstelconstante: het aantal seconden dat je hartslag nodig heeft om ongeveer twee derde terug te zakken. Dat geeft een echte aftelling, een licht tikje tien seconden van tevoren en een stevige trilling als je klaar bent. Je doel bepaalt de drempel: kracht wacht tot je bijna volledig hersteld bent, hypertrofie gaat eerder, conditie nog eerder. Over sessies heen wordt de constante je fitheidsscore: lager is sneller herstellen.\n\nWAT HET DOET\n- Rusten tot je hartslag terug in het bereik is, met een live aftelling naar klaar\n- Doelpresets: kracht, hypertrofie, conditie, elk met een eigen hersteldrempel\n- Minimale en maximale rust, zodat de sessie nooit stokt of jaagt\n- Waarschuwing op tien seconden en een klaar-trilling, niet naar het horloge kijken\n- Setklok, setteller, piekhartslag per set\n- Je herstelconstante per sessie, grafiek van de laatste twaalf, trend in procent\n- Sessiesamenvatting: sets, gemiddelde rust, gemiddelde piek, duur\n- Slaat de training op als krachttraining in Garmin Connect\n- Werkt met de polssensor of een borstband\n- Glance met je laatste herstelconstante en trend, vijf talen",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": null,
+  "icon": "assets/icons/recover.png",
+  "shots": [
+   "assets/shots/recover-1.jpg",
+   "assets/shots/recover-2.jpg",
+   "assets/shots/recover-3.jpg",
+   "assets/shots/recover-4.jpg",
+   "assets/shots/recover-5.jpg"
+  ],
+  "changed": null,
+  "whatsnew": "",
+  "devices": 105,
+  "updates": 1
+ },
+ {
+  "id": null,
+  "slug": "adapt",
+  "name": "Adapt",
+  "desc": "Adapt is a calorie target that learns from your scale. Log what you eat and weigh yourself when you can, and Adapt works out what your body actually burns: not a formula, but the number that explains your own weight trend against your own intake. From that it gives you one number that matters today: how much you can still eat.\n\nMost calorie targets are a guess from a formula, and a wrong guess quietly costs you months. Adapt starts with the formula, then replaces it with your measured burn as the log grows. Your weigh-ins are smoothed into a trend line, so water swings and a big dinner do not move the target. Set a goal weight and a rate, and Adapt shows the date you get there, whether you are on track, and how much to eat to stay there.\n\nWHAT IT DOES\n- Today page: calories left, eaten of target, a ring that fills as you eat\n- Measured burn (TDEE) from your intake and your weight trend, blended with the formula until there is enough data\n- Confidence bar shows how much of the estimate is measured\n- Weight trend: smoothed line through your weigh-ins, weekly change, 30-day chart\n- Goal: target weight and rate per week, days to go, projected date, on-track or behind\n- Daily target follows your goal and never drops below a safe floor\n- Quick keypad for meals, today's total and weight; kilograms or pounds\n- Activity level and profile from Garmin for the formula prior\n- Glance with calories left today and the fill bar\n- Five languages, works with buttons or touch",
+  "nl": "Adapt is een caloriedoel dat leert van je weegschaal. Log wat je eet en weeg je wanneer je kunt, en Adapt rekent uit wat je lichaam werkelijk verbruikt: geen formule, maar het getal dat jouw gewichtstrend verklaart tegenover jouw inname. Daaruit volgt één getal dat er vandaag toe doet: hoeveel je nog kunt eten.\n\nDe meeste caloriedoelen zijn een gok uit een formule, en een verkeerde gok kost je stilletjes maanden. Adapt begint met de formule en vervangt die door je gemeten verbruik naarmate het logboek groeit. Je wegingen worden gladgestreken tot een trendlijn, zodat vochtschommelingen en een groot diner het doel niet verschuiven. Stel een doelgewicht en een tempo in, en Adapt toont de datum waarop je er bent, of je op koers ligt en hoeveel je moet eten om daar te blijven.\n\nWAT HET DOET\n- Vandaag-pagina: calorieën over, gegeten van doel, een ring die vult terwijl je eet\n- Gemeten verbruik (TDEE) uit je inname en gewichtstrend, gemengd met de formule tot er genoeg data is\n- Betrouwbaarheidsbalk toont hoeveel van de schatting gemeten is\n- Gewichtstrend: gladde lijn door je wegingen, weekverandering, 30-dagengrafiek\n- Doel: doelgewicht en tempo per week, dagen te gaan, verwachte datum, op koers of achter\n- Dagdoel volgt je doel en zakt nooit onder een veilige ondergrens\n- Snel toetsenbord voor maaltijden, dagtotaal en gewicht; kilo's of ponden\n- Activiteitsniveau en profiel uit Garmin voor de formule-schatting\n- Glance met calorieën over vandaag en de vulbalk\n- Vijf talen, werkt met knoppen of touch",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": null,
+  "icon": "assets/icons/adapt.png",
+  "shots": [
+   "assets/shots/adapt-1.jpg",
+   "assets/shots/adapt-2.jpg",
+   "assets/shots/adapt-3.jpg",
+   "assets/shots/adapt-4.jpg",
+   "assets/shots/adapt-5.jpg"
+  ],
+  "changed": null,
+  "whatsnew": "",
+  "devices": 105,
+  "updates": 1
  }
 ]
