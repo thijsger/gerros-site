@@ -1,42 +1,33 @@
 #!/usr/bin/env python3
-# tools_dials.py — snijdt de wijzerplaat (het zwarte scherm) scherp uit de grote store-screenshot
-# van elke app en bewaart hem als assets/dials/<slug>.jpg (640x640, midden = midden van het scherm).
+# tools_dials.py — maakt assets/dials/<slug>.jpg (454x454) en assets/small/dial-<slug>.jpg (320x320)
+# uit assets/dials-src/<slug>.png: exacte 454 px sim-opnames van het scherm, dus het scherm staat
+# altijd precies in het midden van de cirkel. Voor apps zonder sim-opname staat in MANUAL een
+# handmatig gemeten uitsnede (bestand, middelpunt, straal van het scherm) uit een marketingbeeld;
+# die wordt eerst naar dials-src geschreven en dan net zo behandeld.
 import json, os
-import numpy as np
 from PIL import Image
-d = json.load(open('data.json'))
-os.makedirs('assets/dials', exist_ok=True)
-def find_dial(im):
-    a = np.asarray(im.convert('RGB')).astype(int)
-    dark = (a.max(axis=2) < 70)
-    h, w = dark.shape
-    best = (0, 0, 0, 0)  # width, y, x0, x1
-    for y in range(0, h, 2):
-        row = dark[y]
-        # langste aaneengesloten donkere run in deze rij
-        run = 0; start = 0
-        for x in range(w):
-            if row[x]:
-                if run == 0: start = x
-                run += 1
-                if run > best[0]: best = (run, y, start, x)
-            else:
-                run = 0
-    wd, y, x0, x1 = best
-    cx = (x0 + x1) / 2.0
-    # verticale uitgestrektheid door het midden: de kast (band loopt door, dus beperk tot ~1.1x breedte)
-    col = dark[:, int(cx)]
-    top = y; bot = y
-    while top > 0 and col[top - 1]: top -= 1
-    while bot < h - 1 and col[bot + 1]: bot += 1
-    cy = y if (bot - top) > 1.4 * wd else (top + bot) / 2.0
-    return cx, cy, wd / 2.0
-for app in d:
-    src = app['shots'][0] if app['shots'] else app['icon']
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+os.makedirs('assets/dials', exist_ok=True); os.makedirs('assets/small', exist_ok=True)
+MANUAL = {  # slug: (bron, cx, cy, r)  — r = straal van het zichtbare scherm, zonder bezel/tickmarks
+    'radar':      (os.path.expanduser('~/Desktop/App-screenshots/Radar/full/s1.png'), 638, 773, 468),
+    'caffi':      ('assets/screens/caffi-1.jpg', 649, 575, 298),
+    'convertr':   ('assets/screens/convertr-2.jpg', 1028, 500, 243),
+    'cardvault':  ('assets/screens/cardvault-2.jpg', 725, 626, 193),
+    'morsetap':   ('assets/screens/morsetap-2.jpg', 378, 519, 232),
+    'rallypoint': ('assets/screens/rallypoint-2.jpg', 733, 488, 180),
+}
+for slug, (src, cx, cy, r) in MANUAL.items():
+    dst = f'assets/dials-src/{slug}.png'
+    if not os.path.exists(dst) and os.path.exists(src):
+        im = Image.open(src).convert('RGB')
+        im.crop((cx - r, cy - r, cx + r, cy + r)).resize((454, 454), Image.LANCZOS).save(dst)
+        print('manual crop ->', dst)
+for app in json.load(open('data.json')):
+    s = app['slug']; src = f'assets/dials-src/{s}.png'
+    if not os.path.exists(src):
+        print('GEEN dials-src voor', s, '(refresh.py-fallback blijft staan)'); continue
     im = Image.open(src).convert('RGB')
-    cx, cy, r = find_dial(im)
-    rd = r * 0.84                      # scherm zonder bezel/tickmarks
-    box = (int(cx - rd), int(cy - rd), int(cx + rd), int(cy + rd))
-    crop = im.crop(box).resize((640, 640), Image.LANCZOS)
-    crop.save(f"assets/dials/{app['slug']}.jpg", quality=88, optimize=True)
-    print(app['slug'], im.size, 'r=%d' % r, box)
+    if im.size != (454, 454): im = im.resize((454, 454), Image.LANCZOS)
+    im.save(f'assets/dials/{s}.jpg', quality=90, optimize=True)
+    im.resize((320, 320), Image.LANCZOS).save(f'assets/small/dial-{s}.jpg', quality=82, optimize=True)
+print('klaar')

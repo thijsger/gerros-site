@@ -108,12 +108,12 @@ def date(ms):
 
 
 PACKAGES = [
-    ('Watch face', 'from €350', '1–2 weeks', 'Your design or brand on the dial. Complications, colours, one platform, two revision rounds.'),
-    ('App', 'from €900', '2–4 weeks', 'One job done properly: a calculation, timer, tracker or tool with settings and a glance. One platform.'),
-    ('App + backend', 'from €2,500', '4–8 weeks', 'An app that talks to something: a server, an API, a live scoreboard or a shared ranking.'),
+    ('Watch face', '1–2 weeks', 'Your design or brand on the dial. Complications, colours, one platform, two revision rounds.'),
+    ('App', '2–4 weeks', 'One job done properly: a calculation, timer, tracker or tool with settings and a glance. One platform.'),
+    ('App + backend', '4–8 weeks', 'An app that talks to something: a server, an API, a live scoreboard or a shared ranking.'),
 ]
 def package_cards():
-    return ''.join(f'<div class="package"><p class="eyebrow">{E(n)}</p><b class="price">{E(pr)}</b><span class="mono muted">{E(t)}</span><p>{E(d)}</p></div>' for n, pr, t, d in PACKAGES)
+    return ''.join(f'<div class="package"><p class="eyebrow">{E(n)}</p><b class="price">{E(t)}</b><span class="mono muted">Fixed quote</span><p>{E(d)}</p></div>' for n, t, d in PACKAGES)
 
 MAIL_CUSTOM = f'mailto:{MAIL}?subject=Custom%20app%20request&body=Hi%20Thijs%2C%0A%0AWhat%20I%20want%20the%20app%20to%20do%3A%20%0AWho%20it%20is%20for%3A%20%0AGarmin%20or%20Wear%20OS%3A%20%0AWatch%20model(s)%3A%20%0ADeadline%3A%20%0ABudget%20range%3A%20%0A'
 
@@ -296,7 +296,7 @@ def page_custom():
         ('Can it go in the Connect IQ Store or Google Play?', 'Yes. It can be published under your own developer account, or under GerrOS if you prefer. Store review is outside my control, but I build to the guidelines and have had every one of my own apps approved.'),
         ('Which watches?', 'All Garmin models that run Connect IQ, and Wear OS watches. Tell me which models matter and the quote will list exactly which ones are covered.'),
         ('What about data and privacy?', 'By default everything stays on the watch, like my own apps. If the app needs a server, that is scoped and priced separately.'),
-        ('How is the price built up?', 'An internal rate of about €50 an hour. A watch face is 8–12 hours, an app 20–35, an app with a backend 50 or more. You get a fixed price, so the risk of overrun is mine.'),
+        ('How is the price built up?', 'From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.'),
         ('Do you do NDAs and invoices?', 'Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.'),
     ]
     steps_html = ''.join(f'<li><b>{E(t)}</b><span>{E(d)}</span></li>' for t, d in steps)
@@ -318,8 +318,8 @@ def page_custom():
 </div></section>
 
 <section class="section"><div class="wrap">
-  <p class="eyebrow">Packages</p><h2>Three sizes, one fixed price each.</h2>
-  <p class="lede" style="margin-top:14px">Prices exclude VAT and are starting points; the quote is final. Second platform (Garmin and Wear OS) adds about 40%. Store publication under your own name: €150.</p>
+  <p class="eyebrow">Packages</p><h2>Three sizes, one fixed quote each.</h2>
+  <p class="lede" style="margin-top:14px">Every project gets a fixed quote after the brief, so the price is known before anything is built. A second platform (Garmin and Wear OS) or publication under your own name is simply added to the quote.</p>
   <div class="packages">{package_cards()}</div>
 </div></section>
 
@@ -464,7 +464,7 @@ PAGES = [
     ('finder.html', 'Find your app', 'Pick what you want from your watch and get the GerrOS app that does it.', page_finder, 'finder.html'),
     ('whatsnew.html', "What's new at GerrOS", 'Latest release notes for every GerrOS app.', page_whatsnew, 'whatsnew.html'),
     ('wearos.html', 'GerrOS on Wear OS', 'GerrOS apps coming to Wear OS: Caffi, Sobr, BreathGym and Convertr.', page_wearos, 'wearos.html'),
-    ('custom.html', 'Custom watch apps by GerrOS', 'Garmin Connect IQ and Wear OS apps and watch faces built to order: fixed price, fixed scope, from €350.', page_custom, 'custom.html'),
+    ('custom.html', 'Custom watch apps by GerrOS', 'Garmin Connect IQ and Wear OS apps and watch faces built to order: fixed scope, fixed quote, built by a one-person studio.', page_custom, 'custom.html'),
     ('studio.html', 'GerrOS studio', 'About GerrOS, the one-person watch-app studio from the Netherlands.', page_studio, 'studio.html'),
     ('support.html', 'GerrOS support', 'Help with GerrOS apps for Garmin watches.', page_support, 'support.html'),
     ('privacy.html', 'GerrOS privacy policy', 'How GerrOS apps handle your data: on the watch, without accounts or tracking.', page_privacy, ''),
