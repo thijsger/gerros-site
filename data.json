@@ -1,5 +1,30 @@
 [
  {
+  "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8",
+  "slug": "radar",
+  "name": "Radar - GPS Treasure Hunt",
+  "desc": "Radar hides a treasure somewhere around you — a random direction, a random distance — and gives you nothing but warmer and colder. Two short buzzes: warmer. One long: colder. Close in and the radar starts ticking like a Geiger counter. Walk until it says burning. That's the whole game, and it gets people out of the door.\n\nEvery treasure is worth XP: for every kilometre walked, for the find itself, for how straight your line was and how fast you were. Level up from Rookie to Legend, earn hints, fill a collection of sixteen treasures from copper coins to a dragon egg, and keep a daily streak going with the shared daily treasure — the same bearing for everyone, today.\n\nWHAT IT DOES\n- Classic mode: warmer / colder vibrations and a heat word from freezing to burning\n- Sonar mode: exact distance, no direction — triangulate it yourself (1.3× XP)\n- Blind mode: vibration only, nothing on screen (1.6× XP)\n- Four distances: short (250–500 m) to epic (2.5–5 km)\n- Daily treasure with streak bonus; Expedition: three treasures in a row\n- Hints that reveal the direction for a few seconds, earned by levelling up\n- Move the treasure when water or a fence is in the way; give up and keep the walking XP\n- XP breakdown per hunt: walked, found, efficiency, speed bonus, daily, streak, expedition\n- 20 levels with rank names, 16 collectible treasures in four rarities, 12 badges, history\n- Records each hunt as a walk in Garmin Connect (optional)\n- Glance with level, XP bar and today's treasure status\n- Metric or imperial, vibration strength, sounds; English, Dutch, German, French, Spanish\n\nWHAT IT NEEDS\nGPS. Works anywhere outdoors, no phone, no account, no map.",
+  "nl": "Radar verstopt een schat ergens om je heen — willekeurige richting, willekeurige afstand — en geeft je alleen warmer en kouder. Twee korte trillingen: warmer. Eén lange: kouder. Kom je dichtbij, dan begint de radar te tikken als een geigerteller. Loop tot hij gloeiend zegt. Dat is het hele spel, en het krijgt mensen de deur uit.\n\nElke schat is XP waard: per gelopen kilometer, voor de vondst zelf, voor hoe recht je lijn was en hoe snel je was. Stijg van Groentje naar Legende, verdien hints, vul een collectie van zestien schatten van koperen munt tot drakenei, en houd een dagelijkse reeks vol met de gedeelde dagschat — vandaag voor iedereen dezelfde richting.\n\nWAT HET DOET\n- Klassiek: warmer/kouder-trillingen en een hittewoord van ijskoud tot gloeiend\n- Sonar: exacte afstand, geen richting — trianguleer zelf (1,3× XP)\n- Blind: alleen trillen, niets op het scherm (1,6× XP)\n- Vier afstanden: kort (250–500 m) tot episch (2,5–5 km)\n- Dagschat met reeksbonus; Expeditie: drie schatten achter elkaar\n- Hints die een paar seconden de richting tonen, verdiend per level\n- Schat verplaatsen als water of een hek in de weg ligt; opgeven met behoud van loop-XP\n- XP-overzicht per jacht: gelopen, gevonden, efficiëntie, snelheid, dag, reeks, expeditie\n- 20 levels met rangnamen, 16 verzamelschatten in vier zeldzaamheden, 12 badges, geschiedenis\n- Slaat elke jacht op als wandeling in Garmin Connect (optioneel)\n- Glance met level, XP-balk en de status van de dagschat\n- Metrisch of imperiaal, trilsterkte, geluid; Engels, Nederlands, Duits, Frans, Spaans\n\nWAT HET NODIG HEEFT\nGPS. Werkt overal buiten, zonder telefoon, account of kaart.",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "217",
+  "icon": "assets/icons/radar.png",
+  "shots": [
+   "assets/shots/radar-1.jpg",
+   "assets/shots/radar-2.jpg",
+   "assets/shots/radar-3.jpg",
+   "assets/shots/radar-4.jpg",
+   "assets/shots/radar-5.jpg"
+  ],
+  "changed": 1788862883000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
   "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8",
   "slug": "adapt",
   "name": "Adapt - Adaptive Calorie Target",
@@ -104,7 +129,7 @@
   "slug": "pitstop",
   "name": "PitStop - Fuel Log",
   "desc": "PitStop is a fuel log on your wrist that thinks ahead. Log a fill-up at the pump in three taps: odometer, litres, cost. From then on the watch knows what your last tank really used, whether that was better or worse than usual, and roughly how far the fuel you have left will take you.\n\nThe fuel gauge page is the part you will use most. From your own average, your usual daily distance and your last fill-up, PitStop estimates what is still in the tank and tells you which day to refuel. No odometer entry needed in between. Before a long drive, the trip calculator tells you what it will cost at the price you paid last time.\n\nWHAT IT DOES\n- Three-tap logging at the pump: odometer, volume, cost; partial fills roll into the next tank\n- Tank-to-tank consumption, the only method that is honest about partial fills\n- Last tank against your average, in green or red\n- Fuel gauge: estimated litres left, distance left and \"refuel around Thursday\"\n- Trend: the last three tanks against everything before, and winter against summer\n- Trip cost: enter a distance, see litres and cost at your last and average price\n- Costs: this month, per month, per km, per year, and six months as bars\n- Prices: last, average, lowest and highest you paid per litre\n- Economy: average, best and worst tank, and how far one tankful goes\n- Edit or delete any fill-up, switch full to partial afterwards\n- Up to four vehicles, each with its own name, tank size and history\n- L/100 km, km/L, MPG (US) and MPG (UK); 13 currency symbols\n- Glance with your last consumption and estimated range\n- English, Dutch, German, French, Spanish\n\nWHAT IT NEEDS\nNothing but your watch. No phone, no account, no internet.",
-  "nl": "PitStop est un carnet de carburant au poignet qui anticipe. Enregistrez un plein à la pompe en trois touches : compteur, litres, montant. Dès lors, la montre sait ce que votre dernier plein a réellement consommé, si c'était mieux ou moins bien que d'habitude, et jusqu'où le reste vous mènera à peu près.\n\nLa page de la jauge est celle que vous utiliserez le plus. À partir de votre moyenne, de votre distance quotidienne habituelle et de votre dernier plein, PitStop estime ce qu'il reste dans le réservoir et vous dit quel jour refaire le plein. Sans saisir le compteur entre-temps. Avant un long trajet, le calculateur de trajet vous dit ce qu'il coûtera au prix payé la dernière fois.\n\nCE QU'ELLE FAIT\n- Plein en trois touches : compteur, quantité, montant ; les pleins partiels comptent pour le plein complet suivant\n- Consommation de plein à plein, la seule méthode honnête avec les pleins partiels\n- Dernier plein face à votre moyenne, en vert ou en rouge\n- Jauge : litres estimés, distance restante et « plein vers jeudi »\n- Tendance : les trois derniers pleins face à tous les précédents, et hiver face à été\n- Coût du trajet : saisissez une distance, voyez litres et coût au dernier prix et au prix moyen\n- Coûts : ce mois, par mois, par km, par an, et six mois en barres\n- Prix : dernier, moyen, le plus bas et le plus haut payé au litre\n- Consommation : moyenne, meilleur et pire plein, et jusqu'où va un réservoir\n- Modifiez ou supprimez n'importe quel plein, passez de complet à partiel après coup\n- Jusqu'à quatre véhicules, chacun avec son nom, son réservoir et son historique\n- L/100 km, km/L, MPG (US) et MPG (UK) ; 13 symboles de devise\n- Glance avec votre dernière consommation et l'autonomie estimée\n- Français, anglais, néerlandais, allemand, espagnol\n\nCE QU'IL LUI FAUT\nRien d'autre que votre montre. Pas de téléphone, pas de compte, pas d'internet.",
+  "nl": "PitStop is een brandstoflogboek om je pols dat vooruitdenkt. Log een tankbeurt bij de pomp in drie tikken: kilometerstand, liters, bedrag. Vanaf dan weet het horloge wat je laatste tank echt verbruikte, of dat beter of slechter was dan normaal, en hoe ver je met de rest nog ongeveer komt.\n\nDe tankmeter-pagina ga je het meest gebruiken. Uit je eigen gemiddelde, je gebruikelijke dagafstand en je laatste tankbeurt schat PitStop wat er nog in de tank zit en op welke dag je moet tanken. Zonder tussendoor een kilometerstand in te voeren. Voor een lange rit rekent de ritkosten-calculator uit wat die kost tegen de prijs die je de vorige keer betaalde.\n\nWAT HET DOET\n- Tankbeurt in drie tikken: kilometerstand, hoeveelheid, bedrag; deeltankingen tellen mee bij de volgende volle tank\n- Verbruik tank-tot-tank, de enige methode die eerlijk is over deeltankingen\n- Laatste tank tegenover je gemiddelde, in groen of rood\n- Tankmeter: geschatte liters, resterende afstand en \"tanken rond donderdag\"\n- Trend: de laatste drie tanks tegenover alles daarvoor, en winter tegenover zomer\n- Ritkosten: voer een afstand in en zie liters en kosten tegen je laatste en gemiddelde prijs\n- Kosten: deze maand, per maand, per km, per jaar, en zes maanden als balken\n- Prijzen: laatste, gemiddelde, laagste en hoogste prijs per liter\n- Verbruik: gemiddelde, beste en slechtste tank, en hoe ver één tank komt\n- Elke tankbeurt bewerken of verwijderen, achteraf vol naar deels omzetten\n- Tot vier voertuigen, elk met eigen naam, tankinhoud en historie\n- L/100 km, km/L, MPG (US) en MPG (UK); 13 valutasymbolen\n- Glance met je laatste verbruik en geschatte actieradius\n- Nederlands, Engels, Duits, Frans, Spaans\n\nWAT HET NODIG HEEFT\nAlleen je horloge. Geen telefoon, geen account, geen internet.",
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
@@ -297,6 +322,30 @@
   "whatsnew": "",
   "devices": 180,
   "updates": 4
+ },
+ {
+  "id": "435be2d8-0a32-4d40-8737-ce97f2824468",
+  "slug": "isobar",
+  "name": "Isobar - Migraine Risk and Attack Log",
+  "desc": "Isobar reads the barometer in your watch and turns it into a migraine risk score you can check for yourself.\n\nFalling barometric pressure is among the most frequently reported migraine triggers in the published literature. Isobar keeps its own 48-hour record of sea-level pressure, weighs how fast it is changing against your Body Battery and stress, and puts one number on your wrist — together with the figures behind it, so you can hold it up against the sky instead of trusting a score you cannot see into.\n\nEverything you log stays your own record. Isobar counts it and draws it — how many attack days this month, how intense your attacks usually are, how long they last, what time of day they tend to start — and leaves the reading of it to you and your doctor.\n\nWHAT IT DOES\n\n- Risk score from 0 to 100, with LOW, ELEVATED or HIGH, and the pressure change and body signals behind it\n- 48-hour pressure graph with your logged attacks marked underneath it, so you can see the shape of the day for yourself\n- Attack logging in one press: intensity, duration, medication\n- Attack Mode: deep red on a black screen with the elapsed time and your medication timer, for when a phone screen is unbearable\n- A count of your attack days and medication days this month, next to last month's\n- Insights: how intense your attacks usually are, how long they typically last, and which part of the day they tend to begin in\n- Optional alert when the risk steps up, silent during your sleep window\n- Glance with the current score, in English, Dutch, German, Spanish and French\n\nWHAT IT NEEDS\n\nA watch with a barometric altimeter. Body Battery and stress are used when your watch reports them, and quietly skipped when it does not. Nothing leaves the watch: no account, no server, no phone required.\n\nThis app is not intended to be used for the purposes of medical treatment and is intended for educational purposes only. Isobar is not a medical device. It does not diagnose, treat, cure or prevent any disease or condition, it does not identify the cause of your migraines, and it does not replace advice from your doctor.",
+  "nl": "Isobar leest de barometer in je horloge uit en maakt daar een migrainerisico van dat je zelf kunt narekenen.\n\nDalende luchtdruk hoort tot de meest genoemde migrainetriggers in de literatuur. Isobar houdt zelf 48 uur zeeniveaudruk bij, weegt hoe snel die verandert tegen je Body Battery en stress, en zet er één getal van op je pols — met de cijfers eronder waar het vandaan komt, zodat je het tegen de lucht kunt houden in plaats van een score te moeten geloven waar je niet in kunt kijken.\n\nWat je logt blijft je eigen registratie. Isobar telt het en tekent het — hoeveel aanvalsdagen deze maand, hoe zwaar je aanvallen meestal zijn, hoe lang ze duren, op welk moment van de dag ze beginnen — en laat het lezen ervan aan jou en je arts.\n\nWAT HET DOET\n\n- Risicoscore van 0 tot 100, met LAAG, VERHOOGD of HOOG, en de drukverandering en lichaamssignalen die eronder liggen\n- Drukgrafiek van 48 uur met je gelogde aanvallen eronder gemarkeerd, zodat je de vorm van de dag zelf kunt zien\n- Aanval loggen met één druk op de knop: intensiteit, duur, medicatie\n- Attack Mode: dieprood op een zwart scherm met de verstreken tijd en je medicatietimer, voor als een telefoonscherm te fel is\n- Een telling van je aanvalsdagen en medicatiedagen deze maand, naast die van vorige maand\n- Inzichten: hoe zwaar je aanvallen meestal zijn, hoe lang ze doorgaans duren, en in welk deel van de dag ze beginnen\n- Optionele melding als het risico oploopt, stil tijdens je slaapvenster\n- Glance met de actuele score, in het Nederlands, Engels, Duits, Spaans en Frans\n\nWAT HET NODIG HEEFT\n\nEen horloge met barometrische hoogtemeter. Body Battery en stress worden gebruikt als je horloge ze levert, en anders stilletjes overgeslagen. Er gaat niets van je horloge af: geen account, geen server, geen telefoon nodig.\n\nDeze app is niet bedoeld voor medische behandeling en is uitsluitend bedoeld voor educatieve doeleinden. Isobar is geen medisch hulpmiddel. De app stelt geen diagnose, behandelt, geneest of voorkomt geen enkele aandoening, wijst geen oorzaak van je migraine aan, en vervangt het advies van je arts niet.",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 2,
+  "downloads": 100,
+  "version": "1.3",
+  "category": "254",
+  "icon": "assets/icons/isobar.png",
+  "shots": [
+   "assets/shots/isobar-1.jpg",
+   "assets/shots/isobar-2.jpg",
+   "assets/shots/isobar-3.jpg",
+   "assets/shots/isobar-4.jpg"
+  ],
+  "changed": 1787595401000,
+  "whatsnew": "",
+  "devices": 56,
+  "updates": 6
  },
  {
   "id": "c9641632-bf62-4fdb-8e28-e3a4c1c24bc5",
@@ -736,30 +785,5 @@
   "whatsnew": "- Undo now also restores who serves and the chosen first servers\n- Undo works on small-screen watches too (Forerunner 55 and similar), with a shorter history\n- New in the match menu: \"Touchscreen\" on/off and \"Buttons\", which flips UP/DOWN scoring for those who see \"You\" at the bottom\n",
   "devices": 178,
   "updates": 28
- },
- {
-  "id": null,
-  "slug": "radar",
-  "name": "Radar",
-  "desc": "Radar hides a treasure somewhere around you — a random direction, a random distance — and gives you nothing but warmer and colder. Two short buzzes: warmer. One long: colder. Close in and the radar starts ticking like a Geiger counter. Walk until it says burning. That's the whole game, and it gets people out of the door.\n\nEvery treasure is worth XP: for every kilometre walked, for the find itself, for how straight your line was and how fast you were. Level up from Rookie to Legend, earn hints, fill a collection of sixteen treasures from copper coins to a dragon egg, and keep a daily streak going with the shared daily treasure — the same bearing for everyone, today.\n\nWHAT IT DOES\n- Classic mode: warmer / colder vibrations and a heat word from freezing to burning\n- Sonar mode: exact distance, no direction — triangulate it yourself (1.3× XP)\n- Blind mode: vibration only, nothing on screen (1.6× XP)\n- Four distances: short (250–500 m) to epic (2.5–5 km)\n- Daily treasure with streak bonus; Expedition: three treasures in a row\n- Hints that reveal the direction for a few seconds, earned by levelling up\n- Move the treasure when water or a fence is in the way; give up and keep the walking XP\n- XP breakdown per hunt: walked, found, efficiency, speed bonus, daily, streak, expedition\n- 20 levels with rank names, 16 collectible treasures in four rarities, 12 badges, history\n- Records each hunt as a walk in Garmin Connect (optional)\n- Glance with level, XP bar and today's treasure status\n- Metric or imperial, vibration strength, sounds; English, Dutch, German, French, Spanish\n\nWHAT IT NEEDS\nGPS. Works anywhere outdoors, no phone, no account, no map.",
-  "nl": "Radar verstopt een schat ergens om je heen — willekeurige richting, willekeurige afstand — en geeft je alleen warmer en kouder. Twee korte trillingen: warmer. Eén lange: kouder. Kom je dichtbij, dan begint de radar te tikken als een geigerteller. Loop tot hij gloeiend zegt. Dat is het hele spel, en het krijgt mensen de deur uit.\n\nElke schat is XP waard: per gelopen kilometer, voor de vondst zelf, voor hoe recht je lijn was en hoe snel je was. Stijg van Groentje naar Legende, verdien hints, vul een collectie van zestien schatten van koperen munt tot drakenei, en houd een dagelijkse reeks vol met de gedeelde dagschat — vandaag voor iedereen dezelfde richting.\n\nWAT HET DOET\n- Klassiek: warmer/kouder-trillingen en een hittewoord van ijskoud tot gloeiend\n- Sonar: exacte afstand, geen richting — trianguleer zelf (1,3× XP)\n- Blind: alleen trillen, niets op het scherm (1,6× XP)\n- Vier afstanden: kort (250–500 m) tot episch (2,5–5 km)\n- Dagschat met reeksbonus; Expeditie: drie schatten achter elkaar\n- Hints die een paar seconden de richting tonen, verdiend per level\n- Schat verplaatsen als water of een hek in de weg ligt; opgeven met behoud van loop-XP\n- XP-overzicht per jacht: gelopen, gevonden, efficiëntie, snelheid, dag, reeks, expeditie\n- 20 levels met rangnamen, 16 verzamelschatten in vier zeldzaamheden, 12 badges, geschiedenis\n- Slaat elke jacht op als wandeling in Garmin Connect (optioneel)\n- Glance met level, XP-balk en de status van de dagschat\n- Metrisch of imperiaal, trilsterkte, geluid; Engels, Nederlands, Duits, Frans, Spaans\n\nWAT HET NODIG HEEFT\nGPS. Werkt overal buiten, zonder telefoon, account of kaart.",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/radar.png",
-  "shots": [
-   "assets/shots/radar-1.jpg",
-   "assets/shots/radar-2.jpg",
-   "assets/shots/radar-3.jpg",
-   "assets/shots/radar-4.jpg",
-   "assets/shots/radar-5.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 105,
-  "updates": 1
  }
 ]
