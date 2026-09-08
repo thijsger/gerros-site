@@ -357,14 +357,6 @@ dialog.sheet::backdrop { background: rgba(10,11,13,.55); backdrop-filter: blur(6
 .related { padding-top: 0; }
 .related .grid { margin-top: 18px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
 
-/* ---------- finder ---------- */
-.goals { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; margin: 32px 0 36px; }
-.goal { font: inherit; font-family: var(--font-display); font-weight: 600; font-size: 1.05rem; text-align: left; padding: 18px 20px; border-radius: 16px; border: 1px solid var(--line-2); background: var(--card); color: var(--ink); cursor: pointer; transition: transform .15s ease, border-color .15s ease; }
-.goal:hover { transform: translateY(-2px); border-color: var(--ink); }
-.goal[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
-.goal-empty { color: var(--muted); }
-.goal-result .grid { animation: pop .3s ease both; }
-
 /* ---------- what's new ---------- */
 .newslist { display: grid; margin-top: 32px; border-top: 1px solid var(--line); }
 .news { display: grid; grid-template-columns: 120px 64px 1fr; gap: 22px; padding: 24px 0; border-bottom: 1px solid var(--line); align-items: start; }

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # build.py — GerrOS site. Reads data.json (store API) + meta.json and writes the multi-page site:
-#   index.html, apps.html, apps/<slug>.html, finder.html, whatsnew.html, wearos.html, studio.html,
+#   index.html, apps.html, apps/<slug>.html, whatsnew.html, wearos.html, studio.html,
 #   support.html, privacy.html — plus dist/gerros.html: every page in one file with hash routing
 #   and inlined images, for previewing.
 import json, base64, os, re, html, datetime
@@ -41,7 +41,7 @@ DEVICES = 207   # union of compatible device types across all apps (from the sto
 E = html.escape
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Hanken+Grotesk:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">'
 
-NAV_ITEMS = [('apps.html', 'Apps'), ('finder.html', 'Find your app'), ('whatsnew.html', "What's new"), ('wearos.html', 'Wear OS'), ('custom.html', 'Custom apps'), ('studio.html', 'Studio'), ('support.html', 'Support')]
+NAV_ITEMS = [('apps.html', 'Apps'), ('whatsnew.html', "What's new"), ('wearos.html', 'Wear OS'), ('custom.html', 'Custom apps'), ('studio.html', 'Studio'), ('support.html', 'Support')]
 
 def nav(active=''):
     CUR = ' aria-current="page"'
@@ -154,8 +154,7 @@ def page_home():
     <p class="eyebrow">GerrOS · independent watch-app studio</p>
     <h1>Apps that earn their place on your <em>wrist</em>.</h1>
     <p class="lede">Small, focused tools for Garmin watches: a budget that knows what you can still spend today, a shift that pays out per second, a race predictor, a chess clock. Everything runs on the watch itself. No phone, no account, no subscription.</p>
-    <div class="hero-actions"><a class="btn" href="apps.html">Browse the apps</a><a class="btn ghost" href="finder.html">Find the one for you</a></div>
-    <p class="hero-note">Also built to order: <a href="custom.html">custom apps and watch faces</a> for clubs, companies and research.</p>
+    <div class="hero-actions"><a class="btn" href="apps.html">Browse the apps</a><a class="btn ghost" href="custom.html">Built to order →</a></div>
   </div>
   <div class="dials" aria-hidden="true">{dials}<span class="dial-tag">Six of the {len(apps)} apps</span></div>
 </div></section>
@@ -245,31 +244,6 @@ def page_app(a):
 <section class="section related"><div class="wrap">
   <p class="eyebrow">More in {E(CATNAME[a['cat']])}</p>
   <div class="grid">{''.join(card(b) for b in related)}</div>
-</div></section>'''
-
-GOALS = [
-    ('Keep my money in check', 'money', ['spent', 'shiftpay', 'pitstop']),
-    ('Run a faster race', 'run', ['racecast', 'speedometer-pro', 'reactr']),
-    ('Quit, cut down or drink smarter', 'habits', ['smokeless', 'sobr', 'caffi']),
-    ('Fast, breathe and sleep better', 'body', ['fasted', 'breathgym', 'jetshift', 'caffi']),
-    ('Keep score in a game', 'games', ['rallypoint', 'strike', 'zeitnot']),
-    ('Remember things', 'memory', ['remindersplus', 'listo', 'cardvault']),
-    ('Travel and get outdoors', 'travel', ['jetshift', 'altizone', 'spotsave', 'convertr']),
-    ('Stand on a stage', 'stage', ['podium', 'morsetap']),
-    ('See what my body does', 'insight', ['earned', 'caffi', 'sobr', 'breathgym']),
-    ('Give my watch a new face', 'faces', ['wordclock', 'redline', 'triptych']),
-]
-
-def page_finder():
-    goals = ''.join(f'<button class="goal" type="button" data-goal="{k}">{E(t)}</button>' for t, k, _ in GOALS)
-    results = ''.join(f'<div class="goal-result" data-goal="{k}" hidden><div class="grid">{"".join(card(by[s]) for s in slugs if s in by)}</div></div>' for _, k, slugs in GOALS)
-    return f'''
-<section class="section finder"><div class="wrap">
-  <p class="eyebrow">Find your app</p>
-  <h1 class="h2">What do you want from your watch?</h1>
-  <p class="lede">Pick one. You get the two or three apps that do exactly that, nothing else.</p>
-  <div class="goals" id="goals">{goals}</div>
-  <div id="goal-results">{results}<p class="goal-empty" id="goal-empty">Tap a goal above.</p></div>
 </div></section>'''
 
 def page_whatsnew():
@@ -488,14 +462,13 @@ def document(title, desc, body, active='', depth=0):
 <body>'''
     doc = head + nav(active) + body + FOOTER + f'\n<script src="{pre}site.js"></script>\n</body></html>'
     if depth:
-        doc = re.sub(r'(href|src)="(assets/|apps/|index\.html|apps\.html|finder\.html|whatsnew\.html|wearos\.html|studio\.html|support\.html|privacy\.html)', lambda m: f'{m.group(1)}="{pre}{m.group(2)}', doc)
+        doc = re.sub(r'(href|src)="(assets/|apps/|index\.html|apps\.html|whatsnew\.html|wearos\.html|studio\.html|support\.html|privacy\.html)', lambda m: f'{m.group(1)}="{pre}{m.group(2)}', doc)
         doc = doc.replace("url('assets/", f"url('{pre}assets/")
     return doc
 
 PAGES = [
     ('index.html', 'GerrOS', 'Independent studio making focused apps for Garmin watches: budgets, timers, trackers and watch faces.', page_home, ''),
     ('apps.html', 'GerrOS apps', 'All GerrOS apps for Garmin watches, by category.', page_apps, 'apps.html'),
-    ('finder.html', 'Find your app', 'Pick what you want from your watch and get the GerrOS app that does it.', page_finder, 'finder.html'),
     ('whatsnew.html', "What's new at GerrOS", 'Latest release notes for every GerrOS app.', page_whatsnew, 'whatsnew.html'),
     ('wearos.html', 'GerrOS on Wear OS', 'GerrOS apps coming to Wear OS: Caffi, Sobr, BreathGym and Convertr.', page_wearos, 'wearos.html'),
     ('custom.html', 'Custom watch apps by GerrOS', 'Garmin Connect IQ and Wear OS apps and watch faces built to order: fixed scope, fixed quote, built by a one-person studio.', page_custom, 'custom.html'),
@@ -523,7 +496,7 @@ def route_of(fn):
     if fn.startswith('apps/'): return '/app/' + fn[5:-5]
     return '/' + fn[:-5]
 sections = ''.join(f'<main class="route" data-route="{route_of(fn)}" hidden>{nav(actives[fn])}{b}</main>' for fn, b in bodies.items())
-single = re.sub(r'href="((?:\.\./)?)((?:apps/[a-z0-9-]+|index|apps|finder|whatsnew|wearos|custom|thanks|studio|support|privacy)\.html)(#[a-z]+)?"',
+single = re.sub(r'href="((?:\.\./)?)((?:apps/[a-z0-9-]+|index|apps|whatsnew|wearos|custom|thanks|studio|support|privacy)\.html)(#[a-z]+)?"',
                 lambda m: f'href="#{route_of(m.group(2))}"', sections)
 cache = {}
 def uri(path):

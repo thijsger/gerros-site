@@ -1,4 +1,4 @@
-// GerrOS site: menu, strip arrows, catalogue filters, the app finder, and hash routing for the
+// GerrOS site: menu, strip arrows, catalogue filters, and hash routing for the
 // single-file preview (dist/gerros.html), where every page lives in one document.
 (function () {
   const routes = document.querySelectorAll('main.route');
@@ -24,18 +24,6 @@
         grid.querySelectorAll('.app').forEach(a => { a.hidden = !(cat === 'all' || a.dataset.cat === cat); });
         grid.classList.add('is-filtering');
         setTimeout(() => grid.classList.remove('is-filtering'), 400);
-      });
-    });
-    // app finder
-    root.querySelectorAll('.goals').forEach(goals => {
-      const wrap = goals.parentElement;
-      goals.addEventListener('click', e => {
-        const g = e.target.closest('.goal');
-        if (!g) return;
-        goals.querySelectorAll('.goal').forEach(x => x.setAttribute('aria-pressed', x === g ? 'true' : 'false'));
-        wrap.querySelectorAll('.goal-result').forEach(r => { r.hidden = r.dataset.goal !== g.dataset.goal; });
-        const empty = wrap.querySelector('.goal-empty');
-        if (empty) empty.hidden = true;
       });
     });
   }
