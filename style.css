@@ -120,6 +120,9 @@ p { margin: 0; }
 .hero-copy .eyebrow { display: flex; align-items: center; gap: 10px; }
 .hero-copy .eyebrow::before { content: ""; width: 26px; height: 1px; background: var(--line-2); }
 .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+.hero-note { font-size: .92rem; color: var(--muted); margin-top: -6px; }
+.hero-note a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--line-2); }
+.hero-note a:hover { text-decoration-color: var(--accent); }
 .hero h1 em { font-style: normal; color: var(--accent); }
 .dials { position: relative; width: 100%; aspect-ratio: 1; max-width: 520px; margin-left: auto; }
 .dial {
@@ -243,6 +246,13 @@ dialog.sheet::backdrop { background: rgba(10,11,13,.55); backdrop-filter: blur(6
 .kv b { color: var(--ink); font-weight: 500; font-family: var(--font-mono); font-size: .84rem; }
 .note { font-size: .88rem; color: var(--warn-ink); background: var(--warn-soft); padding: 10px 12px; border-radius: 10px; }
 @media (max-width: 720px) {
+  .grid { grid-template-columns: 1fr 1fr; gap: 18px 12px; }
+  .app { gap: 8px; }
+  .app h3 { font-size: 1rem; }
+  .app .tag { font-size: .84rem; }
+  .app .cover .badge, .app .cover .face { top: 8px; font-size: .58rem; padding: 4px 7px; }
+  .app .cover .badge { left: 8px; } .app .cover .face { right: 8px; }
+  .related .grid { grid-template-columns: 1fr 1fr; }
   .sheet-body { grid-template-columns: 1fr; }
   .screens img { height: 200px; }
   .sheet-head { padding: 20px 20px 0; }
@@ -268,6 +278,20 @@ dialog.sheet::backdrop { background: rgba(10,11,13,.55); backdrop-filter: blur(6
 .about .lede { font-size: 1.15rem; }
 .contact-card { border: 1px solid var(--line); border-radius: var(--radius); padding: 28px; background: var(--card); display: grid; gap: 18px; align-content: start; }
 .contact-card .kv { border-top: 0; padding-top: 0; }
+.quote-form { display: grid; gap: 14px; }
+.quote-form label { display: block; font-size: .84rem; font-weight: 500; color: var(--ink); }
+.quote-form .opt { font-weight: 400; color: var(--muted); font-size: .78rem; margin-left: 4px; }
+.quote-form input, .quote-form select, .quote-form textarea {
+  display: block; margin-top: 6px; font: inherit; font-size: .95rem; color: var(--ink); background: var(--paper); border: 1px solid var(--line-2); border-radius: 12px; padding: 10px 12px; width: 100%; min-width: 0;
+}
+.quote-form textarea { resize: vertical; line-height: 1.45; }
+.quote-form input:focus, .quote-form select:focus, .quote-form textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent); }
+.quote-form .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.quote-form .btn { justify-self: start; border: 0; cursor: pointer; }
+.quote-form .small { font-size: .82rem; }
+.quote-form .honey { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.thanks { max-width: 640px; }
+@media (max-width: 560px) { .quote-form .field-row { grid-template-columns: 1fr; } }
 @media (max-width: 800px) { .about .wrap { grid-template-columns: 1fr; } }
 
 /* ---------- footer ---------- */

@@ -115,6 +115,31 @@ PACKAGES = [
 def package_cards():
     return ''.join(f'<div class="package"><p class="eyebrow">{E(n)}</p><b class="price">{E(t)}</b><span class="mono muted">Fixed quote</span><p>{E(d)}</p></div>' for n, t, d in PACKAGES)
 
+FORM_ACTION = f'https://formsubmit.co/{MAIL}'
+def quote_form():
+    return f'''<form class="quote-form" id="quote" action="{FORM_ACTION}" method="POST">
+    <input type="hidden" name="_subject" value="Custom app request via gerros.app">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="https://gerros.app/thanks.html">
+    <input type="text" name="_honey" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <div class="field-row">
+      <label>Name<input type="text" name="name" required autocomplete="name"></label>
+      <label>Email<input type="email" name="email" required autocomplete="email"></label>
+    </div>
+    <div class="field-row">
+      <label>Club or company <span class="opt">optional</span><input type="text" name="organisation" autocomplete="organization"></label>
+      <label>Platform<select name="platform"><option>Garmin (Connect IQ)</option><option>Wear OS</option><option>Both</option><option>Not sure yet</option></select></label>
+    </div>
+    <label>What should the app do, and for whom?<textarea name="brief" rows="5" required placeholder="The one thing it must do, who wears it, and what you tried so far."></textarea></label>
+    <div class="field-row">
+      <label>Watch models <span class="opt">optional</span><input type="text" name="watches" placeholder="e.g. Venu 3, Forerunner 265"></label>
+      <label>Deadline <span class="opt">optional</span><input type="text" name="deadline" placeholder="e.g. before the season starts"></label>
+    </div>
+    <button class="btn" type="submit">Send the brief</button>
+    <p class="muted small">Goes straight to {MAIL}. Reply within two working days, no obligation. Prefer mail? <a href="{MAIL_CUSTOM}">Open a pre-filled message</a>.</p>
+  </form>'''
+
 MAIL_CUSTOM = f'mailto:{MAIL}?subject=Custom%20app%20request&body=Hi%20Thijs%2C%0A%0AWhat%20I%20want%20the%20app%20to%20do%3A%20%0AWho%20it%20is%20for%3A%20%0AGarmin%20or%20Wear%20OS%3A%20%0AWatch%20model(s)%3A%20%0ADeadline%3A%20%0ABudget%20range%3A%20%0A'
 
 # ------------------------------------------------------------------ pages
@@ -130,6 +155,7 @@ def page_home():
     <h1>Apps that earn their place on your <em>wrist</em>.</h1>
     <p class="lede">Small, focused tools for Garmin watches: a budget that knows what you can still spend today, a shift that pays out per second, a race predictor, a chess clock. Everything runs on the watch itself. No phone, no account, no subscription.</p>
     <div class="hero-actions"><a class="btn" href="apps.html">Browse the apps</a><a class="btn ghost" href="finder.html">Find the one for you</a></div>
+    <p class="hero-note">Also built to order: <a href="custom.html">custom apps and watch faces</a> for clubs, companies and research.</p>
   </div>
   <div class="dials" aria-hidden="true">{dials}<span class="dial-tag">Six of the {len(apps)} apps</span></div>
 </div></section>
@@ -139,6 +165,13 @@ def page_home():
   <div class="stat"><b>{AVG:.1f}</b><span>average rating out of 5</span></div>
   <div class="stat"><b>{REVIEWS}</b><span>reviews from wearers</span></div>
   <div class="stat"><b>5</b><span>languages in every app</span></div>
+</div></section>
+
+<section class="section custom" id="custom"><div class="wrap">
+  <div class="section-head"><div><p class="eyebrow">Custom apps</p><h2>Need one that does not exist yet?</h2></div><a class="btn ghost" href="custom.html">How it works →</a></div>
+  <p class="lede">GerrOS builds watch apps and watch faces to order, for clubs, coaches, companies and people with a very specific wish. Fixed scope, fixed quote, built by the same person who shipped the {len(apps)} apps below.</p>
+  <div class="packages">{package_cards()}</div>
+  <p class="hero-actions"><a class="btn" href="custom.html#quote">Request a quote</a><a class="btn ghost" href="custom.html">Packages, process and FAQ</a></p>
 </div></section>
 
 <section class="section apps-strip" id="apps">
@@ -155,13 +188,6 @@ def page_home():
   <p class="lede" style="margin-top:14px">A watch is read in half a second. Each app leads with the one number that matters, does real arithmetic underneath, and keeps your data on the device.</p>
   <p style="margin-top:18px"><a class="btn ghost" href="studio.html">About the studio →</a></p></div>
   <div class="news-block"><p class="eyebrow">Latest updates</p>{news}<a class="more" href="whatsnew.html">All release notes →</a></div>
-</div></section>
-
-<section class="section custom" id="custom"><div class="wrap">
-  <div class="section-head"><div><p class="eyebrow">Custom apps</p><h2>Need one that does not exist yet?</h2></div><a class="btn ghost" href="custom.html">How it works →</a></div>
-  <p class="lede">GerrOS also builds watch apps and watch faces to order, for clubs, coaches, companies and people with a very specific wish. Fixed price, fixed scope, built by the same person who shipped the {len(apps)} apps above.</p>
-  <div class="packages">{package_cards()}</div>
-  <p class="hero-actions"><a class="btn" href="{MAIL_CUSTOM}">Request a quote</a><a class="btn ghost" href="custom.html">Packages, process and FAQ</a></p>
 </div></section>
 
 <section class="section wear" id="wearos"><div class="wrap">
@@ -311,9 +337,8 @@ def page_custom():
   </div>
   <div class="contact-card">
     <h3>Start with a brief</h3>
-    <p class="muted" style="font-size:.95rem">One mail is enough: what it should do, for whom, which watches, when, and a budget range. You get a fixed quote back, no obligation.</p>
-    <a class="btn" href="{MAIL_CUSTOM}">Request a quote</a>
-    <div class="kv"><span>Mail</span><b><a href="mailto:{MAIL}">{MAIL}</a></b><span>Reply</span><b>within 2 working days</b><span>Portfolio</span><b><a href="apps.html">{len(apps)} apps in the store</a></b></div>
+    <p class="muted" style="font-size:.95rem">A few lines are enough. You get a fixed quote and a one-page scope back.</p>
+    {quote_form()}
   </div>
 </div></section>
 
@@ -350,7 +375,16 @@ def page_custom():
 <section class="section"><div class="wrap">
   <p class="eyebrow">Questions</p><h2>The practical part.</h2>
   <div class="faq">{faq_html}</div>
-  <p class="hero-actions" style="margin-top:28px"><a class="btn" href="{MAIL_CUSTOM}">Request a quote</a><a class="btn ghost" href="studio.html">About the studio</a></p>
+  <p class="hero-actions" style="margin-top:28px"><a class="btn" href="#quote">Request a quote</a><a class="btn ghost" href="studio.html">About the studio</a></p>
+</div></section>'''
+
+def page_thanks():
+    return f'''
+<section class="section"><div class="wrap thanks">
+  <p class="eyebrow">Sent</p>
+  <h1 class="h2">Thanks, the brief is in.</h1>
+  <p class="lede" style="margin-top:16px">You hear back within two working days with a fixed quote and a one-page scope, or a couple of questions first if the brief needs them.</p>
+  <p class="hero-actions" style="margin-top:24px"><a class="btn ghost" href="apps.html">Browse the apps meanwhile</a><a class="btn ghost" href="index.html">Back to the homepage</a></p>
 </div></section>'''
 
 def page_studio():
@@ -467,6 +501,7 @@ PAGES = [
     ('custom.html', 'Custom watch apps by GerrOS', 'Garmin Connect IQ and Wear OS apps and watch faces built to order: fixed scope, fixed quote, built by a one-person studio.', page_custom, 'custom.html'),
     ('studio.html', 'GerrOS studio', 'About GerrOS, the one-person watch-app studio from the Netherlands.', page_studio, 'studio.html'),
     ('support.html', 'GerrOS support', 'Help with GerrOS apps for Garmin watches.', page_support, 'support.html'),
+    ('thanks.html', 'Thanks', 'Your custom app brief has been sent to GerrOS.', page_thanks, 'custom.html'),
     ('privacy.html', 'GerrOS privacy policy', 'How GerrOS apps handle your data: on the watch, without accounts or tracking.', page_privacy, ''),
 ]
 os.makedirs('apps', exist_ok=True)
@@ -488,7 +523,7 @@ def route_of(fn):
     if fn.startswith('apps/'): return '/app/' + fn[5:-5]
     return '/' + fn[:-5]
 sections = ''.join(f'<main class="route" data-route="{route_of(fn)}" hidden>{nav(actives[fn])}{b}</main>' for fn, b in bodies.items())
-single = re.sub(r'href="((?:\.\./)?)((?:apps/[a-z0-9-]+|index|apps|finder|whatsnew|wearos|custom|studio|support|privacy)\.html)(#[a-z]+)?"',
+single = re.sub(r'href="((?:\.\./)?)((?:apps/[a-z0-9-]+|index|apps|finder|whatsnew|wearos|custom|thanks|studio|support|privacy)\.html)(#[a-z]+)?"',
                 lambda m: f'href="#{route_of(m.group(2))}"', sections)
 cache = {}
 def uri(path):
