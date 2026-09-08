@@ -15,6 +15,7 @@ MANUAL = {  # slug: (bron, cx, cy, r)  — r = straal van het zichtbare scherm, 
     'cardvault':  ('assets/screens/cardvault-2.jpg', 725, 626, 193),
     'morsetap':   ('assets/screens/morsetap-2.jpg', 378, 519, 232),
     'rallypoint': ('assets/screens/rallypoint-2.jpg', 733, 488, 180),
+    # isobar: cover is iets uitgerekt; dials-src/isobar.png is een ellips-box (78,97,420,406) uit assets/covers/isobar.jpg
 }
 for slug, (src, cx, cy, r) in MANUAL.items():
     dst = f'assets/dials-src/{slug}.png'

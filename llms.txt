@@ -1,6 +1,6 @@
 # GerrOS
 
-> GerrOS is an independent one-person studio in Den Dolder, the Netherlands, run by Thijs Gerritsen. It publishes 31 apps and watch faces for Garmin watches (Connect IQ) and builds custom Garmin Connect IQ and Wear OS apps to order at a fixed quote.
+> GerrOS is an independent one-person studio in Den Dolder, the Netherlands, run by Thijs Gerritsen. It publishes 32 apps and watch faces for Garmin watches (Connect IQ) and builds custom Garmin Connect IQ and Wear OS apps to order at a fixed quote.
 
 Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.html · Connect IQ developer page: https://apps.garmin.com/developer/de6acef4-c127-4cf2-84bc-baccde5f8b16/apps
 
@@ -21,7 +21,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 **How is the price built up?** From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.
 **Do you do NDAs and invoices?** Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.
 
-## Published apps (31, all run on the watch without a phone, account or subscription; EN/NL/DE/FR/ES)
+## Published apps (32, all run on the watch without a phone, account or subscription; EN/NL/DE/FR/ES)
 
 - [Smokeless](https://gerros.app/apps/smokeless.html): Quit-smoking tracker with cravings, savings and badges. Health & habits, version 1.6, store: https://apps.garmin.com/apps/be12dc0d-65b0-46e8-be2e-7677289ca9fe. Rating 5.0/5 from 3 reviews.
 - [Fasted](https://gerros.app/apps/fasted.html): Intermittent fasting timer, from 16:8 to Ramadan. Health & habits, version 2.0, store: https://apps.garmin.com/apps/cec46a63-db0b-4506-b046-2a59e120d2d0. Rating 4.3/5 from 6 reviews.
@@ -37,10 +37,10 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [AltiZone](https://gerros.app/apps/altizone.html): Barometric altimeter with colour zones and alarms. Sport & outdoors, version 1.6, store: https://apps.garmin.com/apps/b651a1e9-7f33-41c3-a477-42c5037e5f67. Rating 5.0/5 from 3 reviews.
 - [SpotSave](https://gerros.app/apps/spotsave.html): Save any spot, walk straight back to it. Sport & outdoors, version 1.8, store: https://apps.garmin.com/apps/fa5c4134-fea5-4f57-b6ae-9c86facad9a2. Rating 3.7/5 from 6 reviews.
 - [Reactr](https://gerros.app/apps/reactr.html): Reaction-time trainer with a world ranking. Sport & outdoors, version 1.4, store: https://apps.garmin.com/apps/b3c49541-6aba-49c8-a271-ee0a4967ee79. Rating 5.0/5 from 3 reviews.
-- [Racecast](https://gerros.app/apps/racecast.html): Race predictor: 5K to marathon from one result. Sport & outdoors, version 1.0.1, store: https://apps.garmin.com/apps/82b01416-0980-4085-aa72-3e05ffae990b. Status: in review.
+- [Racecast](https://gerros.app/apps/racecast.html): Race predictor: 5K to marathon from one result. Sport & outdoors, version 1.0.1, store: https://apps.garmin.com/apps/82b01416-0980-4085-aa72-3e05ffae990b. Rating 5.0/5 from 1 reviews.
 - [ShiftPay](https://gerros.app/apps/shiftpay.html): Watch your shift earnings tick up every second. Money & work, version 1.4, store: https://apps.garmin.com/apps/fafc6449-5b85-45fb-96f6-0ed5151663f2. Rating 4.3/5 from 3 reviews.
 - [Spent](https://gerros.app/apps/spent.html): Daily budget: what you may still spend today. Money & work, version 1.0.3, store: https://apps.garmin.com/apps/7b530ce0-2510-4669-b06e-abc0b2448567. Rating 5.0/5 from 1 reviews.
-- [PitStop](https://gerros.app/apps/pitstop.html): Fuel log with fill-up predictions and trip costs. Money & work, version 1.0.0, store: https://apps.garmin.com/apps/6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c. Status: in review.
+- [PitStop](https://gerros.app/apps/pitstop.html): Fuel log with fill-up predictions and trip costs. Money & work, version 1.0.0, store: https://apps.garmin.com/apps/6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c. Rating 5.0/5 from 1 reviews.
 - [Podium](https://gerros.app/apps/podium.html): Speaker timer that tells you if you run behind. Money & work, version 1.0.3, store: https://apps.garmin.com/apps/2ad8b993-d09c-4624-b4bc-60e07e97145c. Rating 5.0/5 from 1 reviews.
 - [Listo](https://gerros.app/apps/listo.html): Grocery list in colour, sorted by aisle. Everyday tools, version 2.0.3, store: https://apps.garmin.com/apps/acf0e837-8f06-42c0-a1b7-62275ac792fc. Rating 5.0/5 from 1 reviews.
 - [Reminders+](https://gerros.app/apps/remindersplus.html): Everything that repeats, from minutes to years. Everyday tools, version 1.3, store: https://apps.garmin.com/apps/c9641632-bf62-4fdb-8e28-e3a4c1c24bc5. Rating 4.5/5 from 4 reviews.
@@ -50,10 +50,11 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [WordClock](https://gerros.app/apps/wordclock.html): The time in words, in ten languages. Watch faces, version 1.5, store: https://apps.garmin.com/apps/2f0cb757-209f-4c24-bf73-c5ec56863d70. Rating 4.8/5 from 8 reviews.
 - [Redline](https://gerros.app/apps/redline.html): Racing dashboard with heart-rate zones. Watch faces, version 1.3, store: https://apps.garmin.com/apps/f37b763c-584b-4b1e-b3d7-dfae12d1fae9. Rating 4.5/5 from 6 reviews.
 - [Triptych](https://gerros.app/apps/triptych.html): Cockpit HUD with everything in one glance. Watch faces, version 1.3, store: https://apps.garmin.com/apps/5ff40a3f-96bf-4462-adc6-795a7bb6f928. Rating 5.0/5 from 4 reviews.
-- [Cue](https://gerros.app/apps/cue.html): Snooker and pool scoring on your watch. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/504cf3ad-0514-466a-b3e6-2ab43af9c5ce. Status: in review.
-- [Recover](https://gerros.app/apps/recover.html): Rest timer driven by your heart rate. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/cbbd7d39-09f9-4172-94c6-a981894fe065. Status: in review.
-- [Adapt](https://gerros.app/apps/adapt.html): Calorie target that learns from your scale. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/8576f079-6cbc-4fe3-9351-63fcd34f22f8. Status: in review.
-- [Radar](https://gerros.app/apps/radar.html): GPS treasure hunt with warmer and colder buzzes. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/557dcc34-ceb5-4bff-9b02-b601c5c96bf8. Status: in review.
+- [Cue](https://gerros.app/apps/cue.html): Snooker and pool scoring on your watch. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/504cf3ad-0514-466a-b3e6-2ab43af9c5ce. Rating 5.0/5 from 1 reviews.
+- [Recover](https://gerros.app/apps/recover.html): Rest timer driven by your heart rate. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/cbbd7d39-09f9-4172-94c6-a981894fe065. Rating 5.0/5 from 1 reviews.
+- [Adapt](https://gerros.app/apps/adapt.html): Calorie target that learns from your scale. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/8576f079-6cbc-4fe3-9351-63fcd34f22f8. Rating 5.0/5 from 1 reviews.
+- [Radar](https://gerros.app/apps/radar.html): GPS treasure hunt with warmer and colder buzzes. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/557dcc34-ceb5-4bff-9b02-b601c5c96bf8. Rating 5.0/5 from 1 reviews.
+- [Isobar](https://gerros.app/apps/isobar.html): Migraine risk from the barometer, plus an attack log. Health & habits, version 1.3, store: https://apps.garmin.com/apps/435be2d8-0a32-4d40-8737-ce97f2824468. Rating 5.0/5 from 2 reviews.
 
 ## Pages
 

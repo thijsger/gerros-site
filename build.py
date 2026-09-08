@@ -199,7 +199,7 @@ def page_apps():
         f'<button class="chip" data-cat="{k}" aria-pressed="false">{v}</button>' for k, v in CATS)
     return f'''
 <section class="section"><div class="wrap">
-  <div class="section-head"><div><p class="eyebrow">Catalogue</p><h1 class="h2">Every app, one tap from the store.</h1></div><p class="lede">{len(live)} in the Connect IQ Store, {len(apps) - len(live)} in review. Tap one for screenshots, the full story and the store link.</p></div>
+  <div class="section-head"><div><p class="eyebrow">Catalogue</p><h1 class="h2">Every app, one tap from the store.</h1></div><p class="lede">{len(live)} in the Connect IQ Store{f', {len(apps) - len(live)} in review' if len(apps) > len(live) else ''}. Tap one for screenshots, the full story and the store link.</p></div>
   <div class="filters" id="filters">{chips}</div>
   <div class="grid" id="grid">{''.join(card(a) for a in apps)}</div>
 </div></section>'''

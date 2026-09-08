@@ -104,7 +104,6 @@
    "title": "Racecast",
    "tag": "Race predictor: 5K to marathon from one result",
    "cat": "sport",
-   "pending": true,
    "id": "82b01416-0980-4085-aa72-3e05ffae990b"
   },
   "shiftpay": {
@@ -121,7 +120,6 @@
    "title": "PitStop",
    "tag": "Fuel log with fill-up predictions and trip costs",
    "cat": "money",
-   "pending": true,
    "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c"
   },
   "podium": {
@@ -173,29 +171,30 @@
    "title": "Cue",
    "tag": "Snooker and pool scoring on your watch",
    "cat": "sport",
-   "pending": true,
    "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce"
   },
   "recover": {
    "title": "Recover",
    "tag": "Rest timer driven by your heart rate",
    "cat": "health",
-   "pending": true,
    "id": "cbbd7d39-09f9-4172-94c6-a981894fe065"
   },
   "adapt": {
    "title": "Adapt",
    "tag": "Calorie target that learns from your scale",
    "cat": "health",
-   "pending": true,
    "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8"
   },
   "radar": {
    "title": "Radar",
    "tag": "GPS treasure hunt with warmer and colder buzzes",
    "cat": "sport",
-   "pending": true,
    "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8"
+  },
+  "isobar": {
+   "title": "Isobar",
+   "tag": "Migraine risk from the barometer, plus an attack log",
+   "cat": "health"
   }
  },
  "wearos": [
