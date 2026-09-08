@@ -3,3 +3,8 @@ assets/icons/
 assets/shots/
 assets/small/
 .DS_Store
+
+public/
+.venv/
+__pycache__/
+build.before-rebuild.py
