@@ -66,7 +66,7 @@ def stars(a):
 def tile(a):
     badge = '<span class="badge">In review</span>' if a['pending'] else ''
     return f'''<a class="tile" href="apps/{a['slug']}.html">
-      <span class="cover">{badge}<img src="{a['cover']}" alt="" loading="lazy" width="360" height="360"></span>
+      <span class="cover">{badge}<img src="{a['cover']}" alt="{E(a['title'])} on a Garmin watch" loading="lazy" width="360" height="360"></span>
       <span class="name">{E(a['title'])}</span>
       <span class="sub">{'In review' if a['pending'] or not a['rating'] else '★ %.1f' % a['rating']}</span>
     </a>'''
@@ -75,7 +75,7 @@ def card(a):
     badge = '<span class="badge">In review</span>' if a['pending'] else ''
     face = '<span class="face">Watch face</span>' if a['type'] == '1' else ''
     return f'''<a class="app" href="apps/{a['slug']}.html" data-cat="{a['cat']}">
-      <span class="cover">{badge}{face}<img src="{a['cover']}" alt="" loading="lazy" width="500" height="500"></span>
+      <span class="cover">{badge}{face}<img src="{a['cover']}" alt="{E(a['title'])}: {E(a['tag'])}" loading="lazy" width="500" height="500"></span>
       <h3>{E(a['title'])}</h3>
       <p class="tag">{E(a['tag'])}</p>
       <p class="meta">{stars(a)}</p>
@@ -205,7 +205,7 @@ def page_apps():
 </div></section>'''
 
 def page_app(a):
-    hero = f'<img class="app-hero" src="{a["shots"][0]}" alt="{E(a["title"])}" width="1536" height="1024">' if a['shots'] else ''
+    hero = f'<img class="app-hero" src="{a["shots"][0]}" alt="{E(a["title"])} for Garmin: {E(a["tag"])}" width="1536" height="1024">' if a['shots'] else ''
     rest = ''.join(f'<img src="{s}" alt="{E(a["title"])} screenshot {i+2}" loading="lazy" width="1536" height="1024">' for i, s in enumerate(a['shots'][1:]))
     link = (f'<a class="btn accent" href="{STORE}{a["id"]}" target="_blank" rel="noopener">Open in the Connect IQ Store <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 3h8v8M13 3 3 13"/></svg></a>' if a['id'] else '')
     note = '<p class="note">Submitted to Garmin and awaiting review. The store page opens once it is approved.</p>' if a['pending'] else ''
@@ -282,6 +282,15 @@ def page_wearos():
 </div></section>'''
 
 
+FAQS = [
+    ('Who owns the app?', 'You do, once the final invoice is paid. Source code is available for an extra fee if you want to keep building on it yourself.'),
+    ('Can it go in the Connect IQ Store or Google Play?', 'Yes. It can be published under your own developer account, or under GerrOS if you prefer. Store review is outside my control, but I build to the guidelines and have had every one of my own apps approved.'),
+    ('Which watches?', 'All Garmin models that run Connect IQ, and Wear OS watches. Tell me which models matter and the quote will list exactly which ones are covered.'),
+    ('What about data and privacy?', 'By default everything stays on the watch, like my own apps. If the app needs a server, that is scoped and priced separately.'),
+    ('How is the price built up?', 'From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.'),
+    ('Do you do NDAs and invoices?', 'Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.'),
+]
+
 def page_custom():
     steps = [
         ('Brief', 'Mail what the app should do, for whom, on which watches and by when. A 20-minute call if it is easier to talk.'),
@@ -291,16 +300,8 @@ def page_custom():
         ('Deliver', 'The finished app, published in the store under your name or delivered as a file to sideload. Rest of the invoice on delivery.'),
         ('Support', '30 days of bug fixes included. After that, a small monthly plan or per-hour fixes, your choice.'),
     ]
-    faqs = [
-        ('Who owns the app?', 'You do, once the final invoice is paid. Source code is available for an extra fee if you want to keep building on it yourself.'),
-        ('Can it go in the Connect IQ Store or Google Play?', 'Yes. It can be published under your own developer account, or under GerrOS if you prefer. Store review is outside my control, but I build to the guidelines and have had every one of my own apps approved.'),
-        ('Which watches?', 'All Garmin models that run Connect IQ, and Wear OS watches. Tell me which models matter and the quote will list exactly which ones are covered.'),
-        ('What about data and privacy?', 'By default everything stays on the watch, like my own apps. If the app needs a server, that is scoped and priced separately.'),
-        ('How is the price built up?', 'From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.'),
-        ('Do you do NDAs and invoices?', 'Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.'),
-    ]
     steps_html = ''.join(f'<li><b>{E(t)}</b><span>{E(d)}</span></li>' for t, d in steps)
-    faq_html = ''.join(f'<details><summary>{E(q)}</summary><p>{E(a)}</p></details>' for q, a in faqs)
+    faq_html = ''.join(f'<details><summary>{E(q)}</summary><p>{E(a)}</p></details>' for q, a in FAQS)
     return f'''
 <section class="section"><div class="wrap studio">
   <div>
@@ -443,8 +444,19 @@ def page_privacy():
 </div></main>'''
 
 # ------------------------------------------------------------------ assemble
-def document(title, desc, body, active='', depth=0):
+SITE = 'https://gerros.app/'
+ORG = {"@type": "Organization", "@id": SITE + "#org", "name": "GerrOS", "url": SITE, "logo": SITE + "assets/covers/spent.jpg",
+       "email": MAIL, "founder": {"@type": "Person", "name": "Thijs Gerritsen"},
+       "address": {"@type": "PostalAddress", "addressLocality": "Den Dolder", "addressCountry": "NL"},
+       "sameAs": [DEV],
+       "description": "Independent one-person studio from the Netherlands that publishes Garmin Connect IQ apps and watch faces and builds custom Garmin and Wear OS apps to order."}
+def jsonld(*objs):
+    return ''.join('<script type="application/ld+json">' + json.dumps(o, ensure_ascii=False) + '</script>\n' for o in objs if o)
+
+def document(title, desc, body, active='', depth=0, path='', image=None, ld=(), noindex=False):
     pre = '../' * depth
+    canon = SITE + (path if path != 'index.html' else '')
+    image = SITE + (image or 'assets/covers/spent.jpg')
     head = f'''<!doctype html>
 <html lang="en">
 <head>
@@ -452,13 +464,23 @@ def document(title, desc, body, active='', depth=0):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{E(title)}</title>
 <meta name="description" content="{E(desc)}">
+<link rel="canonical" href="{canon}">
+{'<meta name="robots" content="noindex,follow">' if noindex else '<meta name="robots" content="index,follow,max-image-preview:large">'}
+<meta name="theme-color" content="#0F1113">
+<meta property="og:site_name" content="GerrOS">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{canon}">
 <meta property="og:title" content="{E(title)}">
 <meta property="og:description" content="{E(desc)}">
-<meta property="og:image" content="https://gerros.app/assets/covers/spent.jpg">
+<meta property="og:image" content="{image}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{E(title)}">
+<meta name="twitter:description" content="{E(desc)}">
+<meta name="twitter:image" content="{image}">
 <link rel="icon" href="{pre}assets/favicon.svg" type="image/svg+xml">
 {FONTS}
 <link rel="stylesheet" href="{pre}style.css">
-</head>
+{jsonld(ORG, *ld)}</head>
 <body>'''
     doc = head + nav(active) + body + FOOTER + f'\n<script src="{pre}site.js"></script>\n</body></html>'
     if depth:
@@ -467,12 +489,12 @@ def document(title, desc, body, active='', depth=0):
     return doc
 
 PAGES = [
-    ('index.html', 'GerrOS', 'Independent studio making focused apps for Garmin watches: budgets, timers, trackers and watch faces.', page_home, ''),
-    ('apps.html', 'GerrOS apps', 'All GerrOS apps for Garmin watches, by category.', page_apps, 'apps.html'),
+    ('index.html', 'GerrOS · Garmin Connect IQ apps and custom watch-app development', 'GerrOS publishes %d Garmin Connect IQ apps and watch faces and builds custom Garmin and Wear OS apps to order. Independent studio from the Netherlands.' % len(apps), page_home, ''),
+    ('apps.html', 'All GerrOS apps for Garmin watches', 'Every GerrOS Garmin Connect IQ app and watch face: health, sport, money, everyday tools and watch faces, with store links and screenshots.', page_apps, 'apps.html'),
     ('whatsnew.html', "What's new at GerrOS", 'Latest release notes for every GerrOS app.', page_whatsnew, 'whatsnew.html'),
     ('wearos.html', 'GerrOS on Wear OS', 'GerrOS apps coming to Wear OS: Caffi, Sobr, BreathGym and Convertr.', page_wearos, 'wearos.html'),
-    ('custom.html', 'Custom watch apps by GerrOS', 'Garmin Connect IQ and Wear OS apps and watch faces built to order: fixed scope, fixed quote, built by a one-person studio.', page_custom, 'custom.html'),
-    ('studio.html', 'GerrOS studio', 'About GerrOS, the one-person watch-app studio from the Netherlands.', page_studio, 'studio.html'),
+    ('custom.html', 'Custom Garmin Connect IQ and Wear OS app development · GerrOS', 'Hire a Garmin Connect IQ developer: custom apps, data fields and watch faces for Garmin and Wear OS, built to order at a fixed quote by the studio behind %d published apps.' % len(apps), page_custom, 'custom.html'),
+    ('studio.html', 'About GerrOS, Garmin watch-app studio', 'GerrOS is a one-person Garmin Connect IQ and Wear OS studio in Den Dolder, the Netherlands, run by Thijs Gerritsen.', page_studio, 'studio.html'),
     ('support.html', 'GerrOS support', 'Help with GerrOS apps for Garmin watches.', page_support, 'support.html'),
     ('thanks.html', 'Thanks', 'Your custom app brief has been sent to GerrOS.', page_thanks, 'custom.html'),
     ('privacy.html', 'GerrOS privacy policy', 'How GerrOS apps handle your data: on the watch, without accounts or tracking.', page_privacy, ''),
@@ -480,14 +502,100 @@ PAGES = [
 os.makedirs('apps', exist_ok=True)
 bodies = {}
 actives = {}
+def app_ld(a):
+    o = {"@type": "SoftwareApplication", "name": a['title'], "url": SITE + f"apps/{a['slug']}.html",
+         "applicationCategory": "HealthApplication" if a['cat'] == 'health' else "SportsApplication" if a['cat'] == 'sport' else "FinanceApplication" if a['cat'] == 'money' else "UtilitiesApplication",
+         "operatingSystem": "Garmin Connect IQ", "description": a['tag'], "image": SITE + a['cover'],
+         "screenshot": [SITE + x for x in a['shots']], "softwareVersion": a['version'], "inLanguage": ["en", "nl", "de", "fr", "es"],
+         "author": {"@id": SITE + "#org"}, "publisher": {"@id": SITE + "#org"}}
+    if a['id']:
+        o["installUrl"] = STORE + a['id']; o["sameAs"] = STORE + a['id']
+    if a['rating'] and a['reviews']:
+        o["aggregateRating"] = {"@type": "AggregateRating", "ratingValue": round(a['rating'], 1), "reviewCount": a['reviews'], "bestRating": 5}
+    return o
+def crumbs(*items):
+    return {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "item": SITE + u} for i, (n, u) in enumerate(items)]}
+PAGE_LD = {
+    'index.html': [{"@type": "WebSite", "name": "GerrOS", "url": SITE, "publisher": {"@id": SITE + "#org"}}],
+    'apps.html': [{"@type": "ItemList", "name": "GerrOS apps for Garmin watches", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE + f"apps/{a['slug']}.html", "name": a['title']} for i, a in enumerate(apps)]}],
+    'custom.html': [{"@type": "Service", "name": "Custom Garmin Connect IQ and Wear OS app development", "serviceType": "Software development",
+                     "provider": {"@id": SITE + "#org"}, "areaServed": "Worldwide", "url": SITE + "custom.html",
+                     "description": "Garmin Connect IQ apps, data fields and watch faces, and Wear OS apps, built to order at a fixed quote by the studio behind %d published Garmin apps." % len(apps),
+                     "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Packages", "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": n, "description": d}} for n, t, d in PACKAGES]}},
+                    {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in FAQS]}],
+}
 for fn, title, desc, fnc, active in PAGES:
     bodies[fn] = fnc(); actives[fn] = active
-    open(fn, 'w').write(document(title, desc, bodies[fn], active))
+    open(fn, 'w').write(document(title, desc, bodies[fn], active, path=fn, ld=PAGE_LD.get(fn, ()), noindex=(fn == 'thanks.html')))
 for a in apps:
     body = page_app(a)
     fn = f'apps/{a["slug"]}.html'
     bodies[fn] = body; actives[fn] = 'apps.html'
-    open(fn, 'w').write(document(f'{a["title"]} · GerrOS', f'{a["tag"]}. A GerrOS app for Garmin watches.', body, 'apps.html', depth=1))
+    kind = 'watch face' if a['type'] == '1' else 'app'
+    open(fn, 'w').write(document(f'{a["title"]} · Garmin {kind} by GerrOS', f'{a["tag"]}. {a["title"]} is a Garmin Connect IQ {kind} by GerrOS: runs on the watch, no phone or account needed.', body, 'apps.html', depth=1,
+                                 path=fn, image=a['cover'], ld=[app_ld(a), crumbs(('GerrOS', ''), ('Apps', 'apps.html'), (a['title'], fn))]))
+
+# ---- robots.txt, sitemap.xml, llms.txt
+today = datetime.date.today().isoformat()
+open('robots.txt', 'w').write('''# gerros.app — everyone welcome, including AI crawlers.
+User-agent: *
+Allow: /
+Disallow: /thanks.html
+Disallow: /dist/
+
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://gerros.app/sitemap.xml
+''')
+urls = [('', today, '1.0'), ('custom.html', today, '0.9'), ('apps.html', today, '0.9'), ('whatsnew.html', today, '0.6'), ('wearos.html', today, '0.5'), ('studio.html', today, '0.6'), ('support.html', today, '0.4'), ('privacy.html', today, '0.2')]
+urls += [(f"apps/{a['slug']}.html", datetime.date.fromtimestamp(a['changed'] / 1000).isoformat() if a['changed'] else today, '0.7') for a in apps]
+open('sitemap.xml', 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+    ''.join(f'  <url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod><priority>{pr}</priority></url>\n' for u, d, pr in urls) + '</urlset>\n')
+def plain(t):
+    return re.sub(r'\s+', ' ', t).strip()
+llms = ['# GerrOS', '', '> GerrOS is an independent one-person studio in Den Dolder, the Netherlands, run by Thijs Gerritsen. It publishes %d apps and watch faces for Garmin watches (Connect IQ) and builds custom Garmin Connect IQ and Wear OS apps to order at a fixed quote.' % len(apps), '',
+        'Contact: %s · Custom app requests: %scustom.html · Connect IQ developer page: %s' % (MAIL, SITE, DEV), '',
+        '## Custom app development (the service)', '',
+        '- Builds Garmin Connect IQ apps, data fields, widgets and watch faces, and Wear OS (Kotlin/Compose) apps, for sports clubs, coaches, companies, researchers and individuals.',
+        '- Fixed scope and fixed quote after a short brief; typical lead times: watch face 1-2 weeks, app 2-4 weeks, app with backend 4-8 weeks.',
+        '- Process: brief → quote and one-page scope → 50% up front → build with simulator previews → two revision rounds → delivery (store publication under the client name or sideload file) → 30 days of bug fixes.',
+        '- Also takes rescue jobs (existing Connect IQ apps that crash, fail review or need new devices) and ports between Garmin and Wear OS.',
+        '- Request a quote: %scustom.html#quote' % SITE, '', '## FAQ', '']
+llms += ['**%s** %s' % (q, a) for q, a in FAQS]
+llms += ['', '## Published apps (%d, all run on the watch without a phone, account or subscription; EN/NL/DE/FR/ES)' % len(apps), '']
+for a in apps:
+    st = 'in review' if a['pending'] else ('%.1f/5 from %d reviews' % (a['rating'], a['reviews']) if a['rating'] and a['reviews'] else 'in the Connect IQ Store')
+    llms.append('- [%s](%sapps/%s.html): %s. %s, version %s%s.' % (a['title'], SITE, a['slug'], a['tag'], CATNAME[a['cat']], a['version'], (', store: ' + STORE + a['id']) if a['id'] else '') + (' Rating ' + st + '.' if not a['pending'] else ' Status: in review.'))
+llms += ['', '## Pages', '', '- [Home](%s)' % SITE, '- [All apps](%sapps.html)' % SITE, '- [Custom apps](%scustom.html)' % SITE, '- [What\'s new](%swhatsnew.html)' % SITE, '- [Wear OS](%swearos.html)' % SITE, '- [Studio](%sstudio.html)' % SITE, '- [Support](%ssupport.html)' % SITE, '- [Privacy](%sprivacy.html)' % SITE, '']
+open('llms.txt', 'w').write('\n'.join(llms))
+
 open('assets/favicon.svg', 'w').write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="22" fill="none" stroke="#131518" stroke-width="7"/><path d="M32 6a26 26 0 0 1 26 26" fill="none" stroke="#3EDC96" stroke-width="7" stroke-linecap="round"/></svg>')
 
 # ------------------------------------------------------------------ single-file preview with hash routing
