@@ -1,23 +1,56 @@
-'use strict';
-const $ = s => document.querySelector(s);
-const $$ = s => [...document.querySelectorAll(s)];
-const reduce = matchMedia('(prefers-reduced-motion: reduce)');
-const menu = $('.menu');
-menu?.addEventListener('click', () => { const open = menu.getAttribute('aria-expanded') !== 'true'; menu.setAttribute('aria-expanded', String(open)); $('#nav').classList.toggle('open', open); });
-document.addEventListener('keydown', e => {if(e.key === 'Escape' && menu?.getAttribute('aria-expanded') === 'true'){menu.click(); menu.focus();}});
-$('.theme')?.addEventListener('click', () => {const dark = document.documentElement.dataset.theme ? document.documentElement.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches; document.documentElement.dataset.theme = dark ? 'light' : 'dark'; $('.theme').setAttribute('aria-label', `Switch to ${dark ? 'dark' : 'light'} mode`);});
-$('.motion')?.addEventListener('click', e => {const paused = document.documentElement.classList.toggle('motion-paused'); e.currentTarget.setAttribute('aria-pressed', String(paused)); e.currentTarget.textContent = paused ? 'Play motion' : 'Pause motion';});
-$$('[data-rail]').forEach(b => b.addEventListener('click', () => $('.rail').scrollBy({left: Number(b.dataset.rail)*640,behavior: reduce.matches ? 'instant' : 'smooth'})));
-if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries => entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('reveal');observer.unobserve(entry.target);}}),{threshold:.12});$$('.section-title,.principles>div:not(.engine-art),.release-list>a,.engine-grid article').forEach(el=>observer.observe(el));}
-let category = 'all';
-function filter(){const query = $('#app-search').value.trim().toLowerCase();let count = 0;$$('.appgrid .appcard').forEach(a => {a.hidden = !((category === 'all' || a.dataset.cat === category) && a.dataset.search.includes(query));if(!a.hidden) count++;});$('.result-count').textContent = `${count} ${count === 1 ? 'app' : 'apps'} found`;$('.empty').hidden = count !== 0;}
-$('#app-search')?.addEventListener('input',filter);
-$$('[data-filter]').forEach(b => b.addEventListener('click',()=>{category=b.dataset.filter;$$('[data-filter]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));filter();}));
-const modes={predict:['caffi','sobr','jetshift','adapt','racecast','altizone','spent','shiftpay','pitstop','convertr'],guide:['fasted','breathgym','recover','zeitnot','reactr','podium','morsetap'],record:['smokeless','earned','rallypoint','strike','cue','spotsave','listo','remindersplus','cardvault']};
-const glance=['caffi','fasted','earned','adapt','racecast','altizone','speedometer-pro','shiftpay','spent','podium','remindersplus','wordclock','redline','triptych'];
-let answers=[],step=1;
-function showStep(n){step=n;$$('[data-step]').forEach(el=>el.hidden=Number(el.dataset.step)!==n);const title=$(`[data-step="${n}"] h2`);title.setAttribute('tabindex','-1');title.focus({preventScroll:true});}
-async function results(){const root=$('.recommendations');root.textContent='Finding your apps…';try{const response=await fetch('/finder-data.json');if(!response.ok)throw Error('Unavailable');const apps=await response.json();const ranked=apps.filter(a=>a.cat===answers[0]).map((a,i)=>({...a,score:(modes[answers[1]]?.includes(a.slug)?4:0)+(glance.includes(a.slug)===(answers[2]==='glance')?2:0)+(a.pending?0:1),i})).sort((a,b)=>b.score-a.score||a.i-b.i).slice(0,3);root.replaceChildren();ranked.forEach(a=>{const link=document.createElement('a');link.className='appcard';link.href=`/apps/${a.slug}/`;const img=document.createElement('img');img.src=`/assets/web/icons-${a.slug}-160.webp`;img.width=85;img.height=85;img.alt='';const copy=document.createElement('span');copy.className='cardcopy';const title=document.createElement('strong');title.textContent=a.name;const tag=document.createElement('span');tag.textContent=a.tag+(a.pending?' · In review':'');copy.append(title,tag);link.append(img,copy);root.append(link);});}catch{root.textContent='The chooser could not load. ';const a=document.createElement('a');a.href='/apps/';a.textContent='Browse the catalogue';root.append(a);}}
-$$('[data-answer]').forEach(b=>b.addEventListener('click',()=>{answers[step-1]=b.dataset.answer;if(step===3){showStep(4);results();}else showStep(step+1);}));
-$$('.backstep').forEach(b=>b.addEventListener('click',()=>showStep(step-1)));
-$('.restart')?.addEventListener('click',()=>{answers=[];showStep(1);});
+// GerrOS site: menu, strip arrows, catalogue filters, the app finder, and hash routing for the
+// single-file preview (dist/gerros.html), where every page lives in one document.
+(function () {
+  const routes = document.querySelectorAll('main.route');
+
+  function wire(root) {
+    // mobile menu
+    root.querySelectorAll('.nav-toggle').forEach(btn => btn.addEventListener('click', () => btn.closest('.nav').classList.toggle('open')));
+    // horizontal strips
+    root.querySelectorAll('.strip-outer').forEach(outer => {
+      const strip = outer.querySelector('.strip');
+      outer.querySelectorAll('.strip-arrow').forEach(btn => btn.addEventListener('click', () => {
+        strip.scrollBy({ left: (btn.classList.contains('next') ? 1 : -1) * strip.clientWidth * 0.7, behavior: 'smooth' });
+      }));
+    });
+    // catalogue filters
+    root.querySelectorAll('.filters').forEach(filters => {
+      const grid = filters.parentElement.querySelector('.grid');
+      filters.addEventListener('click', e => {
+        const c = e.target.closest('.chip');
+        if (!c) return;
+        filters.querySelectorAll('.chip').forEach(x => x.setAttribute('aria-pressed', x === c ? 'true' : 'false'));
+        const cat = c.dataset.cat;
+        grid.querySelectorAll('.app').forEach(a => { a.hidden = !(cat === 'all' || a.dataset.cat === cat); });
+        grid.classList.add('is-filtering');
+        setTimeout(() => grid.classList.remove('is-filtering'), 400);
+      });
+    });
+    // app finder
+    root.querySelectorAll('.goals').forEach(goals => {
+      const wrap = goals.parentElement;
+      goals.addEventListener('click', e => {
+        const g = e.target.closest('.goal');
+        if (!g) return;
+        goals.querySelectorAll('.goal').forEach(x => x.setAttribute('aria-pressed', x === g ? 'true' : 'false'));
+        wrap.querySelectorAll('.goal-result').forEach(r => { r.hidden = r.dataset.goal !== g.dataset.goal; });
+        const empty = wrap.querySelector('.goal-empty');
+        if (empty) empty.hidden = true;
+      });
+    });
+  }
+
+  wire(document);
+  if (!routes.length) return;
+
+  // ---- single-file preview: show the section whose data-route matches the hash ----
+  function show() {
+    const path = location.hash.replace(/^#/, '') || '/';
+    let found = false;
+    routes.forEach(m => { m.hidden = m.dataset.route !== path; if (!m.hidden) found = true; });
+    if (!found) routes.forEach(m => { m.hidden = m.dataset.route !== '/'; });
+    window.scrollTo(0, 0);
+  }
+  window.addEventListener('hashchange', show);
+  show();
+})();
