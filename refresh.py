@@ -52,6 +52,19 @@ for a in raw:
 # lokale apps die (nog) niet in de API staan (in review) blijven staan
 for slug, a in old.items():
     if slug not in seen:
+        # Niet in de lijst (in review, of buiten de pageSize-limiet van 30): per app verversen.
+        try:
+            one = json.loads(subprocess.run(['curl', '-sL', SINGLE + a['id'] + '?locale=en-US'], capture_output=True, text=True).stdout) if a.get('id') else None
+            if isinstance(one, dict) and one.get('appLocalizations'):
+                loc = {l['locale']: l for l in one['appLocalizations']}
+                en = loc.get('en') or one['appLocalizations'][0]
+                a.update({'name': en['name'], 'desc': en['description'], 'nl': (loc.get('nl') or {}).get('description', ''),
+                          'whatsnew': en.get('whatsNew') or '', 'version': one.get('latestExternalVersion') or a.get('version'),
+                          'rating': one.get('averageRating', a.get('rating')), 'reviews': one.get('reviewCount', a.get('reviews')),
+                          'downloads': one.get('downloadCount', a.get('downloads')), 'changed': one.get('changedDate') or a.get('changed'),
+                          'updates': one.get('latestInternalVersion') or a.get('updates')})
+        except Exception:
+            pass
         new.append(a)
 json.dump(new, open('data.json', 'w'), indent=1, ensure_ascii=False)
 # web-varianten voor wat nieuw is
