@@ -1,5 +1,30 @@
 [
  {
+  "id": "9a0f0939-945e-44e3-8085-d42ee659e150",
+  "slug": "spire",
+  "name": "Spire - Deck Roguelike",
+  "desc": "Spire is a deck-building roguelike on your wrist. Climb a fifteen-floor tower one fight at a time: draw a hand of five cards, spend your energy on attacks, blocks and powers, and read what the enemy is about to do before you end your turn. Every run is a fresh climb; a good deck is built, not dealt.\n\nBetween fights you choose your route. Take on an elite for a relic, rest at a campfire to heal or upgrade a card, spend your gold at a merchant, or gamble on an unknown event. Reach the top and face the boss with whatever you built along the way. A run takes ten to fifteen minutes and is saved at every step, so you can close the app mid-fight and pick it up later.\n\nWHAT IT DOES\n- 42 cards: attacks, skills and powers, each with an upgraded version\n- Strength, Dexterity, Weak, Vulnerable, Poison, Thorns, Barricade and more\n- 18 enemies with visible intents, including 3 elites and 3 bosses with a second phase\n- 15 relics that change how your deck plays\n- 8 events, campfires with heal or smith, a shop with cards, relics and card removal\n- Daily climb: the same seeded tower for everyone, one attempt a day\n- Ascension levels after your first victory, up to 10\n- Score, best floor, statistics and a compendium of every card, relic and enemy\n- Playable by touch or entirely with buttons\n- English, Dutch, German, Spanish and French\n\nWHAT IT NEEDS\nNothing. No phone, no account, no internet. Vibration on hits can be switched off.",
+  "nl": "Spire is een deckbuilder-roguelike om je pols. Beklim een toren van vijftien verdiepingen, gevecht na gevecht: trek vijf kaarten, besteed je energie aan aanvallen, blok en krachten, en lees wat de vijand gaat doen voordat je je beurt beëindigt. Elke run is een nieuwe klim; een goed deck wordt gebouwd, niet gedeeld.\n\nTussen de gevechten kies je je route. Pak een elite voor een relikwie, rust bij een kampvuur om te genezen of een kaart te upgraden, geef je goud uit bij een handelaar, of gok op een onbekende gebeurtenis. Bereik de top en versla de baas met wat je onderweg hebt opgebouwd. Een run duurt tien tot vijftien minuten en wordt bij elke stap opgeslagen, dus je kunt de app midden in een gevecht sluiten en later verdergaan.\n\nWAT HET DOET\n- 42 kaarten: aanvallen, vaardigheden en krachten, elk met een geüpgradede versie\n- Kracht, behendigheid, zwak, kwetsbaar, gif, doornen, barricade en meer\n- 18 vijanden met zichtbare voornemens, waaronder 3 elites en 3 bazen met een tweede fase\n- 15 relikwieën die je deck anders laten spelen\n- 8 gebeurtenissen, kampvuren om te genezen of te smeden, een winkel met kaarten, relikwieën en kaartverwijdering\n- Dagelijkse klim: dezelfde toren voor iedereen, één poging per dag\n- Ascensie-niveaus na je eerste overwinning, tot 10\n- Score, hoogste verdieping, statistieken en een compendium van elke kaart, relikwie en vijand\n- Speelbaar met aanraking of volledig met knoppen\n- Engels, Nederlands, Duits, Spaans en Frans\n\nWAT HET NODIG HEEFT\nNiets. Geen telefoon, geen account, geen internet. Trillen bij treffers kan uit.",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "206",
+  "icon": "assets/icons/spire.png",
+  "shots": [
+   "assets/shots/spire-1.jpg",
+   "assets/shots/spire-2.jpg",
+   "assets/shots/spire-3.jpg",
+   "assets/shots/spire-4.jpg",
+   "assets/shots/spire-5.jpg"
+  ],
+  "changed": 1788882509000,
+  "whatsnew": "",
+  "devices": 62,
+  "updates": 1
+ },
+ {
   "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8",
   "slug": "radar",
   "name": "Radar - GPS Treasure Hunt",
@@ -20,7 +45,7 @@
    "assets/shots/radar-5.jpg"
   ],
   "changed": 1788862883000,
-  "whatsnew": "",
+  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
   "updates": 1
  },
@@ -34,7 +59,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "category": "219",
   "icon": "assets/icons/adapt.png",
   "shots": [
@@ -44,10 +69,10 @@
    "assets/shots/adapt-4.jpg",
    "assets/shots/adapt-5.jpg"
   ],
-  "changed": 1788718390000,
-  "whatsnew": "",
+  "changed": 1788945798000,
+  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
-  "updates": 1
+  "updates": 3
  },
  {
   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065",
@@ -70,7 +95,7 @@
    "assets/shots/recover-5.jpg"
   ],
   "changed": 1788718038000,
-  "whatsnew": "",
+  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
   "updates": 1
  },
@@ -84,7 +109,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "212",
   "icon": "assets/icons/cue.png",
   "shots": [
@@ -94,10 +119,10 @@
    "assets/shots/cue-4.jpg",
    "assets/shots/cue-5.jpg"
   ],
-  "changed": 1788717463000,
-  "whatsnew": "",
+  "changed": 1788946117000,
+  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "82b01416-0980-4085-aa72-3e05ffae990b",
@@ -120,7 +145,7 @@
    "assets/shots/racecast-5.jpg"
   ],
   "changed": 1788682156000,
-  "whatsnew": "- Glance now clears when you delete all results and follows every change of goal, units or model\n- Warning on the home screen when the prediction is based on a race much shorter than the goal\n- Fewer storage writes\n",
+  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
   "updates": 2
  },
@@ -145,7 +170,7 @@
    "assets/shots/pitstop-5.jpg"
   ],
   "changed": 1788510262000,
-  "whatsnew": "",
+  "whatsnew": "- Fixed the glance: it no longer appears and vanishes again\n- The glance now reads a small cached summary instead of the whole fill-up log",
   "devices": 178,
   "updates": 1
  },
@@ -159,7 +184,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "200",
   "icon": "assets/icons/podium.png",
   "shots": [
@@ -169,10 +194,10 @@
    "assets/shots/podium-4.jpg",
    "assets/shots/podium-5.jpg"
   ],
-  "changed": 1788682973000,
-  "whatsnew": "- \"Usually +1:20\" now follows the talk itself, so renaming a talk keeps its history\n- Chapters you did not tap through show as unknown in the summary instead of \"on time\"\n- Glance chapter count matches the app\n",
+  "changed": 1788935874000,
+  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "8a3e833b-11ae-42de-9221-f397907e33a6",
@@ -209,7 +234,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "204",
   "icon": "assets/icons/spent.png",
   "shots": [
@@ -219,10 +244,10 @@
    "assets/shots/spent-4.jpg",
    "assets/shots/spent-5.jpg"
   ],
-  "changed": 1788682668000,
-  "whatsnew": "- Switching between monthly and weekly budget no longer writes a bogus history entry\n- Periods you missed while the app was closed are each recorded separately\n- Glance now works out today's allowance itself on later days\n- Editing or deleting an expense from a closed period updates that period's history\n",
+  "changed": 1788935559000,
+  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 59,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "acf0e837-8f06-42c0-a1b7-62275ac792fc",
@@ -234,7 +259,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "2.0.3",
+  "version": "2.0.4",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -244,10 +269,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1788682818000,
-  "whatsnew": "- Unticking a product now undoes the tick: it no longer counts as bought or as frequently bought\n- Fewer storage writes at start-up\n",
+  "changed": 1788935723000,
+  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 54,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
