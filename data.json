@@ -810,5 +810,30 @@
   "whatsnew": "- New sport: Racquetball, with the official USAR rules — best of 3, games to 15, tiebreaker to 11, side-out scoring with handouts in doubles\n- Racquetball court on the watch and on the live scoreboard, serve indicator without left/right\n- Game point vibration now only for the serving side in side-out sports",
   "devices": 178,
   "updates": 29
+ },
+ {
+  "id": "8eb91174-006f-419b-9992-fcf86c90aaa2",
+  "slug": "hounded",
+  "name": "Hounded - Chase Running Game",
+  "desc": "Something is running behind you, and it runs at your pace. Start a run and sooner\nor later a hound picks up your trail. The gap in metres is on your wrist, the ring\ncloses like a pair of jaws, and the only way out is to run.\n\nThe hound is not a fixed speed. It is measured against your own pace, which the\napp learns run after run, and the margin on top of it moves with your results: every\nescape makes the pack bolder, every catch softens it. After a handful of runs it\nsettles on a chase you win about six times out of ten, whatever shape you are in.\nNo phone, no signal, no subscription.\n\nWHAT IT DOES\n- Four ways to run: free run with chases out of nowhere, an eight-chase drill on a\n  clock, survive one hound that never gives up, and the alpha once you have earned it\n- Six hounds, each with a different way of running: steady, a sprinter that fades, a\n  pack that keeps building, a stalker that never stops, a phantom that hides the gap\n  and leaves only the buzzing, and the alpha\n- The gap in metres or yards, updated every second, with warnings at 25 and 12 metres\n- Levels and ranks, a record per hound, and a different challenge every day\n- Runs saved as a Garmin activity with a lap at every chase, so the intervals show up\n  in Garmin Connect\n- Heart-rate guard holds the pack back while you are near your maximum\n- Works on a treadmill too, from wrist speed or from cadence and your stride length\n- Metric or imperial, five languages, on-watch settings\n\nWHAT IT NEEDS\nA watch with GPS. Nothing is sent anywhere, everything stays on the watch.\n",
+  "nl": "Er loopt iets achter je, en het loopt op jouw tempo. Start een run en vroeg of laat\nruikt een hond je spoor. Het gat in meters staat op je pols, de ring sluit als een\npaar kaken, en de enige uitweg is rennen.\n\nDe hond heeft geen vaste snelheid. Hij wordt afgemeten aan jouw eigen tempo, dat de\napp run na run leert, en de marge daarbovenop beweegt mee met je resultaten: elke\nontsnapping maakt de roedel brutaler, elke vangst milder. Na een paar runs blijft er\neen jacht over die je ongeveer zes van de tien keer wint, in welke vorm je ook bent.\nGeen telefoon, geen bereik, geen abonnement.\n\nWAT HET DOET\n- Vier manieren om te lopen: vrije run met jachten uit het niets, een ronde van acht\n  jachten op de klok, overleven met een hond die niet opgeeft, en de alfa als je hem\n  verdiend hebt\n- Zes honden, elk met een eigen manier van rennen: gestaag, een sprinter die wegzakt,\n  een roedel die blijft opbouwen, een sluiper die nooit stopt, een schim die het gat\n  verbergt en alleen laat voelen, en de alfa\n- Het gat in meters of yards, elke seconde bijgewerkt, met waarschuwingen op 25 en 12 meter\n- Levels en rangen, een record per hond, en elke dag een andere opdracht\n- Runs worden opgeslagen als Garmin-activiteit met een ronde bij elke jacht, zodat de\n  intervallen in Garmin Connect zichtbaar zijn\n- Hartslag-rem houdt de roedel tegen zolang je tegen je maximum aan zit\n- Werkt ook op de loopband, uit polssnelheid of uit cadans en je paslengte\n- Metrisch of imperiaal, vijf talen, instellingen op het horloge\n\nWAT HET NODIG HEEFT\nEen horloge met gps. Er wordt niets verstuurd, alles blijft op het horloge.\n",
+  "type": 2,
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": 217,
+  "icon": "assets/icons/hounded.png",
+  "shots": [
+   "assets/shots/hounded-1.jpg",
+   "assets/shots/hounded-2.jpg",
+   "assets/shots/hounded-3.jpg",
+   "assets/shots/hounded-4.jpg",
+   "assets/shots/hounded-5.jpg"
+  ],
+  "changed": 1788986542834,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
  }
 ]

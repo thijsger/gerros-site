@@ -1,6 +1,6 @@
 # GerrOS
 
-> GerrOS is an independent one-person studio in Den Dolder, the Netherlands, run by Thijs Gerritsen. It publishes 32 apps and watch faces for Garmin watches (Connect IQ) and builds custom Garmin Connect IQ and Wear OS apps to order at a fixed quote.
+> GerrOS is an independent one-person studio in Den Dolder, the Netherlands, run by Thijs Gerritsen. It publishes 33 apps and watch faces for Garmin watches (Connect IQ) and builds custom Garmin Connect IQ and Wear OS apps to order at a fixed quote.
 
 Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.html · Connect IQ developer page: https://apps.garmin.com/developer/de6acef4-c127-4cf2-84bc-baccde5f8b16/apps
 
@@ -21,7 +21,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 **How is the price built up?** From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.
 **Do you do NDAs and invoices?** Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.
 
-## Published apps (32, all run on the watch without a phone, account or subscription; EN/NL/DE/FR/ES)
+## Published apps (33, all run on the watch without a phone, account or subscription; EN/NL/DE/FR/ES)
 
 - [Smokeless](https://gerros.app/apps/smokeless.html): Quit-smoking tracker with cravings, savings and badges. Health & habits, version 1.6, store: https://apps.garmin.com/apps/be12dc0d-65b0-46e8-be2e-7677289ca9fe. Rating 5.0/5 from 3 reviews.
 - [Fasted](https://gerros.app/apps/fasted.html): Intermittent fasting timer, from 16:8 to Ramadan. Health & habits, version 2.0, store: https://apps.garmin.com/apps/cec46a63-db0b-4506-b046-2a59e120d2d0. Rating 4.3/5 from 6 reviews.
@@ -55,6 +55,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Adapt](https://gerros.app/apps/adapt.html): Calorie target that learns from your scale. Health & habits, version 1.0.2, store: https://apps.garmin.com/apps/8576f079-6cbc-4fe3-9351-63fcd34f22f8. Rating 5.0/5 from 1 reviews.
 - [Radar](https://gerros.app/apps/radar.html): GPS treasure hunt with warmer and colder buzzes. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/557dcc34-ceb5-4bff-9b02-b601c5c96bf8. Rating 5.0/5 from 1 reviews.
 - [Isobar](https://gerros.app/apps/isobar.html): Migraine risk from the barometer, plus an attack log. Health & habits, version 1.3, store: https://apps.garmin.com/apps/435be2d8-0a32-4d40-8737-ce97f2824468. Rating 5.0/5 from 2 reviews.
+- [Hounded](https://gerros.app/apps/hounded.html): A hound chases your live running pace, and it learns. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/8eb91174-006f-419b-9992-fcf86c90aaa2. Rating in the Connect IQ Store.
 
 ## Pages
 

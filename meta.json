@@ -195,6 +195,12 @@
    "title": "Isobar",
    "tag": "Migraine risk from the barometer, plus an attack log",
    "cat": "health"
+  },
+  "hounded": {
+   "title": "Hounded",
+   "tag": "A hound chases your live running pace, and it learns",
+   "cat": "sport",
+   "id": "8eb91174-006f-419b-9992-fcf86c90aaa2"
   }
  },
  "wearos": [
