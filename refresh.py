@@ -18,7 +18,18 @@ def slug_of(name):
 new = []
 seen = set()
 alldev = set()
+SINGLE = 'https://apps.garmin.com/api/appsLibraryExternalServices/api/asw/apps/'
 for a in raw:
+    # De lijst-API loopt achter op de per-app-API (release-notes van een net ingediende versie
+    # staan daar al); teksten en versie dus per app vers ophalen.
+    try:
+        one = json.loads(subprocess.run(['curl', '-sL', SINGLE + a['id'] + '?locale=en-US'], capture_output=True, text=True).stdout)
+        if isinstance(one, dict) and one.get('appLocalizations'):
+            a['appLocalizations'] = one['appLocalizations']
+            for k in ('latestExternalVersion', 'latestInternalVersion', 'changedDate', 'averageRating', 'reviewCount', 'downloadCount'):
+                if one.get(k) is not None: a[k] = one[k]
+    except Exception:
+        pass
     loc = {l['locale']: l for l in a['appLocalizations']}
     en = loc.get('en') or a['appLocalizations'][0]
     slug = slug_of(en['name']); seen.add(slug)
