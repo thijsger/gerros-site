@@ -1,14 +1,39 @@
 [
  {
+  "id": "8eb91174-006f-419b-9992-fcf86c90aaa2",
+  "slug": "hounded",
+  "name": "Hounded - Chase Running Game",
+  "desc": "Something is running behind you, and it runs at your pace. Start a run and sooner\nor later a hound picks up your trail. The gap in metres is on your wrist, the ring\ncloses like a pair of jaws, and the only way out is to run.\n\nThe hound is not a fixed speed. It is measured against your own pace, which the\napp learns run after run, and the margin on top of it moves with your results: every\nescape makes the pack bolder, every catch softens it. After a handful of runs it\nsettles on a chase you win about six times out of ten, whatever shape you are in.\nNo phone, no signal, no subscription.\n\nWHAT IT DOES\n- Four ways to run: free run with chases out of nowhere, an eight-chase drill on a\n  clock, survive one hound that never gives up, and the alpha once you have earned it\n- Six hounds, each with a different way of running: steady, a sprinter that fades, a\n  pack that keeps building, a stalker that never stops, a phantom that hides the gap\n  and leaves only the buzzing, and the alpha\n- The gap in metres or yards, updated every second, with warnings at 25 and 12 metres\n- Levels and ranks, a record per hound, and a different challenge every day\n- Runs saved as a Garmin activity with a lap at every chase, so the intervals show up\n  in Garmin Connect\n- Heart-rate guard holds the pack back while you are near your maximum\n- Works on a treadmill too, from wrist speed or from cadence and your stride length\n- Metric or imperial, five languages, on-watch settings\n\nWHAT IT NEEDS\nA watch with GPS. Nothing is sent anywhere, everything stays on the watch.",
+  "nl": "Er loopt iets achter je, en het loopt op jouw tempo. Start een run en vroeg of laat\nruikt een hond je spoor. Het gat in meters staat op je pols, de ring sluit als een\npaar kaken, en de enige uitweg is rennen.\n\nDe hond heeft geen vaste snelheid. Hij wordt afgemeten aan jouw eigen tempo, dat de\napp run na run leert, en de marge daarbovenop beweegt mee met je resultaten: elke\nontsnapping maakt de roedel brutaler, elke vangst milder. Na een paar runs blijft er\neen jacht over die je ongeveer zes van de tien keer wint, in welke vorm je ook bent.\nGeen telefoon, geen bereik, geen abonnement.\n\nWAT HET DOET\n- Vier manieren om te lopen: vrije run met jachten uit het niets, een ronde van acht\n  jachten op de klok, overleven met een hond die niet opgeeft, en de alfa als je hem\n  verdiend hebt\n- Zes honden, elk met een eigen manier van rennen: gestaag, een sprinter die wegzakt,\n  een roedel die blijft opbouwen, een sluiper die nooit stopt, een schim die het gat\n  verbergt en alleen laat voelen, en de alfa\n- Het gat in meters of yards, elke seconde bijgewerkt, met waarschuwingen op 25 en 12 meter\n- Levels en rangen, een record per hond, en elke dag een andere opdracht\n- Runs worden opgeslagen als Garmin-activiteit met een ronde bij elke jacht, zodat de\n  intervallen in Garmin Connect zichtbaar zijn\n- Hartslag-rem houdt de roedel tegen zolang je tegen je maximum aan zit\n- Werkt ook op de loopband, uit polssnelheid of uit cadans en je paslengte\n- Metrisch of imperiaal, vijf talen, instellingen op het horloge\n\nWAT HET NODIG HEEFT\nEen horloge met gps. Er wordt niets verstuurd, alles blijft op het horloge.",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "220",
+  "icon": "assets/icons/hounded.png",
+  "shots": [
+   "assets/shots/hounded-1.jpg",
+   "assets/shots/hounded-2.jpg",
+   "assets/shots/hounded-3.jpg",
+   "assets/shots/hounded-4.jpg",
+   "assets/shots/hounded-5.jpg"
+  ],
+  "changed": 1788951203000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
   "id": "9a0f0939-945e-44e3-8085-d42ee659e150",
   "slug": "spire",
   "name": "Spire - Deck Roguelike",
   "desc": "Spire is a deck-building roguelike on your wrist. Climb a fifteen-floor tower one fight at a time: draw a hand of five cards, spend your energy on attacks, blocks and powers, and read what the enemy is about to do before you end your turn. Every run is a fresh climb; a good deck is built, not dealt.\n\nBetween fights you choose your route. Take on an elite for a relic, rest at a campfire to heal or upgrade a card, spend your gold at a merchant, or gamble on an unknown event. Reach the top and face the boss with whatever you built along the way. A run takes ten to fifteen minutes and is saved at every step, so you can close the app mid-fight and pick it up later.\n\nWHAT IT DOES\n- 42 cards: attacks, skills and powers, each with an upgraded version\n- Strength, Dexterity, Weak, Vulnerable, Poison, Thorns, Barricade and more\n- 18 enemies with visible intents, including 3 elites and 3 bosses with a second phase\n- 15 relics that change how your deck plays\n- 8 events, campfires with heal or smith, a shop with cards, relics and card removal\n- Daily climb: the same seeded tower for everyone, one attempt a day\n- Ascension levels after your first victory, up to 10\n- Score, best floor, statistics and a compendium of every card, relic and enemy\n- Playable by touch or entirely with buttons\n- English, Dutch, German, Spanish and French\n\nWHAT IT NEEDS\nNothing. No phone, no account, no internet. Vibration on hits can be switched off.",
   "nl": "Spire is een deckbuilder-roguelike om je pols. Beklim een toren van vijftien verdiepingen, gevecht na gevecht: trek vijf kaarten, besteed je energie aan aanvallen, blok en krachten, en lees wat de vijand gaat doen voordat je je beurt beëindigt. Elke run is een nieuwe klim; een goed deck wordt gebouwd, niet gedeeld.\n\nTussen de gevechten kies je je route. Pak een elite voor een relikwie, rust bij een kampvuur om te genezen of een kaart te upgraden, geef je goud uit bij een handelaar, of gok op een onbekende gebeurtenis. Bereik de top en versla de baas met wat je onderweg hebt opgebouwd. Een run duurt tien tot vijftien minuten en wordt bij elke stap opgeslagen, dus je kunt de app midden in een gevecht sluiten en later verdergaan.\n\nWAT HET DOET\n- 42 kaarten: aanvallen, vaardigheden en krachten, elk met een geüpgradede versie\n- Kracht, behendigheid, zwak, kwetsbaar, gif, doornen, barricade en meer\n- 18 vijanden met zichtbare voornemens, waaronder 3 elites en 3 bazen met een tweede fase\n- 15 relikwieën die je deck anders laten spelen\n- 8 gebeurtenissen, kampvuren om te genezen of te smeden, een winkel met kaarten, relikwieën en kaartverwijdering\n- Dagelijkse klim: dezelfde toren voor iedereen, één poging per dag\n- Ascensie-niveaus na je eerste overwinning, tot 10\n- Score, hoogste verdieping, statistieken en een compendium van elke kaart, relikwie en vijand\n- Speelbaar met aanraking of volledig met knoppen\n- Engels, Nederlands, Duits, Spaans en Frans\n\nWAT HET NODIG HEEFT\nNiets. Geen telefoon, geen account, geen internet. Trillen bij treffers kan uit.",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 0,
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 1,
   "version": "1.0.0",
   "category": "206",
   "icon": "assets/icons/spire.png",
@@ -34,7 +59,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "217",
   "icon": "assets/icons/radar.png",
   "shots": [
@@ -44,10 +69,10 @@
    "assets/shots/radar-4.jpg",
    "assets/shots/radar-5.jpg"
   ],
-  "changed": 1788862883000,
+  "changed": 1788946421000,
   "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8",
@@ -58,7 +83,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.2",
   "category": "219",
   "icon": "assets/icons/adapt.png",
@@ -84,7 +109,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "277",
   "icon": "assets/icons/recover.png",
   "shots": [
@@ -94,10 +119,10 @@
    "assets/shots/recover-4.jpg",
    "assets/shots/recover-5.jpg"
   ],
-  "changed": 1788718038000,
+  "changed": 1788945969000,
   "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce",
@@ -134,7 +159,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "220",
   "icon": "assets/icons/racecast.png",
   "shots": [
@@ -144,10 +169,10 @@
    "assets/shots/racecast-4.jpg",
    "assets/shots/racecast-5.jpg"
   ],
-  "changed": 1788682156000,
+  "changed": 1788946269000,
   "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c",
@@ -159,7 +184,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "208",
   "icon": "assets/icons/pitstop.png",
   "shots": [
@@ -169,10 +194,10 @@
    "assets/shots/pitstop-4.jpg",
    "assets/shots/pitstop-5.jpg"
   ],
-  "changed": 1788510262000,
+  "changed": 1788946572000,
   "whatsnew": "- Fixed the glance: it no longer appears and vanishes again\n- The glance now reads a small cached summary instead of the whole fill-up log",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "2ad8b993-d09c-4624-b4bc-60e07e97145c",
@@ -258,7 +283,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "2.0.4",
   "category": "213",
   "icon": "assets/icons/listo.png",
@@ -453,8 +478,8 @@
   "desc": "Fasted turns intermittent fasting into one clear number on your wrist: how long you have been fasting, how far you are from your goal, and what your body is doing right now.\n\nPress START and the ring fills toward your target. Ten fasting phases explain what changes along the way, from blood sugar settling to deep autophagy. When you reach your goal your watch buzzes, and it warns you in time before your eating window closes.\n\nCHOOSE YOUR RHYTHM\n• 16:8, 18:6, 20:4, 14:10, OMAD or 12:12 — or set your own number of hours\n• Fajr to Maghrib for Ramadan: your watch works out today's dawn and sunset from your position and wakes you for Suhoor\n• A daily schedule with a fixed eating window, if you prefer to plan ahead\n\nIT RUNS ITSELF\nSwitch on auto-start and auto-stop and the app follows your schedule, even while it is closed. Everything is set on the watch itself — protocol, schedule, alerts, weekly goal — so you rarely need your phone.\n\nWHAT YOU GET BACK\n• A seven-day chart, streaks, records and a weekly goal you set yourself\n• Sixteen badges for hours fasted, willpower and consistency\n• Your eating rhythm: the hours you actually eat, mapped across the day\n• A glance view with your progress without opening the app\n\nInterface in English, Dutch, German, French and Spanish. Everything stays on your watch: no account, no internet connection, no data sent anywhere.\n\nFasted is not medical advice. Talk to a doctor before fasting if you are pregnant, diabetic or taking medication.",
   "nl": "Fasted maakt van intervalvasten één duidelijk getal op je pols: hoe lang je al vast, hoe ver je nog van je doel bent, en wat je lichaam op dit moment doet.\n\nDruk op START en de ring loopt vol richting je doel. Tien vastenfases leggen uit wat er onderweg verandert, van een dalende bloedsuiker tot diepe autofagie. Bij je doel trilt je horloge, en voordat je eetvenster sluit waarschuwt hij je op tijd.\n\nKIES JE RITME\n• 16:8, 18:6, 20:4, 14:10, OMAD of 12:12 — of stel zelf het aantal uren in\n• Fajr tot Maghrib voor de ramadan: je horloge berekent de dageraad en zonsondergang van vandaag uit je locatie en wekt je voor de suhoor\n• Een dagschema met een vast eetvenster, als je liever vooruit plant\n\nHIJ DRAAIT VANZELF\nZet automatisch starten en stoppen aan en de app volgt je schema, ook als hij dicht is. Alles stel je op het horloge zelf in — protocol, schema, meldingen, weekdoel — dus je telefoon heb je zelden nodig.\n\nWAT JE ERVOOR TERUGKRIJGT\n• Een grafiek van zeven dagen, reeksen, records en een weekdoel dat je zelf kiest\n• Zestien badges voor gevaste uren, wilskracht en regelmaat\n• Je eetritme: de uren waarop je echt eet, uitgezet over de dag\n• Een glance met je voortgang zonder de app te openen\n\nInterface in het Nederlands, Engels, Duits, Frans en Spaans. Alles blijft op je horloge: geen account, geen internetverbinding, geen data die ergens naartoe gaat.\n\nFasted is geen medisch advies. Overleg met een arts voordat je gaat vasten als je zwanger bent, diabetes hebt of medicijnen gebruikt.",
   "type": "2",
-  "rating": 4.3,
-  "reviews": 6,
+  "rating": 3.9,
+  "reviews": 7,
   "downloads": 100,
   "version": "2.0",
   "category": "219",
@@ -810,30 +835,5 @@
   "whatsnew": "- New sport: Racquetball, with the official USAR rules — best of 3, games to 15, tiebreaker to 11, side-out scoring with handouts in doubles\n- Racquetball court on the watch and on the live scoreboard, serve indicator without left/right\n- Game point vibration now only for the serving side in side-out sports",
   "devices": 178,
   "updates": 29
- },
- {
-  "id": "8eb91174-006f-419b-9992-fcf86c90aaa2",
-  "slug": "hounded",
-  "name": "Hounded - Chase Running Game",
-  "desc": "Something is running behind you, and it runs at your pace. Start a run and sooner\nor later a hound picks up your trail. The gap in metres is on your wrist, the ring\ncloses like a pair of jaws, and the only way out is to run.\n\nThe hound is not a fixed speed. It is measured against your own pace, which the\napp learns run after run, and the margin on top of it moves with your results: every\nescape makes the pack bolder, every catch softens it. After a handful of runs it\nsettles on a chase you win about six times out of ten, whatever shape you are in.\nNo phone, no signal, no subscription.\n\nWHAT IT DOES\n- Four ways to run: free run with chases out of nowhere, an eight-chase drill on a\n  clock, survive one hound that never gives up, and the alpha once you have earned it\n- Six hounds, each with a different way of running: steady, a sprinter that fades, a\n  pack that keeps building, a stalker that never stops, a phantom that hides the gap\n  and leaves only the buzzing, and the alpha\n- The gap in metres or yards, updated every second, with warnings at 25 and 12 metres\n- Levels and ranks, a record per hound, and a different challenge every day\n- Runs saved as a Garmin activity with a lap at every chase, so the intervals show up\n  in Garmin Connect\n- Heart-rate guard holds the pack back while you are near your maximum\n- Works on a treadmill too, from wrist speed or from cadence and your stride length\n- Metric or imperial, five languages, on-watch settings\n\nWHAT IT NEEDS\nA watch with GPS. Nothing is sent anywhere, everything stays on the watch.\n",
-  "nl": "Er loopt iets achter je, en het loopt op jouw tempo. Start een run en vroeg of laat\nruikt een hond je spoor. Het gat in meters staat op je pols, de ring sluit als een\npaar kaken, en de enige uitweg is rennen.\n\nDe hond heeft geen vaste snelheid. Hij wordt afgemeten aan jouw eigen tempo, dat de\napp run na run leert, en de marge daarbovenop beweegt mee met je resultaten: elke\nontsnapping maakt de roedel brutaler, elke vangst milder. Na een paar runs blijft er\neen jacht over die je ongeveer zes van de tien keer wint, in welke vorm je ook bent.\nGeen telefoon, geen bereik, geen abonnement.\n\nWAT HET DOET\n- Vier manieren om te lopen: vrije run met jachten uit het niets, een ronde van acht\n  jachten op de klok, overleven met een hond die niet opgeeft, en de alfa als je hem\n  verdiend hebt\n- Zes honden, elk met een eigen manier van rennen: gestaag, een sprinter die wegzakt,\n  een roedel die blijft opbouwen, een sluiper die nooit stopt, een schim die het gat\n  verbergt en alleen laat voelen, en de alfa\n- Het gat in meters of yards, elke seconde bijgewerkt, met waarschuwingen op 25 en 12 meter\n- Levels en rangen, een record per hond, en elke dag een andere opdracht\n- Runs worden opgeslagen als Garmin-activiteit met een ronde bij elke jacht, zodat de\n  intervallen in Garmin Connect zichtbaar zijn\n- Hartslag-rem houdt de roedel tegen zolang je tegen je maximum aan zit\n- Werkt ook op de loopband, uit polssnelheid of uit cadans en je paslengte\n- Metrisch of imperiaal, vijf talen, instellingen op het horloge\n\nWAT HET NODIG HEEFT\nEen horloge met gps. Er wordt niets verstuurd, alles blijft op het horloge.\n",
-  "type": 2,
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": 217,
-  "icon": "assets/icons/hounded.png",
-  "shots": [
-   "assets/shots/hounded-1.jpg",
-   "assets/shots/hounded-2.jpg",
-   "assets/shots/hounded-3.jpg",
-   "assets/shots/hounded-4.jpg",
-   "assets/shots/hounded-5.jpg"
-  ],
-  "changed": 1788986542834,
-  "whatsnew": "",
-  "devices": 178,
-  "updates": 1
  }
 ]
