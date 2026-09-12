@@ -59,8 +59,10 @@ FOOTER = f'''<footer class="footer"><div class="wrap">
 </div></footer>'''
 
 def stars(a):
-    if a['pending'] or not a['rating']:
+    if a['pending']:
         return 'In review'
+    if not a['rating']:
+        return 'No ratings yet'
     return f"★ {a['rating']:.1f} · {a['reviews']} {'review' if a['reviews'] == 1 else 'reviews'}"
 
 def tile(a):
@@ -68,7 +70,7 @@ def tile(a):
     return f'''<a class="tile" href="apps/{a['slug']}.html">
       <span class="cover">{badge}<img src="{a['cover']}" alt="{E(a['title'])} on a Garmin watch" loading="lazy" width="360" height="360"></span>
       <span class="name">{E(a['title'])}</span>
-      <span class="sub">{'In review' if a['pending'] or not a['rating'] else '★ %.1f' % a['rating']}</span>
+      <span class="sub">{'In review' if a['pending'] else ('New' if not a['rating'] else '★ %.1f' % a['rating'])}</span>
     </a>'''
 
 def card(a):
@@ -207,7 +209,7 @@ def page_apps():
 def page_app(a):
     hero = f'<img class="app-hero" src="{a["shots"][0]}" alt="{E(a["title"])} for Garmin: {E(a["tag"])}" width="1536" height="1024">' if a['shots'] else ''
     rest = ''.join(f'<img src="{s}" alt="{E(a["title"])} screenshot {i+2}" loading="lazy" width="1536" height="1024">' for i, s in enumerate(a['shots'][1:]))
-    link = (f'<a class="btn accent" href="{STORE}{a["id"]}" target="_blank" rel="noopener">Open in the Connect IQ Store <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 3h8v8M13 3 3 13"/></svg></a>' if a['id'] else '')
+    link = (f'<a class="btn accent" href="{STORE}{a["id"]}" target="_blank" rel="noopener">Open in the Connect IQ Store <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 3h8v8M13 3 3 13"/></svg></a>' if a['id'] and not a['pending'] else '')
     note = '<p class="note">Submitted to Garmin and awaiting review. The store page opens once it is approved.</p>' if a['pending'] else ''
     related = [b for b in apps if b['cat'] == a['cat'] and b['slug'] != a['slug']][:4]
     wn = f'<section class="whatsnew"><h3>What\'s new in {a["version"]}</h3>{fmt_desc(a["whatsnew"])}<p class="mono muted">{date(a["changed"])}</p></section>' if a['whatsnew'].strip() else ''
@@ -504,11 +506,11 @@ bodies = {}
 actives = {}
 def app_ld(a):
     o = {"@type": "SoftwareApplication", "name": a['title'], "url": SITE + f"apps/{a['slug']}.html",
-         "applicationCategory": "HealthApplication" if a['cat'] == 'health' else "SportsApplication" if a['cat'] == 'sport' else "FinanceApplication" if a['cat'] == 'money' else "UtilitiesApplication",
+         "applicationCategory": "HealthApplication" if a['cat'] == 'health' else "SportsApplication" if a['cat'] == 'sport' else "FinanceApplication" if a['cat'] == 'money' else "GameApplication" if a['cat'] == 'games' else "UtilitiesApplication",
          "operatingSystem": "Garmin Connect IQ", "description": a['tag'], "image": SITE + a['cover'],
          "screenshot": [SITE + x for x in a['shots']], "softwareVersion": a['version'], "inLanguage": ["en", "nl", "de", "fr", "es"],
          "author": {"@id": SITE + "#org"}, "publisher": {"@id": SITE + "#org"}}
-    if a['id']:
+    if a['id'] and not a['pending']:
         o["installUrl"] = STORE + a['id']; o["sameAs"] = STORE + a['id']
     if a['rating'] and a['reviews']:
         o["aggregateRating"] = {"@type": "AggregateRating", "ratingValue": round(a['rating'], 1), "reviewCount": a['reviews'], "bestRating": 5}

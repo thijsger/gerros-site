@@ -17,6 +17,10 @@
    "Everyday tools"
   ],
   [
+   "games",
+   "Games & puzzles"
+  ],
+  [
    "faces",
    "Watch faces"
   ]
@@ -201,6 +205,106 @@
    "tag": "A hound chases your live running pace, and it learns",
    "cat": "sport",
    "id": "8eb91174-006f-419b-9992-fcf86c90aaa2"
+  },
+  "sweepr": {
+   "title": "Sweepr",
+   "tag": "Minesweeper you can always solve without guessing",
+   "cat": "games"
+  },
+  "pixara": {
+   "title": "Pixara",
+   "tag": "A daily picture cross, proved solvable",
+   "cat": "games"
+  },
+  "verdix": {
+   "title": "Verdix",
+   "tag": "A daily logic case with exactly one answer",
+   "cat": "games"
+  },
+  "coglet": {
+   "title": "Coglet",
+   "tag": "An idle factory that runs on the clock and does the maths",
+   "cat": "games"
+  },
+  "lexil": {
+   "title": "Lexil",
+   "tag": "Seven big letters, no keyboard, 400 ready puzzles",
+   "cat": "games"
+  },
+  "spire": {
+   "title": "Spire",
+   "tag": "A deckbuilding roguelike climb, a new one every day",
+   "cat": "games"
+  },
+  "kedge": {
+   "title": "Kedge",
+   "tag": "Anchor watch that only wakes you when the boat is really dragging",
+   "cat": "sport",
+   "id": "d66900af-a149-4309-a7f1-3bdb70eced57",
+   "pending": true
+  },
+  "skyfix": {
+   "title": "Skyfix",
+   "tag": "Point your wrist at something bright and it names it",
+   "cat": "sport",
+   "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
+   "pending": true
+  },
+  "barocast": {
+   "title": "Barocast",
+   "tag": "A real forecast from your own barometer, no phone needed",
+   "cat": "sport",
+   "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
+   "pending": true
+  },
+  "cadenzo": {
+   "title": "Cadenzo",
+   "tag": "Practice coach that beats the time through your wrist",
+   "cat": "tools",
+   "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1",
+   "pending": true
+  },
+  "flexa": {
+   "title": "Flexa",
+   "tag": "Measures your real range of motion and doses the stretch",
+   "cat": "health",
+   "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf",
+   "pending": true
+  },
+  "halflight": {
+   "title": "Halflight",
+   "tag": "The last minute you can still turn back and beat the dark",
+   "cat": "sport",
+   "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
+   "pending": true
+  },
+  "pawcast": {
+   "title": "Pawcast",
+   "tag": "Dog walk window from the real temperature under the paws",
+   "cat": "tools",
+   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
+   "pending": true
+  },
+  "platewise": {
+   "title": "Platewise",
+   "tag": "Plans dinner backwards so everything is ready at once",
+   "cat": "tools",
+   "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
+   "pending": true
+  },
+  "cutwise": {
+   "title": "Cutwise",
+   "tag": "Cut list in, sheet count and cut plan out",
+   "cat": "tools",
+   "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
+   "pending": true
+  },
+  "circada": {
+   "title": "Circada",
+   "tag": "Sleep, light and caffeine planned around your shift rota",
+   "cat": "health",
+   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
+   "pending": true
   }
  },
  "wearos": [
