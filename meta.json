@@ -36,7 +36,7 @@
  "apps": {
   "smokeless": {
    "title": "Smokeless",
-   "tag": "Quit-smoking tracker with cravings, savings and badges",
+   "tag": "Quit-smoking tracker with cravings and savings",
    "cat": "health"
   },
   "fasted": {
@@ -51,22 +51,22 @@
   },
   "caffi": {
    "title": "Caffi",
-   "tag": "Caffeine curve that protects your sleep",
+   "tag": "Caffeine in your body, hour by hour",
    "cat": "health"
   },
   "sobr": {
    "title": "Sobr",
-   "tag": "Blood-alcohol estimate, live, on your wrist",
+   "tag": "Blood-alcohol estimate on your wrist",
    "cat": "health"
   },
   "jetshift": {
    "title": "JetShift",
-   "tag": "A light plan that beats jet lag",
+   "tag": "Jet lag plan with light and sleep times",
    "cat": "health"
   },
   "earned": {
    "title": "Earned",
-   "tag": "Burned calories, shown as food you can picture",
+   "tag": "Burned calories as portions of food",
    "cat": "health"
   },
   "rallypoint": {
@@ -96,7 +96,7 @@
   },
   "spotsave": {
    "title": "SpotSave",
-   "tag": "Save any spot, walk straight back to it",
+   "tag": "Save a spot and find your way back",
    "cat": "sport"
   },
   "reactr": {
@@ -112,12 +112,12 @@
   },
   "shiftpay": {
    "title": "ShiftPay",
-   "tag": "Watch your shift earnings tick up every second",
+   "tag": "Live earnings counter for your shift",
    "cat": "money"
   },
   "spent": {
    "title": "Spent",
-   "tag": "Daily budget: what you may still spend today",
+   "tag": "Daily spending budget",
    "cat": "money"
   },
   "pitstop": {
@@ -128,7 +128,7 @@
   },
   "podium": {
    "title": "Podium",
-   "tag": "Speaker timer that tells you if you run behind",
+   "tag": "Speaker timer with chapters and cues",
    "cat": "money"
   },
   "listo": {
@@ -185,123 +185,123 @@
   },
   "adapt": {
    "title": "Adapt",
-   "tag": "Calorie target that learns from your scale",
+   "tag": "Calorie target that follows your weight",
    "cat": "health",
    "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8"
   },
   "radar": {
    "title": "Radar",
-   "tag": "GPS treasure hunt with warmer and colder buzzes",
+   "tag": "GPS treasure hunt game",
    "cat": "sport",
    "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8"
   },
   "isobar": {
    "title": "Isobar",
-   "tag": "Migraine risk from the barometer, plus an attack log",
+   "tag": "Migraine risk and attack log",
    "cat": "health"
   },
   "hounded": {
    "title": "Hounded",
-   "tag": "A hound chases your live running pace, and it learns",
+   "tag": "A running game with a hound on your heels",
    "cat": "sport",
    "id": "8eb91174-006f-419b-9992-fcf86c90aaa2"
   },
   "sweepr": {
    "title": "Sweepr",
-   "tag": "Minesweeper you can always solve without guessing",
+   "tag": "Minesweeper on your watch",
    "cat": "games"
   },
   "pixara": {
    "title": "Pixara",
-   "tag": "A daily picture cross, proved solvable",
+   "tag": "A picture cross puzzle, new every day",
    "cat": "games"
   },
   "verdix": {
    "title": "Verdix",
-   "tag": "A daily logic case with exactly one answer",
+   "tag": "A logic case to solve, new every day",
    "cat": "games"
   },
   "coglet": {
    "title": "Coglet",
-   "tag": "An idle factory that runs on the clock and does the maths",
+   "tag": "An idle factory on your wrist",
    "cat": "games"
   },
   "lexil": {
    "title": "Lexil",
-   "tag": "Seven big letters, no keyboard, 400 ready puzzles",
+   "tag": "A word puzzle on seven letters",
    "cat": "games"
   },
   "spire": {
    "title": "Spire",
-   "tag": "A deckbuilding roguelike climb, a new one every day",
+   "tag": "A deckbuilding roguelike climb",
    "cat": "games"
   },
   "kedge": {
    "title": "Kedge",
-   "tag": "Anchor watch that only wakes you when the boat is really dragging",
+   "tag": "Anchor watch with a drag alarm",
    "cat": "sport",
    "id": "d66900af-a149-4309-a7f1-3bdb70eced57",
    "pending": true
   },
   "skyfix": {
    "title": "Skyfix",
-   "tag": "Point your wrist at something bright and it names it",
+   "tag": "Point at the sky and read what it is",
    "cat": "sport",
    "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
    "pending": true
   },
   "barocast": {
    "title": "Barocast",
-   "tag": "A real forecast from your own barometer, no phone needed",
+   "tag": "Weather forecast from your barometer",
    "cat": "sport",
    "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
    "pending": true
   },
   "cadenzo": {
    "title": "Cadenzo",
-   "tag": "Practice coach that beats the time through your wrist",
+   "tag": "Metronome and practice planner for musicians",
    "cat": "tools",
    "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1",
    "pending": true
   },
   "flexa": {
    "title": "Flexa",
-   "tag": "Measures your real range of motion and doses the stretch",
+   "tag": "Range-of-motion tests and a stretch timer",
    "cat": "health",
    "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf",
    "pending": true
   },
   "halflight": {
    "title": "Halflight",
-   "tag": "The last minute you can still turn back and beat the dark",
+   "tag": "Turnaround time for a hike before dark",
    "cat": "sport",
    "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
    "pending": true
   },
   "pawcast": {
    "title": "Pawcast",
-   "tag": "Dog walk window from the real temperature under the paws",
+   "tag": "When it is safe to walk the dog",
    "cat": "tools",
    "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
    "pending": true
   },
   "platewise": {
    "title": "Platewise",
-   "tag": "Plans dinner backwards so everything is ready at once",
+   "tag": "Cooking timeline for a whole meal",
    "cat": "tools",
    "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
    "pending": true
   },
   "cutwise": {
    "title": "Cutwise",
-   "tag": "Cut list in, sheet count and cut plan out",
+   "tag": "Cut plan and sheet count for sawing",
    "cat": "tools",
    "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
    "pending": true
   },
   "circada": {
    "title": "Circada",
-   "tag": "Sleep, light and caffeine planned around your shift rota",
+   "tag": "Sleep, light and caffeine planner for shift work",
    "cat": "health",
    "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
    "pending": true
