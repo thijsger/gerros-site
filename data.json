@@ -31,8 +31,8 @@
   "desc": "An idle game asks the same question over and over: what to buy next. Then it hides the\nanswer behind numbers nobody can compare in their head. A machine at 4.1e17 coins that\nadds 9.2e14 a second, against an upgrade at 8.8e16 that doubles something older. Most\npeople give up and buy whatever is newest, which is usually the wrong answer.\n\nCoglet works that comparison out. Every purchase on offer, a machine, a hundred of\nthem at once, an upgrade, a manager, a wider away window, is scored the same way:\nproduction added per day against coins spent, which comes out as a payback time. That\none figure is what lets a machine, an upgrade and a manager be ranked against each\nother at all. The front page names the shortest payback standing, what it costs and how\nlong it takes to earn itself back, or how long until the balance covers it. The rebuild\nscreen answers the other question the genre never answers: whether prestige is worth\ntaking now, and how long it takes to get back to where the factory already is.\n\nWHAT IT DOES\n- Eight machines on their own cost curves, each kind doubling its output every 25 built\n- An advisor that ranks every purchase by payback time and names the best one\n- Twelve upgrade levels per machine, a manager per machine, and a night shift that\n  widens the away window from eight hours to sixteen and then to twenty-four\n- Buy max priced from the closed form of the geometric series, so a few hundred units\n  cost one multiplication rather than a loop the watchdog would cut short\n- Offline earnings settled from the wall clock in one multiplication, capped at the\n  away window, with machines that have no manager idling at a quarter speed\n- A clock set backwards pays exactly nothing, so absence cannot be farmed\n- A rebuild that trades the whole run for a permanent multiplier, with a screen that\n  says plainly whether it is worth it now and when it pays back\n- Every coin carried as a mantissa and an exponent, and printed with a short suffix,\n  K, M, B, T and on through letter pairs, never as scientific notation\n- Four pages: the floor, what each machine is producing, what to buy next, the rebuild\n- Five languages, on-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
   "nl": "Een idle game stelt steeds dezelfde vraag: wat koop je hierna. En dan verstopt hij het\nantwoord achter getallen die niemand uit het hoofd vergelijkt. Een machine van 4,1e17\nmunten die er 9,2e14 per seconde bij doet, tegen een upgrade van 8,8e16 die iets ouds\nverdubbelt. De meesten geven het op en kopen het nieuwste, meestal het foute antwoord.\n\nCoglet rekent die vergelijking uit. Elke aankoop die openstaat, een machine, honderd\ntegelijk, een upgrade, een manager, een langer afwezigheidsvenster, krijgt dezelfde\nscore: productie erbij per dag tegen munten eraf, wat neerkomt op een terugverdientijd.\nDat ene getal is wat een machine, een upgrade en een manager onderling vergelijkbaar\nmaakt. De voorpagina noemt de kortste terugverdientijd die er ligt, wat hij kost en hoe\nlang hij erover doet, of hoe lang het duurt voor het saldo hem dekt. Het herbouwscherm\nbeantwoordt de vraag die het genre nooit beantwoordt: of prestige nu de moeite is, en\nhoe lang het duurt om terug te zijn waar de fabriek al staat.\n\nWAT HET DOET\n- Acht machines op hun eigen kostencurve, elke soort verdubbelt zijn output per 25 stuks\n- Een adviseur die elke aankoop rangschikt op terugverdientijd en de beste noemt\n- Twaalf upgradeniveaus per machine, een manager per machine, en een nachtdienst die het\n  afwezigheidsvenster van acht uur naar zestien en daarna naar vierentwintig trekt\n- Koop max wordt geprijsd met de gesloten vorm van de meetkundige reeks, dus honderden\n  stuks kosten een vermenigvuldiging in plaats van een lus die de watchdog afkapt\n- Offline-opbrengst wordt in een vermenigvuldiging van de wandklok afgerekend, afgetopt\n  op het venster, met machines zonder manager op een kwart snelheid\n- Een klok die terugloopt betaalt precies niets, dus afwezigheid valt niet te farmen\n- Een herbouw die de hele run inruilt voor een blijvende vermenigvuldiger, met een\n  scherm dat gewoon zegt of het nu loont en wanneer het is terugverdiend\n- Elke munt wordt gedragen als mantisse plus exponent, en komt in beeld met een kort\n  achtervoegsel, K, M, B, T en verder met letterparen, nooit wetenschappelijk\n- Vier pagina's: de vloer, wat elke machine maakt, wat je nu moet kopen, de herbouw\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 10,
   "version": "1.0.0",
   "category": "206",
@@ -144,7 +144,7 @@
    "assets/shots/hounded-5.jpg"
   ],
   "changed": 1788951203000,
-  "whatsnew": "",
+  "whatsnew": "New app icon: the hound from the app itself.",
   "devices": 178,
   "updates": 1
  },
@@ -158,7 +158,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "206",
   "icon": "assets/icons/spire.png",
   "shots": [
@@ -168,10 +168,10 @@
    "assets/shots/spire-4.jpg",
    "assets/shots/spire-5.jpg"
   ],
-  "changed": 1788882509000,
-  "whatsnew": "",
+  "changed": 1789314236000,
+  "whatsnew": "The app list on the watch now shows just the name.",
   "devices": 62,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8",
@@ -369,7 +369,7 @@
    "assets/shots/strike-5.jpg"
   ],
   "changed": 1788366901000,
-  "whatsnew": "",
+  "whatsnew": "The app list on the watch now shows just the name.",
   "devices": 167,
   "updates": 1
  },
@@ -383,7 +383,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "204",
   "icon": "assets/icons/spent.png",
   "shots": [
@@ -393,10 +393,10 @@
    "assets/shots/spent-4.jpg",
    "assets/shots/spent-5.jpg"
   ],
-  "changed": 1788935559000,
-  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
+  "changed": 1789314140000,
+  "whatsnew": "The app list on the watch now shows just the name.",
   "devices": 59,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "acf0e837-8f06-42c0-a1b7-62275ac792fc",
@@ -408,7 +408,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "2.0.4",
+  "version": "2.0.5",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -418,10 +418,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1788935723000,
-  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
+  "changed": 1789314028000,
+  "whatsnew": "The app list on the watch now shows just the name.",
   "devices": 54,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
@@ -433,7 +433,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "206",
   "icon": "assets/icons/zeitnot.png",
   "shots": [
@@ -443,10 +443,10 @@
    "assets/shots/zeitnot-4.jpg",
    "assets/shots/zeitnot-5.jpg"
   ],
-  "changed": 1788340930000,
-  "whatsnew": "",
+  "changed": 1789313740000,
+  "whatsnew": "The app list on the watch now shows just the name.",
   "devices": 59,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "fafc6449-5b85-45fb-96f6-0ed5151663f2",
@@ -507,7 +507,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.3",
+  "version": "1.4",
   "category": "254",
   "icon": "assets/icons/isobar.png",
   "shots": [
@@ -516,10 +516,10 @@
    "assets/shots/isobar-3.jpg",
    "assets/shots/isobar-4.jpg"
   ],
-  "changed": 1787595401000,
-  "whatsnew": "",
-  "devices": 56,
-  "updates": 6
+  "changed": 1789313930000,
+  "whatsnew": "The app list on the watch now shows just the name.",
+  "devices": 178,
+  "updates": 7
  },
  {
   "id": "c9641632-bf62-4fdb-8e28-e3a4c1c24bc5",
@@ -824,7 +824,7 @@
   "rating": 4.5,
   "reviews": 6,
   "downloads": 100,
-  "version": "1.3",
+  "version": "1.4",
   "category": "168",
   "icon": "assets/icons/redline.png",
   "shots": [
@@ -833,10 +833,10 @@
    "assets/shots/redline-3.jpg",
    "assets/shots/redline-4.jpg"
   ],
-  "changed": 1787607687000,
-  "whatsnew": "",
+  "changed": 1789314419000,
+  "whatsnew": "The watch face list now shows just the name.",
   "devices": 59,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "5ff40a3f-96bf-4462-adc6-795a7bb6f928",
@@ -848,7 +848,7 @@
   "rating": 5.0,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.3",
+  "version": "1.4",
   "category": "168",
   "icon": "assets/icons/triptych.png",
   "shots": [
@@ -857,10 +857,10 @@
    "assets/shots/triptych-3.jpg",
    "assets/shots/triptych-4.jpg"
   ],
-  "changed": 1787607716000,
-  "whatsnew": "",
+  "changed": 1789314535000,
+  "whatsnew": "The watch face list now shows just the name.",
   "devices": 64,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "b20b6df0-5943-48bb-be5e-73b3441253d7",
@@ -1183,6 +1183,29 @@
    "assets/shots/circada-1.jpg",
    "assets/shots/circada-2.jpg",
    "assets/shots/circada-3.jpg"
+  ],
+  "changed": null,
+  "whatsnew": "",
+  "devices": 0,
+  "updates": 1
+ },
+ {
+  "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
+  "slug": "studo",
+  "name": "Studo - Study Blocks",
+  "desc": "Most study timers count down twenty-five minutes and leave the rest to you. Studo also works out what to study today and how long you can actually focus, and it keeps running when you walk away from the app.\n\nYou enter your subjects with their exam dates and how much is still left, plus the minutes you have on each weekday. Studo turns that into today's plan: which subject gets which block, interleaved instead of one subject all afternoon. After every block you rate it with one tap, and a forgetting curve per subject decides when old material has to come back so it is still there on the exam day. The block length follows you as well: three blocks you sit out and it grows, one block you cut short and it shrinks. On watches with Body Battery it shortens the block when your tank is low.\n\nWHAT IT DOES\n- Focus blocks and breaks that run on the clock, so a session survives leaving the app, closing it or a restart\n- Today's plan: which subject, how many blocks, in what order\n- A forgetting curve per subject, so week one is still there in week six\n- Block length that adapts to you, using Body Battery and stress where the watch has them\n- Exam list with days left and how ready you are on the day\n- Fourteen days of statistics: minutes a day, blocks finished against blocks cut short, your own block length, streak\n- A distraction counter, one tap per slip\n- A long break every few blocks, every length adjustable on the watch itself\n- Four vibration patterns with a test button\n- A plain 25/5 timer mode if you would rather not enter subjects at all\n- Five languages and a glance\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- Body Battery and stress are used where the watch has them; without them the block length still follows how your blocks go",
+  "nl": "",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": null,
+  "icon": "assets/icons/studo.png",
+  "shots": [
+   "assets/shots/studo-1.jpg",
+   "assets/shots/studo-2.jpg",
+   "assets/shots/studo-3.jpg"
   ],
   "changed": null,
   "whatsnew": "",

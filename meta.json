@@ -305,6 +305,13 @@
    "cat": "health",
    "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
    "pending": true
+  },
+  "studo": {
+   "title": "Studo",
+   "tag": "Study blocks planned around your exams",
+   "cat": "tools",
+   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
+   "pending": true
   }
  },
  "wearos": [
