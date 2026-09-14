@@ -1,5 +1,211 @@
 [
  {
+  "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
+  "slug": "studo",
+  "name": "Studo - Study Blocks",
+  "desc": "Most study timers count down twenty-five minutes and leave the rest to you. Studo also works out what to study today and how long you can actually focus, and it keeps running when you walk away from the app.\n\nYou enter your subjects with their exam dates and how much is still left, plus the minutes you have on each weekday. Studo turns that into today's plan: which subject gets which block, interleaved instead of one subject all afternoon. After every block you rate it with one tap, and a forgetting curve per subject decides when old material has to come back so it is still there on the exam day. The block length follows you as well: three blocks you sit out and it grows, one block you cut short and it shrinks. On watches with Body Battery it shortens the block when your tank is low.\n\nWHAT IT DOES\n- Focus blocks and breaks that run on the clock, so a session survives leaving the app, closing it or a restart\n- Today's plan: which subject, how many blocks, in what order\n- A forgetting curve per subject, so week one is still there in week six\n- Block length that adapts to you, using Body Battery and stress where the watch has them\n- Exam list with days left and how ready you are on the day\n- Fourteen days of statistics: minutes a day, blocks finished against blocks cut short, your own block length, streak\n- A distraction counter, one tap per slip\n- A long break every few blocks, every length adjustable on the watch itself\n- Four vibration patterns with a test button\n- A plain 25/5 timer mode if you would rather not enter subjects at all\n- Five languages and a glance\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- Body Battery and stress are used where the watch has them; without them the block length still follows how your blocks go",
+  "nl": "De meeste studietimers tellen vijfentwintig minuten af en laten de rest aan jou over. Studo rekent er ook uit wat je vandaag moet leren en hoe lang je je echt kunt concentreren, en hij loopt door als je de app verlaat.\n\nJe zet je vakken erin met hun tentamendatum en hoeveel er nog te doen is, plus de minuten die je per weekdag hebt. Daar maakt Studo het plan van vandaag van: welk vak krijgt welk blok, afgewisseld in plaats van één vak de hele middag. Na elk blok geef je met één tik een oordeel, en een vergeetcurve per vak bepaalt wanneer oude stof terug moet komen zodat hij op de tentamendag nog vastzit. Ook de bloklengte loopt met je mee: drie blokken uitgezeten en hij wordt langer, één blok afgebroken en hij wordt korter. Op horloges met Body Battery kort hij het blok in als je tank leeg is.\n\nWAT HET DOET\n- Leerblokken en pauzes op de wandklok, zodat een sessie het verlaten, afsluiten of herstarten van de app overleeft\n- Het plan van vandaag: welk vak, hoeveel blokken, in welke volgorde\n- Een vergeetcurve per vak, zodat week één er in week zes nog is\n- Bloklengte die zich aan jou aanpast, met Body Battery en stress waar het horloge die heeft\n- Tentamenlijst met dagen te gaan en hoe paraat je op de dag zelf bent\n- Veertien dagen statistiek: minuten per dag, blokken uitgezeten tegenover afgebroken, je eigen bloklengte, streak\n- Een afleidingsteller, één tik per keer\n- Elke paar blokken een lange pauze, alle lengtes instelbaar op het horloge zelf\n- Vier trilpatronen met een testknop\n- Een kale 25/5-stand als je liever helemaal geen vakken invoert\n- Vijf talen en een glance\n\nWAT HET NODIG HEEFT\n- Niets. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Body Battery en stress worden gebruikt waar het horloge ze heeft; zonder die sensoren volgt de bloklengte gewoon hoe je blokken gaan",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "202",
+  "icon": "assets/icons/studo.png",
+  "shots": [
+   "assets/shots/studo-1.jpg",
+   "assets/shots/studo-2.jpg",
+   "assets/shots/studo-3.jpg"
+  ],
+  "changed": 1789400248000,
+  "whatsnew": "Fixed: the forgetting curve stopped working after a few study days, and today's plan reshuffled after every block. Short breaks now signal even when the app is closed, with a real notification on newer watches. The Eye break setting now works (two taps every 20 minutes). Also fixed: a glance crash, the streak stopping at 14 days, past exams still getting blocks, and overlapping text on small screens.",
+  "devices": 178,
+  "updates": 2
+ },
+ {
+  "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
+  "slug": "circada",
+  "name": "Circada - Shift Work Sleep",
+  "desc": "Shift work apps hand you general sleep advice. Circada works with your actual rota. You enter your shifts — early, late, night, off — and it predicts how alert you will be, hour by hour, including the dip that arrives at 4 am.\n\nThe engine is the two-process model: a sleep pressure that builds while you are awake and drains while you sleep, plus a body clock that does not simply follow your rota. A phase response curve decides how far your clock shifts each day from light or darkness, and caffeine runs through the model as first-order pharmacokinetics with a half life. Out of that comes a concrete plan: when to sleep, how long to nap, when to seek light, when to wear shades on the way home, and how late your last cup can be.\n\nWHAT IT DOES\n- Alertness now and per hour, with the low points named\n- A forecast for 4 am and for every hour of your shift\n- A sleep and nap plan per day, fitted to the next shift\n- Light and darkness advice to shift your clock or hold it\n- Caffeine window: how many mg on board and when the last cup is\n- A week view with your rota and the alertness you can expect\n- Five languages and a glance with the next action\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- Circada is a planning aid, not medical advice for a sleep disorder",
+  "nl": "Ploegendienst-apps geven je een algemeen slaapadvies. Circada rekent met jouw rooster. Je zet je diensten in — vroeg, laat, nacht, vrij — en de app voorspelt hoe wakker je straks bent, uur voor uur, met de dip erin die om 04:00 komt.\n\nHet rekenhart is het twee-processenmodel: een slaapdruk die oploopt zolang je wakker bent en afvalt als je slaapt, plus een lichaamsklok die niet meteen meeschuift met je rooster. Een faseresponscurve bepaalt hoeveel je klok per dag opschuift door licht of donker, en cafeïne gaat als eerste-orde farmacokinetiek met halfwaardetijd door het model heen. Daaruit rolt een concreet plan: wanneer slapen, hoe lang dutten, wanneer licht zoeken, wanneer een zonnebril op de weg naar huis, en hoe laat je laatste kop koffie mag.\n\nWAT HET DOET\n- Alertheid nu en per uur, met de laagste punten benoemd\n- Voorspelling voor 04:00 en voor elk uur van je dienst\n- Slaap- en dutplan per dag, afgestemd op de volgende dienst\n- Licht- en donkeradvies om je klok op te schuiven of vast te houden\n- Cafeïnevenster: hoeveel mg aan boord en wanneer de laatste kop\n- Weekoverzicht met je rooster en de verwachte alertheid\n- Vijf talen en een glance met de eerstvolgende actie\n\nWAT HET NODIG HEEFT\n- Niets. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Circada is een planningshulp en geen medisch advies bij slaapklachten",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "254",
+  "icon": "assets/icons/circada.png",
+  "shots": [
+   "assets/shots/circada-1.jpg",
+   "assets/shots/circada-2.jpg",
+   "assets/shots/circada-3.jpg"
+  ],
+  "changed": 1789404769000,
+  "whatsnew": "Fixed: without heart rate data the app advised shifting your clock earlier every day. Late shifts past midnight no longer schedule sleep during the shift, and at 03:00 on a night shift the advice now covers the current night. The nap finder is much faster, which prevents crashes on older watches. New: 12-hour shifts, 'Today is' to set your place in a rotation, bedtime from your Garmin profile, and a screen that updates every minute. Texts now fit on all screens.",
+  "devices": 167,
+  "updates": 2
+ },
+ {
+  "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
+  "slug": "cutwise",
+  "name": "Cutwise - Cut Plan & Sheets",
+  "desc": "On site the phone is in the van and your hands are dirty. Cutwise puts your cut list on your wrist and works out how many sheets or lengths you need, how to cut them, and how much waste is left over.\n\nIt is a real optimiser, not a calculator. For battens and studs it solves the one-dimensional cutting stock problem, for sheet goods the two-dimensional one, using first-fit-decreasing plus a bounded local search that improves the solution further. Saw kerf goes into every cut — forget it and the last piece is three millimetres short — and grain direction can be locked so a part is never rotated. The cut plan comes out sheet by sheet, cuts in order, with a tick box per piece.\n\nWHAT IT DOES\n- Number of sheets or bars, waste percentage and the plan for each one\n- 1D for battens, studs and pipe; 2D for sheet, plywood and MDF\n- Saw kerf as a hard constraint, millimetres or inches\n- Grain direction lockable per part\n- Standard stock sizes plus your own size\n- Saved projects you can reopen, with ticking off as you cut\n- Five languages and a glance showing sheet count and waste\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet",
+  "nl": "Op de bouw staat de telefoon in de auto en je handen zijn vies. Cutwise zet je zaaglijst op je pols en rekent uit hoeveel platen of balken je nodig hebt, hoe je ze zaagt en hoeveel afval er overblijft.\n\nHet is een echte optimalisator, geen rekenmachine. Voor balken en latten lost hij het eendimensionale snijvoorraadprobleem op, voor plaatmateriaal het tweedimensionale, met first-fit-decreasing plus een begrensde lokale zoektocht die de oplossing nog verbetert. De zaagsnedebreedte gaat mee in elke snede — vergeet je die, dan komt het laatste stuk drie millimeter tekort — en nerfrichting kun je vastzetten zodat een deel niet gedraaid wordt. Het zaagplan komt er per plaat uit, met de sneden op volgorde en een vinkje per stuk.\n\nWAT HET DOET\n- Aantal platen of balken, afvalpercentage en het plan per stuk\n- 1D voor balken, latten en buis; 2D voor plaat, multiplex en MDF\n- Zaagsnedebreedte als harde randvoorwaarde, millimeters of inches\n- Nerfrichting vastzetten per onderdeel\n- Standaardmaten plus eigen plaatmaat\n- Projecten opslaan en later opnieuw gebruiken, met afvinken tijdens het zagen\n- Vijf talen en een glance met het aantal platen en het afval\n\nWAT HET NODIG HEEFT\n- Niets. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "213",
+  "icon": "assets/icons/cutwise.png",
+  "shots": [
+   "assets/shots/cutwise-1.jpg",
+   "assets/shots/cutwise-2.jpg",
+   "assets/shots/cutwise-3.jpg"
+  ],
+  "changed": 1789403568000,
+  "whatsnew": "Important cut list fix: offcuts are now cut off, the blade never cuts into a part, and measurements are taken from the edge that is actually there. 'Lengthwise' and 'crosswise' were swapped. Fixed a crash when saving several large projects; checkmarks are kept when you reopen a project. New: stock sizes in inches (4×8 ft) and kerf in 1/64 in. Saved projects can be deleted.",
+  "devices": 178,
+  "updates": 2
+ },
+ {
+  "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
+  "slug": "platewise",
+  "name": "Platewise - Dinner, All At Once",
+  "desc": "A multi timer tells you when something is done. Platewise tells you when to start. You set the time you want to serve, pick your dishes, and it works backwards into a single timeline: what goes in the oven when, what goes on which hob, what can wait and what needs doing now.\n\nThe engine is not a countdown. Roasting times come from weight and doneness including the rest, boiling times are corrected for the boiling point at your altitude (from the barometer or set by hand), and the plan is fitted to your number of hobs and one oven temperature. If two oven dishes clash on temperature it says so and pulls one forward. If you are running late, it replans the whole meal around the new serving time.\n\nWHAT IT DOES\n- One timeline for the whole meal, worked backwards from serving\n- Dish catalogue plus a roast by weight, doneness and resting time\n- Boiling point correction by altitude: at 1500 m potatoes really do take longer\n- Hobs and oven as a constraint, with a clash warning and a suggestion\n- \"Running late\": move the serving time and everything moves with it\n- Notifications with vibration for every step, even with the app closed\n- Five languages and a glance showing the next thing to do\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- The barometer is used for altitude; you can also enter it yourself",
+  "nl": "Een multitimer vertelt je wanneer iets klaar is. Platewise vertelt je wanneer je moet beginnen. Je zegt hoe laat je wilt opdienen, je kiest je gerechten, en de app rekent achteruit naar één tijdlijn: wat wanneer de oven in, wat op welke pit, wat mag wachten en wat nu moet.\n\nHet rekenhart is geen aftelklok. Vleesbraadtijden komen uit gewicht en gaarheid met rusttijd, kooktijden worden gecorrigeerd voor het kookpunt op jouw hoogte (uit de barometer of zelf ingesteld), en het plan wordt op je aantal pitten en één oventemperatuur ingepast. Botsen twee ovengerechten op temperatuur, dan zegt hij het en schuift hij een gerecht naar voren. Loop je achter, dan herplant hij de hele maaltijd om de nieuwe opdientijd.\n\nWAT HET DOET\n- Eén tijdlijn voor de hele maaltijd, achteruit gerekend vanaf het opdienen\n- Gerechtencatalogus plus braadstuk op gewicht, gaarheid en rusttijd\n- Kookpuntcorrectie op hoogte: op 1500 m duurt aardappel echt langer\n- Pitten en oven als beperking, met botsingswaarschuwing en voorstel\n- \"Ik loop achter\": schuif het opdienen en alles schuift mee\n- Meldingen met trilling voor elke actie, ook als de app dicht is\n- Vijf talen en een glance met de volgende handeling\n\nWAT HET NODIG HEEFT\n- Niets. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- De barometer wordt gebruikt voor de hoogte; je kunt de hoogte ook zelf invullen",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "205",
+  "icon": "assets/icons/platewise.png",
+  "shots": [
+   "assets/shots/platewise-1.jpg",
+   "assets/shots/platewise-2.jpg",
+   "assets/shots/platewise-3.jpg"
+  ],
+  "changed": 1789407382000,
+  "whatsnew": "Fixed: marking a dish done without starting it broke the timeline, reused meals kept old checkmarks, and the serving time was an hour off on daylight-saving days. Steps at the same moment now appear together in one alert. If the serving time is too tight, the app tells you which dish is late and when dinner can be served. Boiling point at altitude and turkey times corrected. Up/Down select a step on button watches. Glance: text no longer cut off and more space below the progress bar.",
+  "devices": 167,
+  "updates": 2
+ },
+ {
+  "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
+  "slug": "halflight",
+  "name": "Halflight - Turnaround Time",
+  "desc": "Most hikers find out too late that the way back is longer than the way out. Halflight records your climb as you walk it, works out what the return leg will cost at your own measured pace, and counts down to the last minute you can still turn around and be off the mountain before the light goes.\n\nIt is not a daylight widget. It fits Tobler's hiking function to the pace you are actually walking today, adds the Naismith and Langmuir corrections for the descent, replays your own recorded profile in reverse, and computes civil dusk for your exact position. When the margin runs out it says TURN BACK, on the wrist, without a phone.\n\nWHAT IT DOES\n- Live turnaround time: the last minute you can keep going\n- Your real pace versus Tobler, updated as you climb\n- Return time from your own recorded ascent profile, in reverse\n- Civil dusk or sunset as the target, computed on the watch\n- Adjustable safety margin and an early warning with vibration\n- A summary of distance, climb, descent and pace for the walk\n- Five languages and a glance\n\nWHAT IT NEEDS\n- GPS. Everything is worked out on the watch: no phone, no account, no internet\n- Halflight is a planning aid, not a substitute for a map, a headlamp and your own judgement",
+  "nl": "De meeste wandelaars merken te laat dat de terugweg langer is dan de heenweg. Halflight neemt je klim op terwijl je loopt, rekent uit wat de terugweg kost op je eigen gemeten tempo, en telt af naar de laatste minuut waarop je nog kunt omkeren en voor het donker beneden bent.\n\nHet is geen daglicht-widget. De app past Toblers loopfunctie aan op het tempo dat je vandaag echt loopt, telt de correcties van Naismith en Langmuir voor de afdaling erbij, speelt je eigen hoogteprofiel achterstevoren terug en berekent de burgerlijke schemering voor jouw exacte positie. Is de marge op, dan staat er OMKEREN, op je pols, zonder telefoon.\n\nWAT HET DOET\n- Live omkeertijd: de laatste minuut dat je nog verder kunt\n- Je echte tempo tegenover Tobler, bijgewerkt terwijl je klimt\n- Terugtijd uit je eigen opgenomen klim, achterstevoren\n- Burgerlijke schemering of zonsondergang als doel, op het horloge gerekend\n- Instelbare veiligheidsmarge en een waarschuwing vooraf met trilling\n- Een overzicht van afstand, klim, daling en tempo van de wandeling\n- Vijf talen en een glance\n\nWAT HET NODIG HEEFT\n- GPS. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Halflight is een hulpmiddel bij het plannen, geen vervanging van kaart, hoofdlamp en eigen inzicht",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "210",
+  "icon": "assets/icons/halflight.png",
+  "shots": [
+   "assets/shots/halflight-1.jpg",
+   "assets/shots/halflight-2.jpg",
+   "assets/shots/halflight-3.jpg"
+  ],
+  "changed": 1789405145000,
+  "whatsnew": "New return mode: choose 'Turned back' in the menu, or accept the prompt when you retrace your track, and the app shows your expected arrival against darkness instead of a turnaround countdown. The return estimate is now exact; it was 3-5% too short on hilly routes. Fixed: sunset a day early in UTC+13, lost distance when the app was closed mid-hike, GPS drift counting as distance while standing still, and settings on watches without a menu button (hold to open).",
+  "devices": 168,
+  "updates": 2
+ },
+ {
+  "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1",
+  "slug": "cadenzo",
+  "name": "Cadenzo - Practice Coach",
+  "desc": "A metronome tells you the tempo. Cadenzo tells you what to practise, at which tempo, and for how long — and then beats the time through your wrist so your ears stay free for the instrument.\n\nTwo things do the work. A three-up, one-down tempo ladder: three clean repetitions and the tempo goes up, one slip and it comes down. That rule settles around a 79 percent success rate, which is where you learn fastest. And a practice planner that divides the minutes you have by what you are forgetting quickest, using a retention curve per piece that lengthens every time you come back to it.\n\nWHAT IT DOES\n- Haptic beat from 30 to 260 bpm, with an accent on one and a weaker accent on the subdivision\n- Time signatures 2/4, 3/4, 4/4 and 6/8, subdivided in quarters, eighths, triplets or sixteenths\n- A tempo ladder that raises and lowers itself, with the step shrinking as you near your limit\n- Session planner: tell it how long you have, it tells you how to spend it and why\n- A forgetting bar per piece, so you can see what is draining\n- Tap tempo, a session log and a tempo trend per piece\n- Five languages, a glance with your next session, and a running session that survives closing the app\n\nWHAT IT NEEDS\n- A watch that can vibrate. Everything is worked out on the watch: no phone, no account, no internet\n- The beat runs off the system clock and corrects its own drift, so it stays tight over long sessions",
+  "nl": "Een metronoom geeft je het tempo. Cadenzo zegt wát je moet oefenen, op welk tempo en hoe lang — en tikt de maat door je pols, zodat je oren vrij blijven voor het instrument.\n\nTwee dingen doen het werk. Een tempotrap van drie-op, één-neer: drie foutloze herhalingen en het tempo gaat omhoog, één misser en het gaat omlaag. Die regel komt uit op ongeveer 79 procent succes, en dat is precies waar je het snelst leert. En een oefenplanner die de minuten die je hebt verdeelt over wat je het hardst aan het vergeten bent, met een retentiecurve per stuk die langer wordt elke keer dat je erop terugkomt.\n\nWAT HET DOET\n- Haptische maat van 30 tot 260 bpm, met een accent op tel 1 en een zwakker accent op de onderverdeling\n- Maatsoorten 2/4, 3/4, 4/4 en 6/8, onderverdeeld in kwarten, achtsten, triolen of zestienden\n- Een tempotrap die zichzelf op- en afschaalt, met een stap die krimpt naarmate je je grens nadert\n- Sessieplanner: zeg hoeveel tijd je hebt, hij zegt hoe je die besteedt en waarom\n- Een vergeetbalk per stuk, zodat je ziet wat er weglekt\n- Tik-tempo, een sessielog en een tempo-trend per stuk\n- Vijf talen, een glance met je volgende sessie, en een lopende sessie die het afsluiten van de app overleeft\n\nWAT HET NODIG HEEFT\n- Een horloge dat kan trillen. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- De maat loopt op de systeemklok en corrigeert zijn eigen drift, dus hij blijft strak over lange sessies",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "213",
+  "icon": "assets/icons/cadenzo.png",
+  "shots": [
+   "assets/shots/cadenzo-1.jpg",
+   "assets/shots/cadenzo-2.jpg"
+  ],
+  "changed": 1789409296000,
+  "whatsnew": "More precise beat: every vibration is now timed to the exact beat, on average within 3-4 ms instead of up to 50 ms late. The planner keeps scheduling every piece over the long run. Tempo lists use standard metronome markings, so 60, 120 and 132 can be selected. Plan and Trend now show all pieces. Fixed: the watch vibrating by itself after reopening, skipped pieces counting as practised, the screen turning off when stopping, and layout on round screens.",
+  "devices": 178,
+  "updates": 2
+ },
+ {
+  "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
+  "slug": "barocast",
+  "name": "Barocast - Barometer Forecast",
+  "desc": "Every barometer widget shows you a number and a line. Barocast tells you what the number means, and it does the one correction that makes the line trustworthy.\n\nAir pressure has a daily rhythm of its own: a semidiurnal tide of about a hectopascal, peaking around ten in the morning and ten at night. Leave it in and every normal afternoon dip reads as bad weather coming. Barocast takes it out first, reduces to sea level with the hypsometric formula, and then runs Zambretti's forecaster on pressure, trend, wind direction and season.\n\nWHAT IT DOES\n- Corrected pressure as one big number with a trend arrow\n- 24-hour graph from the watch's own pressure history\n- A forecast in words, with a confidence\n- Storm warning by vibration when the corrected fall passes 1.6 hPa an hour or 6 hPa in three\n- The daily pressure tide removed, so the trend actually means something\n- Altitude compensation, manual or from GPS\n- hPa, inHg or mmHg, and the trend over 1, 3, 6 and 12 hours\n- Five languages and a glance with pressure and arrow\n\nWHAT IT NEEDS\n- A watch with a barometer. Everything is worked out on the watch: no phone, no account, no internet",
+  "nl": "Elke barometer-widget laat je een getal en een lijntje zien. Barocast vertelt je wat dat getal betekent, en doet de ene correctie die het lijntje betrouwbaar maakt.\n\nLuchtdruk heeft zijn eigen dagritme: een halfdaags drukgetij van ongeveer een hectopascal, met toppen rond tien uur 's ochtends en tien uur 's avonds. Laat je dat erin zitten, dan leest elke normale middagdaling als slecht weer op komst. Barocast haalt het er eerst uit, rekent dan naar zeeniveau met de hypsometrische formule, en laat daarna de Zambretti-voorspeller los op druk, trend, windrichting en seizoen.\n\nWAT HET DOET\n- Gecorrigeerde druk als één groot getal met een trendpijl\n- 24-uurs grafiek uit de eigen drukgeschiedenis van het horloge\n- Een voorspelling in woorden, met een mate van zekerheid\n- Stormwaarschuwing met trilling als de gecorrigeerde daling voorbij 1,6 hPa per uur of 6 hPa in drie uur gaat\n- Het dagelijkse drukgetij eruit, zodat de trend echt iets zegt\n- Hoogtecompensatie, handmatig of uit GPS\n- hPa, inHg of mmHg, en de trend over 1, 3, 6 en 12 uur\n- Vijf talen en een glance met druk en pijl\n\nWAT HET NODIG HEEFT\n- Een horloge met barometer. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "215",
+  "icon": "assets/icons/barocast.png",
+  "shots": [
+   "assets/shots/barocast-1.jpg",
+   "assets/shots/barocast-2.jpg",
+   "assets/shots/barocast-3.jpg"
+  ],
+  "changed": 1789400723000,
+  "whatsnew": "New: Barocast now logs pressure every 15 minutes in the background and sends a storm alert even when the app is closed. Fixed: a small clock correction could wipe the 24-hour record. Without a GPS fix the tide correction no longer uses equator strength. The glance now uses the same storm thresholds as the app and greys out old readings. Sharper fonts on fenix 7/8 and text fits on small screens.",
+  "devices": 165,
+  "updates": 2
+ },
+ {
+  "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
+  "slug": "skyfix",
+  "name": "Skyfix - Point at the Sky",
+  "desc": "Star apps ask you to match a chart to the sky and work it out yourself. Skyfix does it the other way round: hold your wrist up towards something bright, and it tells you what you are looking at.\n\nThe compass gives the bearing, the accelerometer gives how far up you are pointing, and the app works out which object sits in that direction right now. Sun, moon and the five bright planets come from truncated VSOP87 and ELP-2000; about forty-five bright stars come from a table. All of it is computed on the watch, with refraction near the horizon taken into account.\n\nWHAT IT DOES\n- Aim mode: point, and read the name, altitude and compass direction\n- Tonight's list, sorted by how high each object stands\n- Rise, transit and set for every object\n- Moon phase with percentage, moonrise and moonset\n- Best viewing moment of the night, scored on altitude, moonlight and cloud\n- A compass rose that points you to the object you picked, with a tilt bar\n- Five languages and a glance\n\nWHAT IT NEEDS\n- A watch with a compass. Everything is worked out on the watch: no phone, no account, no internet\n- Calibrate the compass now and then, as you would for navigation",
+  "nl": "Sterrenapps laten je een kaart naast de hemel leggen en het zelf uitzoeken. Skyfix doet het omgekeerd: houd je pols omhoog naar iets helders en hij zegt waar je naar kijkt.\n\nHet kompas geeft de richting, de versnellingsmeter hoe ver omhoog je wijst, en de app rekent uit welk object daar nu staat. Zon, maan en de vijf heldere planeten komen uit een afgekapte VSOP87 en ELP-2000; zo'n vijfenveertig heldere sterren uit een tabel. Alles wordt op het horloge gerekend, met refractie dicht bij de horizon meegenomen.\n\nWAT HET DOET\n- Richtmodus: wijs, en lees naam, hoogte en kompasrichting\n- Lijst van vanavond, gesorteerd op hoe hoog elk object staat\n- Opkomst, doorgang en ondergang per object\n- Maanfase met percentage, maansopkomst en -ondergang\n- Beste kijkmoment van de nacht, gewogen op hoogte, maanlicht en bewolking\n- Kompasroos die naar het gekozen object wijst, met hoogtebalk\n- Vijf talen en een glance\n\nWAT HET NODIG HEEFT\n- Een horloge met kompas. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Kalibreer het kompas af en toe, zoals je voor navigatie zou doen",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "256",
+  "icon": "assets/icons/skyfix.png",
+  "shots": [
+   "assets/shots/skyfix-1.jpg",
+   "assets/shots/skyfix-2.jpg",
+   "assets/shots/skyfix-3.jpg"
+  ],
+  "changed": 1789408399000,
+  "whatsnew": "Fixed: setting times were a day late for objects past their highest point, which also shifted the Tonight page. The waning moon was drawn mirrored, and on the wrong side in the southern hemisphere. Moon altitude now includes parallax (up to 0.9° more accurate). A fresh GPS fix is taken at every start, and the glance no longer shows an old target. Sharper fonts on fenix 7/8 and better text fit on small screens.",
+  "devices": 167,
+  "updates": 2
+ },
+ {
+  "id": "d66900af-a149-4309-a7f1-3bdb70eced57",
+  "slug": "kedge",
+  "name": "Kedge - Anchor Watch",
+  "desc": "An anchor alarm that goes off every time the boat swings is an anchor alarm you switch off. Kedge is built around the one question that matters at two in the morning: is the boat swinging on its chain, or is the anchor actually dragging?\n\nIt answers that from the direction you move, not from a single line on a chart. Swinging scatters your positions all around the anchor; dragging walks them one way. Kedge watches a window of fixes and only wakes you when they agree on a direction. The swing circle is not a guess either: it follows the rode you let out and the depth you are lying in.\n\nWHAT IT DOES\n- Sets the anchor as a weighted average of ten GPS fixes, not one, so the centre of your circle is where the anchor really is\n- Works out the swing radius from chain out, depth and boat length, plus the uncertainty of the fix itself\n- Tells swinging from dragging by the spread of your bearings, so it sleeps through a normal night on the hook\n- One screen at a glance: the swing circle, your boat as a dot, the trail of the last positions, and the distance from the anchor as one big number\n- Long vibration and tone when it is real, with a ten minute snooze\n- Night summary: hours at anchor, widest swing, and the direction the boat lies\n- Rode, depth, boat length and radius all adjustable on the wrist, with wet hands, on START and MENU alone\n- Metres or feet, following your watch\n- A watch in progress survives closing the app\n- English, Dutch, German, French and Spanish\n\nWHAT IT NEEDS\n- GPS. Everything is worked out on the watch: no phone, no account, no internet\n- Keep the watch on charge overnight if you want a full night of watching\n- Kedge is an aid, not a substitute for keeping a proper anchor watch",
+  "nl": "Een ankeralarm dat afgaat elke keer dat de boot zwaait, is een ankeralarm dat je uitzet. Kedge is gebouwd rond de enige vraag die om twee uur 's nachts telt: zwaait de boot om zijn ketting, of krabt het anker echt?\n\nDat antwoord komt uit de richting waarin je wegloopt, niet uit één lijn op een kaart. Zwaaien strooit je posities rondom het anker; krabben laat ze één kant op lopen. Kedge bekijkt een venster fixes en maakt je alleen wakker als die het over een richting eens zijn. De zwaaicirkel is ook geen gok: die volgt de ketting die je hebt gestoken en de diepte waarin je ligt.\n\nWAT HET DOET\n- Zet het anker als gewogen gemiddelde van tien gps-fixes, niet één, zodat het middelpunt van je cirkel ligt waar het anker echt ligt\n- Rekent de zwaairadius uit ketting, diepte en bootlengte, plus de onzekerheid van de fix zelf\n- Onderscheidt zwaaien van krabben aan de spreiding van je peilingen, dus hij slaapt een normale nacht voor anker door\n- Eén scherm: de zwaaicirkel, je boot als stip, het spoor van de laatste posities, en de afstand tot het anker als één groot getal\n- Lange trilling en toon als het echt is, met tien minuten snooze\n- Nachtoverzicht: uren voor anker, grootste zwaai, en hoe de boot ligt\n- Ketting, diepte, bootlengte en radius op het horloge in te stellen, met natte handen, met alleen START en MENU\n- Meters of voet, volgt je horloge\n- Een lopende wacht overleeft het afsluiten van de app\n- Engels, Nederlands, Duits, Frans en Spaans\n\nWAT HET NODIG HEEFT\n- GPS. Alles wordt op het horloge berekend: geen telefoon, geen account, geen internet\n- Houd het horloge 's nachts aan de lader als je een hele nacht wilt waken\n- Kedge is een hulpmiddel, geen vervanging van een goede ankerwacht",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.1.0",
+  "category": "247",
+  "icon": "assets/icons/kedge.png",
+  "shots": [
+   "assets/shots/kedge-1.jpg",
+   "assets/shots/kedge-2.jpg",
+   "assets/shots/kedge-3.jpg"
+  ],
+  "changed": 1789399033000,
+  "whatsnew": "Much more reliable drag alarm. The drag test now uses two minutes of positions, so swinging at anchor no longer causes false alarms, while a sudden jump far outside the circle still alarms within seconds. The alarm repeats every 15 s until you respond, snooze lasts 10 minutes, and there is a new alarm tone setting. During a watch, press Back twice to close the app. New 'waiting for fix' warning when GPS drops out. Fixed: chain length in feet, anchoring near the date line, a glance crash and menu values.",
+  "devices": 175,
+  "updates": 2
+ },
+ {
   "id": "f9151c72-b578-40df-af86-a2b9830b4b71",
   "slug": "lexil",
   "name": "Lexil - Word Puzzle",
@@ -9,7 +215,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "206",
   "icon": "assets/icons/lexil.png",
   "shots": [
@@ -19,10 +225,10 @@
    "assets/shots/lexil-4.jpg",
    "assets/shots/lexil-5.jpg"
   ],
-  "changed": 1789044017000,
-  "whatsnew": "",
+  "changed": 1789403824000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "98727840-961a-4649-83ed-7b31520f9525",
@@ -34,7 +240,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "206",
   "icon": "assets/icons/coglet.png",
   "shots": [
@@ -43,10 +249,10 @@
    "assets/shots/coglet-3.jpg",
    "assets/shots/coglet-4.jpg"
   ],
-  "changed": 1789043670000,
-  "whatsnew": "",
+  "changed": 1789403317000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "c867b0b4-932e-427f-9f15-c803d3c61b5e",
@@ -58,7 +264,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "206",
   "icon": "assets/icons/verdix.png",
   "shots": [
@@ -68,10 +274,10 @@
    "assets/shots/verdix-4.jpg",
    "assets/shots/verdix-5.jpg"
   ],
-  "changed": 1789043314000,
-  "whatsnew": "",
+  "changed": 1789404280000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "12a9c39d-9abb-427d-9b9d-c548d880811b",
@@ -82,8 +288,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
-  "version": "1.0.0",
+  "downloads": 10,
+  "version": "1.0.2",
   "category": "206",
   "icon": "assets/icons/pixara.png",
   "shots": [
@@ -93,10 +299,10 @@
    "assets/shots/pixara-4.jpg",
    "assets/shots/pixara-5.jpg"
   ],
-  "changed": 1789042898000,
-  "whatsnew": "",
+  "changed": 1789404063000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 1
+  "updates": 3
  },
  {
   "id": "a163fbe8-c744-4840-81b6-f303c0a2830d",
@@ -108,7 +314,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "206",
   "icon": "assets/icons/sweepr.png",
   "shots": [
@@ -118,10 +324,10 @@
    "assets/shots/sweepr-4.jpg",
    "assets/shots/sweepr-5.jpg"
   ],
-  "changed": 1789042327000,
-  "whatsnew": "",
+  "changed": 1789401136000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "8eb91174-006f-419b-9992-fcf86c90aaa2",
@@ -133,7 +339,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "category": "220",
   "icon": "assets/icons/hounded.png",
   "shots": [
@@ -143,10 +349,10 @@
    "assets/shots/hounded-4.jpg",
    "assets/shots/hounded-5.jpg"
   ],
-  "changed": 1788951203000,
-  "whatsnew": "New app icon: the hound from the app itself.",
+  "changed": 1789401692000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 1
+  "updates": 3
  },
  {
   "id": "9a0f0939-945e-44e3-8085-d42ee659e150",
@@ -169,7 +375,7 @@
    "assets/shots/spire-5.jpg"
   ],
   "changed": 1789314236000,
-  "whatsnew": "The app list on the watch now shows just the name.",
+  "whatsnew": "Refreshed store images.",
   "devices": 62,
   "updates": 2
  },
@@ -183,7 +389,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "217",
   "icon": "assets/icons/radar.png",
   "shots": [
@@ -193,10 +399,10 @@
    "assets/shots/radar-4.jpg",
    "assets/shots/radar-5.jpg"
   ],
-  "changed": 1788946421000,
-  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
+  "changed": 1789410637000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8",
@@ -208,7 +414,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "219",
   "icon": "assets/icons/adapt.png",
   "shots": [
@@ -218,10 +424,10 @@
    "assets/shots/adapt-4.jpg",
    "assets/shots/adapt-5.jpg"
   ],
-  "changed": 1788945798000,
-  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
+  "changed": 1789401425000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065",
@@ -233,7 +439,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "277",
   "icon": "assets/icons/recover.png",
   "shots": [
@@ -243,10 +449,10 @@
    "assets/shots/recover-4.jpg",
    "assets/shots/recover-5.jpg"
   ],
-  "changed": 1788945969000,
-  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
+  "changed": 1789402646000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce",
@@ -282,8 +488,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.2",
+  "downloads": 100,
+  "version": "1.0.3",
   "category": "220",
   "icon": "assets/icons/racecast.png",
   "shots": [
@@ -293,10 +499,10 @@
    "assets/shots/racecast-4.jpg",
    "assets/shots/racecast-5.jpg"
   ],
-  "changed": 1788946269000,
-  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
+  "changed": 1789410436000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c",
@@ -307,7 +513,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.1",
   "category": "208",
   "icon": "assets/icons/pitstop.png",
@@ -333,7 +539,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "200",
   "icon": "assets/icons/podium.png",
   "shots": [
@@ -343,10 +549,10 @@
    "assets/shots/podium-4.jpg",
    "assets/shots/podium-5.jpg"
   ],
-  "changed": 1788935874000,
-  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
+  "changed": 1789410067000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "8a3e833b-11ae-42de-9221-f397907e33a6",
@@ -358,7 +564,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "212",
   "icon": "assets/icons/strike.png",
   "shots": [
@@ -368,10 +574,10 @@
    "assets/shots/strike-4.jpg",
    "assets/shots/strike-5.jpg"
   ],
-  "changed": 1788366901000,
+  "changed": 1789314337000,
   "whatsnew": "The app list on the watch now shows just the name.",
   "devices": 167,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "7b530ce0-2510-4669-b06e-abc0b2448567",
@@ -383,7 +589,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "204",
   "icon": "assets/icons/spent.png",
   "shots": [
@@ -393,10 +599,10 @@
    "assets/shots/spent-4.jpg",
    "assets/shots/spent-5.jpg"
   ],
-  "changed": 1789314140000,
-  "whatsnew": "The app list on the watch now shows just the name.",
+  "changed": 1789403119000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 59,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "acf0e837-8f06-42c0-a1b7-62275ac792fc",
@@ -408,7 +614,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "2.0.5",
+  "version": "2.0.6",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -418,10 +624,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1789314028000,
-  "whatsnew": "The app list on the watch now shows just the name.",
+  "changed": 1789402156000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 54,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
@@ -458,7 +664,7 @@
   "rating": 4.3,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.4",
+  "version": "1.5",
   "category": "204",
   "icon": "assets/icons/shiftpay.png",
   "shots": [
@@ -467,10 +673,10 @@
    "assets/shots/shiftpay-3.jpg",
    "assets/shots/shiftpay-4.jpg"
   ],
-  "changed": 1788682503000,
-  "whatsnew": "- A night shift is now logged on the day it started, not the morning it ended\n- Day totals and 7-day sums stay correct across the daylight-saving change\n",
+  "changed": 1789402949000,
+  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
   "devices": 205,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "a1845d8e-d596-4d4a-9549-9ffa109926a2",
@@ -821,8 +1027,8 @@
   "desc": "REDLINE - RACING FACE\nEvery second, full throttle.\n\nYour wrist becomes a racing dashboard. The dial around the edge is a real\ntachometer counting the seconds: the needle climbs into the red zone at the\nend of every minute, then snaps back to zero like a gear shift.\n\nBUILT LIKE A COCKPIT\n- Tachometer border with an amber needle sweeping the seconds (it shows the\n  minutes in always-on mode, so it never stands still)\n- Big amber digital time and date, styled like a dashboard display\n- LCD panel with GEAR, heart rate and steps: your GEAR is your live heart\n  rate zone (1-5) - push harder, shift up\n- BAT instrument: battery shown in DAYS remaining, red zone when running\n  on empty\n- KM instrument: today's distance racing toward the 10K redline\n\nDESIGNED FOR AMOLED\nPure black background, warm amber and racing red - and in always-on mode\nthe whole dashboard stays visible, dimmed to half brightness.\n\nQuestions or ideas? Leave a review or contact the developer.",
   "nl": "REDLINE - RACING FACE\nElke seconde vol gas.\n\nJe pols wordt een racedashboard. De ring langs de rand is een echte toerenteller die de seconden telt: de naald klimt aan het eind van elke minuut het rode gebied in en klapt dan terug naar nul, als een schakelmoment.\n\nGEBOUWD ALS EEN COCKPIT\n- Toerenteller-rand met een amberkleurige naald die de seconden veegt (in always-on-modus toont hij de minuten, dus hij staat nooit stil)\n- Grote amberkleurige digitale tijd en datum, in dashboard-stijl\n- LCD-paneel met GEAR, hartslag en stappen: je GEAR is je actuele hartslagzone (1-5) - ga harder, schakel op\n- BAT-instrument: batterij weergegeven in resterende DAGEN, rood gebied als de tank bijna leeg is\n- KM-instrument: de afstand van vandaag, racend naar de redline op 10 km\n\nONTWORPEN VOOR AMOLED\nPuur zwarte achtergrond, warm amber en racing-rood - en in always-on-modus blijft het hele dashboard zichtbaar, gedimd naar halve helderheid.\n\nVragen of ideeën? Laat een review achter of neem contact op met de ontwikkelaar.",
   "type": "1",
-  "rating": 4.5,
-  "reviews": 6,
+  "rating": 4.1,
+  "reviews": 7,
   "downloads": 100,
   "version": "1.4",
   "category": "168",
@@ -961,97 +1167,6 @@
   "updates": 29
  },
  {
-  "id": "d66900af-a149-4309-a7f1-3bdb70eced57",
-  "slug": "kedge",
-  "name": "Kedge - Anchor Watch",
-  "desc": "An anchor alarm that goes off every time the boat swings is an anchor alarm you switch off. Kedge is built around the one question that matters at two in the morning: is the boat swinging on its chain, or is the anchor actually dragging?\n\nIt answers that from the direction you move, not from a single line on a chart. Swinging scatters your positions all around the anchor; dragging walks them one way. Kedge watches a window of fixes and only wakes you when they agree on a direction. The swing circle is not a guess either: it follows the rode you let out and the depth you are lying in.\n\nWHAT IT DOES\n- Sets the anchor as a weighted average of ten GPS fixes, not one, so the centre of your circle is where the anchor really is\n- Works out the swing radius from chain out, depth and boat length, plus the uncertainty of the fix itself\n- Tells swinging from dragging by the spread of your bearings, so it sleeps through a normal night on the hook\n- One screen at a glance: the swing circle, your boat as a dot, the trail of the last positions, and the distance from the anchor as one big number\n- Long vibration and tone when it is real, with a ten minute snooze\n- Night summary: hours at anchor, widest swing, and the direction the boat lies\n- Rode, depth, boat length and radius all adjustable on the wrist, with wet hands, on START and MENU alone\n- Metres or feet, following your watch\n- A watch in progress survives closing the app\n- English, Dutch, German, French and Spanish\n\nWHAT IT NEEDS\n- GPS. Everything is worked out on the watch: no phone, no account, no internet\n- Keep the watch on charge overnight if you want a full night of watching\n- Kedge is an aid, not a substitute for keeping a proper anchor watch",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/kedge.png",
-  "shots": [
-   "assets/shots/kedge-1.jpg",
-   "assets/shots/kedge-2.jpg",
-   "assets/shots/kedge-3.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
-  "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
-  "slug": "skyfix",
-  "name": "Skyfix - Point at the Sky",
-  "desc": "Star apps ask you to match a chart to the sky and work it out yourself. Skyfix does it the other way round: hold your wrist up towards something bright, and it tells you what you are looking at.\n\nThe compass gives the bearing, the accelerometer gives how far up you are pointing, and the app works out which object sits in that direction right now. Sun, moon and the five bright planets come from truncated VSOP87 and ELP-2000; about forty-five bright stars come from a table. All of it is computed on the watch, with refraction near the horizon taken into account.\n\nWHAT IT DOES\n- Aim mode: point, and read the name, altitude and compass direction\n- Tonight's list, sorted by how high each object stands\n- Rise, transit and set for every object\n- Moon phase with percentage, moonrise and moonset\n- Best viewing moment of the night, scored on altitude, moonlight and cloud\n- A compass rose that points you to the object you picked, with a tilt bar\n- Five languages and a glance\n\nWHAT IT NEEDS\n- A watch with a compass. Everything is worked out on the watch: no phone, no account, no internet\n- Calibrate the compass now and then, as you would for navigation",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/skyfix.png",
-  "shots": [
-   "assets/shots/skyfix-1.jpg",
-   "assets/shots/skyfix-2.jpg",
-   "assets/shots/skyfix-3.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
-  "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
-  "slug": "barocast",
-  "name": "Barocast - Barometer Forecast",
-  "desc": "Every barometer widget shows you a number and a line. Barocast tells you what the number means, and it does the one correction that makes the line trustworthy.\n\nAir pressure has a daily rhythm of its own: a semidiurnal tide of about a hectopascal, peaking around ten in the morning and ten at night. Leave it in and every normal afternoon dip reads as bad weather coming. Barocast takes it out first, reduces to sea level with the hypsometric formula, and then runs Zambretti's forecaster on pressure, trend, wind direction and season.\n\nWHAT IT DOES\n- Corrected pressure as one big number with a trend arrow\n- 24-hour graph from the watch's own pressure history\n- A forecast in words, with a confidence\n- Storm warning by vibration when the corrected fall passes 1.6 hPa an hour or 6 hPa in three\n- The daily pressure tide removed, so the trend actually means something\n- Altitude compensation, manual or from GPS\n- hPa, inHg or mmHg, and the trend over 1, 3, 6 and 12 hours\n- Five languages and a glance with pressure and arrow\n\nWHAT IT NEEDS\n- A watch with a barometer. Everything is worked out on the watch: no phone, no account, no internet",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/barocast.png",
-  "shots": [
-   "assets/shots/barocast-1.jpg",
-   "assets/shots/barocast-2.jpg",
-   "assets/shots/barocast-3.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
-  "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1",
-  "slug": "cadenzo",
-  "name": "Cadenzo - Practice Coach",
-  "desc": "A metronome tells you the tempo. Cadenzo tells you what to practise, at which tempo, and for how long - and then beats the time through your wrist so your ears stay free for the instrument.\n\nTwo things do the work. A three-up, one-down tempo ladder: three clean repetitions and the tempo goes up, one slip and it comes down. That rule settles around a 79 percent success rate, which is where you learn fastest. And a practice planner that divides the minutes you have by what you are forgetting quickest, using a retention curve per piece that lengthens every time you come back to it.\n\nWHAT IT DOES\n- Haptic beat from 30 to 260 bpm, with an accent on one and a weaker accent on the subdivision\n- Time signatures 2/4, 3/4, 4/4 and 6/8, subdivided in quarters, eighths, triplets or sixteenths\n- A tempo ladder that raises and lowers itself, with the step shrinking as you near your limit\n- Session planner: tell it how long you have, it tells you how to spend it and why\n- A forgetting bar per piece, so you can see what is draining\n- Tap tempo, a session log and a tempo trend per piece\n- Five languages, a glance with your next session, and a running session that survives closing the app\n\nWHAT IT NEEDS\n- A watch that can vibrate. Everything is worked out on the watch: no phone, no account, no internet\n- The beat runs off the system clock and corrects its own drift, so it stays tight over long sessions",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/cadenzo.png",
-  "shots": [
-   "assets/shots/cadenzo-1.jpg",
-   "assets/shots/cadenzo-2.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
   "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf",
   "slug": "flexa",
   "name": "Flexa - Range of Motion",
@@ -1075,29 +1190,6 @@
   "updates": 1
  },
  {
-  "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
-  "slug": "halflight",
-  "name": "Halflight - Turnaround Time",
-  "desc": "Most hikers find out too late that the way back is longer than the way out. Halflight records your climb as you walk it, works out what the return leg will cost at your own measured pace, and counts down to the last minute you can still turn around and be off the mountain before the light goes.\n\nIt is not a daylight widget. It fits Tobler's hiking function to the pace you are actually walking today, adds the Naismith and Langmuir corrections for the descent, replays your own recorded profile in reverse, and computes civil dusk for your exact position. When the margin runs out it says TURN BACK, on the wrist, without a phone.\n\nWHAT IT DOES\n- Live turnaround time: the last minute you can keep going\n- Your real pace versus Tobler, updated as you climb\n- Return time from your own recorded ascent profile, in reverse\n- Civil dusk or sunset as the target, computed on the watch\n- Adjustable safety margin and an early warning with vibration\n- A summary of distance, climb, descent and pace for the walk\n- Five languages and a glance\n\nWHAT IT NEEDS\n- GPS. Everything is worked out on the watch: no phone, no account, no internet\n- Halflight is a planning aid, not a substitute for a map, a headlamp and your own judgement",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/halflight.png",
-  "shots": [
-   "assets/shots/halflight-1.jpg",
-   "assets/shots/halflight-2.jpg",
-   "assets/shots/halflight-3.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
   "slug": "pawcast",
   "name": "Pawcast - Dog Walk Window",
@@ -1114,98 +1206,6 @@
    "assets/shots/pawcast-1.jpg",
    "assets/shots/pawcast-2.jpg",
    "assets/shots/pawcast-3.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
-  "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
-  "slug": "platewise",
-  "name": "Platewise - Dinner, All At Once",
-  "desc": "A multi timer tells you when something is done. Platewise tells you when to start. You set the time you want to serve, pick your dishes, and it works backwards into a single timeline: what goes in the oven when, what goes on which hob, what can wait and what needs doing now.\n\nThe engine is not a countdown. Roasting times come from weight and doneness including the rest, boiling times are corrected for the boiling point at your altitude (from the barometer or set by hand), and the plan is fitted to your number of hobs and one oven temperature. If two oven dishes clash on temperature it says so and pulls one forward. If you are running late, it replans the whole meal around the new serving time.\n\nWHAT IT DOES\n- One timeline for the whole meal, worked backwards from serving\n- Dish catalogue plus a roast by weight, doneness and resting time\n- Boiling point correction by altitude: at 1500 m potatoes really do take longer\n- Hobs and oven as a constraint, with a clash warning and a suggestion\n- \"Running late\": move the serving time and everything moves with it\n- Notifications with vibration for every step, even with the app closed\n- Five languages and a glance showing the next thing to do\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- The barometer is used for altitude; you can also enter it yourself",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/platewise.png",
-  "shots": [
-   "assets/shots/platewise-1.jpg",
-   "assets/shots/platewise-2.jpg",
-   "assets/shots/platewise-3.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
-  "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
-  "slug": "cutwise",
-  "name": "Cutwise - Cut Plan & Sheets",
-  "desc": "On site the phone is in the van and your hands are dirty. Cutwise puts your cut list on your wrist and works out how many sheets or lengths you need, how to cut them, and how much waste is left over.\n\nIt is a real optimiser, not a calculator. For battens and studs it solves the one-dimensional cutting stock problem, for sheet goods the two-dimensional one, using first-fit-decreasing plus a bounded local search that improves the solution further. Saw kerf goes into every cut - forget it and the last piece is three millimetres short - and grain direction can be locked so a part is never rotated. The cut plan comes out sheet by sheet, cuts in order, with a tick box per piece.\n\nWHAT IT DOES\n- Number of sheets or bars, waste percentage and the plan for each one\n- 1D for battens, studs and pipe; 2D for sheet, plywood and MDF\n- Saw kerf as a hard constraint, millimetres or inches\n- Grain direction lockable per part\n- Standard stock sizes plus your own size\n- Saved projects you can reopen, with ticking off as you cut\n- Five languages and a glance showing sheet count and waste\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/cutwise.png",
-  "shots": [
-   "assets/shots/cutwise-1.jpg",
-   "assets/shots/cutwise-2.jpg",
-   "assets/shots/cutwise-3.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
-  "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
-  "slug": "circada",
-  "name": "Circada - Shift Work Sleep",
-  "desc": "Shift work apps hand you general sleep advice. Circada works with your actual rota. You enter your shifts - early, late, night, off - and it predicts how alert you will be, hour by hour, including the dip that arrives at 4 am.\n\nThe engine is the two-process model: a sleep pressure that builds while you are awake and drains while you sleep, plus a body clock that does not simply follow your rota. A phase response curve decides how far your clock shifts each day from light or darkness, and caffeine runs through the model as first-order pharmacokinetics with a half life. Out of that comes a concrete plan: when to sleep, how long to nap, when to seek light, when to wear shades on the way home, and how late your last cup can be.\n\nWHAT IT DOES\n- Alertness now and per hour, with the low points named\n- A forecast for 4 am and for every hour of your shift\n- A sleep and nap plan per day, fitted to the next shift\n- Light and darkness advice to shift your clock or hold it\n- Caffeine window: how many mg on board and when the last cup is\n- A week view with your rota and the alertness you can expect\n- Five languages and a glance with the next action\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- Circada is a planning aid, not medical advice for a sleep disorder",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/circada.png",
-  "shots": [
-   "assets/shots/circada-1.jpg",
-   "assets/shots/circada-2.jpg",
-   "assets/shots/circada-3.jpg"
-  ],
-  "changed": null,
-  "whatsnew": "",
-  "devices": 0,
-  "updates": 1
- },
- {
-  "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
-  "slug": "studo",
-  "name": "Studo - Study Blocks",
-  "desc": "Most study timers count down twenty-five minutes and leave the rest to you. Studo also works out what to study today and how long you can actually focus, and it keeps running when you walk away from the app.\n\nYou enter your subjects with their exam dates and how much is still left, plus the minutes you have on each weekday. Studo turns that into today's plan: which subject gets which block, interleaved instead of one subject all afternoon. After every block you rate it with one tap, and a forgetting curve per subject decides when old material has to come back so it is still there on the exam day. The block length follows you as well: three blocks you sit out and it grows, one block you cut short and it shrinks. On watches with Body Battery it shortens the block when your tank is low.\n\nWHAT IT DOES\n- Focus blocks and breaks that run on the clock, so a session survives leaving the app, closing it or a restart\n- Today's plan: which subject, how many blocks, in what order\n- A forgetting curve per subject, so week one is still there in week six\n- Block length that adapts to you, using Body Battery and stress where the watch has them\n- Exam list with days left and how ready you are on the day\n- Fourteen days of statistics: minutes a day, blocks finished against blocks cut short, your own block length, streak\n- A distraction counter, one tap per slip\n- A long break every few blocks, every length adjustable on the watch itself\n- Four vibration patterns with a test button\n- A plain 25/5 timer mode if you would rather not enter subjects at all\n- Five languages and a glance\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- Body Battery and stress are used where the watch has them; without them the block length still follows how your blocks go",
-  "nl": "",
-  "type": "2",
-  "rating": null,
-  "reviews": 0,
-  "downloads": 0,
-  "version": "1.0.0",
-  "category": null,
-  "icon": "assets/icons/studo.png",
-  "shots": [
-   "assets/shots/studo-1.jpg",
-   "assets/shots/studo-2.jpg",
-   "assets/shots/studo-3.jpg"
   ],
   "changed": null,
   "whatsnew": "",
