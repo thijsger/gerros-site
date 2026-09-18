@@ -1,6 +1,6 @@
 # GerrOS
 
-> GerrOS is an independent one-person studio in Den Dolder, the Netherlands, run by Thijs Gerritsen. It publishes 50 apps and watch faces for Garmin watches (Connect IQ) and builds custom Garmin Connect IQ and Wear OS apps to order at a fixed quote.
+> GerrOS is an independent one-person studio in Den Dolder, the Netherlands, run by Thijs Gerritsen. It publishes 51 apps and watch faces for Garmin watches (Connect IQ) and builds custom Garmin Connect IQ and Wear OS apps to order at a fixed quote.
 
 Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.html · Connect IQ developer page: https://apps.garmin.com/developer/de6acef4-c127-4cf2-84bc-baccde5f8b16/apps
 
@@ -21,7 +21,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 **How is the price built up?** From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.
 **Do you do NDAs and invoices?** Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.
 
-## Published apps (50, all run on the watch without a phone, account or subscription; EN/NL/DE/FR/ES)
+## Published apps (51, all run on the watch without a phone, account or subscription; EN/NL/DE/FR/ES)
 
 - [Smokeless](https://gerros.app/apps/smokeless.html): Quit-smoking tracker with cravings and savings. Health & habits, version 1.6, store: https://apps.garmin.com/apps/be12dc0d-65b0-46e8-be2e-7677289ca9fe. Rating 5.0/5 from 3 reviews.
 - [Fasted](https://gerros.app/apps/fasted.html): Intermittent fasting timer, from 16:8 to Ramadan. Health & habits, version 2.1, store: https://apps.garmin.com/apps/cec46a63-db0b-4506-b046-2a59e120d2d0. Rating 3.9/5 from 7 reviews.
@@ -33,7 +33,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [RallyPoint](https://gerros.app/apps/rallypoint.html): Score tracker for padel, tennis, pickleball and more. Sport & outdoors, version 2.7, store: https://apps.garmin.com/apps/ba8e2555-cf31-45fe-8876-68a4f3b2cbb6. Rating 3.8/5 from 13 reviews.
 - [Strike](https://gerros.app/apps/strike.html): Bowling scoreboard with splits and six players. Sport & outdoors, version 1.0.1, store: https://apps.garmin.com/apps/8a3e833b-11ae-42de-9221-f397907e33a6. Rating 5.0/5 from 1 reviews.
 - [Zeitnot](https://gerros.app/apps/zeitnot.html): Chess clock with Fischer, Bronstein and delay. Sport & outdoors, version 1.0.1, store: https://apps.garmin.com/apps/409882ba-56a0-4730-b224-9ebb55e5a9f2. Rating 5.0/5 from 1 reviews.
-- [Speedometer Pro](https://gerros.app/apps/speedometer-pro.html): GPS speedometer with ten instrument faces. Sport & outdoors, version 1.4, store: https://apps.garmin.com/apps/9f23b16c-4816-43e4-b467-8aac293d0d31. Rating 4.1/5 from 7 reviews.
+- [Speedometer Pro](https://gerros.app/apps/speedometer-pro.html): GPS speedometer with ten instrument faces. Sport & outdoors, version 1.4, store: https://apps.garmin.com/apps/9f23b16c-4816-43e4-b467-8aac293d0d31. Rating 4.3/5 from 8 reviews.
 - [AltiZone](https://gerros.app/apps/altizone.html): Barometric altimeter with colour zones and alarms. Sport & outdoors, version 1.6, store: https://apps.garmin.com/apps/b651a1e9-7f33-41c3-a477-42c5037e5f67. Rating 5.0/5 from 3 reviews.
 - [SpotSave](https://gerros.app/apps/spotsave.html): Save a spot and find your way back. Sport & outdoors, version 1.8, store: https://apps.garmin.com/apps/fa5c4134-fea5-4f57-b6ae-9c86facad9a2. Rating 3.3/5 from 7 reviews.
 - [Reactr](https://gerros.app/apps/reactr.html): Reaction-time trainer with a world ranking. Sport & outdoors, version 1.4, store: https://apps.garmin.com/apps/b3c49541-6aba-49c8-a271-ee0a4967ee79. Rating 5.0/5 from 3 reviews.
@@ -73,6 +73,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Cutwise](https://gerros.app/apps/cutwise.html): Cut plan and sheet count for sawing. Everyday tools, version 1.1.0, store: https://apps.garmin.com/apps/987e9b3a-8f50-4020-9ec0-2d9c086cbed5. Status: in review.
 - [Circada](https://gerros.app/apps/circada.html): Sleep, light and caffeine planner for shift work. Health & habits, version 1.1.0, store: https://apps.garmin.com/apps/814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69. Status: in review.
 - [Studo](https://gerros.app/apps/studo.html): Study blocks planned around your exams. Everyday tools, version 1.1.0, store: https://apps.garmin.com/apps/7d7974bd-7735-4268-9440-7c7b6433aad7. Status: in review.
+- [Cyra](https://gerros.app/apps/cyra.html): Cycle tracking with training suggestions. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/bb58d388-2f00-4ad2-a768-f665f372e436. Status: in review.
 
 ## Pages
 

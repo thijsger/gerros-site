@@ -312,6 +312,13 @@
    "cat": "tools",
    "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
    "pending": true
+  },
+  "cyra": {
+   "title": "Cyra",
+   "tag": "Cycle tracking with training suggestions",
+   "cat": "health",
+   "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
+   "pending": true
   }
  },
  "wearos": [
