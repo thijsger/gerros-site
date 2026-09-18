@@ -73,7 +73,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Cutwise](https://gerros.app/apps/cutwise.html): Cut plan and sheet count for sawing. Everyday tools, version 1.1.0, store: https://apps.garmin.com/apps/987e9b3a-8f50-4020-9ec0-2d9c086cbed5. Status: in review.
 - [Circada](https://gerros.app/apps/circada.html): Sleep, light and caffeine planner for shift work. Health & habits, version 1.1.0, store: https://apps.garmin.com/apps/814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69. Status: in review.
 - [Studo](https://gerros.app/apps/studo.html): Study blocks planned around your exams. Everyday tools, version 1.1.0, store: https://apps.garmin.com/apps/7d7974bd-7735-4268-9440-7c7b6433aad7. Status: in review.
-- [Cyra](https://gerros.app/apps/cyra.html): Cycle tracking with training suggestions. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/bb58d388-2f00-4ad2-a768-f665f372e436. Status: in review.
+- [Cyra](https://gerros.app/apps/cyra.html): Menstrual cycle and period tracker with training suggestions. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/bb58d388-2f00-4ad2-a768-f665f372e436. Status: in review.
 
 ## Pages
 
