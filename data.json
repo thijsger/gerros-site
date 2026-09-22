@@ -1,5 +1,212 @@
 [
  {
+  "id": "1bebbca2-3389-4b1f-968d-d24553c1dd96",
+  "slug": "marks",
+  "name": "Marks - Archery sight marks",
+  "desc": "Marks turns a handful of known sight settings into a full table of marks, for every distance and for each bow you shoot. You give it the mark you use at twenty metres and the one at forty; it fits a curve through those points with least squares and reads off everything in between and a good way beyond. The residual of every point is shown next to it, so a number you typed wrong stands out instead of quietly bending the whole curve.\n\nOn a field course the ground is rarely flat. Point your bow arm at the target, hold still for a second and tap: the watch reads the slope from gravity, averages it over that second and works out the distance the shot behaves like, using the improved rifleman's rule. NFAA Field, NFAA Hunter and WA Field are built in with their faces and distances, and you can enter a course of your own. Step forward and back through the targets and the mark for the one in front of you is on screen before you nock.\n\nWHAT IT DOES\n- Two or more calibration points per bow, fitted with least squares: a straight line at two points, a curve at three or more\n- The residual per point, so a wrong entry shows itself instead of spoiling the whole curve\n- A mark for any distance, in steps of one metre or one yard, with a table you can scroll\n- Angle cut measured from the accelerometer, averaged over a second and confirmed with a tap, or entered by hand\n- Effective distance from the improved rifleman's rule, following the curve of your own sight tape\n- NFAA Field, NFAA Hunter, WA Field marked and unmarked, plus a course of your own, with an optional score per target\n- Up to eight bows with their own points, metres or yards, five languages, and a glance with the active bow and the last mark\n\nWHAT IT NEEDS\n- At least two known sight settings for one bow: a distance and the mark you shoot there\n- No phone, no signal, no account — everything is worked out on the watch",
+  "nl": "Marks maakt van een handvol bekende vizierstanden een complete marktabel, voor elke afstand en voor elke boog die je schiet. Je geeft de stand die je op twintig meter gebruikt en die op veertig; door die punten legt hij met kleinste kwadraten een kromme en leest alles ertussen en een flink eind erbuiten af. Het residu van elk punt staat ernaast, zodat een verkeerd ingetikt getal opvalt in plaats van stilletjes de hele kromme scheef te trekken.\n\nOp een veldparcours is de grond zelden vlak. Richt met je boogarm op het doel, houd een seconde stil en tik: het horloge leest de helling uit de zwaartekracht, middelt die over die seconde en rekent uit naar welke afstand het schot zich gedraagt, met de verbeterde rifleman's rule. NFAA Field, NFAA Hunter en WA Field zitten er met bladen en afstanden in, en een eigen parcours voer je zelf in. Blader vooruit en achteruit door de doelen en de mark voor het doel dat voor je staat, staat op het scherm voordat je nokt.\n\nWAT HET DOET\n- Twee of meer kalibratiepunten per boog, gepast met kleinste kwadraten: een rechte lijn bij twee punten, een kromme bij drie of meer\n- Het residu per punt, zodat een fout punt zichzelf verraadt in plaats van de hele kromme te bederven\n- Een mark voor elke afstand, in stappen van een meter of een yard, met een tabel om doorheen te bladeren\n- Hellingcorrectie uit de versnellingsmeter, gemiddeld over een seconde en bevestigd met een tik, of met de hand ingevoerd\n- Effectieve afstand met de verbeterde rifleman's rule, die de kromming van je eigen vizierstrook volgt\n- NFAA Field, NFAA Hunter, WA Field bekend en onbekend, plus een eigen parcours, met een score per doel als je wilt\n- Tot acht bogen met eigen punten, meters of yards, vijf talen, en een glance met de actieve boog en de laatste mark\n\nWAT JE NODIG HEBT\n- Minstens twee bekende vizierstanden voor een boog: een afstand en de mark die je daar schiet\n- Geen telefoon, geen bereik, geen account — alles wordt op het horloge uitgerekend",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "212",
+  "icon": "assets/icons/marks.png",
+  "shots": [
+   "assets/shots/marks-1.jpg",
+   "assets/shots/marks-2.jpg",
+   "assets/shots/marks-3.jpg"
+  ],
+  "changed": 1790059097000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "8f86ef23-a8de-4ff1-97a7-33e4ebccc2f5",
+  "slug": "canter",
+  "name": "Canter - Gait tracker for horseriding",
+  "desc": "Canter reads the gait from your wrist. The accelerometer runs at 25 Hz, the watch takes a four second window every second, finds the beat frequency by autocorrelation and looks at how strong and how symmetrical that beat is. Walk, trot and canter each have their own signature, and GPS speed is weighed in when there is a fix. A gait only changes after two windows agree, so a single stumble does not show up as a transition.\n\nEvery horse moves differently, so Canter learns each one. During a ride you tap and say this is trot, and that window becomes an example for that horse: its beat frequency, its amplitude, its speed. The thresholds shift towards your horse and the profile page shows how many examples each gait has. Afterwards you get the split over the gaits, the number of transitions, how steady the trot beat was, a workload figure that weighs canter heavier than walk, and eight weeks of volume per gait.\n\nWHAT IT DOES\n- Live gait on a full colour panel, with time in this gait, ride time, speed and heart rate\n- Walk, trot and canter recognised from the wrist accelerometer, with GPS speed as extra evidence\n- Tap during the ride to teach the watch what this gait is, per horse\n- Ride summary: minutes and share per gait, transitions, trot rhythm, workload, distance, top speed\n- Eight weeks of volume per gait with the trend against the three weeks before\n- Up to eight horses, each with its own name and its own calibration\n- Records the ride as a horseback riding activity with a lap every ten minutes\n- Five languages, metric or imperial, and a glance with the last ride\n\nWHAT IT NEEDS\n- A watch worn on the wrist while riding; no phone, no account, no internet\n- GPS is optional: without a fix the gait still comes from the accelerometer\n- The thresholds are reasoned from the beat of each gait, not clinically validated — teach it a few windows per horse and it gets sharper",
+  "nl": "Canter leest de gang van je pols. De versnellingsmeter loopt op 25 Hz, het horloge neemt elke seconde een venster van vier seconden, haalt de slagfrequentie eruit met autocorrelatie en kijkt hoe sterk en hoe symmetrisch die slag is. Stap, draf en galop hebben elk hun eigen handtekening, en de GPS-snelheid weegt mee zodra er een fix is. Een gang wisselt pas als twee vensters het eens zijn, zodat één misstap geen overgang wordt.\n\nElk paard beweegt anders, dus leert Canter ze stuk voor stuk. Tijdens de rit tik je en zeg je dit is draf, en dat venster wordt een voorbeeld voor dat paard: de slagfrequentie, de amplitude, de snelheid. De drempels schuiven op naar jouw paard en het profielscherm laat zien hoeveel voorbeelden elke gang heeft. Achteraf krijg je de verdeling over de gangen, het aantal overgangen, hoe gelijkmatig de draf liep, een belastingsgetal dat galop zwaarder telt dan stap, en acht weken volume per gang.\n\nWAT HET DOET\n- De gang van dit moment op een groot kleurvlak, met tijd in deze gang, rittijd, snelheid en hartslag\n- Stap, draf en galop uit de pols-versnellingsmeter, met de GPS-snelheid als extra aanwijzing\n- Tik tijdens de rit om het horloge te leren wat deze gang is, per paard\n- Ritoverzicht: minuten en aandeel per gang, overgangen, ritme in draf, belasting, afstand, topsnelheid\n- Acht weken volume per gang, met de trend tegenover de drie weken ervoor\n- Tot acht paarden, elk met een eigen naam en een eigen kalibratie\n- Neemt de rit op als paardrijactiviteit, met elke tien minuten een ronde\n- Vijf talen, metrisch of imperiaal, en een glance met de laatste rit\n\nWAT HET NODIG HEEFT\n- Een horloge om de pols tijdens het rijden; geen telefoon, geen account, geen internet\n- GPS is optioneel: zonder fix komt de gang nog steeds uit de versnellingsmeter\n- De drempels zijn beredeneerd vanuit de slag van elke gang, niet klinisch gevalideerd — leer er een paar vensters per paard bij en het wordt scherper",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "212",
+  "icon": "assets/icons/canter.png",
+  "shots": [
+   "assets/shots/canter-1.jpg",
+   "assets/shots/canter-2.jpg",
+   "assets/shots/canter-3.jpg"
+  ],
+  "changed": 1790053191000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "32db9931-ba0c-4e4b-8b7b-9d5a11a2ba47",
+  "slug": "stand",
+  "name": "Stand - Game activity by the hour",
+  "desc": "Stand turns what your watch already measures into one number per hour: how likely deer, roe or boar are on their feet. The barometer in the watch gives the pressure trend over three, six and twelve hours — rising pressure behind a front counts for a lot, a steady high counts for something, a fast fall with rain counts against. On top of that come the hourly forecast, the moon, and the twilight around sunrise and sunset, each weighed and added up to a score from 0 to 100.\n\nThe home screen shows the score for this hour and the best two-hour block ahead. Swipe for the 24-hour bar chart with the night shaded, and for the factor screen that shows exactly which term pushed the number up or down. The scent compass takes the wind for this hour and draws where your scent travels, which half of the circle stays clear, and from which direction to walk in. Log what you see and after ten sightings Stand shifts its own weights by up to ten percent toward the factors that stood high when game was moving.\n\nWHAT IT DOES\n- A score from 0 to 100 for every hour, today and tomorrow\n- Pressure trend over 3, 6 and 12 hours from the watch's own barometer\n- Temperature drop against a seven-day average the app keeps itself\n- Wind: 5-15 km/h counts best, above 25 km/h counts against\n- Rain, with a bonus on the first dry hour after a wet spell\n- Civil twilight, moon overhead and underfoot, moon phase\n- Rut weighting by date, latitude and species\n- Scent compass with your seat heading, the scent cone and the walk-in route\n- Sightings log with self-tuning after ten entries\n- Glance with the score now and the next peak, five languages\n\nWHAT IT NEEDS\n- A GPS fix once, for sunrise, sunset and the moon\n- A barometer for the pressure term, and a synced weather forecast for wind, rain and temperature; without them the other terms simply carry the score",
+  "nl": "Stand maakt van wat je horloge toch al meet één getal per uur: hoe waarschijnlijk het is dat hert, ree of zwijn op de been is. De barometer in het horloge levert de druktrend over drie, zes en twaalf uur — stijgende druk achter een front telt zwaar, stabiel hoog telt mee, een snelle daling met regen telt tegen. Daar komen het uurbericht, de maan en de schemer rond zonsop en zonsondergang bij, elk gewogen en opgeteld tot een stand van 0 tot 100.\n\nHet thuisscherm toont de stand van dit uur en het beste blok van twee uur dat nog komt. Blader door naar de uurgrafiek van vierentwintig uur met de nacht gearceerd, en naar het factorenscherm dat laat zien welke term het getal omhoog of omlaag duwde. Het scentkompas neemt de wind van dit uur en tekent waar je geur heen gaat, welke helft van de cirkel vrij blijft en uit welke richting je moet aanlopen. Noteer wat je ziet en na tien waarnemingen schuift Stand zijn eigen gewichten tot tien procent op richting de factoren die hoog stonden toen er wild liep.\n\nWAT HET DOET\n- Een stand van 0 tot 100 voor elk uur, vandaag en morgen\n- Druktrend over 3, 6 en 12 uur uit de eigen barometer van het horloge\n- Temperatuurval tegen een zevendaags gemiddelde dat de app zelf bijhoudt\n- Wind: 5-15 km/u telt het zwaarst mee, boven 25 km/u telt tegen\n- Regen, met een bonus op het eerste droge uur na een natte periode\n- Civiele schemer, maan boven en onder de horizon, maanfase\n- Bronstweging op datum, breedtegraad en soort\n- Scentkompas met je kijkrichting, de geurkegel en de aanlooproute\n- Waarnemingslogboek dat na tien regels zichzelf bijstelt\n- Glance met de stand nu en de volgende piek, vijf talen\n\nWAT HET NODIG HEEFT\n- Eén keer een gps-positie, voor zonsopkomst, zonsondergang en de maan\n- Een barometer voor de drukterm en een opgehaald weerbericht voor wind, regen en temperatuur; zonder die twee dragen de overige termen de stand gewoon",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "208",
+  "icon": "assets/icons/stand.png",
+  "shots": [
+   "assets/shots/stand-1.jpg",
+   "assets/shots/stand-2.jpg",
+   "assets/shots/stand-3.jpg"
+  ],
+  "changed": 1790052488000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "9a0b092a-a668-4d54-8535-10f9693d6d43",
+  "slug": "sprintr",
+  "name": "Sprintr - Field sport load",
+  "desc": "Sprintr turns a training session into the numbers a field sport actually runs on. It reads GPS once a second, smooths the speed so a jumpy fix never becomes a sprint, and counts what happens above your thresholds: sprints, high-speed running, accelerations and decelerations, and the load your body took from the accelerometer. Default thresholds are the ones used in match analysis — high-speed running from 19.8 km/h, sprint from 25.2 km/h — with presets for hockey and rugby and every threshold open to change.\n\nThe live screen keeps it to two numbers you can read at a glance: sprints so far and metres of high-speed running, with speed, heart rate and the clock of the current half underneath. Page down for accelerations and braking, time in each of five zones, and a heatmap of where you actually stood — fitted automatically after two minutes, or pinned to the field by walking one sideline. At the end the halves sit side by side with a fatigue index: how much high-speed running and how many sprints the second half held against the first.\n\nWHAT IT DOES\n- Sprints, longest sprint, top speed, high-speed distance and total distance per half\n- Accelerations and decelerations over ±2 m/s², adjustable\n- Player load from the accelerometer at 25 Hz, and load per minute\n- Work-to-rest ratio and time in five speed zones\n- A 10 x 7 heatmap on an automatic bounding box or a field you set with two corners\n- Fatigue index: second half against first, for high-speed running and sprint rate\n- Halves, quarters or a single period, with a break, a period alert and a lap per period\n- Records the session to Garmin Connect, with history and trends over eight sessions\n- Five languages and a glance with the sprints and high-speed distance of the last session\n\nWHAT IT NEEDS\n- GPS and a clear sky; an accelerometer for player load, a heart rate reading if the watch has one\n- No phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Sprintr maakt van een training de getallen waar een veldsport op draait. Hij leest GPS één keer per seconde, strijkt de snelheid glad zodat een verspringende fix nooit een sprint wordt, en telt wat er boven je drempels gebeurt: sprints, hoge snelheid, versnellen en remmen, en de belasting die je lijf ving via de versnellingsmeter. De standaarddrempels zijn die uit de wedstrijdanalyse — hoge snelheid vanaf 19,8 km/u, sprint vanaf 25,2 km/u — met voorinstellingen voor hockey en rugby en elke drempel zelf te verzetten.\n\nHet live-scherm houdt het bij twee getallen die je in één blik leest: sprints tot nu toe en meters op hoge snelheid, met daaronder snelheid, hartslag en de klok van deze helft. Blader door voor versnellen en remmen, tijd in elk van vijf zones, en een heatmap van waar je werkelijk stond — automatisch bepaald na twee minuten, of vastgelegd op het veld door één zijlijn af te lopen. Aan het eind staan de helften naast elkaar met een vermoeidheidsindex: hoeveel hoge snelheid en hoeveel sprints de tweede helft hield tegenover de eerste.\n\nWAT HET DOET\n- Sprints, langste sprint, topsnelheid, HSR-afstand en totale afstand per helft\n- Versnellingen en remmingen boven ±2 m/s², instelbaar\n- Player load uit de versnellingsmeter op 25 Hz, en load per minuut\n- Werk:rust-verhouding en tijd in vijf snelheidszones\n- Een heatmap van 10 x 7 op een automatische omhullende of een veld dat je met twee hoeken vastlegt\n- Vermoeidheidsindex: tweede helft tegen de eerste, voor hoge snelheid en sprint-tempo\n- Helften, kwarten of één periode, met rust, een periode-alarm en een ronde per periode\n- Neemt de sessie op naar Garmin Connect, met historie en trends over acht sessies\n- Vijf talen en een glance met de sprints en HSR-afstand van de laatste sessie\n\nWAT HET NODIG HEEFT\n- GPS en vrij zicht op de hemel; een versnellingsmeter voor player load, een hartslagmeting als het horloge die heeft\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge uitgerekend",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "212",
+  "icon": "assets/icons/sprintr.png",
+  "shots": [
+   "assets/shots/sprintr-1.jpg",
+   "assets/shots/sprintr-2.jpg",
+   "assets/shots/sprintr-3.jpg"
+  ],
+  "changed": 1790051766000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "d555d45f-cc9c-4229-85d7-4ce515f8c534",
+  "slug": "flume",
+  "name": "Flume - endless pool swim",
+  "desc": "Flume gives you distance in a pool that has no end to swim to. In an endless pool, a swim spa or on a bungee cord there are no walls to turn at and no GPS track to follow, so every swim watch shows you nothing. Flume takes the speed of the current and the time you are actually swimming, and multiplies the two. Stop moving and the metres stop with you.\n\nSet the current as a pace, as metres per second, or as a pump level. Levels you can calibrate: swim one minute, then say whether you moved forward, held your place or drifted back, and that level shifts five percent. The wrist sensor counts your strokes, so you also get stroke rate, distance per stroke and a SWOLF that works without walls. Build sets on the watch, get a buzz at every change, and save the whole thing as a swim activity.\n\nWHAT IT DOES\n- Distance without walls or GPS: current speed times the time you actually swim\n- Automatic pause when you stop stroking, so rest does not count as distance\n- Current as pace, as metres per second, or as a calibrated pump level\n- Calibration by feel: one minute, one answer, and the level corrects itself\n- Stroke rate, distance per stroke and SWOLF from the wrist sensor\n- Sets on time with warm-up, rest and cool-down, each change with a buzz\n- Week ring against your own goal, seven-day bars and a history with trend\n- Saved as a swim activity with laps, heart rate and calories\n- Glance with the week so far and your last distance per stroke\n\nWHAT IT NEEDS\n- An endless pool, swim spa, current pool or a bungee cord\n- The speed of your current, set once per level\n- A watch with an accelerometer for stroke counting; heart rate is optional\n- No phone, no account, no internet",
+  "nl": "Flume geeft je afstand in een bad waar geen einde aan zit. In een tegenstroombad, een swim spa of aan een elastiek zijn er geen muren om te keren en is er geen GPS-spoor, dus elk zwemhorloge laat je in de steek. Flume neemt de snelheid van de stroming en de tijd dat je werkelijk zwemt, en vermenigvuldigt die twee. Stop je met slagen, dan stoppen de meters met je mee.\n\nZet de stroming als tempo, als meter per seconde, of als pompstand. Standen kun je kalibreren: zwem een minuut en zeg daarna of je vooruit kwam, op je plek bleef of terugzakte, en die stand schuift vijf procent op. De polssensor telt je slagen, dus je krijgt ook slagfrequentie, afstand per slag en een SWOLF die zonder muren werkt. Bouw series op het horloge, voel een trilling bij elke wissel, en bewaar het geheel als zwemactiviteit.\n\nWAT HET DOET\n- Afstand zonder muren of GPS: stroomsnelheid maal de tijd dat je echt zwemt\n- Automatische pauze zodra je stopt met slagen, zodat rust geen meters oplevert\n- Stroming als tempo, als meter per seconde, of als gekalibreerde pompstand\n- Kalibreren op gevoel: een minuut, een antwoord, en de stand corrigeert zichzelf\n- Slagfrequentie, afstand per slag en SWOLF uit de polssensor\n- Series op tijd met in- en uitzwemmen en rust, elke wissel met een trilling\n- Weekring tegen je eigen doel, zeven dagstaafjes en een historie met trend\n- Opgeslagen als zwemactiviteit met ronden, hartslag en calorieën\n- Glance met de week tot nu toe en je laatste afstand per slag\n\nWAT HET NODIG HEEFT\n- Een tegenstroombad, swim spa, stromingsbad of een elastiek\n- De snelheid van je stroming, één keer per stand gezet\n- Een horloge met versnellingsmeter voor de slagtelling; hartslag is optioneel\n- Geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "221",
+  "icon": "assets/icons/flume.png",
+  "shots": [
+   "assets/shots/flume-1.jpg",
+   "assets/shots/flume-2.jpg",
+   "assets/shots/flume-3.jpg"
+  ],
+  "changed": 1790051500000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
+  "slug": "coil",
+  "name": "Coil - Detecting coverage",
+  "desc": "Coil draws a grid over the ground you are searching and fills it in as you walk. Every second the GPS gives a position, Coil turns it into metres, works out which cells of the grid you swept and how much of each one your coil actually passed over. One straight pass through a cell counts as half, a second overlapping pass makes it full — the same way you would work a field by eye, but written down.\n\nWalk the edge of the plot once at the start and Coil rasterises that outline into the grid, so the big number on the live screen is a real coverage percentage instead of a vague feeling. Skip the edge and you still get square metres, a bounding box and the map. Step back onto ground you already finished and the watch gives you two short buzzes. Lane guidance keeps your passes parallel and tells you how far you have drifted, and every find you log goes on the map with a distance and a direction to walk back to it.\n\nWHAT IT DOES\n- A coverage grid of 2 to 5 metre cells, filled in from the GPS at one hertz\n- Two levels per cell: half covered after one pass, full after an overlapping second\n- Optional perimeter walk, rasterised with the even-odd rule, giving a true coverage percentage\n- A buzz when you walk back onto ground that is already fully covered, with a ten second cooldown\n- Lane guidance: aim a direction, confirm it, then follow the cross-track bar at sweep width times 0.9\n- Finds in five categories with position, finds per hour, finds per 100 m², and a bearing back to any of them\n- A map screen with the grid, the outline, your finds and your heading, north up or course up, five zoom levels\n- Records the outing as a walk with the coverage as a data field and a lap on every find\n- A running session survives closing the app, and a glance with the last outing\n\nWHAT IT NEEDS\n- GPS, and open sky: under trees the fix wanders and so does the grid\n- Nothing else — no phone, no account, no internet",
+  "nl": "Coil legt een raster over de grond die je afzoekt en vult dat in terwijl je loopt. Elke seconde geeft de gps een positie, Coil rekent die om naar meters en bepaalt welke rastercellen je hebt bestreken en hoeveel van elke cel er werkelijk onder de schijf door is geweest. Eén rechte doorloop telt als half, een tweede overlappende baan maakt hem vol — precies zoals je een akker op gevoel afwerkt, maar dan opgeschreven.\n\nLoop bij het begin één keer de rand van het perceel af en Coil legt die omtrek in het raster, zodat het grote getal op het live-scherm een echt dekkingspercentage is en geen onderbuikgevoel. Sla de rand over en je houdt vierkante meters, een omhullende en de kaart. Stap je terug op grond die je al af had, dan geeft het horloge twee korte trillingen. De baangeleiding houdt je banen evenwijdig en zegt hoe ver je bent afgedreven, en elke vondst die je noteert komt op de kaart te staan met een afstand en een richting om ernaartoe terug te lopen.\n\nWAT HET DOET\n- Een dekkingsraster van 2 tot 5 meter per cel, gevuld uit de gps op één hertz\n- Twee niveaus per cel: half na één doorloop, vol na een tweede overlappende baan\n- Optioneel de rand aflopen, gerasterd met de even-oneven-regel, voor een echt dekkingspercentage\n- Trillen als je terugloopt op grond die al vol is, met tien seconden afkoeltijd\n- Baangeleiding: richting richten, bevestigen, en dan de dwarsbalk volgen op zwaaibreedte maal 0,9\n- Vondsten in vijf categorieën met plek, vondsten per uur, vondsten per 100 m², en een peiling terug\n- Een kaartscherm met het raster, de omtrek, je vondsten en je koers, noord op of koers op, vijf zoomstanden\n- Neemt de tocht op als wandeling, met de dekking als datafield en een ronde bij elke vondst\n- Een lopende sessie overleeft het sluiten van de app, en een glance met de laatste tocht\n\nWAT HET NODIG HEEFT\n- Gps, en vrij zicht op de hemel: onder bomen zwerft de fix en het raster dus ook\n- Verder niets — geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "210",
+  "icon": "assets/icons/coil.png",
+  "shots": [
+   "assets/shots/coil-1.jpg",
+   "assets/shots/coil-2.jpg",
+   "assets/shots/coil-3.jpg"
+  ],
+  "changed": 1790051270000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "303690e7-1f6e-4f1f-ad0b-841187866a1a",
+  "slug": "recruit",
+  "name": "Recruit - Fitness test scores",
+  "desc": "Recruit runs the fitness tests used by armed forces, police, fire services and football referees, and scores them on the watch while you are still on the track. Pick a test, and it walks you through the events in order: enter the reps or the weight, hold the plank against the clock, then run the timed distance with GPS. Every table sits in the watch, split by age band and by the row you are scored on, and Recruit reads between the anchor points instead of rounding you into the nearest box.\n\nDuring a timed run the big number is not your pace but your score: the projected finish time turned into points, updated every second, with the pace you still need for your target underneath it. The shuttle tests need no GPS at all — the watch buzzes and beeps every shuttle, a bar counts down to the next one, and the level, speed and distance stay on screen. Afterwards you get points per event, the total against the pass mark, VO2max with a percentile, and the drop in heart rate one minute after you stopped.\n\nWHAT IT DOES\n- Army AFT 2025 and legacy APFT, USMC PFT, Navy PRT, and the 1.5-mile test\n- Cooper 12 minutes and Vameval, with VO2max and maximal aerobic speed\n- Beep test over 20 m or 15 m, Yo-Yo IR1 and IR2, and the referee interval test\n- Live projected score and the pace still needed for your target points\n- Timed holds with the minimum and the top mark on a bar\n- Reps, weights and times entered on a digit picker, not a tiny keypad\n- Total score, pass mark per event, VO2max, percentile and heart rate recovery\n- History with a trend line, a next test date, and a glance with the last result\n- FIT recording with a lap per event and per level\n\nWHAT IT NEEDS\n- Age and sex from your Garmin profile, or set them yourself in the settings\n- GPS for the running tests; the shuttle tests work anywhere, indoors included\n- No phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Recruit draait de fitheidstesten van krijgsmacht, politie, brandweer en voetbalscheidsrechters, en rekent ze op het horloge uit terwijl je nog op de baan staat. Kies een test en hij loopt de onderdelen op volgorde af: reps of kilo's invoeren, de plank tegen de klok volhouden, en daarna de gps-loop op tijd. Alle tabellen zitten in het horloge, per leeftijdsband en per rij waarop je wordt afgerekend, en Recruit leest tussen de ankerpunten door in plaats van je naar het dichtstbijzijnde hokje af te ronden.\n\nTijdens een loop is het grote getal niet je tempo maar je score: de geprojecteerde eindtijd omgerekend naar punten, elke seconde bijgewerkt, met eronder het tempo dat je nog nodig hebt voor je doel. De shuttle-testen hebben helemaal geen gps nodig — het horloge trilt en piept bij elke shuttle, een balk telt af naar de volgende, en het level, de snelheid en de afstand blijven in beeld. Achteraf krijg je punten per onderdeel, het totaal tegen de norm, VO2max met een percentiel, en de daling van je hartslag een minuut na afloop.\n\nWAT HET DOET\n- AFT 2025 en de oude APFT, USMC PFT, Navy PRT en de 1,5 mijl-test\n- Cooper 12 minuten en Vameval, met VO2max en maximale aerobe snelheid\n- Bleep-test over 20 of 15 m, Yo-Yo IR1 en IR2, en de scheidsrechter-intervaltest\n- Live geprojecteerde score en het tempo dat je nog nodig hebt voor je doelpunten\n- Vasthoudonderdelen met het minimum en de topgrens op een balk\n- Reps, gewichten en tijden invoeren op een cijferkiezer, geen minitoetsenbord\n- Totaalscore, norm per onderdeel, VO2max, percentiel en hartslagherstel\n- Historie met trendlijn, een volgende testdatum, en een glance met de laatste uitslag\n- FIT-opname met een ronde per onderdeel en per level\n\nWAT HET NODIG HEEFT\n- Leeftijd en geslacht uit je Garmin-profiel, of zelf ingesteld in de instellingen\n- Gps voor de looptesten; de shuttle-testen werken overal, ook binnen\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge uitgerekend",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/recruit.png",
+  "shots": [
+   "assets/shots/recruit-1.jpg",
+   "assets/shots/recruit-2.jpg",
+   "assets/shots/recruit-3.jpg"
+  ],
+  "changed": 1790051032000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "52e3403d-fd0f-4642-877d-c623a017705e",
+  "slug": "gravid",
+  "name": "Gravid - pregnancy week, weight and kicks",
+  "desc": "Gravid works out where you are and what that means, on the watch itself. Give it the first day of your last period, a crown-rump length from a scan, an IVF transfer date or simply the due date you were given, and it dates the pregnancy properly: week and day, trimester, the term window from 37 to 42 weeks, and a ring that fills as you go.\n\nFrom your height and your weight before pregnancy it builds the weight range for your own starting BMI, week by week, and draws your entries inside that band so you can see the line rather than a single number. The movement counter times ten movements and compares that with your own usual time, not with a table. There is a heart rate page with a band from your age, and a list of appointments counting down.\n\nWHAT IT DOES\n- Dating from last period, scan, IVF transfer or a known due date\n- Week and day, trimester, days to go, and the term window marked on the ring\n- Weight range for your starting BMI, drawn over forty weeks with your own entries\n- Movement counter to ten, with your own median as the reference\n- Heart rate page with an adjustable band and a clear read of where you are\n- Appointments with a countdown, seven kinds\n- Weekly notes on what is happening, in five languages\n- Glance with the week and the days to go, and everything stays on the watch\n\nWHAT IT NEEDS\n- Your dates, entered once\n- Height and starting weight for the weight range\n- A watch with a heart rate sensor for the movement page\n- No phone, no account, no internet\n\nGravid is informational. It is not a medical device and replaces no appointment.",
+  "nl": "Gravid rekent uit waar je bent en wat dat betekent, op het horloge zelf. Geef het de eerste dag van je laatste menstruatie, een kop-stuitlengte uit de echo, een IVF-terugplaatsing of gewoon de datum die je hebt gekregen, en het dateert de zwangerschap netjes: week en dag, trimester, het termijnvenster van 37 tot 42 weken, en een ring die meeloopt.\n\nUit je lengte en je gewicht van vóór de zwangerschap bouwt het het gewichtsbereik bij jouw begin-BMI, week voor week, en tekent je metingen in die band, zodat je de lijn ziet in plaats van één getal. De bewegingsteller klokt tien bewegingen en vergelijkt die met je eigen normale tijd, niet met een tabel. Er is een hartslagpagina met een band uit je leeftijd, en een lijst met afspraken die aftelt.\n\nWAT HET DOET\n- Datering vanaf laatste menstruatie, echo, IVF-terugplaatsing of een bekende datum\n- Week en dag, trimester, dagen te gaan, en het termijnvenster op de ring\n- Gewichtsbereik bij je begin-BMI, over veertig weken getekend met je eigen metingen\n- Bewegingsteller tot tien, met je eigen mediaan als maat\n- Hartslagpagina met instelbare band en een duidelijke stand\n- Afspraken met aftelling, zeven soorten\n- Wekelijkse notities over wat er gebeurt, in vijf talen\n- Glance met de week en de dagen te gaan, en alles blijft op het horloge\n\nWAT HET NODIG HEEFT\n- Je datum, één keer invoeren\n- Lengte en begingewicht voor het gewichtsbereik\n- Een horloge met hartslagsensor voor de bewegingspagina\n- Geen telefoon, geen account, geen internet\n\nGravid is alleen ter informatie. Het is geen medisch hulpmiddel en vervangt geen afspraak.",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/gravid.png",
+  "shots": [
+   "assets/shots/gravid-1.jpg",
+   "assets/shots/gravid-2.jpg",
+   "assets/shots/gravid-3.jpg"
+  ],
+  "changed": 1790048787000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "0e80d313-7f2b-4c2b-ad2b-c4fee937fc40",
+  "slug": "baseline",
+  "name": "Baseline - daily check of six health signals",
+  "desc": "Baseline compares last night with your own normal. It reads what your watch already records — resting heart rate, night heart rate, stress, Body Battery at wake time, sleep length and night oxygen — and works out the median and the spread of your recent nights. A value only counts as different when it steps outside that personal band, so a late evening or one restless night does not set anything off.\n\nThe home screen gives one colour and one line: on your baseline, or how many signals sit outside it. The signal page lists every reading with the difference in its own units, and each one opens a 28-day chart with your band drawn behind the dots, so you can see whether something started today or has been drifting for a week. A hard training day the day before raises the thresholds, because a heavy session moves the same numbers.\n\nWHAT IT DOES\n- One daily verdict from six signals, each against your own 14 to 28 day median\n- Robust statistics: median and spread, so one odd night does not tip the scale\n- A three-day weighting, so the verdict follows a trend rather than a blip\n- Per signal the difference in bpm, minutes or percent, and a 28-day chart with your band\n- A four-week calendar and a count of days in a row\n- Sensitivity low, normal or high; your own bedtime and wake time\n- Glance with the colour and the line, and everything stays on the watch\n\nWHAT IT NEEDS\n- A watch that records resting heart rate and heart rate history; stress, Body Battery and night oxygen are used when your watch measures them\n- Seven nights of wearing before the first verdict appears\n- No phone, no account, no internet\n\nBaseline is informational. It does not detect or diagnose anything, and it is not a medical device.",
+  "nl": "Baseline vergelijkt vannacht met je eigen normaal. Het leest wat je horloge toch al bijhoudt — rusthartslag, nachthartslag, stress, Body Battery bij het opstaan, slaapduur en nachtelijke zuurstof — en rekent de mediaan en de spreiding van je recente nachten uit. Een waarde telt pas als afwijking zodra hij buiten die persoonlijke band valt, zodat een late avond of een onrustige nacht nog niets betekent.\n\nHet beginscherm geeft één kleur en één regel: op je baseline, of hoeveel signalen erbuiten liggen. De signalenpagina toont elk signaal met het verschil in eigen eenheden, en elk signaal opent een grafiek van achtentwintig dagen met je band achter de punten, zodat je ziet of iets vandaag begon of al een week loopt. Een zware trainingsdag ervoor schuift de drempels omhoog, want een zware sessie beweegt dezelfde getallen.\n\nWAT HET DOET\n- Eén dagelijks oordeel uit zes signalen, elk tegen je eigen mediaan over veertien tot achtentwintig dagen\n- Robuuste statistiek: mediaan en spreiding, zodat één rare nacht de balans niet omgooit\n- Een weging over drie dagen, zodat het oordeel een trend volgt en geen uitschieter\n- Per signaal het verschil in slagen, minuten of procenten, met een grafiek van achtentwintig dagen\n- Een kalender van vier weken en een teller van dagen op rij\n- Gevoeligheid laag, normaal of hoog; je eigen bedtijd en wektijd\n- Glance met de kleur en de regel, en alles blijft op het horloge\n\nWAT HET NODIG HEEFT\n- Een horloge dat rusthartslag en hartslaggeschiedenis bijhoudt; stress, Body Battery en nachtelijke zuurstof worden gebruikt als je horloge ze meet\n- Zeven nachten dragen voordat het eerste oordeel verschijnt\n- Geen telefoon, geen account, geen internet\n\nBaseline is alleen ter informatie. Het stelt niets vast, herkent geen aandoening en is geen medisch hulpmiddel.",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/baseline.png",
+  "shots": [
+   "assets/shots/baseline-1.jpg",
+   "assets/shots/baseline-2.jpg",
+   "assets/shots/baseline-3.jpg"
+  ],
+  "changed": 1790048350000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
   "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
   "slug": "cyra",
   "name": "Cyra - Menstrual Cycle & Period Tracker",
@@ -310,7 +517,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "218",
   "icon": "assets/icons/altura.png",
   "shots": [
@@ -318,10 +525,10 @@
    "assets/shots/altura-2.jpg",
    "assets/shots/altura-3.jpg"
   ],
-  "changed": 1789469140000,
-  "whatsnew": "",
-  "devices": 175,
-  "updates": 1
+  "changed": 1790075438000,
+  "whatsnew": "Altura is now listed only for watches that have a barometer, the sensor it reads altitude from.",
+  "devices": 158,
+  "updates": 2
  },
  {
   "id": "1ce4573a-c932-43cb-97a6-554ffcc36740",
@@ -388,7 +595,7 @@
    "assets/shots/laylin-3.jpg"
   ],
   "changed": 1789574381000,
-  "whatsnew": "New setting: Settings / Touchscreen. Turn it off to use Laylin with buttons only, so taps and swipes no longer get in the way (on watches with up/down buttons).",
+  "whatsnew": "Ending a race is now one button. The back button opens the race menu whenever a start sequence or a recording is running, with Save at the top and Stop sequence added to it. On watches without a menu button, such as the Venu 4 and the vívoactive 3 and 6, that is the way in that the system cannot take away.",
   "devices": 175,
   "updates": 2
  },
@@ -471,7 +678,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "205",
   "icon": "assets/icons/platewise.png",
   "shots": [
@@ -479,10 +686,10 @@
    "assets/shots/platewise-2.jpg",
    "assets/shots/platewise-3.jpg"
   ],
-  "changed": 1789407382000,
-  "whatsnew": "Fixed: marking a dish done without starting it broke the timeline, reused meals kept old checkmarks, and the serving time was an hour off on daylight-saving days. Steps at the same moment now appear together in one alert. If the serving time is too tight, the app tells you which dish is late and when dinner can be served. Boiling point at altitude and turkey times corrected. Up/Down select a step on button watches. Glance: text no longer cut off and more space below the progress bar.",
+  "changed": 1790077323000,
+  "whatsnew": "Fixed a crash that could stop Platewise from opening on watches without a barometer.",
   "devices": 167,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
@@ -537,8 +744,8 @@
   "desc": "Stretching apps give you a timer and a picture. Flexa gives you a number. Hold still at the end of a movement and the watch reads gravity to work out the angle, so \"my hamstrings feel tight\" becomes 61 degrees, and next week you can tell whether that was true.\n\nBecause it measures, it can also suggest. From the pairs of hold time and gain it collects, Flexa fits how much your tolerance actually moves per second held, and sets the duration of the next stretch from that instead of defaulting to thirty seconds for everything.\n\nWHAT IT DOES\n- Ten tests: shoulder flexion and abduction, hip flexion, straight-leg raise, ankle dorsiflexion, neck rotation and side bend, trunk rotation, wrist extension, calf\n- Left and right separately, with the asymmetry in percent\n- A stillness gate, so it measures your range and not your swing\n- Age-group norms, so the number means something\n- A guided stretch with haptic start and stop, and a hold time that follows what the last session gained\n- A trend per test, and a summary that names your weakest link\n- Five languages and a glance\n\nWHAT IT NEEDS\n- Everything is worked out on the watch: no phone, no account, no internet\n- Flexa measures and compares against age groups. It is not a diagnosis and does not replace a physiotherapist",
   "nl": "Rek-apps geven je een timer en een plaatje. Flexa geeft je een getal. Houd stil aan het eind van een beweging en het horloge leest de zwaartekracht om de hoek uit te rekenen, zodat \"mijn hamstrings voelen stijf\" 61 graden wordt — en je volgende week kunt zien of dat klopte.\n\nOmdat het meet, kan het ook een rekduur voorstellen. Uit de paren houdduur en winst die het verzamelt, schat Flexa hoeveel je rek-tolerantie werkelijk opschuift per seconde houden, en zet daar de duur van de volgende rek op in plaats van standaard dertig seconden voor alles.\n\nWAT HET DOET\n- Tien tests: schouderflexie en -abductie, heupflexie, gestrekt been heffen, enkel-dorsaalflexie, nekrotatie en -lateroflexie, romprotatie, polsextensie, kuit\n- Links en rechts apart, met de asymmetrie in procenten\n- Een stilstand-poort, zodat het je bereik meet en niet je zwaai\n- Normen per leeftijdsgroep, zodat het getal iets zegt\n- Een begeleide rek met haptische start en stop, en een houdduur die volgt uit wat de vorige sessie opleverde\n- Een trend per test, en een samenvatting die je zwakste schakel noemt\n- Vijf talen en een glance\n\nWAT HET NODIG HEEFT\n- Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Flexa meet en vergelijkt met leeftijdsgroepen. Het is geen diagnose en vervangt geen fysiotherapeut",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 10,
   "version": "1.1.0",
   "category": "219",
@@ -1162,7 +1369,7 @@
    "assets/shots/isobar-4.jpg"
   ],
   "changed": 1789313930000,
-  "whatsnew": "The app list on the watch now shows just the name.",
+  "whatsnew": "Fixed a crash that could stop Isobar from opening at all on watches without a barometer. Isobar is now listed only for watches that have the barometer its forecast is built on.",
   "devices": 178,
   "updates": 7
  },
@@ -1373,7 +1580,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.6",
+  "version": "1.7",
   "category": "210",
   "icon": "assets/icons/altizone.png",
   "shots": [
@@ -1383,10 +1590,10 @@
    "assets/shots/altizone-4.jpg",
    "assets/shots/altizone-5.jpg"
   ],
-  "changed": 1787605536000,
-  "whatsnew": "",
+  "changed": 1790077235000,
+  "whatsnew": "AltiZone is now listed only for watches that have a barometer, the sensor the altimeter reads.",
   "devices": 180,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "63ee0ca3-120e-4399-8a4d-310d8a00a418",
