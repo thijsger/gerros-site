@@ -9,7 +9,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "212",
   "icon": "assets/icons/marks.png",
   "shots": [
@@ -17,10 +17,10 @@
    "assets/shots/marks-2.jpg",
    "assets/shots/marks-3.jpg"
   ],
-  "changed": 1790059097000,
-  "whatsnew": "",
+  "changed": 1790095746000,
+  "whatsnew": "Fixed a possible crash with damaged saved bows or courses. Deleting a bow no longer selects the wrong one; renaming avoids duplicate names. Deleting a distance keeps scores aligned. Setting zero no longer overwrites a manual angle. Custom course menu shows all distances. Full screen width on Venu Sq. Pressing UP or DOWN quickly on button watches speeds up the step.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "8f86ef23-a8de-4ff1-97a7-33e4ebccc2f5",
@@ -32,7 +32,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "212",
   "icon": "assets/icons/canter.png",
   "shots": [
@@ -40,10 +40,10 @@
    "assets/shots/canter-2.jpg",
    "assets/shots/canter-3.jpg"
   ],
-  "changed": 1790053191000,
-  "whatsnew": "",
+  "changed": 1790095515000,
+  "whatsnew": "Weekday names are no longer one day off. Removing a horse no longer selects the wrong one. Pause is no longer counted in the activity time. Calibration only uses valid readings. Main menu and ride menu reachable without holding the screen: tap the middle of the home screen; pause and lap are also in the stop menu.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "32db9931-ba0c-4e4b-8b7b-9d5a11a2ba47",
@@ -55,7 +55,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "208",
   "icon": "assets/icons/stand.png",
   "shots": [
@@ -63,10 +63,10 @@
    "assets/shots/stand-2.jpg",
    "assets/shots/stand-3.jpg"
   ],
-  "changed": 1790052488000,
-  "whatsnew": "",
+  "changed": 1790095944000,
+  "whatsnew": "Fixed a crash on fenix 5 and fenix 6 while calculating sun and moon. First start without a saved position no longer stays on working it out. Logging a sighting before the calculation is done no longer crashes. The peak line shows today's best block. The glance shows the current hour.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "9a0b092a-a668-4d54-8535-10f9693d6d43",
@@ -78,7 +78,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "212",
   "icon": "assets/icons/sprintr.png",
   "shots": [
@@ -86,10 +86,10 @@
    "assets/shots/sprintr-2.jpg",
    "assets/shots/sprintr-3.jpg"
   ],
-  "changed": 1790051766000,
-  "whatsnew": "",
+  "changed": 1790094167000,
+  "whatsnew": "Heatmap with a saved pitch is aligned correctly (please save your pitch again). No more false accelerations after a GPS gap or pause. Today and yesterday follow calendar days. Longest sprint in miles mode is converted. Clearing history asks for confirmation and the glance updates. Full screen width on Venu Sq.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "d555d45f-cc9c-4229-85d7-4ce515f8c534",
@@ -101,7 +101,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -109,10 +109,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1790051500000,
-  "whatsnew": "",
+  "changed": 1790095298000,
+  "whatsnew": "Fixed crashes on older watches (fenix 5, vivoactive 3/4, Venu, fr245 and more) when pausing, setting times or calibrating, and in the glance. Calibration: drifting back now works and your own pace can be set. Yards are now correct for pace and distance per stroke. Stroke count, goal and heart rate are kept during a session. Settings reachable without a menu button.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
@@ -124,7 +124,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "210",
   "icon": "assets/icons/coil.png",
   "shots": [
@@ -132,10 +132,10 @@
    "assets/shots/coil-2.jpg",
    "assets/shots/coil-3.jpg"
   ],
-  "changed": 1790051270000,
-  "whatsnew": "",
+  "changed": 1790093673000,
+  "whatsnew": "Perimeter keeps working after restarting the app. Lane bar no longer mirrored on the way back. Swing width menu shows decimals. Lighter map and perimeter work. Sessions are saved in parts so a full grid is never lost. Clearing history asks for confirmation. Glance follows your units.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "303690e7-1f6e-4f1f-ad0b-841187866a1a",
@@ -147,7 +147,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "219",
   "icon": "assets/icons/recruit.png",
   "shots": [
@@ -155,10 +155,10 @@
    "assets/shots/recruit-2.jpg",
    "assets/shots/recruit-3.jpg"
   ],
-  "changed": 1790051032000,
-  "whatsnew": "",
+  "changed": 1790094958000,
+  "whatsnew": "Beep test levels now run at the right speed and the beep no longer drifts. Skipped events and 0:00 no longer score points; ending a run early no longer counts as a finish. Vameval uses the last full stage. The number entry screen works as expected. New More item to reach settings on every watch. Units no longer disappear on fenix 6 and fr245.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "52e3403d-fd0f-4642-877d-c623a017705e",
@@ -170,7 +170,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "219",
   "icon": "assets/icons/gravid.png",
   "shots": [
@@ -178,10 +178,10 @@
    "assets/shots/gravid-2.jpg",
    "assets/shots/gravid-3.jpg"
   ],
-  "changed": 1790048787000,
-  "whatsnew": "",
+  "changed": 1790095122000,
+  "whatsnew": "Ultrasound dating fixed: the due date was up to weeks late. New choice of day 3 or day 5 embryo for IVF dating. Fixed a crash on older watches when entering values. Height in imperial units is now converted. The glance updates every day. Future dates are limited. The kick counter can be left when empty.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "0e80d313-7f2b-4c2b-ad2b-c4fee937fc40",
@@ -193,7 +193,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 0,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "219",
   "icon": "assets/icons/baseline.png",
   "shots": [
@@ -201,10 +201,10 @@
    "assets/shots/baseline-2.jpg",
    "assets/shots/baseline-3.jpg"
   ],
-  "changed": 1790048350000,
-  "whatsnew": "",
+  "changed": 1790094796000,
+  "whatsnew": "Fixed a possible crash when closing the glance. Recent nights are now always read. Oxygen deviation shows the right value (-2.4 instead of -0.2). Body Battery on waking uses the first reading after wake time. Bedtime after midnight works. Buttons no longer get stuck on the signals page; settings reachable without a menu button. The calendar always shows this week.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
@@ -216,7 +216,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "219",
   "icon": "assets/icons/cyra.png",
   "shots": [
@@ -226,10 +226,10 @@
    "assets/shots/cyra-4.jpg",
    "assets/shots/cyra-5.jpg"
   ],
-  "changed": 1789701234000,
-  "whatsnew": "",
+  "changed": 1790096125000,
+  "whatsnew": "Tonight, advice and patterns now fill in as soon as night data is read. Phases follow your learned second half of the cycle. The reminder still comes if you open the app earlier that day, and never twice. Invalid stress and Body Battery values are ignored.",
   "devices": 174,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "0c2e5921-af6d-47e7-bf91-3a4899a2a752",
@@ -250,7 +250,7 @@
    "assets/shots/airtime-3.jpg"
   ],
   "changed": 1789667426000,
-  "whatsnew": "",
+  "whatsnew": "Jump height after a soft landing is no longer too high. Trend in feet is now really converted. GPS distance no longer drops between sparse fixes. Swiping back during a session no longer ends it; stopping by tap asks for a second tap. Discarding a session shows your last real session again.",
   "devices": 178,
   "updates": 1
  },
@@ -264,7 +264,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.0",
+  "version": "1.1",
   "category": "215",
   "icon": "assets/icons/rime.png",
   "shots": [
@@ -272,10 +272,10 @@
    "assets/shots/rime-2.jpg",
    "assets/shots/rime-3.jpg"
   ],
-  "changed": 1789666538000,
-  "whatsnew": "",
+  "changed": 1790096664000,
+  "whatsnew": "After midnight and in the morning Rime now shows the current night instead of the next evening. Wet roads after rain count for three hours for glaze ice. Sunrise and sunset fixed for far longitudes. Glance and evening alert no longer show a night that has passed. Chart now marker and 32F line fixed. Submenus open at the current value.",
   "devices": 133,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "787aaac9-6bff-43b8-a1dc-a83f1db77154",
@@ -296,7 +296,7 @@
    "assets/shots/plates-3.jpg"
   ],
   "changed": 1789665958000,
-  "whatsnew": "",
+  "whatsnew": "Fixed wrong load when the target is heavy for a small plate set (for example 20 kg instead of 60 kg). Much lighter plate calculation, no more timeout with a full rack. Plate menu shows the new count right away. Bar speed page shows the weight you can actually load.",
   "devices": 178,
   "updates": 1
  },
@@ -310,7 +310,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0",
+  "version": "1.1",
   "category": "219",
   "icon": "assets/icons/splitr.png",
   "shots": [
@@ -318,10 +318,10 @@
    "assets/shots/splitr-2.jpg",
    "assets/shots/splitr-3.jpg"
   ],
-  "changed": 1789665428000,
-  "whatsnew": "",
+  "changed": 1790096835000,
+  "whatsnew": "Buttons and swipes work again after a row. Meters per stroke are now saved. Adjust and Discard no longer change the previous piece. Fixed a crash with old saved data. The menu after a piece also opens with START. Deleting an effort asks for confirmation. Out-of-range input now gives a message.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "d5b404a4-cf14-40f6-a12f-e672e607f36c",
@@ -356,7 +356,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.0",
+  "version": "1.1",
   "category": "219",
   "icon": "assets/icons/strain.png",
   "shots": [
@@ -364,10 +364,10 @@
    "assets/shots/strain-2.jpg",
    "assets/shots/strain-3.jpg"
   ],
-  "changed": 1789653852000,
-  "whatsnew": "",
+  "changed": 1790096482000,
+  "whatsnew": "Fixed a possible crash with damaged saved data and a possible timeout on long histories. Heart rate scan now works on more watches and no longer gets stuck on an old find. Active minutes are read every start. The glance now decays over days without opening the app. Back in the log screen goes one field back. Tap the page title to open the menu.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "9515da43-3860-4968-8123-b7498ab7227d",
@@ -402,7 +402,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.0",
+  "version": "1.1",
   "category": "212",
   "icon": "assets/icons/chains.png",
   "shots": [
@@ -410,10 +410,10 @@
    "assets/shots/chains-2.jpg",
    "assets/shots/chains-3.jpg"
   ],
-  "changed": 1789640344000,
-  "whatsnew": "",
+  "changed": 1790097501000,
+  "whatsnew": "Fixed crashes on fenix 5, fr935 and vivoactive 3 and with damaged saved data. Shortening a course no longer shifts pars. Replaying a hole no longer counts twice. A manually set distance now shrinks as you walk. Scorecard shows all holes and the total. You can finish a round after the last hole; clearing asks for confirmation.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "012f9674-bb02-4adf-bc9d-74fdc4354805",
@@ -457,7 +457,7 @@
    "assets/shots/beam-3.jpg"
   ],
   "changed": 1789637690000,
-  "whatsnew": "",
+  "whatsnew": "Material count no longer rounds up one unit too many (tiles, steps). Menus update right after a change. Slope meter menu reachable by tapping the top of the screen on watches without a menu button. Fixed a stored zero plane that locked readings at 90 degrees. Minus sign now shows on fenix 5/6.",
   "devices": 178,
   "updates": 1
  },
@@ -586,7 +586,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "247",
   "icon": "assets/icons/laylin.png",
   "shots": [
@@ -594,10 +594,10 @@
    "assets/shots/laylin-2.jpg",
    "assets/shots/laylin-3.jpg"
   ],
-  "changed": 1789574381000,
+  "changed": 1790077419000,
   "whatsnew": "Ending a race is now one button. The back button opens the race menu whenever a start sequence or a recording is running, with Save at the top and Stop sequence added to it. On watches without a menu button, such as the Venu 4 and the vívoactive 3 and 6, that is the way in that the system cannot take away.",
   "devices": 175,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
@@ -1260,7 +1260,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "2.1",
+  "version": "2.2",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -1270,10 +1270,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1789816440000,
-  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
+  "changed": 1790096271000,
+  "whatsnew": "Fixed crashes when changing settings and with damaged saved data. Much faster import and sorting. Prices by gram are now per kg and grams go up to 5000. Running low no longer drops items after 248 days. No more double list, empty menu or hidden tap. Menu counts update right away. Unchecking only affects the purchase history of that list.",
   "devices": 54,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
@@ -1359,7 +1359,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.4",
+  "version": "1.5",
   "category": "254",
   "icon": "assets/icons/isobar.png",
   "shots": [
@@ -1368,10 +1368,10 @@
    "assets/shots/isobar-3.jpg",
    "assets/shots/isobar-4.jpg"
   ],
-  "changed": 1789313930000,
+  "changed": 1790077128000,
   "whatsnew": "Fixed a crash that could stop Isobar from opening at all on watches without a barometer. Isobar is now listed only for watches that have the barometer its forecast is built on.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "c9641632-bf62-4fdb-8e28-e3a4c1c24bc5",
