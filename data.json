@@ -8,7 +8,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.1.0",
   "category": "212",
   "icon": "assets/icons/marks.png",
@@ -31,7 +31,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.1.0",
   "category": "212",
   "icon": "assets/icons/canter.png",
@@ -54,7 +54,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.1.0",
   "category": "208",
   "icon": "assets/icons/stand.png",
@@ -77,7 +77,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.1.0",
   "category": "212",
   "icon": "assets/icons/sprintr.png",
@@ -87,7 +87,7 @@
    "assets/shots/sprintr-3.jpg"
   ],
   "changed": 1790094167000,
-  "whatsnew": "Heatmap with a saved pitch is aligned correctly (please save your pitch again). No more false accelerations after a GPS gap or pause. Today and yesterday follow calendar days. Longest sprint in miles mode is converted. Clearing history asks for confirmation and the glance updates. Full screen width on Venu Sq.",
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 178,
   "updates": 2
  },
@@ -100,7 +100,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.1.0",
   "category": "221",
   "icon": "assets/icons/flume.png",
@@ -123,7 +123,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.1.0",
   "category": "210",
   "icon": "assets/icons/coil.png",
@@ -146,8 +146,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
-  "version": "1.1.0",
+  "downloads": 1,
+  "version": "1.1.1",
   "category": "219",
   "icon": "assets/icons/recruit.png",
   "shots": [
@@ -155,10 +155,10 @@
    "assets/shots/recruit-2.jpg",
    "assets/shots/recruit-3.jpg"
   ],
-  "changed": 1790094958000,
-  "whatsnew": "Beep test levels now run at the right speed and the beep no longer drifts. Skipped events and 0:00 no longer score points; ending a run early no longer counts as a finish. Vameval uses the last full stage. The number entry screen works as expected. New More item to reach settings on every watch. Units no longer disappear on fenix 6 and fr245.",
+  "changed": 1790166433000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "52e3403d-fd0f-4642-877d-c623a017705e",
@@ -169,7 +169,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.1.0",
   "category": "219",
   "icon": "assets/icons/gravid.png",
@@ -192,7 +192,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 0,
+  "downloads": 10,
   "version": "1.1.0",
   "category": "219",
   "icon": "assets/icons/baseline.png",
@@ -207,31 +207,6 @@
   "updates": 2
  },
  {
-  "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
-  "slug": "cyra",
-  "name": "Cyra - Menstrual Cycle & Period Tracker",
-  "desc": "Cyra keeps your cycle on the watch and lets you correct every day of it right there: the first day, the last day, the flow, a period logged by mistake. Change it and the forecast recalculates at once. The next period is shown as a window, not a single date, worked out from the median and spread of your last twelve cycles, and it says how many cycles it rests on.\n\nPhases are counted back from the expected next period, the way the luteal phase actually works, not forward from day 14. Each morning Cyra reads your night heart rate, stress and Body Battery from the watch's own history, compares them with what is usual for you in this phase, and suggests in plain words where hard work tends to suit you and where recovery may deserve more attention. A sustained rise in night temperature is used afterwards as an indication that the estimated phase was right.\n\nWHAT IT DOES\n- Today: cycle day, phase, days to the expected window and a one-line suggestion\n- Log in two or three taps: period started, period ended, flow, and six symptoms\n- Correct any day from the calendar ring, including the first day of the current and previous cycles; the model recomputes\n- Forecast as an 80 % window with the number of cycles it is based on; no forecast until three cycles are logged\n- History: cycle lengths with median and spread, and bleeding days per cycle\n- Night numbers versus your usual for this phase, and a training suggestion based on your own history\n- Night temperature or heart rate chart with the sustained rise marked, as an indication only\n- Patterns: which symptoms return on which cycle days, and how night heart rate and Body Battery shift before a period\n- Reminder a few days before the window, luteal length learned from your own data or set by hand\n- Glance with cycle day and phase, five languages\n\nWHAT IT NEEDS\n- Everything stays on the watch: no phone, no account, no internet\n- Connect IQ apps cannot read or write the cycle data in Garmin Connect, so Cyra keeps its own log\n- Night data needs the watch worn overnight; Connect IQ exposes no heart rate variability, so Garmin's stress value is used in its place\n- Phases and windows are estimates from your own history. Not for contraception, not a diagnosis, not medical advice\n\nKeywords: period tracker, menstrual cycle, menstruation, ovulation, cycle tracking, PMS, women's health, period calendar, cycle phases",
-  "nl": "Cyra houdt je cyclus bij op het horloge en laat je elke dag ervan ter plekke corrigeren: de eerste dag, de laatste dag, de sterkte, een per ongeluk gelogde menstruatie. Pas het aan en de voorspelling rekent meteen opnieuw. De volgende menstruatie staat er als een venster, niet als één datum, berekend uit de mediaan en de spreiding van je laatste twaalf cycli, en er staat bij op hoeveel cycli dat rust.\n\nFases worden teruggerekend vanaf de verwachte volgende menstruatie, zoals de luteale fase echt werkt, en niet vooruit vanaf dag 14. Elke ochtend leest Cyra je nachthartslag, stress en Body Battery uit de eigen historie van het horloge, zet ze naast wat voor jou gewoon is in deze fase, en stelt in gewone taal voor waar zwaar werk doorgaans past en waar herstel meer aandacht mag krijgen. Een aanhoudende stijging van de nachttemperatuur dient achteraf als indicatie dat de geschatte fase klopte.\n\nWAT HET DOET\n- Vandaag: cyclusdag, fase, dagen tot het verwachte venster en één regel advies\n- Loggen in twee of drie tikken: menstruatie begonnen, geëindigd, sterkte en zes klachten\n- Elke dag corrigeren vanuit de kalenderring, ook de eerste dag van de huidige en de vorige cyclus; het model rekent opnieuw\n- Voorspelling als 80 %-venster met het aantal cycli waarop het rust; geen voorspelling vóór drie gelogde cycli\n- Geschiedenis: cycluslengtes met mediaan en spreiding, en bloedingsdagen per cyclus\n- Nachtwaarden tegenover jouw gewone in deze fase, en een trainingssuggestie op basis van je eigen historie\n- Grafiek van nachttemperatuur of hartslag met de aanhoudende stijging gemarkeerd, alleen als indicatie\n- Patronen: welke klachten op welke cyclusdagen terugkomen, en hoe nachthartslag en Body Battery verschuiven vóór een menstruatie\n- Herinnering een paar dagen voor het venster, luteale lengte geleerd uit je eigen data of zelf ingesteld\n- Glance met cyclusdag en fase, vijf talen\n\nWAT HET NODIG HEEFT\n- Alles blijft op het horloge: geen telefoon, geen account, geen internet\n- Connect IQ-apps kunnen de cyclusdata in Garmin Connect niet lezen of schrijven, dus Cyra houdt een eigen log bij\n- Nachtdata vraagt dat je het horloge 's nachts draagt; Connect IQ geeft geen hartslagvariabiliteit, dus Garmins stresswaarde wordt daarvoor gebruikt\n- Fases en vensters zijn schattingen uit je eigen historie. Niet geschikt als anticonceptie, geen diagnose, geen medisch advies\n\nZoekwoorden: menstruatie tracker, menstruatiecyclus, period tracker, ovulatie, cyclus bijhouden, PMS, vrouwengezondheid, menstruatiekalender, cyclusfases",
-  "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.1.0",
-  "category": "219",
-  "icon": "assets/icons/cyra.png",
-  "shots": [
-   "assets/shots/cyra-1.jpg",
-   "assets/shots/cyra-2.jpg",
-   "assets/shots/cyra-3.jpg",
-   "assets/shots/cyra-4.jpg",
-   "assets/shots/cyra-5.jpg"
-  ],
-  "changed": 1790096125000,
-  "whatsnew": "Tonight, advice and patterns now fill in as soon as night data is read. Phases follow your learned second half of the cycle. The reminder still comes if you open the app earlier that day, and never twice. Invalid stress and Body Battery values are ignored.",
-  "devices": 174,
-  "updates": 2
- },
- {
   "id": "0c2e5921-af6d-47e7-bf91-3a4899a2a752",
   "slug": "airtime",
   "name": "Airtime - Kitesurf jumps and height",
@@ -241,7 +216,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0",
+  "version": "1.1",
   "category": "212",
   "icon": "assets/icons/airtime.png",
   "shots": [
@@ -249,10 +224,10 @@
    "assets/shots/airtime-2.jpg",
    "assets/shots/airtime-3.jpg"
   ],
-  "changed": 1789667426000,
+  "changed": 1790097222000,
   "whatsnew": "Jump height after a soft landing is no longer too high. Trend in feet is now really converted. GPS distance no longer drops between sparse fixes. Swiping back during a session no longer ends it; stopping by tap asks for a second tap. Discarding a session shows your last real session again.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "b3dc4fa0-011c-4988-97f1-8b4bcbe5b61d",
@@ -287,7 +262,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0",
+  "version": "1.1",
   "category": "277",
   "icon": "assets/icons/plates.png",
   "shots": [
@@ -295,10 +270,10 @@
    "assets/shots/plates-2.jpg",
    "assets/shots/plates-3.jpg"
   ],
-  "changed": 1789665958000,
+  "changed": 1790097025000,
   "whatsnew": "Fixed wrong load when the target is heavy for a small plate set (for example 20 kg instead of 60 kg). Much lighter plate calculation, no more timeout with a full rack. Plate menu shows the new count right away. Bar speed page shows the weight you can actually load.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "ae16ee36-8dde-4387-a461-3e4af1140b2c",
@@ -310,7 +285,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1",
+  "version": "1.2",
   "category": "219",
   "icon": "assets/icons/splitr.png",
   "shots": [
@@ -318,10 +293,10 @@
    "assets/shots/splitr-2.jpg",
    "assets/shots/splitr-3.jpg"
   ],
-  "changed": 1790096835000,
-  "whatsnew": "Buttons and swipes work again after a row. Meters per stroke are now saved. Adjust and Discard no longer change the previous piece. Fixed a crash with old saved data. The menu after a piece also opens with START. Deleting an effort asks for confirmation. Out-of-range input now gives a message.",
+  "changed": 1790169475000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "d5b404a4-cf14-40f6-a12f-e672e607f36c",
@@ -379,7 +354,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0",
+  "version": "1.1",
   "category": "213",
   "icon": "assets/icons/amp.png",
   "shots": [
@@ -387,10 +362,10 @@
    "assets/shots/amp-2.jpg",
    "assets/shots/amp-3.jpg"
   ],
-  "changed": 1789650517000,
-  "whatsnew": "",
+  "changed": 1790169292000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "e2268881-b058-40ed-bd72-024e12b4f49e",
@@ -401,7 +376,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.1",
   "category": "212",
   "icon": "assets/icons/chains.png",
@@ -448,7 +423,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0",
+  "version": "1.1",
   "category": "213",
   "icon": "assets/icons/beam.png",
   "shots": [
@@ -456,10 +431,10 @@
    "assets/shots/beam-2.jpg",
    "assets/shots/beam-3.jpg"
   ],
-  "changed": 1789637690000,
-  "whatsnew": "Material count no longer rounds up one unit too many (tiles, steps). Menus update right after a change. Slope meter menu reachable by tapping the top of the screen on watches without a menu button. Fixed a stored zero plane that locked readings at 90 degrees. Minus sign now shows on fenix 5/6.",
+  "changed": 1790097350000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "acb6e144-0df2-4a0a-9860-80536e1359d2",
@@ -471,7 +446,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "219",
   "icon": "assets/icons/crimpa.png",
   "shots": [
@@ -479,10 +454,10 @@
    "assets/shots/crimpa-2.jpg",
    "assets/shots/crimpa-3.jpg"
   ],
-  "changed": 1789469604000,
-  "whatsnew": "",
+  "changed": 1790169703000,
+  "whatsnew": "Fixed a crash when the glance closes.",
   "devices": 175,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "6b0dad0f-72c2-440e-b9dc-5cde79fba602",
@@ -549,7 +524,7 @@
    "assets/shots/toca-3.jpg"
   ],
   "changed": 1789468914000,
-  "whatsnew": "",
+  "whatsnew": "Fixed a crash when the glance closes.",
   "devices": 175,
   "updates": 1
  },
@@ -563,7 +538,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "208",
   "icon": "assets/icons/bitewell.png",
   "shots": [
@@ -571,10 +546,10 @@
    "assets/shots/bitewell-2.jpg",
    "assets/shots/bitewell-3.jpg"
   ],
-  "changed": 1789468511000,
-  "whatsnew": "",
+  "changed": 1790166565000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 175,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "b5ba81df-5b6d-4de8-b94f-3c26519b2730",
@@ -609,7 +584,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "202",
   "icon": "assets/icons/studo.png",
   "shots": [
@@ -617,33 +592,10 @@
    "assets/shots/studo-2.jpg",
    "assets/shots/studo-3.jpg"
   ],
-  "changed": 1789400248000,
-  "whatsnew": "Fixed: the forgetting curve stopped working after a few study days, and today's plan reshuffled after every block. Short breaks now signal even when the app is closed, with a real notification on newer watches. The Eye break setting now works (two taps every 20 minutes). Also fixed: a glance crash, the streak stopping at 14 days, past exams still getting blocks, and overlapping text on small screens.",
+  "changed": 1790168900000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 178,
-  "updates": 2
- },
- {
-  "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
-  "slug": "circada",
-  "name": "Circada - Shift Work Sleep",
-  "desc": "Shift work apps hand you general sleep advice. Circada works with your actual rota. You enter your shifts — early, late, night, off — and it predicts how alert you will be, hour by hour, including the dip that arrives at 4 am.\n\nThe engine is the two-process model: a sleep pressure that builds while you are awake and drains while you sleep, plus a body clock that does not simply follow your rota. A phase response curve decides how far your clock shifts each day from light or darkness, and caffeine runs through the model as first-order pharmacokinetics with a half life. Out of that comes a concrete plan: when to sleep, how long to nap, when to seek light, when to wear shades on the way home, and how late your last cup can be.\n\nWHAT IT DOES\n- Alertness now and per hour, with the low points named\n- A forecast for 4 am and for every hour of your shift\n- A sleep and nap plan per day, fitted to the next shift\n- Light and darkness advice to shift your clock or hold it\n- Caffeine window: how many mg on board and when the last cup is\n- A week view with your rota and the alertness you can expect\n- Five languages and a glance with the next action\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- Circada is a planning aid, not medical advice for a sleep disorder",
-  "nl": "Ploegendienst-apps geven je een algemeen slaapadvies. Circada rekent met jouw rooster. Je zet je diensten in — vroeg, laat, nacht, vrij — en de app voorspelt hoe wakker je straks bent, uur voor uur, met de dip erin die om 04:00 komt.\n\nHet rekenhart is het twee-processenmodel: een slaapdruk die oploopt zolang je wakker bent en afvalt als je slaapt, plus een lichaamsklok die niet meteen meeschuift met je rooster. Een faseresponscurve bepaalt hoeveel je klok per dag opschuift door licht of donker, en cafeïne gaat als eerste-orde farmacokinetiek met halfwaardetijd door het model heen. Daaruit rolt een concreet plan: wanneer slapen, hoe lang dutten, wanneer licht zoeken, wanneer een zonnebril op de weg naar huis, en hoe laat je laatste kop koffie mag.\n\nWAT HET DOET\n- Alertheid nu en per uur, met de laagste punten benoemd\n- Voorspelling voor 04:00 en voor elk uur van je dienst\n- Slaap- en dutplan per dag, afgestemd op de volgende dienst\n- Licht- en donkeradvies om je klok op te schuiven of vast te houden\n- Cafeïnevenster: hoeveel mg aan boord en wanneer de laatste kop\n- Weekoverzicht met je rooster en de verwachte alertheid\n- Vijf talen en een glance met de eerstvolgende actie\n\nWAT HET NODIG HEEFT\n- Niets. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Circada is een planningshulp en geen medisch advies bij slaapklachten",
-  "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.1.0",
-  "category": "254",
-  "icon": "assets/icons/circada.png",
-  "shots": [
-   "assets/shots/circada-1.jpg",
-   "assets/shots/circada-2.jpg",
-   "assets/shots/circada-3.jpg"
-  ],
-  "changed": 1789404769000,
-  "whatsnew": "Fixed: without heart rate data the app advised shifting your clock earlier every day. Late shifts past midnight no longer schedule sleep during the shift, and at 03:00 on a night shift the advice now covers the current night. The nap finder is much faster, which prevents crashes on older watches. New: 12-hour shifts, 'Today is' to set your place in a rotation, bedtime from your Garmin profile, and a screen that updates every minute. Texts now fit on all screens.",
-  "devices": 167,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
@@ -678,7 +630,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.1.1",
+  "version": "1.1.2",
   "category": "205",
   "icon": "assets/icons/platewise.png",
   "shots": [
@@ -686,10 +638,10 @@
    "assets/shots/platewise-2.jpg",
    "assets/shots/platewise-3.jpg"
   ],
-  "changed": 1790077323000,
-  "whatsnew": "Fixed a crash that could stop Platewise from opening on watches without a barometer.",
+  "changed": 1790167042000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. New app icon.",
   "devices": 167,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
@@ -701,7 +653,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "208",
   "icon": "assets/icons/pawcast.png",
   "shots": [
@@ -709,10 +661,10 @@
    "assets/shots/pawcast-2.jpg",
    "assets/shots/pawcast-3.jpg"
   ],
-  "changed": 1789406249000,
-  "whatsnew": "More accurate ground temperature right now: it could be up to 4.7 °C too cool in the afternoon, which is the difference between 'avoid' and 'burns'. Dog weight is shown in lb on imperial watches. Fixed: text running off round screens, menus showing old values, and the glance ignoring 12-hour time and Strict mode.",
+  "changed": 1790166758000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 133,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
@@ -735,6 +687,54 @@
   "changed": 1789405145000,
   "whatsnew": "New return mode: choose 'Turned back' in the menu, or accept the prompt when you retrace your track, and the app shows your expected arrival against darkness instead of a turnaround countdown. The return estimate is now exact; it was 3-5% too short on hilly routes. Fixed: sunset a day early in UTC+13, lost distance when the app was closed mid-hike, GPS drift counting as distance while standing still, and settings on watches without a menu button (hold to open).",
   "devices": 168,
+  "updates": 2
+ },
+ {
+  "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
+  "slug": "cyra",
+  "name": "Cyra - Menstrual Cycle & Period Tracker",
+  "desc": "Cyra keeps your cycle on the watch and lets you correct every day of it right there: the first day, the last day, the flow, a period logged by mistake. Change it and the forecast recalculates at once. The next period is shown as a window, not a single date, worked out from the median and spread of your last twelve cycles, and it says how many cycles it rests on.\n\nPhases are counted back from the expected next period, the way the luteal phase actually works, not forward from day 14. Each morning Cyra reads your night heart rate, stress and Body Battery from the watch's own history, compares them with what is usual for you in this phase, and suggests in plain words where hard work tends to suit you and where recovery may deserve more attention. A sustained rise in night temperature is used afterwards as an indication that the estimated phase was right.\n\nWHAT IT DOES\n- Today: cycle day, phase, days to the expected window and a one-line suggestion\n- Log in two or three taps: period started, period ended, flow, and six symptoms\n- Correct any day from the calendar ring, including the first day of the current and previous cycles; the model recomputes\n- Forecast as an 80 % window with the number of cycles it is based on; no forecast until three cycles are logged\n- History: cycle lengths with median and spread, and bleeding days per cycle\n- Night numbers versus your usual for this phase, and a training suggestion based on your own history\n- Night temperature or heart rate chart with the sustained rise marked, as an indication only\n- Patterns: which symptoms return on which cycle days, and how night heart rate and Body Battery shift before a period\n- Reminder a few days before the window, luteal length learned from your own data or set by hand\n- Glance with cycle day and phase, five languages\n\nWHAT IT NEEDS\n- Everything stays on the watch: no phone, no account, no internet\n- Connect IQ apps cannot read or write the cycle data in Garmin Connect, so Cyra keeps its own log\n- Night data needs the watch worn overnight; Connect IQ exposes no heart rate variability, so Garmin's stress value is used in its place\n- Phases and windows are estimates from your own history. Not for contraception, not a diagnosis, not medical advice\n\nKeywords: period tracker, menstrual cycle, menstruation, ovulation, cycle tracking, PMS, women's health, period calendar, cycle phases",
+  "nl": "Cyra houdt je cyclus bij op het horloge en laat je elke dag ervan ter plekke corrigeren: de eerste dag, de laatste dag, de sterkte, een per ongeluk gelogde menstruatie. Pas het aan en de voorspelling rekent meteen opnieuw. De volgende menstruatie staat er als een venster, niet als één datum, berekend uit de mediaan en de spreiding van je laatste twaalf cycli, en er staat bij op hoeveel cycli dat rust.\n\nFases worden teruggerekend vanaf de verwachte volgende menstruatie, zoals de luteale fase echt werkt, en niet vooruit vanaf dag 14. Elke ochtend leest Cyra je nachthartslag, stress en Body Battery uit de eigen historie van het horloge, zet ze naast wat voor jou gewoon is in deze fase, en stelt in gewone taal voor waar zwaar werk doorgaans past en waar herstel meer aandacht mag krijgen. Een aanhoudende stijging van de nachttemperatuur dient achteraf als indicatie dat de geschatte fase klopte.\n\nWAT HET DOET\n- Vandaag: cyclusdag, fase, dagen tot het verwachte venster en één regel advies\n- Loggen in twee of drie tikken: menstruatie begonnen, geëindigd, sterkte en zes klachten\n- Elke dag corrigeren vanuit de kalenderring, ook de eerste dag van de huidige en de vorige cyclus; het model rekent opnieuw\n- Voorspelling als 80 %-venster met het aantal cycli waarop het rust; geen voorspelling vóór drie gelogde cycli\n- Geschiedenis: cycluslengtes met mediaan en spreiding, en bloedingsdagen per cyclus\n- Nachtwaarden tegenover jouw gewone in deze fase, en een trainingssuggestie op basis van je eigen historie\n- Grafiek van nachttemperatuur of hartslag met de aanhoudende stijging gemarkeerd, alleen als indicatie\n- Patronen: welke klachten op welke cyclusdagen terugkomen, en hoe nachthartslag en Body Battery verschuiven vóór een menstruatie\n- Herinnering een paar dagen voor het venster, luteale lengte geleerd uit je eigen data of zelf ingesteld\n- Glance met cyclusdag en fase, vijf talen\n\nWAT HET NODIG HEEFT\n- Alles blijft op het horloge: geen telefoon, geen account, geen internet\n- Connect IQ-apps kunnen de cyclusdata in Garmin Connect niet lezen of schrijven, dus Cyra houdt een eigen log bij\n- Nachtdata vraagt dat je het horloge 's nachts draagt; Connect IQ geeft geen hartslagvariabiliteit, dus Garmins stresswaarde wordt daarvoor gebruikt\n- Fases en vensters zijn schattingen uit je eigen historie. Niet geschikt als anticonceptie, geen diagnose, geen medisch advies\n\nZoekwoorden: menstruatie tracker, menstruatiecyclus, period tracker, ovulatie, cyclus bijhouden, PMS, vrouwengezondheid, menstruatiekalender, cyclusfases",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.1.0",
+  "category": "219",
+  "icon": "assets/icons/cyra.png",
+  "shots": [
+   "assets/shots/cyra-1.jpg",
+   "assets/shots/cyra-2.jpg",
+   "assets/shots/cyra-3.jpg",
+   "assets/shots/cyra-4.jpg",
+   "assets/shots/cyra-5.jpg"
+  ],
+  "changed": 1790096125000,
+  "whatsnew": "Tonight, advice and patterns now fill in as soon as night data is read. Phases follow your learned second half of the cycle. The reminder still comes if you open the app earlier that day, and never twice. Invalid stress and Body Battery values are ignored.",
+  "devices": 174,
+  "updates": 2
+ },
+ {
+  "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
+  "slug": "circada",
+  "name": "Circada - Shift Work Sleep",
+  "desc": "Shift work apps hand you general sleep advice. Circada works with your actual rota. You enter your shifts — early, late, night, off — and it predicts how alert you will be, hour by hour, including the dip that arrives at 4 am.\n\nThe engine is the two-process model: a sleep pressure that builds while you are awake and drains while you sleep, plus a body clock that does not simply follow your rota. A phase response curve decides how far your clock shifts each day from light or darkness, and caffeine runs through the model as first-order pharmacokinetics with a half life. Out of that comes a concrete plan: when to sleep, how long to nap, when to seek light, when to wear shades on the way home, and how late your last cup can be.\n\nWHAT IT DOES\n- Alertness now and per hour, with the low points named\n- A forecast for 4 am and for every hour of your shift\n- A sleep and nap plan per day, fitted to the next shift\n- Light and darkness advice to shift your clock or hold it\n- Caffeine window: how many mg on board and when the last cup is\n- A week view with your rota and the alertness you can expect\n- Five languages and a glance with the next action\n\nWHAT IT NEEDS\n- Nothing. Everything is worked out on the watch: no phone, no account, no internet\n- Circada is a planning aid, not medical advice for a sleep disorder",
+  "nl": "Ploegendienst-apps geven je een algemeen slaapadvies. Circada rekent met jouw rooster. Je zet je diensten in — vroeg, laat, nacht, vrij — en de app voorspelt hoe wakker je straks bent, uur voor uur, met de dip erin die om 04:00 komt.\n\nHet rekenhart is het twee-processenmodel: een slaapdruk die oploopt zolang je wakker bent en afvalt als je slaapt, plus een lichaamsklok die niet meteen meeschuift met je rooster. Een faseresponscurve bepaalt hoeveel je klok per dag opschuift door licht of donker, en cafeïne gaat als eerste-orde farmacokinetiek met halfwaardetijd door het model heen. Daaruit rolt een concreet plan: wanneer slapen, hoe lang dutten, wanneer licht zoeken, wanneer een zonnebril op de weg naar huis, en hoe laat je laatste kop koffie mag.\n\nWAT HET DOET\n- Alertheid nu en per uur, met de laagste punten benoemd\n- Voorspelling voor 04:00 en voor elk uur van je dienst\n- Slaap- en dutplan per dag, afgestemd op de volgende dienst\n- Licht- en donkeradvies om je klok op te schuiven of vast te houden\n- Cafeïnevenster: hoeveel mg aan boord en wanneer de laatste kop\n- Weekoverzicht met je rooster en de verwachte alertheid\n- Vijf talen en een glance met de eerstvolgende actie\n\nWAT HET NODIG HEEFT\n- Niets. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Circada is een planningshulp en geen medisch advies bij slaapklachten",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.1.0",
+  "category": "254",
+  "icon": "assets/icons/circada.png",
+  "shots": [
+   "assets/shots/circada-1.jpg",
+   "assets/shots/circada-2.jpg",
+   "assets/shots/circada-3.jpg"
+  ],
+  "changed": 1789404769000,
+  "whatsnew": "Fixed: without heart rate data the app advised shifting your clock earlier every day. Late shifts past midnight no longer schedule sleep during the shift, and at 03:00 on a night shift the advice now covers the current night. The nap finder is much faster, which prevents crashes on older watches. New: 12-hour shifts, 'Today is' to set your place in a rotation, bedtime from your Garmin profile, and a screen that updates every minute. Texts now fit on all screens.",
+  "devices": 167,
   "updates": 2
  },
  {
@@ -883,8 +883,8 @@
   "desc": "An idle game asks the same question over and over: what to buy next. Then it hides the answer behind numbers nobody can compare in their head. A machine at 4.1e17 coins that adds 9.2e14 a second, against an upgrade at 8.8e16 that doubles something older. Most people give up and buy whatever is newest, which is usually the wrong answer.\n\nCoglet works that comparison out. Every purchase on offer, a machine, a hundred of them at once, an upgrade, a manager, a wider away window, is scored the same way: production added per day against coins spent, which comes out as a payback time. That one figure is what lets a machine, an upgrade and a manager be ranked against each other at all. The front page names the shortest payback standing, what it costs and how long it takes to earn itself back, or how long until the balance covers it. The rebuild screen answers the other question the genre never answers: whether prestige is worth taking now, and how long it takes to get back to where the factory already is.\n\nWHAT IT DOES\n- Eight machines on their own cost curves, each kind doubling its output every 25 built\n- An advisor that ranks every purchase by payback time and names the best one\n- Twelve upgrade levels per machine, a manager per machine, and a night shift that widens the away window from eight hours to sixteen and then to twenty-four\n- Buy max priced from the closed form of the geometric series, so a few hundred units cost one multiplication rather than a loop the watchdog would cut short\n- Offline earnings settled from the wall clock in one multiplication, capped at the away window, with machines that have no manager idling at a quarter speed\n- A clock set backwards pays exactly nothing, so absence cannot be farmed\n- A rebuild that trades the whole run for a permanent multiplier, with a screen that says plainly whether it is worth it now and when it pays back\n- Every coin carried as a mantissa and an exponent, and printed with a short suffix, K, M, B, T and on through letter pairs, never as scientific notation\n- Four pages: the floor, what each machine is producing, what to buy next, the rebuild\n- Five languages, on-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
   "nl": "Een idle game stelt steeds dezelfde vraag: wat koop je hierna. En dan verstopt hij het antwoord achter getallen die niemand uit het hoofd vergelijkt. Een machine van 4,1e17 munten die er 9,2e14 per seconde bij doet, tegen een upgrade van 8,8e16 die iets ouds verdubbelt. De meesten geven het op en kopen het nieuwste, meestal het foute antwoord.\n\nCoglet rekent die vergelijking uit. Elke aankoop die openstaat, een machine, honderd tegelijk, een upgrade, een manager, een langer afwezigheidsvenster, krijgt dezelfde score: productie erbij per dag tegen munten eraf, wat neerkomt op een terugverdientijd.\nDat ene getal is wat een machine, een upgrade en een manager onderling vergelijkbaar maakt. De voorpagina noemt de kortste terugverdientijd die er ligt, wat hij kost en hoe lang hij erover doet, of hoe lang het duurt voor het saldo hem dekt. Het herbouwscherm beantwoordt de vraag die het genre nooit beantwoordt: of prestige nu de moeite is, en hoe lang het duurt om terug te zijn waar de fabriek al staat.\n\nWAT HET DOET\n- Acht machines op hun eigen kostencurve, elke soort verdubbelt zijn output per 25 stuks\n- Een adviseur die elke aankoop rangschikt op terugverdientijd en de beste noemt\n- Twaalf upgradeniveaus per machine, een manager per machine, en een nachtdienst die het afwezigheidsvenster van acht uur naar zestien en daarna naar vierentwintig trekt\n- Koop max wordt geprijsd met de gesloten vorm van de meetkundige reeks, dus honderden stuks kosten een vermenigvuldiging in plaats van een lus die de watchdog afkapt\n- Offline-opbrengst wordt in een vermenigvuldiging van de wandklok afgerekend, afgetopt op het venster, met machines zonder manager op een kwart snelheid\n- Een klok die terugloopt betaalt precies niets, dus afwezigheid valt niet te farmen\n- Een herbouw die de hele run inruilt voor een blijvende vermenigvuldiger, met een scherm dat gewoon zegt of het nu loont en wanneer het is terugverdiend\n- Elke munt wordt gedragen als mantisse plus exponent, en komt in beeld met een kort achtervoegsel, K, M, B, T en verder met letterparen, nooit wetenschappelijk\n- Vier pagina's: de vloer, wat elke machine maakt, wat je nu moet kopen, de herbouw\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
   "type": "2",
-  "rating": 4.7,
-  "reviews": 3,
+  "rating": 4.8,
+  "reviews": 4,
   "downloads": 10,
   "version": "1.0.1",
   "category": "206",
@@ -985,7 +985,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "220",
   "icon": "assets/icons/hounded.png",
   "shots": [
@@ -995,10 +995,10 @@
    "assets/shots/hounded-4.jpg",
    "assets/shots/hounded-5.jpg"
   ],
-  "changed": 1789401692000,
-  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
+  "changed": 1790169811000,
+  "whatsnew": "Fixed a crash when the glance closes.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "9a0f0939-945e-44e3-8085-d42ee659e150",
@@ -1035,7 +1035,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "217",
   "icon": "assets/icons/radar.png",
   "shots": [
@@ -1045,10 +1045,10 @@
    "assets/shots/radar-4.jpg",
    "assets/shots/radar-5.jpg"
   ],
-  "changed": 1789410637000,
-  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
+  "changed": 1790169202000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. Fixed a crash when the glance closes.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8",
@@ -1085,7 +1085,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "277",
   "icon": "assets/icons/recover.png",
   "shots": [
@@ -1095,10 +1095,10 @@
    "assets/shots/recover-4.jpg",
    "assets/shots/recover-5.jpg"
   ],
-  "changed": 1789402646000,
-  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
+  "changed": 1790169888000,
+  "whatsnew": "Fixed a crash when the glance closes.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce",
@@ -1210,7 +1210,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "212",
   "icon": "assets/icons/strike.png",
   "shots": [
@@ -1220,10 +1220,10 @@
    "assets/shots/strike-4.jpg",
    "assets/shots/strike-5.jpg"
   ],
-  "changed": 1789314337000,
-  "whatsnew": "The app list on the watch now shows just the name.",
+  "changed": 1790166874000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. The glance now shows score, maximum and progress through the ten frames.",
   "devices": 167,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "7b530ce0-2510-4669-b06e-abc0b2448567",
@@ -1334,7 +1334,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.1",
+  "version": "1.2",
   "category": "205",
   "icon": "assets/icons/earned.png",
   "shots": [
@@ -1344,10 +1344,10 @@
    "assets/shots/earned-4.jpg",
    "assets/shots/earned-5.jpg"
   ],
-  "changed": 1787594055000,
-  "whatsnew": "",
+  "changed": 1790166682000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. New app icon. The glance now shows progress to your next portion.",
   "devices": 180,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "435be2d8-0a32-4d40-8737-ce97f2824468",
@@ -1383,7 +1383,7 @@
   "rating": 4.5,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.3",
+  "version": "1.4",
   "category": "213",
   "icon": "assets/icons/remindersplus.png",
   "shots": [
@@ -1392,10 +1392,10 @@
    "assets/shots/remindersplus-3.jpg",
    "assets/shots/remindersplus-4.jpg"
   ],
-  "changed": 1788696162000,
-  "whatsnew": "- A scheduled reminder ticked off up to six hours early now counts for that occurrence instead of turning red at the set time\n- Changing the interval of a reminder keeps \"last done\"; it no longer starts over from zero\n- Overdue reminders now remind you again every hour until you tick them off\n",
+  "changed": 1790169086000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. The glance now shows your next reminder.",
   "devices": 63,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "9f23b16c-4816-43e4-b467-8aac293d0d31",
@@ -1432,7 +1432,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.6",
+  "version": "1.7",
   "category": "254",
   "icon": "assets/icons/smokeless.png",
   "shots": [
@@ -1442,10 +1442,10 @@
    "assets/shots/smokeless-4.jpg",
    "assets/shots/smokeless-5.jpg"
   ],
-  "changed": 1788696513000,
-  "whatsnew": "- The quit moment is only set when you open the app, never by the glance or a background check\n- Moving the quit moment later now banks your streak and counts as a new attempt, like \"quit again now\" does\n- The daily reminder keeps its hour across the daylight-saving change\n",
+  "changed": 1790167128000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. The glance shows your smoke-free time and money saved on one line.",
   "devices": 153,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "cec46a63-db0b-4506-b046-2a59e120d2d0",
@@ -1457,7 +1457,7 @@
   "rating": 3.9,
   "reviews": 7,
   "downloads": 100,
-  "version": "2.1",
+  "version": "2.2",
   "category": "219",
   "icon": "assets/icons/fasted.png",
   "shots": [
@@ -1467,10 +1467,10 @@
    "assets/shots/fasted-4.jpg",
    "assets/shots/fasted-5.jpg"
   ],
-  "changed": 1789094082000,
-  "whatsnew": "Fixed: German was missing from the app entirely — a build mistake on my side. German is now included, and the language can also be set on the watch itself, so you no longer need the phone for it. Much larger text and far higher contrast on fenix, Enduro, Forerunner 255/955 and other MIP watches: font sizes and colours are now chosen per display type instead of being tuned for AMOLED.",
+  "changed": 1790168802000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 108,
-  "updates": 14
+  "updates": 15
  },
  {
   "id": "b3c49541-6aba-49c8-a271-ee0a4967ee79",
@@ -1482,7 +1482,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.4",
+  "version": "1.5",
   "category": "206",
   "icon": "assets/icons/reactr.png",
   "shots": [
@@ -1492,10 +1492,10 @@
    "assets/shots/reactr-4.jpg",
    "assets/shots/reactr-5.jpg"
   ],
-  "changed": 1787603153000,
-  "whatsnew": "",
+  "changed": 1790168996000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. The glance now shows your best and average reaction time.",
   "devices": 104,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "4709a2ba-d48e-48b9-8cc0-ff741a5a85e2",
@@ -1605,7 +1605,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.2",
+  "version": "1.3",
   "category": "213",
   "icon": "assets/icons/cardvault.png",
   "shots": [
@@ -1615,10 +1615,10 @@
    "assets/shots/cardvault-4.jpg",
    "assets/shots/cardvault-5.jpg"
   ],
-  "changed": 1787605749000,
-  "whatsnew": "",
+  "changed": 1790166250000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. The glance now shows how many cards you have and your first card.",
   "devices": 64,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "2f0cb757-209f-4c24-bf73-c5ec56863d70",
@@ -1652,7 +1652,7 @@
   "rating": 3.3,
   "reviews": 7,
   "downloads": 100,
-  "version": "1.8",
+  "version": "1.9",
   "category": "210",
   "icon": "assets/icons/spotsave.png",
   "shots": [
@@ -1661,10 +1661,10 @@
    "assets/shots/spotsave-3.jpg",
    "assets/shots/spotsave-4.jpg"
   ],
-  "changed": 1788688612000,
-  "whatsnew": "- The watch's last known position is used as a fallback right away, so a quick save no longer fails while GPS is still searching\n- A weak GPS fix now saves with a warning instead of silently, and the status shows \"GPS weak\"\n- \"Ago\" shows days after two days instead of \"49h\"\n",
+  "changed": 1790166086000,
+  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. The glance now shows your last saved spot.",
   "devices": 178,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "f37b763c-584b-4b1e-b3d7-dfae12d1fae9",
@@ -1747,7 +1747,7 @@
   "nl": "Caffi — ken je cafeïne, bescherm je slaap.\n\nDe meeste cafeïne-apps tellen simpelweg af vanaf je laatste kopje. Caffi doet het écht goed: het berekent hoeveel cafeïne er op dit moment in je lichaam zit met een echte farmacokinetische curve — zowel de opname (de stijging na het drinken) als de afbraak (het langzame verval) — zodat de piek en de timing kloppen in plaats van een gok zijn.\n\nIn één oogopslag zie je hoeveel cafeïne er nu in je systeem zit, wanneer je weer kunt slapen, en of je nog onder je daglimiet blijft. Ideaal om je slaap te beschermen, een pre-workout-boost te timen en je inname in de hand te houden.\n\nFuncties\n• Actueel cafeïneniveau (mg/L) op een strakke kleurenmeter\n• \"Slaapveilige\" tijd — het moment waarop je onder je persoonlijke slaapdrempel zakt, met bedtijd-markering\n• Dagtotaal vs. je limiet, met kleurcodering groen / oranje / rood\n• Uitgebreide grafiek met stimulatie- en slaapdrempel, bedtijd-lijn en je innamemomenten\n• Dag- en 7-dagen statistieken met staafgrafieken\n• Snel loggen met presets (espresso, koffie, energydrink…) — of maak je eigen drankjes aan\n• Glance-widget om je niveau te checken zonder de app te openen\n• Werkt op touch- én knop-horloges\n• Beschikbaar in het Engels, Nederlands, Duits, Frans en Spaans\n\nMaak 'm van jou\nStel je gewicht, cafeïne-halfwaardetijd, slaap- en stimulatiedrempel, daglimiet en bedtijd in — Caffi herberekent meteen je persoonlijke curve.\n\nDrink slim. Slaap beter. Caffi.",
   "type": "2",
   "rating": 5.0,
-  "reviews": 6,
+  "reviews": 7,
   "downloads": 100,
   "version": "2.1",
   "category": "219",
