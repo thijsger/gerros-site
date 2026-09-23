@@ -78,7 +78,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "212",
   "icon": "assets/icons/sprintr.png",
   "shots": [
@@ -86,10 +86,10 @@
    "assets/shots/sprintr-2.jpg",
    "assets/shots/sprintr-3.jpg"
   ],
-  "changed": 1790094167000,
+  "changed": 1790169605000,
   "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "d555d45f-cc9c-4229-85d7-4ce515f8c534",
@@ -423,7 +423,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1",
+  "version": "1.2",
   "category": "213",
   "icon": "assets/icons/beam.png",
   "shots": [
@@ -431,10 +431,10 @@
    "assets/shots/beam-2.jpg",
    "assets/shots/beam-3.jpg"
   ],
-  "changed": 1790097350000,
+  "changed": 1790169383000,
   "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "acb6e144-0df2-4a0a-9860-80536e1359d2",
@@ -515,7 +515,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "219",
   "icon": "assets/icons/toca.png",
   "shots": [
@@ -523,10 +523,10 @@
    "assets/shots/toca-2.jpg",
    "assets/shots/toca-3.jpg"
   ],
-  "changed": 1789468914000,
+  "changed": 1790169970000,
   "whatsnew": "Fixed a crash when the glance closes.",
   "devices": 175,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "7de7bf20-ab54-4cab-ab64-7f2ba735c35a",
