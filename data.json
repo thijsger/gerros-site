@@ -1,5 +1,465 @@
 [
  {
+  "id": "11a0d867-85c0-4e47-bf20-e675259ed175",
+  "slug": "trailmix",
+  "name": "Trailmix - Thru-hike food planner",
+  "desc": "Trailmix works out whether the food in your pack will last until the next resupply. It learns your own daily pace from your check-ins and the distance your watch records, corrects it for the climbing in the section ahead, and turns your daily burn into the calories and grams you need to carry to town. Every evening you tell it where you are on the trail and roughly how much food is left, and it tells you if you are short or have food to spare.\n\nThe home screen shows the days to your next resupply point and the expected arrival day. Swipe for the food balance with a clear advice line (eat a little less, walk a bit further, or room for a zero day), a chart of food on hand against the days to go, your pace and burn with where they come from, a what-if page for zero and nero days, and the next water stops. Everything is worked out on the watch.\n\nWHAT IT DOES\n- Days and arrival time to the next resupply point, from your own weighted pace of the last seven days\n- Climb correction in the style of Naismith, using the ascent of your history and of the section ahead\n- Daily burn from the watch, food needed in kcal and grams (the 120 kcal per ounce rule, adjustable)\n- Short or spare per day, with a plain advice line\n- What-if for extra zero and nero days\n- Chart of food on hand against days to resupply\n- Trip plan with resupply points (town, post office, store, cache, hut) and optional water stops\n- Kilometres or miles, five languages, and a glance with days and food balance\n\nWHAT IT NEEDS\n- Your resupply points as trail kilometre or mile, entered once from your guidebook or app\n- A daily check-in: position on the trail and food left\n- No phone, no account, no internet",
+  "nl": "Trailmix rekent uit of het eten in je rugzak het volgende bevoorradingspunt haalt. Hij leert je eigen dagtempo uit je check-ins en de afstand die je horloge meet, corrigeert dat voor het klimwerk in het stuk dat voor je ligt, en maakt van je dagverbruik de calorieën en grammen die je tot het dorp moet dragen. Elke avond geef je op waar je op de trail staat en hoeveel eten er ongeveer over is, en hij vertelt je of je tekortkomt of eten over hebt.\n\nHet thuisscherm toont de dagen tot het volgende bevoorradingspunt en de verwachte aankomstdag. Veeg door voor de voedselbalans met een helder advies (iets minder eten, iets verder lopen, of ruimte voor een zero-dag), een grafiek van eten aan boord tegen de dagen die nog komen, je tempo en verbruik met waar ze vandaan komen, een wat-als-pagina voor zero- en nero-dagen, en de volgende waterpunten. Alles wordt op het horloge berekend.\n\nWAT HET DOET\n- Dagen en aankomsttijd tot het volgende bevoorradingspunt, uit je eigen gewogen tempo van de laatste zeven dagen\n- Klimcorrectie in de geest van Naismith, met de stijging uit je historie en uit het komende stuk\n- Dagverbruik van het horloge, benodigd eten in kcal en gram (de regel van 120 kcal per ounce, instelbaar)\n- Tekort of overschot per dag, met een eenvoudig advies\n- Wat-als voor extra zero- en nero-dagen\n- Grafiek van eten aan boord tegen dagen tot bevoorrading\n- Tochtplan met bevoorradingspunten (dorp, postkantoor, winkel, depot, hut) en optionele waterpunten\n- Kilometers of mijlen, vijf talen, en een glance met dagen en voedselbalans\n\nWAT HET NODIG HEEFT\n- Je bevoorradingspunten als trail-kilometer of -mijl, één keer ingevoerd uit je gids of app\n- Een dagelijkse check-in: positie op de trail en eten dat over is\n- Geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.0",
+  "category": "208",
+  "icon": "assets/icons/trailmix.png",
+  "shots": [
+   "assets/shots/trailmix-1.jpg",
+   "assets/shots/trailmix-2.jpg",
+   "assets/shots/trailmix-3.jpg"
+  ],
+  "changed": 1790255438000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "97598093-b2dc-46eb-9921-49c223ae648c",
+  "slug": "muhurta",
+  "name": "Muhurta - Hindu Panchang",
+  "desc": "Muhurta works out the Hindu Panchang on your wrist, for wherever you are, without a phone and without a signal. It calculates the positions of the sun and moon on the watch itself and builds everything from there: tithi, nakshatra, yoga, karana and paksha, with the exact time each one ends, and sunrise and sunset for your own GPS position or a chosen city.\n\nThe home screen shows the period you are in right now, Rahu Kalam, Yamaganda, Gulika, Abhijit or Brahma Muhurta, with a countdown to the next change. Swipe for today's full Panchang, the day's periods on a timeline, the moon phase through the lunar month, and a 30-day calendar with Ekadashi, Purnima, Amavasya and Pradosh marked. Names are shown in Sanskrit transliteration with a short translation.\n\nWHAT IT DOES\n- The current period and a countdown: Rahu Kalam, Yamaganda, Gulika, Abhijit and Brahma Muhurta\n- Tithi, nakshatra, yoga, karana and paksha with their end times\n- Sunrise and sunset for your GPS position or one of 38 cities\n- A 30-day calendar with Ekadashi, Purnima, Amavasya and Pradosh, plus the Ekadashi parana window\n- Moon phase through the lunar month, with sidereal positions (Lahiri ayanamsa)\n- Amanta or Purnimanta months, Smarta or Vaishnava Ekadashi\n- Five languages and a glance with today's tithi and the next Rahu Kalam\n\nWHAT IT NEEDS\n- A GPS fix once, or a city picked from the list\n- No phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Muhurta rekent de Hindoe-Panchang uit op je pols, voor de plek waar je bent, zonder telefoon en zonder bereik. Het horloge berekent zelf de stand van zon en maan en bouwt daar alles op: tithi, nakshatra, yoga, karana en paksha, met de precieze eindtijd van elk, en zonsopkomst en -ondergang voor je eigen GPS-positie of een gekozen stad.\n\nHet beginscherm toont de periode waarin je nu zit, Rahu Kalam, Yamaganda, Gulika, Abhijit of Brahma Muhurta, met een aftelling tot de volgende wissel. Veeg voor de volledige Panchang van vandaag, de perioden van de dag op een tijdlijn, de maanfase door de maanmaand en een kalender van 30 dagen met Ekadashi, Purnima, Amavasya en Pradosh. Namen staan in Sanskriet-transliteratie met een korte vertaling.\n\nWAT HET DOET\n- De huidige periode met aftelling: Rahu Kalam, Yamaganda, Gulika, Abhijit en Brahma Muhurta\n- Tithi, nakshatra, yoga, karana en paksha met hun eindtijden\n- Zonsopkomst en -ondergang voor je GPS-positie of een van 38 steden\n- Een kalender van 30 dagen met Ekadashi, Purnima, Amavasya en Pradosh, plus het parana-venster na Ekadashi\n- Maanfase door de maanmaand, met siderische posities (Lahiri-ayanamsa)\n- Amanta- of Purnimanta-maanden, Smarta- of Vaishnava-Ekadashi\n- Vijf talen en een glance met de tithi van vandaag en de volgende Rahu Kalam\n\nWAT HET NODIG HEEFT\n- Eén keer een GPS-positie, of een stad uit de lijst\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge uitgerekend",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.1",
+  "category": "208",
+  "icon": "assets/icons/muhurta.png",
+  "shots": [
+   "assets/shots/muhurta-1.jpg",
+   "assets/shots/muhurta-2.jpg",
+   "assets/shots/muhurta-3.jpg"
+  ],
+  "changed": 1790274044000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "07a9433a-d6a4-40e4-a57f-7b53154037d9",
+  "slug": "mooncake",
+  "name": "Mooncake - Lunar calendar",
+  "desc": "Mooncake works out the Chinese, Vietnamese and Korean lunar calendar on your watch from the positions of the sun and moon, not from a table that runs out. It finds every new moon and all 24 solar terms, applies the leap-month rule, and does it in the right time zone for each calendar — Beijing time for China, Hanoi time for Vietnam, Seoul time for Korea. That is why New Year and the 1st and 15th land on the correct day, including the years when Tết and Chinese New Year fall a day apart.\n\nThe home screen shows today's lunar date with the moon phase and the zodiac year. Swipe for a countdown to the next festival, a month calendar with lunar days and festivals marked, the current solar term with progress to the next one, and the year, month and day pillars with the next 1st and 15th. Convert any date in both directions, and keep lunar birthdays and memorial days that turn up on the right solar date every year.\n\nWHAT IT DOES\n- Today's lunar date, leap months included, with the moon phase\n- Chinese, Vietnamese or Korean calendar, each in its own time zone\n- Countdown to Spring Festival, Tết, Seollal, Qingming, Dragon Boat, Mid-Autumn, Chuseok, Double Ninth and more\n- Month calendar with lunar days and festivals\n- The 24 solar terms with the date and progress to the next\n- Zodiac animal (Cat and Buffalo in the Vietnamese calendar), heavenly stems and earthly branches for year, month and day\n- Next 1st and 15th of the lunar month for offerings\n- Date conversion solar to lunar and lunar to solar, 1902 to 2098\n- Lunar birthdays and memorial days, five languages, and a glance with today's lunar date\n\nWHAT IT NEEDS\n- Nothing: no phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Mooncake rekent de Chinese, Vietnamese en Koreaanse maankalender uit op je horloge, vanuit de stand van zon en maan en niet uit een tabel die ophoudt. Hij vindt elke nieuwe maan en alle 24 zonnetermen, past de regel voor de schrikkelmaand toe, en doet dat in de juiste tijdzone per kalender: Pekingtijd voor China, Hanoitijd voor Vietnam, Seoultijd voor Korea. Daardoor vallen Nieuwjaar en de 1e en 15e op de goede dag, ook in de jaren waarin Tết en Chinees Nieuwjaar een dag uit elkaar liggen.\n\nHet thuisscherm toont de maandatum van vandaag met de maanfase en het dierenriemjaar. Veeg door voor het aftellen naar het volgende feest, een maandkalender met maandagen en feesten erin, de huidige zonneterm met de voortgang naar de volgende, en de jaar-, maand- en dagpijlers met de volgende 1e en 15e. Reken elke datum om in beide richtingen, en bewaar maan-verjaardagen en gedenkdagen die elk jaar op de juiste zonnedatum terugkomen.\n\nWAT HET DOET\n- De maandatum van vandaag, schrikkelmaanden inbegrepen, met de maanfase\n- Chinese, Vietnamese of Koreaanse kalender, elk in de eigen tijdzone\n- Aftellen naar Lentefeest, Tết, Seollal, Qingming, Drakenbootfeest, Midherfstfeest, Chuseok, Dubbel Negen en meer\n- Maandkalender met maandagen en feesten\n- De 24 zonnetermen met datum en voortgang naar de volgende\n- Dierenriemdier (Kat en Buffel in de Vietnamese kalender), hemelse stammen en aardse takken voor jaar, maand en dag\n- De volgende 1e en 15e van de maanmaand voor offers\n- Datumomrekening zon naar maan en maan naar zon, 1902 tot 2098\n- Maan-verjaardagen en gedenkdagen, vijf talen, en een glance met de maandatum van vandaag\n\nWAT HET NODIG HEEFT\n- Niets: geen telefoon, geen account, geen internet — alles wordt op het horloge uitgerekend",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "208",
+  "icon": "assets/icons/mooncake.png",
+  "shots": [
+   "assets/shots/mooncake-1.jpg",
+   "assets/shots/mooncake-2.jpg",
+   "assets/shots/mooncake-3.jpg"
+  ],
+  "changed": 1790273959000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "a46b792b-4814-4043-8eb4-063a5e17d00f",
+  "slug": "cull",
+  "name": "Cull - Fish weight & livewell",
+  "desc": "Cull works out how heavy your fish is without a scale. Pick the species, enter the length and it gives the weight from published length-weight curves for more than thirty sport fish, with a range that tells you how sure it is. Add the girth for a second, independent estimate that sees whether this fish is fat or lean. Weigh one now and then and Cull learns from it, so the estimate for that species gets closer to your own water.\n\nFor tournaments it runs the livewell for you. Set the bag limit and Cull keeps the heaviest fish, tells you straight away whether a new catch goes in, replaces a lighter fish or goes back, and which cull tag moves. The home screen shows the bag total, the weight a fish must beat to help, and — if you enter the leader's weight — exactly what one or two more fish need to weigh to take the lead.\n\nWHAT IT DOES\n- Weight from length for 30+ species, with an honest range\n- Girth formula as a second estimate, plus a condition score for the fish\n- Learns from real weighings, per species\n- Tournament livewell: bag limit, automatic cull choice, cull tags, bag total\n- \"Needs X or more to improve\" and what it takes to pass the leader\n- Catch log with time and place, personal records per species\n- Minimum sizes per species that you set yourself\n- Centimetres or inches, kilograms, pounds or pounds and ounces, five languages, and a glance with your bag\n\nWHAT IT NEEDS\n- A length measurement; a tape for the girth is optional\n- GPS only to tag where a fish was caught; no phone, no account, no internet",
+  "nl": "Cull rekent uit hoe zwaar je vis is, zonder weegschaal. Kies de soort, voer de lengte in en je krijgt het gewicht uit gepubliceerde lengte-gewichtcurves voor ruim dertig sportvissen, met een bandbreedte die laat zien hoe zeker het is. Voeg de omtrek toe voor een tweede, onafhankelijke schatting die ziet of déze vis dik of mager is. Weeg er af en toe eentje en Cull leert ervan, zodat de schatting per soort dichter bij jouw water komt.\n\nOp wedstrijden beheert hij de leefbun. Stel de baglimiet in en Cull houdt de zwaarste vissen, zegt meteen of een nieuwe vangst erbij kan, een lichtere vis vervangt of terug moet, en welk cull-clipje er verhuist. Het thuisscherm toont het totaal, het gewicht dat een vis moet verslaan om iets op te leveren, en — als je het gewicht van de leider invult — precies wat één of twee extra vissen moeten wegen om de leiding te pakken.\n\nWAT HET DOET\n- Gewicht uit lengte voor 30+ soorten, met een eerlijke bandbreedte\n- Omtrekformule als tweede schatting, plus een conditiescore voor de vis\n- Leert van echte wegingen, per soort\n- Wedstrijd-leefbun: baglimiet, automatische cull-keuze, cull-clipjes, totaalgewicht\n- \"Heeft X of meer nodig om te verbeteren\" en wat nodig is om de leider te passeren\n- Vangstlog met tijd en plek, persoonlijke records per soort\n- Minimummaten per soort die je zelf instelt\n- Centimeters of inches, kilo's, ponden of pond en ons, vijf talen, en een glance met je bun\n\nWAT HET NODIG HEEFT\n- Een lengtemeting; een meetlint voor de omtrek is optioneel\n- GPS alleen om de vangstplek vast te leggen; geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "212",
+  "icon": "assets/icons/cull.png",
+  "shots": [
+   "assets/shots/cull-1.jpg",
+   "assets/shots/cull-2.jpg",
+   "assets/shots/cull-3.jpg"
+  ],
+  "changed": 1790268888000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "7d5ab78f-706c-4b69-92af-e09e7c6e8846",
+  "slug": "leapload",
+  "name": "Leapload - Jump count and height",
+  "desc": "Leapload counts your jumps during volleyball and basketball practice and estimates the height of each one from the wrist. It detects the moment you leave the ground and the moment you land, turns the time in the air into a height, and checks the landing impact so arm swings and sprints are not counted as jumps. Every jump is added to your jump load: body weight times height, the work your legs and knees actually did.\n\nDuring a session you see the jump count, the height of the last jump, load per set or quarter and how your average height is holding up per ten jumps. Over the week Leapload compares your recent load with your usual load and suggests a lighter day when it spikes. A three-jump test in the morning compares your best jump with your own baseline so you can see how fresh you are.\n\nWHAT IT DOES\n- Counts jumps live and estimates each height from flight time, with landing-impact check\n- Jump load per session, per set or quarter, in kJ from your body weight\n- Fatigue: average height per ten jumps, drop from your best block, first half against second half\n- Weekly acute-to-chronic load ratio with a suggested number of jumps left for today\n- Three-jump readiness test against your own seven-test baseline\n- Training and match sessions saved to Garmin Connect with jump fields and a lap per set\n- Jump limit with a buzz, undo and add-a-jump, pause, history of 30 sessions\n- Centimetres or inches, height correction, five languages, and a glance with this week's jumps\n\nWHAT IT NEEDS\n- A watch with an accelerometer, worn snug on the wrist\n- Your body weight (taken from your Garmin profile, or set it yourself)\n- Heights are a wrist estimate: counts are reliable, a single height can be off by several centimetres",
+  "nl": "Leapload telt je sprongen tijdens volleybal- en basketbaltraining en schat de hoogte van elke sprong vanaf je pols. Het ziet het moment dat je loskomt en het moment dat je landt, rekent de tijd in de lucht om naar een hoogte en controleert de landingsklap, zodat armzwaaien en sprintjes niet als sprong meetellen. Elke sprong gaat op je sprongbelasting: lichaamsgewicht maal hoogte, het werk dat je benen en knieën echt deden.\n\nTijdens een sessie zie je het aantal sprongen, de hoogte van de laatste sprong, de belasting per set of kwart en hoe je gemiddelde hoogte per tien sprongen standhoudt. Over de week vergelijkt Leapload je recente belasting met je gewone belasting en raadt een lichtere dag aan als die piekt. Een test van drie sprongen in de ochtend zet je beste sprong naast je eigen basis, zodat je ziet hoe fris je bent.\n\nWAT HET DOET\n- Telt sprongen live en schat elke hoogte uit de vluchttijd, met controle op de landingsklap\n- Sprongbelasting per sessie, per set of kwart, in kJ op basis van je gewicht\n- Vermoeidheid: gemiddelde hoogte per tien sprongen, daling vanaf je beste blok, eerste tegen tweede helft\n- Wekelijkse verhouding acute/chronische belasting met een voorstel voor het aantal sprongen dat vandaag nog kan\n- Paraatheidstest van drie sprongen tegen je eigen basis van zeven tests\n- Trainingen en wedstrijden opgeslagen in Garmin Connect met sprongvelden en een ronde per set\n- Sprongenlimiet met trilsignaal, laatste sprong ongedaan maken of toevoegen, pauze, historie van 30 sessies\n- Centimeters of inches, hoogtecorrectie, vijf talen, en een glance met de sprongen van deze week\n\nWAT HET NODIG HEEFT\n- Een horloge met versnellingsmeter, strak om de pols\n- Je lichaamsgewicht (uit je Garmin-profiel, of zelf ingesteld)\n- Hoogtes zijn een schatting vanaf de pols: het aantal klopt, één hoogte kan enkele centimeters afwijken",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "212",
+  "icon": "assets/icons/leapload.png",
+  "shots": [
+   "assets/shots/leapload-1.jpg",
+   "assets/shots/leapload-2.jpg",
+   "assets/shots/leapload-3.jpg"
+  ],
+  "changed": 1790273082000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "a964a4a1-5f3c-4cf4-8a8a-d7da97c5b9ca",
+  "slug": "sixball",
+  "name": "Sixball - Cricket umpire counter",
+  "desc": "Sixball counts the balls of every over for you, so you can keep your eyes on the game instead of moving six pebbles from hand to hand. Press START for a legal ball, UP for a wide, DOWN for a no-ball and BACK to undo. Wides and no-balls are re-bowled and don't count. The watch gives a short buzz on the fifth ball and a long double buzz when the over is done, so you never need to look down.\n\nBehind the counter sits an over-rate calculator. It works out the overs per hour, how far ahead or behind schedule the fielding side is, when the innings is due to finish and when it will finish at the current pace. When play is suspended for rain or bad light, it cuts the overs by your club's fixed rule (one over per so many minutes lost, with optional make-up time) — no Duckworth-Lewis, just the simple club rule. It also keeps track of the bowlers: nobody bowls two overs in a row, and the maximum per bowler follows the format and is recalculated when overs are cut.\n\nWHAT IT DOES\n- Ball counter per over with a buzz on ball five and a double buzz at the end of the over\n- Wides and no-balls as extra balls, wickets and optional runs\n- Undo and redo, and a log of every over with its bowler, duration and extras\n- Bowler rotation: no consecutive overs, maximum overs per bowler per format\n- Over rate: overs per hour, ahead or behind, due finish time and finish at the current pace\n- Overs cut after time lost, with make-up time and time allowed per wicket\n- Innings break and drinks break with a countdown\n- T20, 40 overs, 50 overs, Test and custom formats; 5, 6 or 8 balls per over\n- Two-umpire mode that tells you each over whether you stand at the bowler's end or at square leg\n- Five languages and a glance with the overs of the innings\n\nWHAT IT NEEDS\n- Nothing else: no phone, no account and no internet. Everything is worked out on the watch.\n- The overs cut follows a fixed club rule; it does not calculate Duckworth-Lewis-Stern targets.",
+  "nl": "Sixball telt de ballen van elke over voor je, zodat je naar het spel kijkt en niet zes steentjes van hand naar hand schuift. Druk op START voor een legale bal, OMHOOG voor een wide, OMLAAG voor een no-ball en TERUG om ongedaan te maken. Wides en no-balls worden overgegooid en tellen niet mee. Het horloge trilt kort bij de vijfde bal en lang en dubbel als de over klaar is, dus je hoeft nooit te kijken.\n\nAchter de teller zit een over-rate-rekenaar. Hij rekent de overs per uur uit, hoeveel het veldende team voor of achter ligt, wanneer de innings klaar moet zijn en wanneer hij in het huidige tempo klaar is. Wordt het spel stilgelegd voor regen of slecht licht, dan schrapt hij overs volgens de vaste regel van je club (één over per zoveel minuten verloren tijd, met optionele inhaaltijd) — geen Duckworth-Lewis, alleen de eenvoudige clubregel. Hij houdt ook de bowlers bij: niemand gooit twee overs achter elkaar, en het maximum per bowler volgt het format en wordt opnieuw berekend als er overs vervallen.\n\nWHAT IT DOES\n- Balteller per over, met een tril bij bal vijf en een dubbele tril aan het einde van de over\n- Wides en no-balls als extra bal, wickets en optioneel runs\n- Ongedaan maken en opnieuw, plus een log van elke over met bowler, duur en extra's\n- Bowlerrotatie: geen twee overs op rij, maximum overs per bowler per format\n- Over-rate: overs per uur, voor of achter, eindtijd volgens schema en eindtijd in het huidige tempo\n- Overs schrappen na verloren tijd, met inhaaltijd en tijd per gevallen wicket\n- Inningspauze en drinkpauze met aftelling\n- T20, 40 overs, 50 overs, Test en een eigen format; 5, 6 of 8 ballen per over\n- Modus voor twee umpires die per over zegt of je aan de bowlerskant of op square leg staat\n- Vijf talen en een glance met de overs van de innings\n\nWHAT IT NEEDS\n- Verder niets: geen telefoon, geen account en geen internet. Alles wordt op het horloge berekend.\n- Het schrappen van overs volgt een vaste clubregel; het rekent geen Duckworth-Lewis-Stern-doelen uit.",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.0",
+  "category": "212",
+  "icon": "assets/icons/sixball.png",
+  "shots": [
+   "assets/shots/sixball-1.jpg",
+   "assets/shots/sixball-2.jpg",
+   "assets/shots/sixball-3.jpg"
+  ],
+  "changed": 1790251355000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "f1441bd8-cc0f-44ce-9ae2-2295827405c0",
+  "slug": "trickster",
+  "name": "Trickster - Spades, Hearts, Euchre",
+  "desc": "Trickster brings three classic trick-taking card games to your watch: Spades, Hearts and Euchre, each against three computer players. The opponents don't cheat and don't see your cards. Before every move they deal out the cards they can't see in many possible ways, play each version to the end, and choose what works best across all of them — so they bid sensibly, duck the queen of spades, and notice when someone is going for the moon.\n\nYou pick a card by scrolling to it and confirming, so there are no tiny cards to tap. The current trick sits in the middle of the table with every card played in front of its player, and the last trick is always one menu away. Close the app halfway through a hand and the game is waiting where you left it. Stuck? Ask for a hint and the same engine the opponents use suggests a card.\n\nWHAT IT DOES\n- Spades with nil bids, bags and the 100-point bag penalty, played to 300 or 500\n- Hearts with passing left, across, right and hold, shooting the moon, played to 50 or 100\n- Euchre with order up, calling trump, going alone, stick the dealer and marches, played to 10\n- Three difficulty levels, from quick heuristics to full card sampling\n- A suggested bid in Spades and a hint button during play\n- Statistics per game: wins, streaks, moons, contracts, marches and euchres\n- Resume after closing, adjustable card speed, five languages and a glance with the score\n\nWHAT IT NEEDS\n- Nothing else — no phone, no account, no internet; all games run on the watch",
+  "nl": "Trickster zet drie klassieke slagenspellen op je horloge: Spades, Hearts en Euchre, telkens tegen drie computerspelers. De tegenstanders spelen eerlijk en zien jouw kaarten niet. Voor elke zet delen ze de kaarten die ze niet kennen op veel manieren uit, spelen elke versie tot het eind en kiezen wat over al die versies het best uitpakt — zo bieden ze verstandig, ontwijken ze de schoppenvrouw en merken ze op wanneer iemand naar de maan schiet.\n\nJe kiest een kaart door ernaartoe te scrollen en te bevestigen, dus geen piepkleine kaartjes aantikken. De lopende slag ligt midden op tafel, elke kaart voor de speler die hem legde, en de vorige slag is altijd één menu ver weg. Sluit je de app halverwege een hand, dan wacht het spel precies waar je was. Weet je het even niet? Vraag een hint en dezelfde rekenmotor als die van de tegenstanders stelt een kaart voor.\n\nWAT HET DOET\n- Spades met nil-biedingen, bags en de straf van 100 punten, tot 300 of 500\n- Hearts met doorgeven naar links, over, rechts en houden, naar de maan schieten, tot 50 of 100\n- Euchre met order up, troef kiezen, alleen spelen, stick the dealer en marches, tot 10\n- Drie moeilijkheidsniveaus, van snelle vuistregels tot volledige kaartsampling\n- Een voorgesteld bod bij Spades en een hintknop tijdens het spel\n- Statistiek per spel: winst, reeksen, manen, contracten, marches en euchres\n- Hervatten na afsluiten, instelbare kaartsnelheid, vijf talen en een glance met de stand\n\nWAT HET NODIG HEEFT\n- Verder niets — geen telefoon, geen account, geen internet; alles draait op het horloge",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.0",
+  "category": "206",
+  "icon": "assets/icons/trickster.png",
+  "shots": [
+   "assets/shots/trickster-1.jpg",
+   "assets/shots/trickster-2.jpg",
+   "assets/shots/trickster-3.jpg"
+  ],
+  "changed": 1790250527000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "646b6c68-1186-4ba0-b370-7644a2f5ce39",
+  "slug": "propwash",
+  "name": "Propwash - Drone flight window",
+  "desc": "Propwash turns the weather forecast on your watch into a go, marginal or no-go for your drone, hour by hour for the next twelve hours. It takes the surface wind and works out what it is at your flight altitude with the wind power law for your terrain, adds an estimate of the gusts, and compares that with the wind limit of your drone. Cold, heat, rain, fog, storms and daylight are weighed in as well, and the weakest factor is shown as the reason. It is a planning aid for hobby pilots and gives advice only: always check local rules, airspace and conditions yourself.\n\nThe home screen is a twelve-hour dial around the edge of the display, each hour coloured by its verdict, with the best hour marked and the gust at altitude in the middle. Swipe for the wind profile from the ground up to your altitude, the usable flight time after the cold-battery and wind penalty, the best hour and window with sunrise, sunset and civil twilight, and your flight log. Tap the battery page to start a flight timer that counts down to your landing reserve and buzzes at half time, two minutes before reserve and when it is time to land.\n\nWHAT IT DOES\n- Go / marginal / no-go per hour for the next ~12 hours, with the best hour and the longest go window\n- Wind and gusts at flight altitude from the surface wind, for five terrain types\n- Profiles for popular drones plus a custom profile: wind limit, rated flight time, minimum temperature, rain resistance\n- LiPo cold derating and wind penalty give the usable flight time down to your landing reserve\n- Daylight rule of your choice: daylight only, civil twilight, or night with lights\n- Flight timer with battery countdown and vibration alerts, saved to a flight log\n- m/s, km/h, mph or knots, metres or feet, five languages, and a glance with the verdict\n\nWHAT IT NEEDS\n- A watch with Garmin weather, synced with your phone in the last few hours\n- No account and no subscription; airspace, no-fly zones and the Kp index are not included",
+  "nl": "Propwash maakt van de weersverwachting op je horloge een go, marginaal of no-go voor je drone, uur voor uur voor de komende twaalf uur. De app neemt de wind aan de grond, rekent die met de machtswet voor jouw terrein om naar je vlieghoogte, schat de vlagen en legt dat naast de windlimiet van je drone. Kou, hitte, regen, mist, onweer en daglicht tellen ook mee, en de zwakste factor staat erbij als reden. Het is een planningshulp voor hobbypiloten en geeft alleen advies: controleer zelf altijd de regels, het luchtruim en de omstandigheden.\n\nHet hoofdscherm is een twaalfuurswijzer langs de rand, elk uur in de kleur van het oordeel, met het beste uur gemarkeerd en de vlaag op hoogte in het midden. Veeg voor het windprofiel van de grond tot je vlieghoogte, de bruikbare vliegtijd na de kou- en windafslag op de accu, het beste uur en venster met zonsopkomst, zonsondergang en burgerlijke schemering, en je logboek. Tik op de accupagina voor een vluchttimer die aftelt tot je landingsreserve en trilt op de helft, twee minuten voor de reserve en als je moet landen.\n\nWHAT IT DOES\n- Go / marginaal / no-go per uur voor de komende ~12 uur, met het beste uur en het langste go-venster\n- Wind en vlagen op vlieghoogte uit de grondwind, voor vijf terreintypen\n- Profielen voor bekende drones plus een eigen profiel: windlimiet, vliegtijd, minimumtemperatuur, regenbestendig\n- LiPo-afslag bij kou en windverbruik geven de bruikbare vliegtijd tot je landingsreserve\n- Lichtregel naar keuze: alleen daglicht, burgerlijke schemering of nacht met verlichting\n- Vluchttimer met accu-aftelling en trilsignalen, bewaard in een logboek\n- m/s, km/u, mph of knopen, meter of voet, vijf talen en een glance met het oordeel\n\nWHAT IT NEEDS\n- Een horloge met Garmin-weer, de afgelopen uren gesynchroniseerd met je telefoon\n- Geen account en geen abonnement; luchtruim, no-flyzones en de Kp-index zitten er niet in",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.0",
+  "category": "213",
+  "icon": "assets/icons/propwash.png",
+  "shots": [
+   "assets/shots/propwash-1.jpg",
+   "assets/shots/propwash-2.jpg",
+   "assets/shots/propwash-3.jpg"
+  ],
+  "changed": 1790249784000,
+  "whatsnew": "",
+  "devices": 162,
+  "updates": 1
+ },
+ {
+  "id": "2bf457d8-1a2e-4cf0-8248-5d8e862d3da0",
+  "slug": "meridia",
+  "name": "Meridia - World clock with DST",
+  "desc": "Meridia is a world clock that gets daylight saving time right. It carries its own rule set for nearly 200 cities — Europe, North America, Chile, Australia, New Zealand, Israel, Egypt and the zones that never change, including half-hour and 45-minute offsets — so the time is correct today, next week and next year, even when two countries switch on different dates.\n\nThe home screen lists your home city and up to six favourites with their time and whether they are at work, asleep or free. Swipe for each city with a day-and-night bar, the call-window planner that finds when everyone is in office hours today or tomorrow, and the list of upcoming clock changes that shift the gap between you and them. A converter answers \"15:00 for them is what for me?\" in a few presses.\n\nWHAT IT DOES\n- Correct offsets for about 200 cities, now and ahead, from its own DST rules\n- Home city plus up to six favourites with work, sleep and free colours\n- Day-and-night bar per city from sunrise and sunset\n- Call-window planner: office hours of several cities against your own waking hours, next 48 hours\n- Clock-change list: \"next week the gap to New York changes\"\n- Time converter between any two cities\n- Adjustable office hours, weekends, shortest window, five languages and a glance with two cities\n\nWHAT IT NEEDS\n- Nothing: no phone, no account, no internet — all rules and cities live on the watch",
+  "nl": "Meridia is een wereldklok die de zomertijd goed doet. Hij heeft een eigen regelset voor bijna 200 steden — Europa, Noord-Amerika, Chili, Australië, Nieuw-Zeeland, Israël, Egypte en de zones zonder zomertijd, inclusief halfuur- en kwartier-offsets — zodat de tijd klopt vandaag, volgende week en volgend jaar, ook als twee landen op verschillende data omschakelen.\n\nHet startscherm toont je thuisstad en tot zes favorieten met hun tijd en of ze aan het werk zijn, slapen of vrij zijn. Veeg voor elke stad met een dag-en-nachtbalk, de belvenster-planner die vindt wanneer iedereen vandaag of morgen in kantooruren zit, en de lijst met komende klokwissels die het verschil tussen jou en hen verschuiven. Een omrekenaar beantwoordt \"15:00 bij hen is hoe laat bij mij?\" in een paar drukken.\n\nWHAT IT DOES\n- Juiste offsets voor zo'n 200 steden, nu en vooruit, uit eigen zomertijdregels\n- Thuisstad plus tot zes favorieten met kleuren voor werk, slaap en vrij\n- Dag-en-nachtbalk per stad uit zonsopkomst en zonsondergang\n- Belvenster-planner: kantooruren van meerdere steden naast je eigen wakkere uren, komende 48 uur\n- Klokwissel-lijst: \"volgende week verandert het verschil met New York\"\n- Tijdrekenaar tussen twee willekeurige steden\n- Instelbare kantooruren, weekenden, kortste venster, vijf talen en een glance met twee steden\n\nWHAT IT NEEDS\n- Niets: geen telefoon, geen account, geen internet — alle regels en steden staan op het horloge",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "213",
+  "icon": "assets/icons/meridia.png",
+  "shots": [
+   "assets/shots/meridia-1.jpg",
+   "assets/shots/meridia-2.jpg",
+   "assets/shots/meridia-3.jpg"
+  ],
+  "changed": 1790273645000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 160,
+  "updates": 2
+ },
+ {
+  "id": "f387d927-aa24-4880-9b6d-dbd336ab5d11",
+  "slug": "labyrinx",
+  "name": "Labyrinx - Tilt maze",
+  "desc": "Labyrinx is a tilt maze for your wrist. Tip the watch and a ball rolls through a maze drawn on the screen, with real rolling, real bounces off the walls and no snagging on corners or edges: walls are solid shapes the ball glides around, not a grid it gets stuck in. Every maze is generated on the watch and checked before you play it, so each one has an exit you can reach.\n\nThere is a new daily maze that is the same for everyone, a 60-level campaign that grows from 5×5 up to 14×14 on larger screens and adds holes and locked exits with a key along the way, and free play with an endless supply of random mazes. Each maze has a par time worked out from the length of its shortest route and the number of turns you have to choose, and you earn up to three stars against it. Calibrate once to the way you hold your arm, or switch to buttons if you would rather not tilt.\n\nWHAT IT DOES\n- A new daily maze with a streak counter and your best time of the day\n- A 60-level campaign: bigger mazes, holes to avoid and keys to fetch\n- Free play with random mazes and a personal best\n- Ball physics with rolling resistance and bounces; light vibration when you hit a wall\n- Par time from the solution route and three stars per maze, records per level\n- Calibration to your own resting angle, three sensitivity levels, reverse tilt\n- Button and touch control as an alternative to tilting\n- Five languages and a glance with today's maze and your campaign progress\n\nWHAT IT NEEDS\n- A watch with an accelerometer for tilt control (buttons work on every watch)\n- No phone, no account, no internet — every maze is built on the watch",
+  "nl": "Labyrinx is een kanteldoolhof voor om je pols. Kantel het horloge en een bal rolt door een doolhof op het scherm, met echt rollen, echt stuiteren tegen de muren en zonder vast te haken in hoeken of aan randen: de muren zijn vaste vormen waar de bal langs glijdt, geen raster waar hij in klem raakt. Elk doolhof wordt op het horloge gemaakt en vooraf gecontroleerd, dus er is altijd een uitgang die je kunt halen.\n\nEr is elke dag een nieuw doolhof dat voor iedereen hetzelfde is, een campagne van 60 levels die groeit van 5×5 tot 14×14 op grotere schermen en onderweg gaten en een op slot zittende uitgang met sleutel toevoegt, en vrij spel met eindeloos veel willekeurige doolhoven. Elk doolhof heeft een par-tijd die volgt uit de lengte van de kortste route en het aantal keuzes onderweg, en daartegen verdien je tot drie sterren. Kalibreer één keer op hoe je je arm houdt, of speel met knoppen als je liever niet kantelt.\n\nWHAT IT DOES\n- Elke dag een nieuw doolhof, met reeksteller en je beste tijd van de dag\n- Een campagne van 60 levels: grotere doolhoven, gaten om te ontwijken en sleutels om te halen\n- Vrij spel met willekeurige doolhoven en een persoonlijk record\n- Balfysica met rolweerstand en stuiteren; een licht tikje als je een muur raakt\n- Par-tijd uit de oplossingsroute en drie sterren per doolhof, records per level\n- Kalibratie op je eigen rusthoek, drie gevoeligheden, kanteling omkeren\n- Knoppen en aanraken als alternatief voor kantelen\n- Vijf talen en een glance met het dagdoolhof en je campagnevoortgang\n\nWHAT IT NEEDS\n- Een horloge met versnellingsmeter voor kantelen (knoppen werken op elk horloge)\n- Geen telefoon, geen account, geen internet — elk doolhof wordt op het horloge gebouwd",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "206",
+  "icon": "assets/icons/labyrinx.png",
+  "shots": [
+   "assets/shots/labyrinx-1.jpg",
+   "assets/shots/labyrinx-2.jpg",
+   "assets/shots/labyrinx-3.jpg"
+  ],
+  "changed": 1790271717000,
+  "whatsnew": "Now available on the fenix 9 series. The screen now stays on while you are using the app actively, so it no longer switches off while you are watching it. You can turn this off in the settings under Keep screen on.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "e7a08ac1-e5e5-4cdd-a0fa-f0bf526321bc",
+  "slug": "driftline",
+  "name": "Driftline - Aerobic threshold",
+  "desc": "Driftline finds your aerobic threshold from heart-rate drift, the way endurance coaches do it: a steady hour at a fixed heart rate or pace, the warm-up ignored, and then a comparison of the first half against the second. If your pace-to-heart-rate ratio slips less than 3.5 %, you were below the threshold; above 5 %, you were over it. The watch runs the whole test for you, with GPS, a FIT recording and a live decoupling graph, and tells you at the end what the number means and which heart rate to try next time.\n\nEvery test becomes a point on a chart of heart rate against drift. With two or more tests on either side, Driftline interpolates where your aerobic threshold sits and keeps that estimate up to date as you train. Alongside it runs a MAF test: your speed at a fixed heart rate (180 minus age, adjustable), corrected for heat using the temperature at the start, with a regression trend that shows whether your aerobic base is actually getting faster. It works for running and for cycling, using pace or speed only — no power meter needed.\n\nWHAT IT DOES\n- Guided drift test: warm-up, 60-minute test block, heart-rate band alerts by vibration or tone\n- Live decoupling in percent, with a minute-by-minute graph and first-half versus second-half view\n- A plain verdict per test (below, at or above the threshold) and the suggested heart rate for the next one\n- Aerobic threshold estimate from several tests, with the range when only one side is known\n- MAF test with heat correction and a trend line in seconds per km or km/h per four weeks\n- Test history, a reminder of when the next test is due, and a glance with your current estimate\n- Running and cycling, indoor or outdoor, FIT recording to Garmin Connect, five languages\n\nWHAT IT NEEDS\n- A watch with wrist heart rate or a paired chest strap, and GPS for outdoor tests\n- Weather data from the phone is optional and only used for the MAF heat correction",
+  "nl": "Driftline vindt je aerobe drempel uit hartslagdrift, zoals duurcoaches dat doen: een vast uur op een vaste hartslag of een vast tempo, de warming-up telt niet mee, en daarna de eerste helft tegen de tweede. Zakt de verhouding tussen tempo en hartslag minder dan 3,5 %, dan zat je onder de drempel; boven 5 % zat je erboven. Het horloge leidt de hele test, met GPS, een FIT-opname en een live grafiek van de ontkoppeling, en vertelt je aan het eind wat het getal betekent en welke hartslag je de volgende keer kunt proberen.\n\nElke test wordt een punt in een grafiek van hartslag tegen drift. Met twee of meer tests aan weerszijden berekent Driftline waar je aerobe drempel ligt en houdt die schatting bij terwijl je traint. Daarnaast loopt een MAF-test: je snelheid bij een vaste hartslag (180 min leeftijd, instelbaar), gecorrigeerd voor warmte met de temperatuur bij de start, met een regressietrend die laat zien of je aerobe basis echt sneller wordt. Het werkt voor hardlopen en fietsen, alleen met tempo of snelheid — geen vermogensmeter nodig.\n\nWHAT IT DOES\n- Begeleide drifttest: warming-up, testblok van 60 minuten, trilling of toon buiten de hartslagband\n- Live ontkoppeling in procenten, met een grafiek per minuut en eerste tegen tweede helft\n- Een helder oordeel per test (onder, op of boven de drempel) en de voorgestelde hartslag voor de volgende\n- Schatting van de aerobe drempel uit meerdere tests, met een bereik als maar één kant bekend is\n- MAF-test met warmtecorrectie en een trendlijn in seconden per km of km/u per vier weken\n- Testhistorie, wanneer de volgende test gepland staat, en een glance met je huidige schatting\n- Hardlopen en fietsen, binnen of buiten, FIT-opname naar Garmin Connect, vijf talen\n\nWHAT IT NEEDS\n- Een horloge met polshartslag of een gekoppelde borstband, en GPS voor tests buiten\n- Weerdata van de telefoon is optioneel en wordt alleen voor de MAF-warmtecorrectie gebruikt",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "220",
+  "icon": "assets/icons/driftline.png",
+  "shots": [
+   "assets/shots/driftline-1.jpg",
+   "assets/shots/driftline-2.jpg",
+   "assets/shots/driftline-3.jpg"
+  ],
+  "changed": 1790269369000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "46983d57-7a1d-4fdc-8d63-4252165b3769",
+  "slug": "balk",
+  "name": "Balk - Umpire & pitch count",
+  "desc": "Balk is a ball-strike indicator and pitch counter for baseball and softball that you run without looking. Press UP for a ball and DOWN for a strike; the watch handles fouls with two strikes, walks, strikeouts, outs, half innings, runs, extra innings and the run rule, and gives a short buzz when a batter is done or the side is retired. Every pitch lands in a game log and every step can be undone.\n\nFor coaches it counts pitches per pitcher for both teams and applies the Pitch Smart or Little League tables for the chosen age group: how many pitches are left, a buzz five pitches before the limit, the rest days that follow from today's total and the date a pitcher is available again. A rest calendar carries each pitcher across games, so you see at a glance who is free on Saturday.\n\nWHAT IT DOES\n- Ball, strike, foul and in-play on the buttons, with the button layout of your choice\n- Automatic walks, strikeouts, outs, half innings, extra innings and run rule\n- Umpire mode with a large count, coach mode with the pitch count up front\n- Several pitchers per team for home and away, with jersey numbers\n- Pitch Smart and Little League limits per age group, required rest and \"free again on\" date\n- Warning before the limit, adjustable, with a stronger buzz at the limit\n- Line score, game log, per-pitcher stats (strike %, K/BB, pitches per inning, tempo)\n- Rest calendar per pitcher across games and innings pitched this year\n- Presets for baseball, youth, fastpitch and slowpitch (7 innings, 1-1 start, foul-out option)\n- Undo for every action, five languages, and a glance with inning, score and pitch count\n\nWHAT IT NEEDS\n- Nothing: no phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Balk is een ball-strike-teller en pitchcounter voor honkbal en softbal die je blind bedient. Druk UP voor een bal en DOWN voor een slag; het horloge regelt fouls bij twee slag, vrije lopen, strikeouts, outs, halve innings, runs, extra innings en de run-regel, en trilt kort als een slagman klaar is of de kant wisselt. Elke worp komt in het wedstrijdlog en elke stap is terug te draaien.\n\nVoor coaches telt het de worpen per werper voor beide teams en past het de Pitch Smart- of Little League-tabellen toe voor de gekozen leeftijdsgroep: hoeveel worpen er nog over zijn, een tril vijf worpen voor de limiet, de rustdagen die uit het totaal van vandaag volgen en de datum waarop een werper weer mag. Een rustkalender houdt elke werper bij over wedstrijden heen, zodat je in één oogopslag ziet wie er zaterdag vrij is.\n\nWHAT IT DOES\n- Bal, slag, foul en in het veld op de knoppen, met een knopindeling naar keuze\n- Automatisch vrije loop, strikeout, outs, halve innings, extra innings en run-regel\n- Umpire-modus met een grote telling, coach-modus met de pitchcount voorop\n- Meerdere werpers per team, thuis en uit, met rugnummers\n- Pitch Smart- en Little League-limieten per leeftijd, verplichte rust en \"weer vrij op\"-datum\n- Waarschuwing voor de limiet, instelbaar, met een sterkere tril bij de limiet\n- Scorebord per inning, wedstrijdlog, statistiek per werper (slag-%, K/BB, worpen per inning, tempo)\n- Rustkalender per werper over wedstrijden heen en innings van dit jaar\n- Voorinstellingen voor honkbal, jeugd, fastpitch en slowpitch (7 innings, start 1-1, foul-uit)\n- Herstel voor elke actie, vijf talen en een glance met inning, stand en pitchcount\n\nWHAT IT NEEDS\n- Niets: geen telefoon, geen account, geen internet — alles wordt op het horloge berekend",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.1",
+  "category": "212",
+  "icon": "assets/icons/balk.png",
+  "shots": [
+   "assets/shots/balk-1.jpg",
+   "assets/shots/balk-2.jpg",
+   "assets/shots/balk-3.jpg"
+  ],
+  "changed": 1790266350000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "302b820a-8d92-43da-a970-67e8a39ad759",
+  "slug": "purlwise",
+  "name": "Purlwise - Knit & crochet counter",
+  "desc": "Purlwise is a row counter for knitting and crochet that also knows your pattern. Tap anywhere on the screen or press the start button to count a row, with a short buzz so you never have to look. Tell it how many rows a repeat has and which row carries the cable or the decrease, and the watch buzzes three times when you reach that row. Undo is always one deliberate step away, so a stray tap never costs you a row.\n\nIt also does the maths knitters usually do on paper. Spread 8 decreases evenly over 50 rows and it tells you \"6× every 6 rows, 2× every 7 rows\" and marks those rows in your part. It works out cast-on stitches for a width from your swatch, rows for a length, and converts a pattern to your own gauge. It learns your pace from your taps and shows when the part and the project will be done, and after two weighings of your ball it tells you whether your yarn will last.\n\nWHAT IT DOES\n- Row counter for the whole screen or the start button, with undo and pause\n- Several projects, each with parts (body, sleeve, heel …) and target rows\n- Repeats with a row-in-repeat display and a buzz on the action row\n- Reminders on any row: decrease, buttonhole, colour change, try on and more\n- Increase or decrease evenly across a row or spread over rows, applied to your part\n- Cast-on for width, rows for length and pattern-to-my-gauge calculators\n- Pace per row, time left for the part and project, and a finish date\n- Yarn forecast in grams per row: enough, or how many balls to buy\n- Extra counter, statistics per project, five languages and a glance\n\nWHAT IT NEEDS\n- Nothing but your watch: no phone, no account, no internet\n- A kitchen scale if you want the yarn forecast",
+  "nl": "Purlwise is een toerenteller voor breien en haken die ook je patroon kent. Tik ergens op het scherm of druk op de startknop om een toer te tellen, met een kort tikje zodat je niet hoeft te kijken. Vertel hoeveel toeren een rapport heeft en op welke toer de kabel of de mindering valt, en het horloge trilt drie keer als je bij die toer bent. Terug is altijd één bewuste stap, zodat een losse tik nooit een toer kost.\n\nHij doet ook het rekenwerk dat breiers meestal op papier doen. Verdeel 8 minderingen over 50 toeren en je krijgt \"6× om de 6 toeren, 2× om de 7 toeren\", meteen gemarkeerd in je deel. Hij rekent opzetsteken voor een breedte uit je proeflapje, toeren voor een lengte, en zet een patroon om naar je eigen stekenproef. Uit je tikken leert hij je tempo en laat hij zien wanneer het deel en het project klaar zijn, en na twee wegingen van je bol zegt hij of je garen genoeg is.\n\nWHAT IT DOES\n- Toerenteller op het hele scherm of de startknop, met terug en pauze\n- Meerdere projecten, elk met delen (lijf, mouw, hiel …) en doeltoeren\n- Rapporten met toer-in-rapport en een trilsignaal op de actietoer\n- Herinneringen op elke toer: minderen, knoopsgat, kleurwissel, passen en meer\n- Gelijkmatig meerderen of minderen in één toer of over toeren, direct in je deel\n- Rekenhulp voor opzetten op breedte, toeren voor lengte en patroon naar jouw proef\n- Tempo per toer, resterende tijd voor deel en project, en een einddatum\n- Garenvoorspelling in gram per toer: genoeg, of hoeveel bollen erbij\n- Extra teller, statistiek per project, vijf talen en een glance\n\nWHAT IT NEEDS\n- Alleen je horloge: geen telefoon, geen account, geen internet\n- Een keukenweegschaal als je de garenvoorspelling wilt",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.0",
+  "category": "208",
+  "icon": "assets/icons/purlwise.png",
+  "shots": [
+   "assets/shots/purlwise-1.jpg",
+   "assets/shots/purlwise-2.jpg",
+   "assets/shots/purlwise-3.jpg"
+  ],
+  "changed": 1790245874000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "22bbc797-23db-483e-86f7-696f58a25839",
+  "slug": "stillpoint",
+  "name": "Stillpoint - BP rest check",
+  "desc": "Stillpoint tells you whether you are calm enough to take a blood pressure reading, and if not, how many minutes to wait and why. It reads your recent heart rate from the watch, compares level, trend and steadiness with your own seated baseline, and checks for exertion in the last half hour. Instead of a fixed \"wait 40 minutes\", you get a number that shrinks as your pulse settles, with the reason next to it: recent exertion, pulse still rising, pulse above your seated level, or simply sit a bit longer.\n\nA guided five-minute rest with a breathing circle leads straight into entering your readings. Values start from your own last reading, not 120/80, and change with a tap or a swipe. A one-minute timer runs between readings, and a third reading is suggested when the first two differ. The seven-day home protocol (morning and evening, day 1 left out) fills in as you go and gives an average with its category from the ESH or AHA table, for reference only.\n\nWHAT IT DOES\n- Rest check: measure now, or wait X min with the reason, from heart rate level, slope and spread\n- Learns your own seated heart rate from the sessions you log\n- Guided rest of 3, 5 or 10 minutes with an adjustable breathing pace\n- Fast entry of systolic, diastolic and pulse, starting from your last values\n- One-minute gap timer, and a hint to take a third reading when two differ by more than 10\n- Seven-day home protocol with a 14-slot progress grid and the average of days 2 to 7\n- Category from the ESH 2023 or AHA 2017 table, clearly marked as reference\n- Trend of your last sessions, change against the week before, and morning versus evening\n- Session log with delete, five languages, and a glance with protocol progress\n\nWHAT IT NEEDS\n- A blood pressure monitor; Stillpoint does not measure blood pressure itself\n- Wrist heart rate turned on\n- Stillpoint is not a medical device and gives no diagnosis; talk to your doctor about your readings",
+  "nl": "Stillpoint vertelt je of je rustig genoeg bent voor een bloeddrukmeting, en zo niet, hoeveel minuten je nog moet wachten en waarom. Het leest je recente hartslag van het horloge, vergelijkt niveau, verloop en stabiliteit met je eigen zit-basislijn en kijkt of je het afgelopen halfuur inspanning had. In plaats van een vaste \"wacht 40 minuten\" krijg je een getal dat kleiner wordt naarmate je pols tot rust komt, met de reden erbij: recente inspanning, pols stijgt nog, pols boven je zitniveau, of gewoon nog even zitten.\n\nEen begeleide rust van vijf minuten met een ademcirkel loopt direct door naar het invoeren van je metingen. Waarden beginnen bij je eigen laatste meting, niet bij 120/80, en verander je met een tik of een veeg. Tussen de metingen loopt een timer van één minuut, en een derde meting wordt voorgesteld als de eerste twee verschillen. Het zevendaagse thuisprotocol (ochtend en avond, dag 1 telt niet mee) vult zich vanzelf en geeft een gemiddelde met de categorie uit de ESH- of AHA-tabel, alleen ter referentie.\n\nWHAT IT DOES\n- Rustcheck: nu meten, of wacht X min met de reden, uit niveau, helling en spreiding van je hartslag\n- Leert je eigen zithartslag uit de sessies die je invoert\n- Begeleide rust van 3, 5 of 10 minuten met instelbaar ademtempo\n- Snelle invoer van boven-, onderdruk en pols, vanaf je laatste waarden\n- Timer van één minuut tussen metingen en een seintje voor een derde meting bij meer dan 10 verschil\n- Zevendaags thuisprotocol met een voortgangsraster van 14 vakjes en het gemiddelde van dag 2 tot en met 7\n- Categorie uit de ESH 2023- of AHA 2017-tabel, duidelijk als referentie\n- Trend van je laatste sessies, verschil met de week ervoor, en ochtend tegenover avond\n- Sessielog met wissen, vijf talen en een glance met protocolvoortgang\n\nWHAT IT NEEDS\n- Een bloeddrukmeter; Stillpoint meet zelf geen bloeddruk\n- Polshartslag aan\n- Stillpoint is geen medisch hulpmiddel en stelt geen diagnose; bespreek je waarden met je arts",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/stillpoint.png",
+  "shots": [
+   "assets/shots/stillpoint-1.jpg",
+   "assets/shots/stillpoint-2.jpg",
+   "assets/shots/stillpoint-3.jpg"
+  ],
+  "changed": 1790244416000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "c2e849fc-b763-4f82-a5f6-6d4b47e204bf",
+  "slug": "burnpoint",
+  "name": "Burnpoint - HIIT zone points",
+  "desc": "Burnpoint turns a HIIT class, a treadmill session or a living-room workout into zone points. Every minute your heart spends at 84 % of its maximum or higher earns a point, and a thin ring fills towards your goal, 12 points by default. Your maximum heart rate starts from your age (Tanaka) and moves up by itself when the watch measures a higher 10-second peak, so the zones stay honest as you get fitter.\n\nDuring the workout the screen shows your heart rate in its zone colour, points so far and how many are still to go. Pick a built-in block workout (tread intervals, a 3-2-1 ladder, row sprints, floor EMOM, Tabata, three stations) or build your own intervals, and for every block Burnpoint looks at where your heart rate is heading and suggests harder, hold or easier. It vibrates at each block change, records a FIT activity with your points in it, and keeps a weekly points overview.\n\nWHAT IT DOES\n- Zone points: one per minute at 84 % of max heart rate or higher, optional double for zone 5\n- Live ring to your points goal with \"points to go\" and a buzz when you reach it\n- Maximum heart rate from age that adjusts itself to measured peaks, or set it yourself\n- Five heart-rate zones shown in beats per minute, with time spent in each\n- Seven block workouts plus custom intervals (work, rest, rounds, level) with harder / hold / easier per block\n- Calories (Keytel formula), estimated afterburn and training load (TRIMP)\n- FIT recording with laps per block and your points in Garmin Connect\n- Weekly points bars, weekly goal, four-week average, goal streak and a history of 60 workouts\n- Five languages and a glance with this week's points\n\nWHAT IT NEEDS\n- Heart rate from the wrist or a chest strap; a strap is steadier for short intervals\n- Your age and weight from the Garmin user profile, or set max and resting heart rate by hand\n- Estimates only, for training, not a medical device",
+  "nl": "Burnpoint maakt van een HIIT-les, een loopbandsessie of een training in de woonkamer zonepunten. Elke minuut dat je hart op 84 % van zijn maximum of hoger zit levert een punt op, en een dunne ring loopt vol naar je doel, standaard 12 punten. Je maximale hartslag begint bij je leeftijd (Tanaka) en schuift vanzelf op zodra het horloge een hogere piek van 10 seconden meet, zodat de zones kloppen terwijl je fitter wordt.\n\nTijdens de training zie je je hartslag in de kleur van zijn zone, je punten en hoeveel er nog ontbreken. Kies een ingebouwde bloktraining (loopbandintervallen, ladder 3-2-1, roeisprints, vloer-EMOM, Tabata, drie stations) of stel je eigen intervallen samen, en per blok kijkt Burnpoint waar je hartslag heen gaat en stelt harder, houden of rustiger voor. Hij trilt bij elke blokwissel, legt een FIT-activiteit vast met je punten erin en houdt een weekoverzicht van je punten bij.\n\nWHAT IT DOES\n- Zonepunten: één per minuut op 84 % van je maximale hartslag of hoger, zone 5 eventueel dubbel\n- Live ring naar je puntendoel met \"nog te gaan\" en een tril als je het haalt\n- Maximale hartslag uit je leeftijd die zich bijstelt op gemeten pieken, of stel hem zelf in\n- Vijf hartslagzones in slagen per minuut, met de tijd in elke zone\n- Zeven bloktrainingen plus eigen intervallen (werk, rust, rondes, niveau) met harder / houden / rustiger per blok\n- Calorieën (Keytel-formule), geschatte naverbranding en trainingsbelasting (TRIMP)\n- FIT-opname met een ronde per blok en je punten in Garmin Connect\n- Weekstaafjes, weekdoel, gemiddelde over vier weken, reeks behaalde doelen en een historie van 60 trainingen\n- Vijf talen en een glance met je punten van deze week\n\nWHAT IT NEEDS\n- Hartslag van de pols of een borstband; een band is rustiger bij korte intervallen\n- Je leeftijd en gewicht uit het Garmin-gebruikersprofiel, of stel max- en rusthartslag zelf in\n- Alleen schattingen, voor training, geen medisch hulpmiddel",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "219",
+  "icon": "assets/icons/burnpoint.png",
+  "shots": [
+   "assets/shots/burnpoint-1.jpg",
+   "assets/shots/burnpoint-2.jpg",
+   "assets/shots/burnpoint-3.jpg"
+  ],
+  "changed": 1790266793000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "0b2a7a49-a924-4583-8e5e-62668829d6dc",
+  "slug": "greyline",
+  "name": "Greyline - POTA SOTA ham log",
+  "desc": "Greyline is a pocket assistant for portable amateur radio. It turns your GPS position into a 6- or 8-character Maidenhead locator, keeps UTC in view, and counts your contacts towards a valid POTA, SOTA or WWFF activation. Log each QSO with a callsign on a phone-style keypad, or with a single tap, and it tells you your rate in QSOs per hour and roughly when you will reach ten — and warns you when that falls after 00z, when the count starts over.\n\nEnter the other station's locator and you get the great-circle distance, the bearing and an arrow that points the way. A 24-hour ring shows day, greyline and night for you and for them, with sunrise and sunset in UTC, and a second ring suggests a band for every hour from how much of the path lies in daylight. That suggestion is a rough estimate without solar flux data, so treat it as a starting point. An antenna page gives dipole, EFHW and counterpoise lengths for each band.\n\nWHAT IT DOES\n- Maidenhead locator (6 or 8 characters) from GPS, big UTC clock and local time\n- Activation counter for POTA (10), SOTA (4), WWFF (44) and 2-fers, per UTC day, with dupe check on band and mode\n- QSO rate and a forecast of when the activation becomes valid, with a warning if that is after 00z\n- SOTA summit points, including the winter bonus\n- Distance, bearing and a compass arrow to any locator\n- Day, greyline and night rings for you and the other station, with sunrise and sunset\n- A suggested band for each hour of the day, and dipole, EFHW and counterpoise lengths\n- QSO log on the watch with undo and delete, km or miles, metres or feet, five languages, and a glance\n\nWHAT IT NEEDS\n- GPS for your own locator; the last fix is remembered\n- No phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Greyline is een zakassistent voor portabel zendamateurisme. Hij maakt van je GPS-positie een Maidenhead-locator van 6 of 8 tekens, houdt UTC in beeld en telt je verbindingen naar een geldige POTA-, SOTA- of WWFF-activatie. Log elke QSO met een roepnaam op een telefoontoetsenbord, of met één tik, en hij geeft je tempo in QSO's per uur en rond welk tijdstip je er tien hebt — met een waarschuwing als dat na 00z valt, want dan begint de telling opnieuw.\n\nVoer de locator van het andere station in en je krijgt de grootcirkelafstand, de peiling en een pijl die de richting wijst. Een 24-uursring toont dag, greyline en nacht voor jou en voor hen, met zonsopkomst en -ondergang in UTC, en een tweede ring stelt per uur een band voor op basis van hoeveel van het pad in daglicht ligt. Zonder zonnevluxgegevens is dat een grove schatting, dus zie het als vertrekpunt. Een antennepagina geeft per band de lengte van dipool, EFHW en tegengewicht.\n\nWAT HET DOET\n- Maidenhead-locator (6 of 8 tekens) uit GPS, grote UTC-klok en lokale tijd\n- Activatieteller voor POTA (10), SOTA (4), WWFF (44) en 2-fers, per UTC-dag, met dubbelcheck op band en mode\n- QSO-tempo en een voorspelling van wanneer de activatie geldig wordt, met waarschuwing als dat na 00z is\n- SOTA-toppunten, inclusief winterbonus\n- Afstand, peiling en kompaspijl naar elke locator\n- Dag-, greyline- en nachtringen voor jou en het andere station, met zonsopkomst en -ondergang\n- Een bandsuggestie voor elk uur van de dag, en lengtes voor dipool, EFHW en tegengewicht\n- QSO-log op het horloge met ongedaan maken en verwijderen, km of mijl, meter of voet, vijf talen en een glance\n\nWAT HET NODIG HEEFT\n- GPS voor je eigen locator; de laatste fix wordt onthouden\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge uitgerekend",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.1",
+  "category": "213",
+  "icon": "assets/icons/greyline.png",
+  "shots": [
+   "assets/shots/greyline-1.jpg",
+   "assets/shots/greyline-2.jpg",
+   "assets/shots/greyline-3.jpg"
+  ],
+  "changed": 1790270764000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "32407a88-858a-4e07-8025-2723e8850525",
+  "slug": "ninety",
+  "name": "Ninety - Schengen 90/180 days",
+  "desc": "Ninety counts the days you spend in each country and tells you how many you have left. It keeps the rolling Schengen 90/180 window, the 183-day rule per tax year and the US Substantial Presence Test side by side, so a digital nomad, a long-stay traveller or a cross-border worker sees every limit on one watch. Check in with one tap when you arrive, check out when you leave, or add past trips with date pickers.\n\nThe home screen shows where you are today and the tightest limit. Swipe through each rule for days used, days left and the date you run out, and a year page with your days per country. The planner answers the real questions: if I go from this date to that date, do I stay under the limit, how long can I stay if I arrive on a given day, and what is the earliest date I can come back for a given number of days. Ninety warns you when you get close.\n\nWHAT IT DOES\n- Schengen 90/180 with a rolling window: days left today and on any future date\n- Longest stay if you enter on a chosen date, and the earliest possible return\n- 183-day rule per country and tax year, with its own year start\n- US Substantial Presence Test: days this year plus a third of last year and a sixth of the year before\n- Your own rules: any limit per rolling window, per visit or per year, for any country\n- One-tap check-in, trip list with date pickers, and a trip planner\n- Warning a set number of days before a limit, overview per country and year, five languages and a glance\n\nWHAT IT NEEDS\n- The dates you entered and left each country; no GPS, no phone, no account\n- Ninety is a counting aid, not legal or tax advice; check official sources before you travel",
+  "nl": "Ninety telt de dagen die je in elk land doorbrengt en laat zien hoeveel je er nog over hebt. Het houdt het rollende Schengen 90/180-venster, de 183-dagenregel per belastingjaar en de Amerikaanse Substantial Presence Test naast elkaar bij, zodat een digitale nomade, langreiziger of grenswerker elke limiet op één horloge ziet. Check met één tik in bij aankomst, check uit bij vertrek, of voeg eerdere reizen toe met datumkiezers.\n\nHet beginscherm toont waar je vandaag bent en de krapste limiet. Veeg door elke regel voor gebruikte dagen, resterende dagen en de datum waarop je op bent, en een jaarpagina met je dagen per land. De planner beantwoordt de echte vragen: blijf ik onder de limiet als ik van deze tot die datum ga, hoe lang kan ik blijven als ik op een bepaalde dag binnenkom, en wanneer kan ik op zijn vroegst terug voor een gegeven aantal dagen. Ninety waarschuwt je als je dichtbij komt.\n\nWAT HET DOET\n- Schengen 90/180 met rollend venster: resterende dagen vandaag en op elke toekomstige datum\n- Langste verblijf als je op een gekozen datum binnenkomt, en de vroegst mogelijke terugkeer\n- 183-dagenregel per land en belastingjaar, met een eigen jaarbegin\n- US Substantial Presence Test: dagen dit jaar plus een derde van vorig jaar en een zesde van het jaar daarvoor\n- Eigen regels: elke limiet per rollend venster, per bezoek of per jaar, voor elk land\n- Inchecken met één tik, reizenlijst met datumkiezers en een reisplanner\n- Waarschuwing een instelbaar aantal dagen vóór een limiet, overzicht per land en jaar, vijf talen en een glance\n\nWAT HET NODIG HEEFT\n- De data waarop je elk land in- en uitreisde; geen GPS, geen telefoon, geen account\n- Ninety is een telhulp, geen juridisch of fiscaal advies; controleer officiële bronnen voor je reist",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "214",
+  "icon": "assets/icons/ninety.png",
+  "shots": [
+   "assets/shots/ninety-1.jpg",
+   "assets/shots/ninety-2.jpg",
+   "assets/shots/ninety-3.jpg"
+  ],
+  "changed": 1790274131000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "dd26069c-fd6b-4b7b-9ce5-2858888b72cb",
+  "slug": "kickwax",
+  "name": "Kickwax - XC ski wax advice",
+  "desc": "Kickwax tells you which kick wax, klister and glide wax to put on your cross-country skis, and it gets better every time you ski. It reads the temperature, humidity and precipitation from your phone's weather, looks at how the temperature moves over the hours you will be out, and adds how old the snow is. From that it works out an effective snow temperature and picks the wax class, with a second class to carry along when the day warms up or cools down.\n\nAfter each outing you say how the grip and glide felt: slipping, good or sticking; dragging, good or wet suction. Kickwax keeps a small correction per temperature band, so the advice shifts toward what works on your skis and your wax. Put your own wax box in the app and it names the product you actually own. Classic and skating both work, and without weather data you can enter the temperature and humidity yourself.\n\nWHAT IT DOES\n- Kick wax or klister class, plus glide wax class, on one arc scale per wax type\n- Temperature trend over your start time and duration (up to 12 hours ahead), with a wax to carry if the day changes\n- Snow type from snow age and the temperature history: fresh, settled, old, icy crust or wet\n- Learns from your grip and glide rating after every outing, per temperature band\n- Your own wax box: add products with their temperature range and it picks from those first\n- Reference codes in the Swix or Rode system, or colours only\n- History of rated outings, classic or skating mode, five languages, and a glance with today's wax\n\nWHAT IT NEEDS\n- Weather from the Garmin Connect app for automatic conditions, or manual temperature and humidity\n- Snow age in days since the last snowfall, entered by you",
+  "nl": "Kickwax vertelt welke kickwas, klister en glijwas je op je langlaufski's zet, en wordt beter elke keer dat je gaat. Het leest temperatuur, luchtvochtigheid en neerslag uit het weer van je telefoon, kijkt hoe de temperatuur verloopt over de uren dat je buiten bent en telt mee hoe oud de sneeuw is. Daaruit volgt een effectieve sneeuwtemperatuur en de wasklasse, met een tweede klasse om mee te nemen als het warmer of kouder wordt.\n\nNa elke tocht geef je aan hoe grip en glij waren: glipte, goed of plakte; sleepte, goed of zoog. Kickwax houdt per temperatuurband een kleine correctie bij, zodat het advies opschuift naar wat op jouw ski's en jouw was werkt. Zet je eigen waskist in de app en hij noemt het product dat je echt hebt. Klassiek en skating werken allebei, en zonder weerdata vul je temperatuur en vochtigheid zelf in.\n\nWHAT IT DOES\n- Kickwas- of klisterklasse plus glijwasklasse, op één boogschaal per wastype\n- Temperatuurverloop over je starttijd en duur (tot 12 uur vooruit), met een was om mee te nemen als het omslaat\n- Sneeuwtype uit sneeuwleeftijd en temperatuurverloop: vers, gezet, oud, korst of nat\n- Leert van je grip- en glijoordeel na elke tocht, per temperatuurband\n- Je eigen waskist: voeg producten toe met hun temperatuurbereik en hij kiest daar eerst uit\n- Referentiecodes in het Swix- of Rode-systeem, of alleen kleuren\n- Historie van beoordeelde tochten, klassiek of skating, vijf talen en een glance met de was van vandaag\n\nWHAT IT NEEDS\n- Weer uit de Garmin Connect-app voor automatische omstandigheden, of handmatige temperatuur en vochtigheid\n- Sneeuwleeftijd in dagen sinds de laatste sneeuwval, door jou ingevuld",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "212",
+  "icon": "assets/icons/kickwax.png",
+  "shots": [
+   "assets/shots/kickwax-1.jpg",
+   "assets/shots/kickwax-2.jpg",
+   "assets/shots/kickwax-3.jpg"
+  ],
+  "changed": 1790271602000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 2
+ },
+ {
+  "id": "eb323f3f-b54f-4140-abb3-4b86827d3a99",
+  "slug": "swelt",
+  "name": "Swelt - Heat acclimation",
+  "desc": "Swelt estimates how hot you are running inside while you train in the heat, and keeps track of how well your body is adapting to it. During a session it turns your heart rate into an estimate of core temperature with the published ECTemp Kalman filter (Buller, 2013), adds the Physiological Strain Index, and tells you where the trend is heading: \"39.0° in ~14 min\". Every session feeds a heat-acclimation score that counts heat index (temperature and humidity), duration and how warm you actually got.\n\nBetween sessions Swelt suggests a plan — \"3 × 60 min to 80%\" — shows how long your adaptation holds if you stop, and suggests a heat-adjusted heart-rate ceiling for today. It is an estimate for use during exercise only: not a thermometer, not for fever, not a medical device.\n\nWHAT IT DOES\n- Live estimated core temperature from heart rate, with trend and time to your limit\n- Physiological Strain Index 0–10 and gentle vibration alerts near your limit\n- Heat acclimation 0–100% from heat index, duration and core response, with decay when you pause\n- A plan in sessions to reach your target, and how many days your level holds\n- A heat-adjusted heart-rate ceiling for today\n- 30-day acclimation graph and session history\n- Records a FIT activity with core estimate, strain and heat index as extra fields\n- Celsius or Fahrenheit, five languages, and a glance with your acclimation\n\nWHAT IT NEEDS\n- A wrist heart-rate sensor\n- Temperature and humidity from the phone's weather, or set them by hand in the settings",
+  "nl": "Swelt schat hoe warm je van binnen wordt terwijl je in de hitte traint, en houdt bij hoe goed je lichaam eraan went. Tijdens een sessie maakt hij van je hartslag een schatting van de kerntemperatuur met het gepubliceerde ECTemp-Kalmanfilter (Buller, 2013), voegt de Physiological Strain Index toe en laat zien waar de trend heen gaat: \"39,0° over ~14 min\". Elke sessie telt mee voor een hitte-acclimatiescore die rekening houdt met de hitte-index (temperatuur én luchtvochtigheid), de duur en hoe warm je echt werd.\n\nTussen de sessies stelt Swelt een plan voor — \"3 × 60 min tot 80%\" — laat zien hoe lang je aanpassing blijft staan als je stopt, en stelt een voor hitte gecorrigeerd hartslagplafond voor vandaag voor. Het is een schatting, alleen tijdens inspanning: geen thermometer, niet voor koorts, geen medisch hulpmiddel.\n\nWAT HET DOET\n- Live geschatte kerntemperatuur uit hartslag, met trend en tijd tot je grens\n- Physiological Strain Index 0–10 en rustige trilwaarschuwingen bij je grens\n- Hitte-acclimatie 0–100% uit hitte-index, duur en kernreactie, met verval als je pauzeert\n- Een plan in sessies naar je doel, en hoeveel dagen je niveau blijft staan\n- Een voor hitte gecorrigeerd hartslagplafond voor vandaag\n- Acclimatiegrafiek over 30 dagen en sessiehistorie\n- Neemt een FIT-activiteit op met kernschatting, strain en hitte-index als extra velden\n- Celsius of Fahrenheit, vijf talen en een glance met je acclimatie\n\nWAT HET NODIG HEEFT\n- Een hartslagsensor aan de pols\n- Temperatuur en luchtvochtigheid uit het weer van de telefoon, of zelf in te stellen",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0",
+  "category": "219",
+  "icon": "assets/icons/swelt.png",
+  "shots": [
+   "assets/shots/swelt-1.jpg",
+   "assets/shots/swelt-2.jpg",
+   "assets/shots/swelt-3.jpg"
+  ],
+  "changed": 1790238542000,
+  "whatsnew": "",
+  "devices": 178,
+  "updates": 1
+ },
+ {
+  "id": "542eec60-a9f7-47d8-9037-49a0c1221959",
+  "slug": "schuss",
+  "name": "Schuss - Ski and snowboard tracker",
+  "desc": "Schuss records your ski or snowboard day and splits it on its own into runs, lifts, queues and breaks. Every second it reads the barometer, the GPS speed and your heart rate and works out what you are doing from the vertical speed over the last ten seconds. A stop halfway down the slope stays part of the same run, a chairlift that halts stays one ride, and fifteen minutes standing still becomes a break instead of a queue.\n\nOn the slope you see your speed, how far you have dropped and how steep it is right now, coloured blue, red or black. On the lift you see how far up you are and a recap of the run you just did. At the end of the day you get every run with drop, distance, top speed, steepest pitch, turns and heart rate, how your time split between skiing, lifts and queues, your altitude profile, and your trip and all-time records.\n\nWHAT IT DOES\n- Automatic run and lift detection from barometer and GPS, with stops and lift halts merged\n- Live screens for run, lift, queue and break, each showing what matters at that moment\n- Per run: vertical drop, distance, time, top and average speed, steepest pitch with piste colour, turns, heart rate, the lift and queue before it\n- Day: vertical, runs, top speed, vertical per hour, time on snow versus lift, queue and break\n- Last lift planner: set the closing time and Schuss tells you how many runs you still have time for, based on your own lift-queue-run cycle today, with a warning at 30 and 10 minutes\n- Form coach: compares your recent runs with your best of the day, corrected for how steep each run was, and tells you when you are slowing down at the same effort\n- A nudge to take a break after two and a half hours without stopping\n- Day goal with a progress ring, trip totals in Everests, and all-time records with a buzz the moment you break one\n- Altitude profile of the whole day\n- Records the day as a ski or snowboard activity in Garmin Connect, with a lap per run and per lift\n- A running day survives closing the app, and a morning and afternoon session become one day\n- Glance with today's runs, vertical and top speed\n\nWHAT IT NEEDS\n- A watch with a barometric altimeter, and GPS\n- Nothing else: no phone, no account, no internet",
+  "nl": "Schuss neemt je ski- of snowboarddag op en deelt die zelf op in afdalingen, liften, rijen en pauzes. Elke seconde leest het de barometer, de gps-snelheid en je hartslag en bepaalt het aan de verticale snelheid van de laatste tien seconden wat je aan het doen bent. Een stop halverwege de piste blijft deel van dezelfde afdaling, een stoeltjeslift die stilvalt blijft één rit, en een kwartier stilstaan wordt een pauze in plaats van een rij.\n\nOp de piste zie je je snelheid, hoeveel je al gezakt bent en hoe steil het op dat moment is, in blauw, rood of zwart. In de lift zie je hoe ver je al omhoog bent en een samenvatting van de afdaling die je net deed. Aan het eind van de dag heb je elke afdaling met hoogteverschil, afstand, topsnelheid, steilste stuk, bochten en hartslag, hoe je tijd verdeeld was over skiën, lift en rij, je hoogteprofiel, en je trip- en persoonlijke records.\n\nWAT HET DOET\n- Automatisch afdalingen en liften herkennen uit barometer en gps, met stops en stilstaande liften samengevoegd\n- Live-schermen voor afdaling, lift, rij en pauze, elk met wat er op dat moment telt\n- Per afdaling: hoogteverschil, afstand, tijd, top- en gemiddelde snelheid, steilste stuk met pistekleur, bochten, hartslag, en de lift en rij ervoor\n- Per dag: hoogtemeters, afdalingen, topsnelheid, hoogtemeters per uur, tijd op de sneeuw tegenover lift, rij en pauze\n- Laatste-liftplanner: stel de sluitingstijd in en Schuss zegt hoeveel afdalingen je nog haalt, op basis van je eigen rondje van rij, lift en afdaling vandaag, met een waarschuwing op 30 en 10 minuten\n- Vormcoach: vergelijkt je laatste afdalingen met je beste van de dag, gecorrigeerd voor hoe steil elke afdaling was, en zegt het als je bij dezelfde inspanning trager wordt\n- Een seintje voor pauze na tweeënhalf uur zonder stoppen\n- Dagdoel met voortgangsring, triptotaal in Everests, en persoonlijke records met een trilsignaal op het moment dat je er een verbreekt\n- Hoogteprofiel van de hele dag\n- Neemt de dag op als ski- of snowboardactiviteit in Garmin Connect, met een ronde per afdaling en per lift\n- Een lopende dag overleeft het sluiten van de app, en een ochtend- en middagsessie worden één dag\n- Glance met de afdalingen, hoogtemeters en topsnelheid van vandaag\n\nWAT HET NODIG HEEFT\n- Een horloge met barometrische hoogtemeter, en gps\n- Verder niets: geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.0",
+  "category": "212",
+  "icon": "assets/icons/schuss.png",
+  "shots": [
+   "assets/shots/schuss-1.jpg",
+   "assets/shots/schuss-2.jpg",
+   "assets/shots/schuss-3.jpg"
+  ],
+  "changed": 1790183631000,
+  "whatsnew": "",
+  "devices": 159,
+  "updates": 1
+ },
+ {
   "id": "1bebbca2-3389-4b1f-968d-d24553c1dd96",
   "slug": "marks",
   "name": "Marks - Archery sight marks",
@@ -8,8 +468,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
-  "version": "1.1.0",
+  "downloads": 10,
+  "version": "1.1.1",
   "category": "212",
   "icon": "assets/icons/marks.png",
   "shots": [
@@ -17,10 +477,10 @@
    "assets/shots/marks-2.jpg",
    "assets/shots/marks-3.jpg"
   ],
-  "changed": 1790095746000,
-  "whatsnew": "Fixed a possible crash with damaged saved bows or courses. Deleting a bow no longer selects the wrong one; renaming avoids duplicate names. Deleting a distance keeps scores aligned. Setting zero no longer overwrites a manual angle. Custom course menu shows all distances. Full screen width on Venu Sq. Pressing UP or DOWN quickly on button watches speeds up the step.",
-  "devices": 178,
-  "updates": 2
+  "changed": 1790273444000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 3
  },
  {
   "id": "8f86ef23-a8de-4ff1-97a7-33e4ebccc2f5",
@@ -31,8 +491,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
-  "version": "1.1.0",
+  "downloads": 10,
+  "version": "1.1.1",
   "category": "212",
   "icon": "assets/icons/canter.png",
   "shots": [
@@ -40,10 +500,10 @@
    "assets/shots/canter-2.jpg",
    "assets/shots/canter-3.jpg"
   ],
-  "changed": 1790095515000,
-  "whatsnew": "Weekday names are no longer one day off. Removing a horse no longer selects the wrong one. Pause is no longer counted in the activity time. Calibration only uses valid readings. Main menu and ride menu reachable without holding the screen: tap the middle of the home screen; pause and lap are also in the stop menu.",
-  "devices": 178,
-  "updates": 2
+  "changed": 1790267277000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 3
  },
  {
   "id": "32db9931-ba0c-4e4b-8b7b-9d5a11a2ba47",
@@ -54,7 +514,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.1.0",
   "category": "208",
   "icon": "assets/icons/stand.png",
@@ -77,7 +537,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.1.1",
   "category": "212",
   "icon": "assets/icons/sprintr.png",
@@ -100,8 +560,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
-  "version": "1.1.0",
+  "downloads": 10,
+  "version": "1.1.1",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -109,10 +569,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1790095298000,
-  "whatsnew": "Fixed crashes on older watches (fenix 5, vivoactive 3/4, Venu, fr245 and more) when pausing, setting times or calibrating, and in the glance. Calibration: drifting back now works and your own pace can be set. Yards are now correct for pace and distance per stroke. Stroke count, goal and heart rate are kept during a session. Settings reachable without a menu button.",
-  "devices": 178,
-  "updates": 2
+  "changed": 1790270499000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
+  "devices": 185,
+  "updates": 3
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
@@ -123,8 +583,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
-  "version": "1.1.0",
+  "downloads": 10,
+  "version": "1.1.1",
   "category": "210",
   "icon": "assets/icons/coil.png",
   "shots": [
@@ -132,10 +592,10 @@
    "assets/shots/coil-2.jpg",
    "assets/shots/coil-3.jpg"
   ],
-  "changed": 1790093673000,
-  "whatsnew": "Perimeter keeps working after restarting the app. Lane bar no longer mirrored on the way back. Swing width menu shows decimals. Lighter map and perimeter work. Sessions are saved in parts so a full grid is never lost. Clearing history asks for confirmation. Glance follows your units.",
-  "devices": 178,
-  "updates": 2
+  "changed": 1790268555000,
+  "whatsnew": "Now available on the fenix 9 series. Keep screen on now only applies during a session and no longer keeps the start screen lit.",
+  "devices": 185,
+  "updates": 3
  },
  {
   "id": "303690e7-1f6e-4f1f-ad0b-841187866a1a",
@@ -146,7 +606,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.1.1",
   "category": "219",
   "icon": "assets/icons/recruit.png",
@@ -169,8 +629,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
-  "version": "1.1.0",
+  "downloads": 10,
+  "version": "1.1.1",
   "category": "219",
   "icon": "assets/icons/gravid.png",
   "shots": [
@@ -178,10 +638,10 @@
    "assets/shots/gravid-2.jpg",
    "assets/shots/gravid-3.jpg"
   ],
-  "changed": 1790095122000,
-  "whatsnew": "Ultrasound dating fixed: the due date was up to weeks late. New choice of day 3 or day 5 embryo for IVF dating. Fixed a crash on older watches when entering values. Height in imperial units is now converted. The glance updates every day. Future dates are limited. The kick counter can be left when empty.",
-  "devices": 178,
-  "updates": 2
+  "changed": 1790270620000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 3
  },
  {
   "id": "0e80d313-7f2b-4c2b-ad2b-c4fee937fc40",
@@ -193,7 +653,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "219",
   "icon": "assets/icons/baseline.png",
   "shots": [
@@ -201,10 +661,10 @@
    "assets/shots/baseline-2.jpg",
    "assets/shots/baseline-3.jpg"
   ],
-  "changed": 1790094796000,
-  "whatsnew": "Fixed a possible crash when closing the glance. Recent nights are now always read. Oxygen deviation shows the right value (-2.4 instead of -0.2). Body Battery on waking uses the first reading after wake time. Bedtime after midnight works. Buttons no longer get stuck on the signals page; settings reachable without a menu button. The calendar always shows this week.",
-  "devices": 178,
-  "updates": 2
+  "changed": 1790266448000,
+  "whatsnew": "Now available on the fenix 9 series.",
+  "devices": 185,
+  "updates": 3
  },
  {
   "id": "0c2e5921-af6d-47e7-bf91-3a4899a2a752",
@@ -216,7 +676,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1",
+  "version": "1.1.1",
   "category": "212",
   "icon": "assets/icons/airtime.png",
   "shots": [
@@ -224,10 +684,10 @@
    "assets/shots/airtime-2.jpg",
    "assets/shots/airtime-3.jpg"
   ],
-  "changed": 1790097222000,
-  "whatsnew": "Jump height after a soft landing is no longer too high. Trend in feet is now really converted. GPS distance no longer drops between sparse fixes. Swiping back during a session no longer ends it; stopping by tap asks for a second tap. Discarding a session shows your last real session again.",
-  "devices": 178,
-  "updates": 2
+  "changed": 1790265512000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
+  "devices": 185,
+  "updates": 3
  },
  {
   "id": "b3dc4fa0-011c-4988-97f1-8b4bcbe5b61d",
@@ -238,7 +698,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.1",
   "category": "215",
   "icon": "assets/icons/rime.png",
@@ -262,7 +722,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1",
+  "version": "1.1.1",
   "category": "277",
   "icon": "assets/icons/plates.png",
   "shots": [
@@ -270,10 +730,10 @@
    "assets/shots/plates-2.jpg",
    "assets/shots/plates-3.jpg"
   ],
-  "changed": 1790097025000,
-  "whatsnew": "Fixed wrong load when the target is heavy for a small plate set (for example 20 kg instead of 60 kg). Much lighter plate calculation, no more timeout with a full rack. Plate menu shows the new count right away. Bar speed page shows the weight you can actually load.",
+  "changed": 1790274653000,
+  "whatsnew": "Now available on the fenix 9 series. The screen now stays on while you are using the app actively, so it no longer switches off while you are watching it. You can turn this off in the settings under Keep screen on.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "ae16ee36-8dde-4387-a461-3e4af1140b2c",
@@ -308,7 +768,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0",
+  "version": "1.0.1",
   "category": "212",
   "icon": "assets/icons/lineup.png",
   "shots": [
@@ -316,10 +776,10 @@
    "assets/shots/lineup-2.jpg",
    "assets/shots/lineup-3.jpg"
   ],
-  "changed": 1789664866000,
-  "whatsnew": "",
+  "changed": 1790273324000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "b23b1ead-1709-468b-9f17-4d43d0a30174",
@@ -354,7 +814,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1",
+  "version": "1.1.1",
   "category": "213",
   "icon": "assets/icons/amp.png",
   "shots": [
@@ -362,10 +822,10 @@
    "assets/shots/amp-2.jpg",
    "assets/shots/amp-3.jpg"
   ],
-  "changed": 1790169292000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
+  "changed": 1790265878000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "e2268881-b058-40ed-bd72-024e12b4f49e",
@@ -377,7 +837,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1",
+  "version": "1.1.1",
   "category": "212",
   "icon": "assets/icons/chains.png",
   "shots": [
@@ -385,10 +845,10 @@
    "assets/shots/chains-2.jpg",
    "assets/shots/chains-3.jpg"
   ],
-  "changed": 1790097501000,
-  "whatsnew": "Fixed crashes on fenix 5, fr935 and vivoactive 3 and with damaged saved data. Shortening a course no longer shifts pars. Replaying a hole no longer counts twice. A manually set distance now shrinks as you walk. Scorecard shows all holes and the total. You can finish a round after the last hole; clearing asks for confirmation.",
+  "changed": 1790268197000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "012f9674-bb02-4adf-bc9d-74fdc4354805",
@@ -399,8 +859,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
-  "version": "1.0",
+  "downloads": 10,
+  "version": "1.0.1",
   "category": "256",
   "icon": "assets/icons/nocto.png",
   "shots": [
@@ -408,10 +868,10 @@
    "assets/shots/nocto-2.jpg",
    "assets/shots/nocto-3.jpg"
   ],
-  "changed": 1789638888000,
-  "whatsnew": "",
+  "changed": 1790274224000,
+  "whatsnew": "Now available on the fenix 9 series. The screen now stays on while you are using the app actively, so it no longer switches off while you are watching it. You can turn this off in the settings under Keep screen on.",
   "devices": 178,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "b43550ab-a12a-404d-a293-31643dc23f54",
@@ -423,7 +883,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.2",
+  "version": "1.2.1",
   "category": "213",
   "icon": "assets/icons/beam.png",
   "shots": [
@@ -431,10 +891,10 @@
    "assets/shots/beam-2.jpg",
    "assets/shots/beam-3.jpg"
   ],
-  "changed": 1790169383000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
+  "changed": 1790266567000,
+  "whatsnew": "Now available on the fenix 9 series. The screen now stays on while you are using the app actively, so it no longer switches off while you are watching it. You can turn this off in the settings under Keep screen on.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "acb6e144-0df2-4a0a-9860-80536e1359d2",
@@ -446,7 +906,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "219",
   "icon": "assets/icons/crimpa.png",
   "shots": [
@@ -454,10 +914,10 @@
    "assets/shots/crimpa-2.jpg",
    "assets/shots/crimpa-3.jpg"
   ],
-  "changed": 1790169703000,
-  "whatsnew": "Fixed a crash when the glance closes.",
+  "changed": 1790268650000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 175,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "6b0dad0f-72c2-440e-b9dc-5cde79fba602",
@@ -469,7 +929,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "220",
   "icon": "assets/icons/intake.png",
   "shots": [
@@ -477,10 +937,10 @@
    "assets/shots/intake-2.jpg",
    "assets/shots/intake-3.jpg"
   ],
-  "changed": 1789469376000,
-  "whatsnew": "",
+  "changed": 1790271242000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
   "devices": 175,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "7f20bc29-8650-421c-b0ee-4b83b9593ee6",
@@ -492,7 +952,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "218",
   "icon": "assets/icons/altura.png",
   "shots": [
@@ -500,10 +960,10 @@
    "assets/shots/altura-2.jpg",
    "assets/shots/altura-3.jpg"
   ],
-  "changed": 1790075438000,
-  "whatsnew": "Altura is now listed only for watches that have a barometer, the sensor it reads altitude from.",
+  "changed": 1790265757000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 158,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "1ce4573a-c932-43cb-97a6-554ffcc36740",
@@ -538,7 +998,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "208",
   "icon": "assets/icons/bitewell.png",
   "shots": [
@@ -546,10 +1006,10 @@
    "assets/shots/bitewell-2.jpg",
    "assets/shots/bitewell-3.jpg"
   ],
-  "changed": 1790166565000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
+  "changed": 1790266680000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 175,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "b5ba81df-5b6d-4de8-b94f-3c26519b2730",
@@ -560,8 +1020,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.2",
+  "downloads": 100,
+  "version": "1.0.3",
   "category": "247",
   "icon": "assets/icons/laylin.png",
   "shots": [
@@ -569,10 +1029,10 @@
    "assets/shots/laylin-2.jpg",
    "assets/shots/laylin-3.jpg"
   ],
-  "changed": 1790077419000,
-  "whatsnew": "Ending a race is now one button. The back button opens the race menu whenever a start sequence or a recording is running, with Save at the top and Stop sequence added to it. On watches without a menu button, such as the Venu 4 and the vívoactive 3 and 6, that is the way in that the system cannot take away.",
+  "changed": 1790271836000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 175,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
@@ -607,7 +1067,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "213",
   "icon": "assets/icons/cutwise.png",
   "shots": [
@@ -615,10 +1075,10 @@
    "assets/shots/cutwise-2.jpg",
    "assets/shots/cutwise-3.jpg"
   ],
-  "changed": 1789403568000,
-  "whatsnew": "Important cut list fix: offcuts are now cut off, the blade never cuts into a part, and measurements are taken from the edge that is actually there. 'Lengthwise' and 'crosswise' were swapped. Fixed a crash when saving several large projects; checkmarks are kept when you reopen a project. New: stock sizes in inches (4×8 ft) and kerf in 1/64 in. Saved projects can be deleted.",
+  "changed": 1790269012000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
@@ -630,7 +1090,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.1.2",
+  "version": "1.1.3",
   "category": "205",
   "icon": "assets/icons/platewise.png",
   "shots": [
@@ -638,10 +1098,10 @@
    "assets/shots/platewise-2.jpg",
    "assets/shots/platewise-3.jpg"
   ],
-  "changed": 1790167042000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. New app icon.",
+  "changed": 1790274768000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 167,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
@@ -652,8 +1112,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
-  "version": "1.1.1",
+  "downloads": 10,
+  "version": "1.1.2",
   "category": "208",
   "icon": "assets/icons/pawcast.png",
   "shots": [
@@ -661,10 +1121,10 @@
    "assets/shots/pawcast-2.jpg",
    "assets/shots/pawcast-3.jpg"
   ],
-  "changed": 1790166758000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
+  "changed": 1790274309000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 133,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
@@ -676,7 +1136,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "210",
   "icon": "assets/icons/halflight.png",
   "shots": [
@@ -684,10 +1144,10 @@
    "assets/shots/halflight-2.jpg",
    "assets/shots/halflight-3.jpg"
   ],
-  "changed": 1789405145000,
-  "whatsnew": "New return mode: choose 'Turned back' in the menu, or accept the prompt when you retrace your track, and the app shows your expected arrival against darkness instead of a turnaround countdown. The return estimate is now exact; it was 3-5% too short on hilly routes. Fixed: sunset a day early in UTC+13, lost distance when the app was closed mid-hike, GPS drift counting as distance while standing still, and settings on watches without a menu button (hold to open).",
+  "changed": 1790270998000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
   "devices": 168,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
@@ -744,10 +1204,10 @@
   "desc": "Stretching apps give you a timer and a picture. Flexa gives you a number. Hold still at the end of a movement and the watch reads gravity to work out the angle, so \"my hamstrings feel tight\" becomes 61 degrees, and next week you can tell whether that was true.\n\nBecause it measures, it can also suggest. From the pairs of hold time and gain it collects, Flexa fits how much your tolerance actually moves per second held, and sets the duration of the next stretch from that instead of defaulting to thirty seconds for everything.\n\nWHAT IT DOES\n- Ten tests: shoulder flexion and abduction, hip flexion, straight-leg raise, ankle dorsiflexion, neck rotation and side bend, trunk rotation, wrist extension, calf\n- Left and right separately, with the asymmetry in percent\n- A stillness gate, so it measures your range and not your swing\n- Age-group norms, so the number means something\n- A guided stretch with haptic start and stop, and a hold time that follows what the last session gained\n- A trend per test, and a summary that names your weakest link\n- Five languages and a glance\n\nWHAT IT NEEDS\n- Everything is worked out on the watch: no phone, no account, no internet\n- Flexa measures and compares against age groups. It is not a diagnosis and does not replace a physiotherapist",
   "nl": "Rek-apps geven je een timer en een plaatje. Flexa geeft je een getal. Houd stil aan het eind van een beweging en het horloge leest de zwaartekracht om de hoek uit te rekenen, zodat \"mijn hamstrings voelen stijf\" 61 graden wordt — en je volgende week kunt zien of dat klopte.\n\nOmdat het meet, kan het ook een rekduur voorstellen. Uit de paren houdduur en winst die het verzamelt, schat Flexa hoeveel je rek-tolerantie werkelijk opschuift per seconde houden, en zet daar de duur van de volgende rek op in plaats van standaard dertig seconden voor alles.\n\nWAT HET DOET\n- Tien tests: schouderflexie en -abductie, heupflexie, gestrekt been heffen, enkel-dorsaalflexie, nekrotatie en -lateroflexie, romprotatie, polsextensie, kuit\n- Links en rechts apart, met de asymmetrie in procenten\n- Een stilstand-poort, zodat het je bereik meet en niet je zwaai\n- Normen per leeftijdsgroep, zodat het getal iets zegt\n- Een begeleide rek met haptische start en stop, en een houdduur die volgt uit wat de vorige sessie opleverde\n- Een trend per test, en een samenvatting die je zwakste schakel noemt\n- Vijf talen en een glance\n\nWAT HET NODIG HEEFT\n- Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Flexa meet en vergelijkt met leeftijdsgroepen. Het is geen diagnose en vervangt geen fysiotherapeut",
   "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
+  "rating": 4.5,
+  "reviews": 2,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "219",
   "icon": "assets/icons/flexa.png",
   "shots": [
@@ -755,10 +1215,10 @@
    "assets/shots/flexa-2.jpg",
    "assets/shots/flexa-3.jpg"
   ],
-  "changed": 1789401884000,
-  "whatsnew": "Important fix: the angle measurement used the wrong watch axis, so most tests measured nothing or the wrong angle. All ten tests now measure correctly, even with the watch slightly tilted. Please measure your baselines again. Also fixed: the suggested stretch time getting stuck at 15 s, cut-off instructions, the screen turning off at the result, and the glance percentage not updating.",
+  "changed": 1790270378000,
+  "whatsnew": "Now available on the fenix 9 series. The screen no longer switches off briefly during a measurement or a stretch.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1",
@@ -770,17 +1230,17 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "213",
   "icon": "assets/icons/cadenzo.png",
   "shots": [
    "assets/shots/cadenzo-1.jpg",
    "assets/shots/cadenzo-2.jpg"
   ],
-  "changed": 1789409296000,
-  "whatsnew": "More precise beat: every vibration is now timed to the exact beat, on average within 3-4 ms instead of up to 50 ms late. The planner keeps scheduling every piece over the long run. Tempo lists use standard metronome markings, so 60, 120 and 132 can be selected. Plan and Trend now show all pieces. Fixed: the watch vibrating by itself after reopening, skipped pieces counting as practised, the screen turning off when stopping, and layout on round screens.",
+  "changed": 1790266910000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
@@ -792,7 +1252,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.1",
+  "version": "1.1.2",
   "category": "215",
   "icon": "assets/icons/barocast.png",
   "shots": [
@@ -800,10 +1260,10 @@
    "assets/shots/barocast-2.jpg",
    "assets/shots/barocast-3.jpg"
   ],
-  "changed": 1789715981000,
-  "whatsnew": "1.1.1: fixes the glance that could stay empty on the watch. It now always shows the current pressure with the trend arrow, or tells you when there is no reading yet.",
+  "changed": 1790266227000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 165,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
@@ -838,7 +1298,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "247",
   "icon": "assets/icons/kedge.png",
   "shots": [
@@ -846,22 +1306,22 @@
    "assets/shots/kedge-2.jpg",
    "assets/shots/kedge-3.jpg"
   ],
-  "changed": 1789399033000,
-  "whatsnew": "Much more reliable drag alarm. The drag test now uses two minutes of positions, so swinging at anchor no longer causes false alarms, while a sudden jump far outside the circle still alarms within seconds. The alarm repeats every 15 s until you respond, snooze lasts 10 minutes, and there is a new alarm tone setting. During a watch, press Back twice to close the app. New 'waiting for fix' warning when GPS drops out. Fixed: chain length in feet, anchoring near the date line, a glance crash and menu values.",
+  "changed": 1790271359000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
   "devices": 175,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "f9151c72-b578-40df-af86-a2b9830b4b71",
   "slug": "lexil",
   "name": "Lexil - Word Puzzle",
-  "desc": "The most-reviewed word game on this platform is a Wordle clone, and the reviews all say\nthe same thing: the letters are too small to hit. A twenty-six key keyboard on a 45 mm\nwatch leaves each key about three millimetres of glass, which is half a fingertip. That\nis not difficulty. That is a typo, then another one, and then the app is uninstalled.\n\nLexil has no keyboard. There are seven letters and nothing else: six on a ring and one\nin the middle, each tile about a fifth of the screen across and roughly ten times the\ntarget area of a key. Words run from four letters up, any letter may be used again, and\nevery word has to use the one in the middle, which is what stops seven big buttons from\nbeing a small game. Using all seven in a single word is a pangram and pays seven extra.\n\nWHAT IT DOES\n- Seven tiles instead of a keyboard, none of them smaller than a fingertip\n- Four hundred puzzles held on the watch, one a day, averaging thirty-one words each\n- Five ranks, Beginner through to Genius, each cut at a share of that day's own point\n  total, so Great means the same amount of work on a twenty-word day as on a forty\n- Four letters score one point, longer words score their length, a pangram adds seven,\n  so a rank cannot be reached by grinding out the easy words\n- Shuffle the six outer letters: the same set in a new order reads as a new puzzle\n- A found-words page, in alphabetical order or longest first\n- Free play on a puzzle from another day, kept separately from the day in progress\n- A streak of days with at least one word found, best rank, genius days, pangrams and\n  lifetime points\n- Every word is written down the moment it lands, so a dropped wrist costs nothing\n- The interface is in five languages; the puzzles themselves are English\n- On-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
-  "nl": "Het meest beoordeelde woordspel op dit platform is een Wordle-kloon, en de recensies\nzeggen allemaal hetzelfde: de letters zijn te klein om te raken. Een toetsenbord van\nzesentwintig toetsen op een horloge van 45 mm geeft elke toets zo'n drie millimeter\nglas, een halve vingertop. Dat is geen uitdaging. Dat is een typfout, en nog een.\n\nLexil heeft geen toetsenbord. Er zijn zeven letters en verder niets: zes op een ring en\neen in het midden, elke tegel ongeveer een vijfde van het scherm breed en ruwweg tien\nkeer zo groot als een toets. Woorden zijn vier letters of langer, een letter mag opnieuw\nworden gebruikt, en elk woord moet de middelste letter bevatten. Dat laatste is wat\nzeven grote knoppen tegenhoudt om een klein spel te worden. Alle zeven in een woord is\neen pangram en levert er zeven extra op.\n\nWAT HET DOET\n- Zeven tegels in plaats van een toetsenbord, geen ervan kleiner dan een vingertop\n- Vierhonderd puzzels op het horloge zelf, een per dag, gemiddeld eenendertig woorden\n- Vijf rangen, van Beginner tot Genie, elk afgesneden op een deel van het puntentotaal\n  van die dag, zodat Groots op een dag van twintig woorden evenveel werk is als op\n  een dag van veertig\n- Vier letters leveren een punt, langere woorden hun lengte, een pangram zeven erbij,\n  dus een rang is niet te halen door alleen de makkelijke woorden af te grazen\n- Schud de zes buitenste letters: dezelfde set in een nieuwe volgorde leest als nieuw\n- Een pagina met gevonden woorden, alfabetisch of langste eerst\n- Vrij spel op een puzzel van een andere dag, los van de dag die loopt\n- Een reeks dagen met minstens een woord, beste rang, geniedagen, pangrammen en punten\n- Elk woord wordt opgeschreven zodra het binnen is, dus een zakkende pols kost niets\n- De interface is in vijf talen; de puzzels zelf zijn Engels\n- Instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
+  "desc": "The most-reviewed word game on this platform is a Wordle clone, and the reviews all say the same thing: the letters are too small to hit. A twenty-six key keyboard on a 45 mm watch leaves each key about three millimetres of glass, which is half a fingertip. That is not difficulty. That is a typo, then another one, and then the app is uninstalled.\n\nLexil has no keyboard. There are seven letters and nothing else: six on a ring and one in the middle, each tile about a fifth of the screen across and roughly ten times the target area of a key. Words run from four letters up, any letter may be used again, and every word has to use the one in the middle, which is what stops seven big buttons from being a small game. Using all seven in a single word is a pangram and pays seven extra.\n\nWHAT IT DOES\n- Seven tiles instead of a keyboard, none of them smaller than a fingertip\n- Four hundred puzzles held on the watch, one a day, averaging thirty-one words each\n- Five ranks, Beginner through to Genius, each cut at a share of that day's own point total, so Great means the same amount of work on a twenty-word day as on a forty\n- Four letters score one point, longer words score their length, a pangram adds seven, so a rank cannot be reached by grinding out the easy words\n- Shuffle the six outer letters: the same set in a new order reads as a new puzzle\n- A found-words page, in alphabetical order or longest first\n- Free play on a puzzle from another day, kept separately from the day in progress\n- A streak of days with at least one word found, best rank, genius days, pangrams and lifetime points\n- Every word is written down the moment it lands, so a dropped wrist costs nothing\n- The interface is in five languages; the puzzles themselves are English\n- On-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
+  "nl": "Het meest beoordeelde woordspel op dit platform is een Wordle-kloon, en de recensies zeggen allemaal hetzelfde: de letters zijn te klein om te raken. Een toetsenbord van zesentwintig toetsen op een horloge van 45 mm geeft elke toets zo'n drie millimeter glas, een halve vingertop. Dat is geen uitdaging. Dat is een typfout, en nog een.\n\nLexil heeft geen toetsenbord. Er zijn zeven letters en verder niets: zes op een ring en een in het midden, elke tegel ongeveer een vijfde van het scherm breed en ruwweg tien keer zo groot als een toets. Woorden zijn vier letters of langer, een letter mag opnieuw worden gebruikt, en elk woord moet de middelste letter bevatten. Dat laatste is wat zeven grote knoppen tegenhoudt om een klein spel te worden. Alle zeven in een woord is een pangram en levert er zeven extra op.\n\nWAT HET DOET\n- Zeven tegels in plaats van een toetsenbord, geen ervan kleiner dan een vingertop\n- Vierhonderd puzzels op het horloge zelf, een per dag, gemiddeld eenendertig woorden\n- Vijf rangen, van Beginner tot Genie, elk afgesneden op een deel van het puntentotaal van die dag, zodat Groots op een dag van twintig woorden evenveel werk is als op een dag van veertig\n- Vier letters leveren een punt, langere woorden hun lengte, een pangram zeven erbij, dus een rang is niet te halen door alleen de makkelijke woorden af te grazen\n- Schud de zes buitenste letters: dezelfde set in een nieuwe volgorde leest als nieuw\n- Een pagina met gevonden woorden, alfabetisch of langste eerst\n- Vrij spel op een puzzel van een andere dag, los van de dag die loopt\n- Een reeks dagen met minstens een woord, beste rang, geniedagen, pangrammen en punten\n- Elk woord wordt opgeschreven zodra het binnen is, dus een zakkende pols kost niets\n- De interface is in vijf talen; de puzzels zelf zijn Engels\n- Instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "206",
   "icon": "assets/icons/lexil.png",
   "shots": [
@@ -871,22 +1331,22 @@
    "assets/shots/lexil-4.jpg",
    "assets/shots/lexil-5.jpg"
   ],
-  "changed": 1789403824000,
-  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
+  "changed": 1790272966000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "98727840-961a-4649-83ed-7b31520f9525",
   "slug": "coglet",
   "name": "Coglet - Idle Factory",
-  "desc": "An idle game asks the same question over and over: what to buy next. Then it hides the answer behind numbers nobody can compare in their head. A machine at 4.1e17 coins that adds 9.2e14 a second, against an upgrade at 8.8e16 that doubles something older. Most people give up and buy whatever is newest, which is usually the wrong answer.\n\nCoglet works that comparison out. Every purchase on offer, a machine, a hundred of them at once, an upgrade, a manager, a wider away window, is scored the same way: production added per day against coins spent, which comes out as a payback time. That one figure is what lets a machine, an upgrade and a manager be ranked against each other at all. The front page names the shortest payback standing, what it costs and how long it takes to earn itself back, or how long until the balance covers it. The rebuild screen answers the other question the genre never answers: whether prestige is worth taking now, and how long it takes to get back to where the factory already is.\n\nWHAT IT DOES\n- Eight machines on their own cost curves, each kind doubling its output every 25 built\n- An advisor that ranks every purchase by payback time and names the best one\n- Twelve upgrade levels per machine, a manager per machine, and a night shift that widens the away window from eight hours to sixteen and then to twenty-four\n- Buy max priced from the closed form of the geometric series, so a few hundred units cost one multiplication rather than a loop the watchdog would cut short\n- Offline earnings settled from the wall clock in one multiplication, capped at the away window, with machines that have no manager idling at a quarter speed\n- A clock set backwards pays exactly nothing, so absence cannot be farmed\n- A rebuild that trades the whole run for a permanent multiplier, with a screen that says plainly whether it is worth it now and when it pays back\n- Every coin carried as a mantissa and an exponent, and printed with a short suffix, K, M, B, T and on through letter pairs, never as scientific notation\n- Four pages: the floor, what each machine is producing, what to buy next, the rebuild\n- Five languages, on-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
-  "nl": "Een idle game stelt steeds dezelfde vraag: wat koop je hierna. En dan verstopt hij het antwoord achter getallen die niemand uit het hoofd vergelijkt. Een machine van 4,1e17 munten die er 9,2e14 per seconde bij doet, tegen een upgrade van 8,8e16 die iets ouds verdubbelt. De meesten geven het op en kopen het nieuwste, meestal het foute antwoord.\n\nCoglet rekent die vergelijking uit. Elke aankoop die openstaat, een machine, honderd tegelijk, een upgrade, een manager, een langer afwezigheidsvenster, krijgt dezelfde score: productie erbij per dag tegen munten eraf, wat neerkomt op een terugverdientijd.\nDat ene getal is wat een machine, een upgrade en een manager onderling vergelijkbaar maakt. De voorpagina noemt de kortste terugverdientijd die er ligt, wat hij kost en hoe lang hij erover doet, of hoe lang het duurt voor het saldo hem dekt. Het herbouwscherm beantwoordt de vraag die het genre nooit beantwoordt: of prestige nu de moeite is, en hoe lang het duurt om terug te zijn waar de fabriek al staat.\n\nWAT HET DOET\n- Acht machines op hun eigen kostencurve, elke soort verdubbelt zijn output per 25 stuks\n- Een adviseur die elke aankoop rangschikt op terugverdientijd en de beste noemt\n- Twaalf upgradeniveaus per machine, een manager per machine, en een nachtdienst die het afwezigheidsvenster van acht uur naar zestien en daarna naar vierentwintig trekt\n- Koop max wordt geprijsd met de gesloten vorm van de meetkundige reeks, dus honderden stuks kosten een vermenigvuldiging in plaats van een lus die de watchdog afkapt\n- Offline-opbrengst wordt in een vermenigvuldiging van de wandklok afgerekend, afgetopt op het venster, met machines zonder manager op een kwart snelheid\n- Een klok die terugloopt betaalt precies niets, dus afwezigheid valt niet te farmen\n- Een herbouw die de hele run inruilt voor een blijvende vermenigvuldiger, met een scherm dat gewoon zegt of het nu loont en wanneer het is terugverdiend\n- Elke munt wordt gedragen als mantisse plus exponent, en komt in beeld met een kort achtervoegsel, K, M, B, T en verder met letterparen, nooit wetenschappelijk\n- Vier pagina's: de vloer, wat elke machine maakt, wat je nu moet kopen, de herbouw\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
+  "desc": "An idle game asks the same question over and over: what to buy next. Then it hides the answer behind numbers nobody can compare in their head. A machine at 4.1e17 coins that adds 9.2e14 a second, against an upgrade at 8.8e16 that doubles something older. Most people give up and buy whatever is newest, which is usually the wrong answer.\n\nCoglet works that comparison out. Every purchase on offer, a machine, a hundred of them at once, an upgrade, a manager, a wider away window, is scored the same way: production added per day against coins spent, which comes out as a payback time. That one figure is what lets a machine, an upgrade and a manager be ranked against each other at all. The front page names the shortest payback standing, what it costs and how long it takes to earn itself back, or how long until the balance covers it. The rebuild screen answers the other question the genre never answers: whether prestige is worth taking now, and how long it takes to get back to where the factory already is.\n\nWHAT IT DOES\n- Twelve machines on their own cost curves, each kind doubling its output every 25 built\n- An advisor that ranks every purchase by payback time and names the best one\n- Twelve upgrade levels per machine, a manager per machine, and a night shift that widens the away window from eight hours to sixteen and then to twenty-four\n- Buy max priced from the closed form of the geometric series, so a few hundred units cost one multiplication rather than a loop the watchdog would cut short\n- Offline earnings settled from the wall clock in one multiplication, capped at the away window, with machines that have no manager idling at a quarter speed\n- A clock set backwards pays exactly nothing, so absence cannot be farmed\n- A rebuild that trades the whole run for a permanent multiplier, with a screen that says plainly whether it is worth it now and when it pays back\n- Every coin carried as a mantissa and an exponent, and printed with a short suffix, K, M, B, T and on through letter pairs, never as scientific notation\n- Four pages: the floor, what each machine is producing, what to buy next, the rebuild\n- Five languages, on-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
+  "nl": "Een idle game stelt steeds dezelfde vraag: wat koop je hierna. En dan verstopt hij het antwoord achter getallen die niemand uit het hoofd vergelijkt. Een machine van 4,1e17 munten die er 9,2e14 per seconde bij doet, tegen een upgrade van 8,8e16 die iets ouds verdubbelt. De meesten geven het op en kopen het nieuwste, meestal het foute antwoord.\n\nCoglet rekent die vergelijking uit. Elke aankoop die openstaat, een machine, honderd tegelijk, een upgrade, een manager, een langer afwezigheidsvenster, krijgt dezelfde score: productie erbij per dag tegen munten eraf, wat neerkomt op een terugverdientijd.\nDat ene getal is wat een machine, een upgrade en een manager onderling vergelijkbaar maakt. De voorpagina noemt de kortste terugverdientijd die er ligt, wat hij kost en hoe lang hij erover doet, of hoe lang het duurt voor het saldo hem dekt. Het herbouwscherm beantwoordt de vraag die het genre nooit beantwoordt: of prestige nu de moeite is, en hoe lang het duurt om terug te zijn waar de fabriek al staat.\n\nWAT HET DOET\n- Twaalf machines op hun eigen kostencurve, elke soort verdubbelt zijn output per 25 stuks\n- Een adviseur die elke aankoop rangschikt op terugverdientijd en de beste noemt\n- Twaalf upgradeniveaus per machine, een manager per machine, en een nachtdienst die het afwezigheidsvenster van acht uur naar zestien en daarna naar vierentwintig trekt\n- Koop max wordt geprijsd met de gesloten vorm van de meetkundige reeks, dus honderden stuks kosten een vermenigvuldiging in plaats van een lus die de watchdog afkapt\n- Offline-opbrengst wordt in een vermenigvuldiging van de wandklok afgerekend, afgetopt op het venster, met machines zonder manager op een kwart snelheid\n- Een klok die terugloopt betaalt precies niets, dus afwezigheid valt niet te farmen\n- Een herbouw die de hele run inruilt voor een blijvende vermenigvuldiger, met een scherm dat gewoon zegt of het nu loont en wanneer het is terugverdiend\n- Elke munt wordt gedragen als mantisse plus exponent, en komt in beeld met een kort achtervoegsel, K, M, B, T en verder met letterparen, nooit wetenschappelijk\n- Vier pagina's: de vloer, wat elke machine maakt, wat je nu moet kopen, de herbouw\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
   "type": "2",
   "rating": 4.8,
   "reviews": 4,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "2.0.1",
   "category": "206",
   "icon": "assets/icons/coglet.png",
   "shots": [
@@ -895,10 +1355,10 @@
    "assets/shots/coglet-3.jpg",
    "assets/shots/coglet-4.jpg"
   ],
-  "changed": 1789403317000,
-  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
+  "changed": 1790268424000,
+  "whatsnew": "A longer game. Four new machines: Gravity mill, Star forge, Void loom and Singularity. A rebuild now needs a Singularity in the run and at least a tripled bonus, so the first one takes about a week and the next ones stay days apart. Existing factories keep everything they earned; the rebuild bonus is recalculated under the new rules. The multiplier and big numbers now show correctly on fenix screens. Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 2
+  "updates": 4
  },
  {
   "id": "c867b0b4-932e-427f-9f15-c803d3c61b5e",
@@ -929,13 +1389,13 @@
   "id": "12a9c39d-9abb-427d-9b9d-c548d880811b",
   "slug": "pixara",
   "name": "Pixara - Picture Cross",
-  "desc": "Most picture cross puzzles are generated rather than written, and a generated one\nusually has a hole in it: a place where two arrangements both fit the numbers and the\nonly way on is to pick one. Half an hour of careful counting, and then a coin toss.\n\nPixara does not show a picture until a line solver has finished it from a blank grid.\nThat solver does only what a person does with a strip of cells and a list of block\nlengths: work out every arrangement the numbers still allow, keep the cells that are\nfilled in all of them, cross out the cells that are empty in all of them, and go round\nthe rows and columns until nothing changes. If it stalls, that picture is thrown away\nand another is painted. A solver that finishes also proves the answer unique, so the\npicture the numbers describe is the only picture there is.\n\nWHAT IT DOES\n- Every picture proved solvable by pure logic before it is ever drawn\n- Three sizes: five by five, eight by eight, and a ten by ten that takes real time\n- The clue for the aimed row and the aimed column is always spelled out in full and\n  enlarged, because a paper clue strip does not fit round glass\n- Aim, then tap: the first tap frames a cell, wider than the cell so it stays visible\n  around a fingertip; the second fills it, holding it crosses it out\n- Works the same with buttons on watches with no touch screen\n- Filling a cell that is not in the picture costs thirty seconds on the clock\n- A hint that names the row or the column proving the next cell, and then marks it\n- A daily picture taken from the calendar date, the same one on every watch, rotating\n  through the three sizes\n- The grid is written down after every move, so leaving the app never loses it\n- Best time per size, pictures finished against pictures started, and a run of dailies\n- Five languages, on-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
-  "nl": "De meeste Japanse puzzels worden gegenereerd en niet geschreven, en in een gegenereerde\nzit meestal een gat: een plek waar twee indelingen allebei bij de getallen passen en je\ner een moet kiezen. Een half uur zorgvuldig tellen, en dan alsnog een munt opgooien.\n\nPixara laat pas een plaat zien als een lijnsolver hem vanaf een leeg raster heeft\nuitgerekend. Die solver doet alleen wat een mens doet met een rij vakjes en een lijst\nbloklengtes: elke indeling uitrekenen die de getallen nog toelaten, de vakjes bewaren\ndie in allemaal gevuld zijn, de vakjes doorstrepen die in allemaal leeg zijn, en zo\nlangs rijen en kolommen tot er niets meer verandert. Loopt hij vast, dan gaat die plaat\nweg en komt er een andere. Een solver die klaarkomt bewijst tegelijk dat het antwoord\nhet enige is dat bij de getallen past.\n\nWAT HET DOET\n- Van elke plaat is vooraf bewezen dat pure logica genoeg is\n- Drie maten: vijf bij vijf, acht bij acht, en een tien bij tien die echt tijd kost\n- De aanwijzing van de gerichte rij en die van de gerichte kolom staan altijd voluit en\n  vergroot in beeld, want een papieren cijferstrook past niet op een rond scherm\n- Richten, dan tikken: de eerste tik zet een kader om een vakje, breder dan het vakje,\n  zodat je het naast je vingertop nog ziet; de tweede vult het, vasthouden streept door\n- Werkt precies zo met knoppen op horloges zonder touchscreen\n- Een vakje vullen dat niet in de plaat zit kost dertig seconden op de klok\n- Een hint die de rij of de kolom noemt die het volgende vakje bewijst, en het invult\n- Een dagplaat uit de kalenderdatum, op elk horloge dezelfde, die langs de drie maten\n  rouleert\n- Het raster wordt na elke zet opgeschreven, dus de app verlaten kost je niets\n- Beste tijd per maat, platen af tegen platen begonnen, en een reeks dagplaten\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
+  "desc": "Most picture cross puzzles are generated rather than written, and a generated one usually has a hole in it: a place where two arrangements both fit the numbers and the only way on is to pick one. Half an hour of careful counting, and then a coin toss.\n\nPixara does not show a picture until a line solver has finished it from a blank grid.\nThat solver does only what a person does with a strip of cells and a list of block lengths: work out every arrangement the numbers still allow, keep the cells that are filled in all of them, cross out the cells that are empty in all of them, and go round the rows and columns until nothing changes. If it stalls, that picture is thrown away and another is painted. A solver that finishes also proves the answer unique, so the picture the numbers describe is the only picture there is.\n\nWHAT IT DOES\n- Every picture proved solvable by pure logic before it is ever drawn\n- Three sizes: five by five, eight by eight, and a ten by ten that takes real time\n- The clue for the aimed row and the aimed column is always spelled out in full and enlarged, because a paper clue strip does not fit round glass\n- Aim, then tap: the first tap frames a cell, wider than the cell so it stays visible around a fingertip; the second fills it, holding it crosses it out\n- Works the same with buttons on watches with no touch screen\n- Filling a cell that is not in the picture costs thirty seconds on the clock\n- A hint that names the row or the column proving the next cell, and then marks it\n- A daily picture taken from the calendar date, the same one on every watch, rotating through the three sizes\n- The grid is written down after every move, so leaving the app never loses it\n- Best time per size, pictures finished against pictures started, and a run of dailies\n- Five languages, on-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
+  "nl": "De meeste Japanse puzzels worden gegenereerd en niet geschreven, en in een gegenereerde zit meestal een gat: een plek waar twee indelingen allebei bij de getallen passen en je er een moet kiezen. Een half uur zorgvuldig tellen, en dan alsnog een munt opgooien.\n\nPixara laat pas een plaat zien als een lijnsolver hem vanaf een leeg raster heeft uitgerekend. Die solver doet alleen wat een mens doet met een rij vakjes en een lijst bloklengtes: elke indeling uitrekenen die de getallen nog toelaten, de vakjes bewaren die in allemaal gevuld zijn, de vakjes doorstrepen die in allemaal leeg zijn, en zo langs rijen en kolommen tot er niets meer verandert. Loopt hij vast, dan gaat die plaat weg en komt er een andere. Een solver die klaarkomt bewijst tegelijk dat het antwoord het enige is dat bij de getallen past.\n\nWAT HET DOET\n- Van elke plaat is vooraf bewezen dat pure logica genoeg is\n- Drie maten: vijf bij vijf, acht bij acht, en een tien bij tien die echt tijd kost\n- De aanwijzing van de gerichte rij en die van de gerichte kolom staan altijd voluit en vergroot in beeld, want een papieren cijferstrook past niet op een rond scherm\n- Richten, dan tikken: de eerste tik zet een kader om een vakje, breder dan het vakje, zodat je het naast je vingertop nog ziet; de tweede vult het, vasthouden streept door\n- Werkt precies zo met knoppen op horloges zonder touchscreen\n- Een vakje vullen dat niet in de plaat zit kost dertig seconden op de klok\n- Een hint die de rij of de kolom noemt die het volgende vakje bewijst, en het invult\n- Een dagplaat uit de kalenderdatum, op elk horloge dezelfde, die langs de drie maten rouleert\n- Het raster wordt na elke zet opgeschreven, dus de app verlaten kost je niets\n- Beste tijd per maat, platen af tegen platen begonnen, en een reeks dagplaten\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "206",
   "icon": "assets/icons/pixara.png",
   "shots": [
@@ -945,20 +1405,20 @@
    "assets/shots/pixara-4.jpg",
    "assets/shots/pixara-5.jpg"
   ],
-  "changed": 1789404063000,
-  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
+  "changed": 1790274475000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "a163fbe8-c744-4840-81b6-f303c0a2830d",
   "slug": "sweepr",
   "name": "Sweepr - Minesweeper",
-  "desc": "Every minesweeper ends the same way. You clear nine tenths of the board, you reach a\ncorner where two cells are equally likely, you pick one, and the board takes it away\nfrom you. That is not a puzzle, that is a coin.\n\nSweepr does not lay a board until it has proved you can finish it. Behind the first\ncell you open, a solver works the whole field out using only the reasoning a person\nuses: a number with as many covered neighbours as it has mines left flags them all, a\nnumber with none left opens them all, and where two numbers overlap, the difference\nbetween them settles cells neither could settle alone. If the solver ever has to\nguess, that layout is thrown away and another is laid. What you get is a board that\nrewards thinking and nothing else.\n\nWHAT IT DOES\n- Boards that are proved solvable by logic before you ever see them\n- Aim, then tap: the first tap puts a frame around a cell, wider than the cell, so it\n  stays visible around your fingertip; the second tap opens it, holding it plants a flag\n- Works the same with buttons on watches with no touch screen\n- Three sizes, from a quick five by five to a nine by nine that takes real time\n- Tap a number that already has its flags to clear everything around it at once\n- Your board is written down after every move, so leaving the app never loses it\n- A hint that proves a cell is safe, and when nothing can be proved, it counts every\n  legal arrangement of the remaining mines and tells you the safest cell and the odds\n- Best time and best efficiency per size, measured against 3BV, the fewest clicks a\n  perfect player would need\n- A streak that counts the boards you cleared in a row\n- Five languages, on-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
-  "nl": "Elke mijnenveger eindigt hetzelfde. Je hebt negentig procent van het veld open, je\nkomt bij een hoek waar twee vakjes even waarschijnlijk zijn, je kiest er een, en het\nbord pakt het van je af. Dat is geen puzzel, dat is een munt opgooien.\n\nSweepr legt pas een bord neer als bewezen is dat je het kunt uitspelen. Achter het\neerste vakje dat je opent, rekent een solver het hele veld uit met alleen de redenering\ndie een mens ook gebruikt: een getal met evenveel dichte buren als mijnen zet er\nvlaggen op, een getal dat klaar is opent ze allemaal, en waar twee getallen elkaar\noverlappen lost het verschil vakjes op die geen van beide alleen kon oplossen. Moet de\nsolver ergens gokken, dan gaat die indeling weg en komt er een andere. Wat overblijft is\neen bord waar alleen nadenken werkt.\n\nWAT HET DOET\n- Borden waarvan vooraf bewezen is dat ze met logica op te lossen zijn\n- Richten, dan tikken: de eerste tik zet een kader om een vakje, breder dan het vakje,\n  zodat je het naast je vingertop nog ziet; de tweede tik opent het, vasthouden vlagt\n- Werkt precies zo met knoppen op horloges zonder touchscreen\n- Drie maten, van een snelle vijf bij vijf tot een negen bij negen die echt tijd kost\n- Tik op een getal dat zijn vlaggen al heeft om alles eromheen in een keer te openen\n- Je bord wordt na elke zet opgeschreven, dus de app verlaten kost je niets\n- Een hint die bewijst dat een vakje veilig is, en als niets te bewijzen valt telt hij\n  elke mogelijke verdeling van de resterende mijnen en noemt het veiligste vakje met\n  het percentage erbij\n- Beste tijd en beste efficientie per maat, gemeten tegen 3BV: het minimale aantal\n  kliks dat een perfecte speler nodig heeft\n- Een reeks die bijhoudt hoeveel borden je achter elkaar hebt opgelost\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
+  "desc": "Every minesweeper ends the same way. You clear nine tenths of the board, you reach a corner where two cells are equally likely, you pick one, and the board takes it away from you. That is not a puzzle, that is a coin.\n\nSweepr does not lay a board until it has proved you can finish it. Behind the first cell you open, a solver works the whole field out using only the reasoning a person uses: a number with as many covered neighbours as it has mines left flags them all, a number with none left opens them all, and where two numbers overlap, the difference between them settles cells neither could settle alone. If the solver ever has to guess, that layout is thrown away and another is laid. What you get is a board that rewards thinking and nothing else.\n\nWHAT IT DOES\n- Boards that are proved solvable by logic before you ever see them\n- Aim, then tap: the first tap puts a frame around a cell, wider than the cell, so it stays visible around your fingertip; the second tap opens it, holding it plants a flag\n- Works the same with buttons on watches with no touch screen\n- Three sizes, from a quick five by five to a nine by nine that takes real time\n- Tap a number that already has its flags to clear everything around it at once\n- Your board is written down after every move, so leaving the app never loses it\n- A hint that proves a cell is safe, and when nothing can be proved, it counts every legal arrangement of the remaining mines and tells you the safest cell and the odds\n- Best time and best efficiency per size, measured against 3BV, the fewest clicks a perfect player would need\n- A streak that counts the boards you cleared in a row\n- Five languages, on-watch settings, nothing sent anywhere\n\nWHAT IT NEEDS\nNothing but the watch. No phone, no signal, no account.",
+  "nl": "Elke mijnenveger eindigt hetzelfde. Je hebt negentig procent van het veld open, je komt bij een hoek waar twee vakjes even waarschijnlijk zijn, je kiest er een, en het bord pakt het van je af. Dat is geen puzzel, dat is een munt opgooien.\n\nSweepr legt pas een bord neer als bewezen is dat je het kunt uitspelen. Achter het eerste vakje dat je opent, rekent een solver het hele veld uit met alleen de redenering die een mens ook gebruikt: een getal met evenveel dichte buren als mijnen zet er vlaggen op, een getal dat klaar is opent ze allemaal, en waar twee getallen elkaar overlappen lost het verschil vakjes op die geen van beide alleen kon oplossen. Moet de solver ergens gokken, dan gaat die indeling weg en komt er een andere. Wat overblijft is een bord waar alleen nadenken werkt.\n\nWAT HET DOET\n- Borden waarvan vooraf bewezen is dat ze met logica op te lossen zijn\n- Richten, dan tikken: de eerste tik zet een kader om een vakje, breder dan het vakje, zodat je het naast je vingertop nog ziet; de tweede tik opent het, vasthouden vlagt\n- Werkt precies zo met knoppen op horloges zonder touchscreen\n- Drie maten, van een snelle vijf bij vijf tot een negen bij negen die echt tijd kost\n- Tik op een getal dat zijn vlaggen al heeft om alles eromheen in een keer te openen\n- Je bord wordt na elke zet opgeschreven, dus de app verlaten kost je niets\n- Een hint die bewijst dat een vakje veilig is, en als niets te bewijzen valt telt hij elke mogelijke verdeling van de resterende mijnen en noemt het veiligste vakje met het percentage erbij\n- Beste tijd en beste efficientie per maat, gemeten tegen 3BV: het minimale aantal kliks dat een perfecte speler nodig heeft\n- Een reeks die bijhoudt hoeveel borden je achter elkaar hebt opgelost\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
   "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
+  "rating": 3.0,
+  "reviews": 2,
   "downloads": 100,
   "version": "1.0.1",
   "category": "206",
@@ -985,7 +1445,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "220",
   "icon": "assets/icons/hounded.png",
   "shots": [
@@ -995,10 +1455,10 @@
    "assets/shots/hounded-4.jpg",
    "assets/shots/hounded-5.jpg"
   ],
-  "changed": 1790169811000,
-  "whatsnew": "Fixed a crash when the glance closes.",
+  "changed": 1790271126000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "9a0f0939-945e-44e3-8085-d42ee659e150",
@@ -1060,7 +1520,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "219",
   "icon": "assets/icons/adapt.png",
   "shots": [
@@ -1070,10 +1530,10 @@
    "assets/shots/adapt-4.jpg",
    "assets/shots/adapt-5.jpg"
   ],
-  "changed": 1789401425000,
-  "whatsnew": "Glance: more space below the progress bar, so it no longer sits against the bottom edge.",
+  "changed": 1790265371000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065",
@@ -1110,7 +1570,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "212",
   "icon": "assets/icons/cue.png",
   "shots": [
@@ -1120,10 +1580,10 @@
    "assets/shots/cue-4.jpg",
    "assets/shots/cue-5.jpg"
   ],
-  "changed": 1788946117000,
-  "whatsnew": "- New app icon, redrawn so it reads clearly on the watch",
+  "changed": 1790268765000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "82b01416-0980-4085-aa72-3e05ffae990b",
@@ -1160,7 +1620,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "208",
   "icon": "assets/icons/pitstop.png",
   "shots": [
@@ -1170,17 +1630,17 @@
    "assets/shots/pitstop-4.jpg",
    "assets/shots/pitstop-5.jpg"
   ],
-  "changed": 1788946572000,
-  "whatsnew": "- Fixed the glance: it no longer appears and vanishes again\n- The glance now reads a small cached summary instead of the whole fill-up log",
+  "changed": 1790274392000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "2ad8b993-d09c-4624-b4bc-60e07e97145c",
   "slug": "podium",
   "name": "Podium - Speaker Timer",
-  "desc": "Podium is a speaker's timer on your wrist. You set up your talk once: the duration, the\nmoments you want to feel, and the chapters it consists of. On stage, Podium buzzes at the\nmoments you chose, so you know where you are without breaking eye contact with the room.\n\nIt also keeps you honest. Tap through your chapters as you speak and Podium compares you\nwith the plan: 0:40 behind, or 5:10 ahead, right under the time left. That is exactly what\nyou need to cut, or how much room you have for that extra story. Afterwards you see what you\nactually did, chapter by chapter, and the app learns how your talk usually runs.\n\nWHAT IT DOES\n- Buzz moments: a fixed time after the start, a time before the end, or repeating\n- Build the buzz yourself: 1 to 5 pulses, short, medium or long, and feel it while you choose\n- Chapters: give a moment a name and it stays on screen until the next one\n- Live pacing: tap through chapters and see how far ahead or behind you are\n- Ring with tick marks for every moment, turning amber and then red\n- Five display modes, switchable mid-talk with a swipe: time left, time elapsed, clock only,\n  ring only, black screen\n- Discreet mode dims everything; soft vibration keeps it inaudible in a silent room\n- Overtime reminders every 30 s, 1 or 2 minutes, or once\n- Pause, resume, and a confirmation before stopping; a running talk survives closing the app\n- Summary afterwards, chapter by chapter, and a log of the last twenty talks\n- \"Usually +1:20\": the home screen tells you how this talk tends to go\n- Up to 20 talks with their own name, duration and moments; duplicate a talk in one tap\n- Glance with the talk you have queued\n- English, Dutch, German, French, Spanish\n\nWHAT IT NEEDS\nNothing but your watch. No phone, no account, no internet.",
-  "nl": "Podium is een sprekerstimer om je pols. Je zet je praatje één keer klaar: de duur, de\nmomenten die je wilt voelen en de hoofdstukken waaruit het bestaat. Op het podium port Podium\nje op de momenten die jij koos, zodat je weet waar je bent zonder je blik van de zaal te halen.\n\nHet houdt je ook scherp. Tik tijdens het spreken je hoofdstukken door en Podium vergelijkt je\nmet het plan: 0:40 achter, of 5:10 voor, direct onder de resterende tijd. Dat is precies wat je\nmoet schrappen, of hoeveel ruimte je hebt voor dat extra verhaal. Achteraf zie je wat je\nwerkelijk deed, per hoofdstuk, en de app leert hoe je praatje meestal uitpakt.\n\nWAT HET DOET\n- Trilmomenten: vast na de start, een tijd voor het eind, of herhalend\n- Het trilpatroon bouw je zelf: 1 tot 5 stoten, kort, middel of lang, en je voelt het meteen\n- Hoofdstukken: geef een moment een naam en die blijft op het scherm tot het volgende\n- Live tempo: tik hoofdstukken door en zie hoeveel je voor of achter ligt\n- Ring met streepjes voor elk moment, wordt amber en daarna rood\n- Vijf weergaven, tijdens het praatje te wisselen met een veeg: resterend, verstreken, alleen\n  de klok, alleen de ring, zwart scherm\n- Onopvallend dempt alles; zacht trillen blijft onhoorbaar in een stille zaal\n- Herinnering over tijd elke 30 s, 1 of 2 minuten, of één keer\n- Pauzeren, hervatten en een bevestiging voor het stoppen; een lopend praatje overleeft het\n  sluiten van de app\n- Samenvatting achteraf, per hoofdstuk, en een logboek van de laatste twintig praatjes\n- \"Meestal +1:20\": het startscherm zegt hoe dit praatje meestal loopt\n- Tot 20 praatjes met eigen naam, duur en momenten; een praatje dupliceren in één tik\n- Glance met het praatje dat klaarstaat\n- Nederlands, Engels, Duits, Frans, Spaans\n\nWAT HET NODIG HEEFT\nAlleen je horloge. Geen telefoon, geen account, geen internet.",
+  "desc": "Podium is a speaker's timer on your wrist. You set up your talk once: the duration, the moments you want to feel, and the chapters it consists of. On stage, Podium buzzes at the moments you chose, so you know where you are without breaking eye contact with the room.\n\nIt also keeps you honest. Tap through your chapters as you speak and Podium compares you with the plan: 0:40 behind, or 5:10 ahead, right under the time left. That is exactly what you need to cut, or how much room you have for that extra story. Afterwards you see what you actually did, chapter by chapter, and the app learns how your talk usually runs.\n\nWHAT IT DOES\n- Buzz moments: a fixed time after the start, a time before the end, or repeating\n- Build the buzz yourself: 1 to 5 pulses, short, medium or long, and feel it while you choose\n- Chapters: give a moment a name and it stays on screen until the next one\n- Live pacing: tap through chapters and see how far ahead or behind you are\n- Ring with tick marks for every moment, turning amber and then red\n- Five display modes, switchable mid-talk with a swipe: time left, time elapsed, clock only, ring only, black screen\n- Discreet mode dims everything; soft vibration keeps it inaudible in a silent room\n- Overtime reminders every 30 s, 1 or 2 minutes, or once\n- Pause, resume, and a confirmation before stopping; a running talk survives closing the app\n- Summary afterwards, chapter by chapter, and a log of the last twenty talks\n- \"Usually +1:20\": the home screen tells you how this talk tends to go\n- Up to 20 talks with their own name, duration and moments; duplicate a talk in one tap\n- Glance with the talk you have queued\n- English, Dutch, German, French, Spanish\n\nWHAT IT NEEDS\nNothing but your watch. No phone, no account, no internet.",
+  "nl": "Podium is een sprekerstimer om je pols. Je zet je praatje één keer klaar: de duur, de momenten die je wilt voelen en de hoofdstukken waaruit het bestaat. Op het podium port Podium je op de momenten die jij koos, zodat je weet waar je bent zonder je blik van de zaal te halen.\n\nHet houdt je ook scherp. Tik tijdens het spreken je hoofdstukken door en Podium vergelijkt je met het plan: 0:40 achter, of 5:10 voor, direct onder de resterende tijd. Dat is precies wat je moet schrappen, of hoeveel ruimte je hebt voor dat extra verhaal. Achteraf zie je wat je werkelijk deed, per hoofdstuk, en de app leert hoe je praatje meestal uitpakt.\n\nWAT HET DOET\n- Trilmomenten: vast na de start, een tijd voor het eind, of herhalend\n- Het trilpatroon bouw je zelf: 1 tot 5 stoten, kort, middel of lang, en je voelt het meteen\n- Hoofdstukken: geef een moment een naam en die blijft op het scherm tot het volgende\n- Live tempo: tik hoofdstukken door en zie hoeveel je voor of achter ligt\n- Ring met streepjes voor elk moment, wordt amber en daarna rood\n- Vijf weergaven, tijdens het praatje te wisselen met een veeg: resterend, verstreken, alleen de klok, alleen de ring, zwart scherm\n- Onopvallend dempt alles; zacht trillen blijft onhoorbaar in een stille zaal\n- Herinnering over tijd elke 30 s, 1 of 2 minuten, of één keer\n- Pauzeren, hervatten en een bevestiging voor het stoppen; een lopend praatje overleeft het sluiten van de app\n- Samenvatting achteraf, per hoofdstuk, en een logboek van de laatste twintig praatjes\n- \"Meestal +1:20\": het startscherm zegt hoe dit praatje meestal loopt\n- Tot 20 praatjes met eigen naam, duur en momenten; een praatje dupliceren in één tik\n- Glance met het praatje dat klaarstaat\n- Nederlands, Engels, Duits, Frans, Spaans\n\nWAT HET NODIG HEEFT\nAlleen je horloge. Geen telefoon, geen account, geen internet.",
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
@@ -1204,8 +1664,8 @@
   "id": "8a3e833b-11ae-42de-9221-f397907e33a6",
   "slug": "strike",
   "name": "Strike - Bowling Scorer",
-  "desc": "Strike puts the bowling scoreboard on your wrist. After every ball, tap the pins that are\nstill standing and the app does the rest: strikes, spares, the bonus math, the tricky tenth\nframe and a live \"maximum possible\" so you always know what is still on the table.\n\nIt knows more than the house monitor. Splits are detected by the USBC rule and named\n(7-10, 4-6-7-10), converted splits are counted, and each game feeds your average, strike\nrate and handicap. Bowl alone or with up to six friends; Strike hands the turn to the next\nplayer by itself and keeps a running series total.\n\nWHAT IT DOES\n- Pin deck input: tap the pins left standing, confirm. A strike or spare is one tap\n- Full scoring engine with bonuses, tenth-frame extra balls and \"max possible\" per frame\n- Split detection with the setup name, split conversions and a buzz on a split\n- Up to 6 players with names, automatic turn order, scoresheet per player, series totals\n- Handicap from your own average: pick a basis (160-240) and percentage (70-100 %)\n- Statistics: average, last-10 average, high game, high series, strike and spare rate, open\n  frames, split conversion, first-ball average, 200+ games, clean games, longest strike run\n- History of your last 30 series, undo any ball, a game survives closing the app\n- Vibration patterns for strike, turkey, spare and the perfect 300\n- Glance with your running score, English, Dutch, German, Spanish and French\n\nWHAT IT NEEDS\nNothing but the watch. Touch watches tap the pins; button watches enter the pin count with\nup and down.",
-  "nl": "Strike zet het scorebord van de bowlingbaan op je pols. Tik na elke worp de pinnen aan die\nblijven staan; de app doet de rest: strikes, spares, de bonusberekening, het lastige tiende\nframe en een live \"maximaal haalbaar\", zodat je altijd weet wat er nog in zit.\n\nHij weet meer dan het scherm boven de baan. Splits worden herkend volgens de USBC-regel en\nbenoemd (7-10, 4-6-7-10), gehaalde splits worden geteld, en elke game voedt je gemiddelde,\nstrike-percentage en handicap. Bowl alleen of met maximaal zes vrienden; Strike geeft de\nbeurt vanzelf door en houdt het serietotaal bij.\n\nWAT HET DOET\n- Pinnen aantikken: tik wat blijft staan, bevestig. Strike of spare is één tik\n- Volledige scoremotor met bonussen, extra worpen in het tiende frame en \"max haalbaar\"\n- Split-herkenning met de naam van de opstelling, split-conversies en een trilling bij een split\n- Tot 6 spelers met namen, automatische beurtvolgorde, scoresheet per speler, serietotalen\n- Handicap uit je eigen gemiddelde: basis (160-240) en percentage (70-100 %)\n- Statistiek: gemiddelde, laatste 10, hoogste game, hoogste serie, strike- en spare-percentage,\n  open frames, split-conversie, eerste bal, games van 200+, clean games, langste strike-reeks\n- Historie van je laatste 30 series, elke worp ongedaan te maken, een game overleeft afsluiten\n- Trilpatronen voor strike, turkey, spare en de perfecte 300\n- Glance met je lopende score; Nederlands, Engels, Duits, Spaans en Frans\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Op touch-horloges tik je de pinnen aan; op knop-horloges kies je het\naantal met omhoog en omlaag.",
+  "desc": "Strike puts the bowling scoreboard on your wrist. After every ball, tap the pins that are still standing and the app does the rest: strikes, spares, the bonus math, the tricky tenth frame and a live \"maximum possible\" so you always know what is still on the table.\n\nIt knows more than the house monitor. Splits are detected by the USBC rule and named (7-10, 4-6-7-10), converted splits are counted, and each game feeds your average, strike rate and handicap. Bowl alone or with up to six friends; Strike hands the turn to the next player by itself and keeps a running series total.\n\nWHAT IT DOES\n- Pin deck input: tap the pins left standing, confirm. A strike or spare is one tap\n- Full scoring engine with bonuses, tenth-frame extra balls and \"max possible\" per frame\n- Split detection with the setup name, split conversions and a buzz on a split\n- Up to 6 players with names, automatic turn order, scoresheet per player, series totals\n- Handicap from your own average: pick a basis (160-240) and percentage (70-100 %)\n- Statistics: average, last-10 average, high game, high series, strike and spare rate, open frames, split conversion, first-ball average, 200+ games, clean games, longest strike run\n- History of your last 30 series, undo any ball, a game survives closing the app\n- Vibration patterns for strike, turkey, spare and the perfect 300\n- Glance with your running score, English, Dutch, German, Spanish and French\n\nWHAT IT NEEDS\nNothing but the watch. Touch watches tap the pins; button watches enter the pin count with up and down.",
+  "nl": "Strike zet het scorebord van de bowlingbaan op je pols. Tik na elke worp de pinnen aan die blijven staan; de app doet de rest: strikes, spares, de bonusberekening, het lastige tiende frame en een live \"maximaal haalbaar\", zodat je altijd weet wat er nog in zit.\n\nHij weet meer dan het scherm boven de baan. Splits worden herkend volgens de USBC-regel en benoemd (7-10, 4-6-7-10), gehaalde splits worden geteld, en elke game voedt je gemiddelde, strike-percentage en handicap. Bowl alleen of met maximaal zes vrienden; Strike geeft de beurt vanzelf door en houdt het serietotaal bij.\n\nWAT HET DOET\n- Pinnen aantikken: tik wat blijft staan, bevestig. Strike of spare is één tik\n- Volledige scoremotor met bonussen, extra worpen in het tiende frame en \"max haalbaar\"\n- Split-herkenning met de naam van de opstelling, split-conversies en een trilling bij een split\n- Tot 6 spelers met namen, automatische beurtvolgorde, scoresheet per speler, serietotalen\n- Handicap uit je eigen gemiddelde: basis (160-240) en percentage (70-100 %)\n- Statistiek: gemiddelde, laatste 10, hoogste game, hoogste serie, strike- en spare-percentage, open frames, split-conversie, eerste bal, games van 200+, clean games, langste strike-reeks\n- Historie van je laatste 30 series, elke worp ongedaan te maken, een game overleeft afsluiten\n- Trilpatronen voor strike, turkey, spare en de perfecte 300\n- Glance met je lopende score; Nederlands, Engels, Duits, Spaans en Frans\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Op touch-horloges tik je de pinnen aan; op knop-horloges kies je het aantal met omhoog en omlaag.",
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
@@ -1254,13 +1714,13 @@
   "id": "acf0e837-8f06-42c0-a1b7-62275ac792fc",
   "slug": "listo",
   "name": "Listo - Grocery List",
-  "desc": "Listo puts your grocery list on your wrist, in colour. Every aisle has its own colour: the\nring on the home screen is your route through the store, the ticks in the list tell you where\nyou are, and one tap marks a product as bought, hands on the cart and phone in your pocket.\n\nListo also thinks ahead. It learns how often you buy each product and tells you what is\nrunning low before you notice. It learns prices and estimates what the list will cost. And\nit times every shopping trip.\n\nWHAT IT DOES\n- Catalogue of 300+ everyday products in 10 aisles, no typing needed\n- Running low: predicted from your own buying rhythm, add everything in one tap\n- Sets: pasta night, breakfast, tacos, BBQ, cleaning day and more, or save your own list as a set\n- Tap to add, tap again for one more; any quantity and unit (pieces, kg, g, L, pack)\n- Budget: learned prices per product, estimated total, a limit per list, your currency\n- Shopping trips: how long each trip took, how many items, what it cost, and averages\n- Store route: put the aisles in the order of your own supermarket\n- Several lists, each with its own name and budget\n- Bring back last trip's items with one tap, or sort by aisle, by order added or A to Z\n- Type anything else on the watch; typed items stay one tap away under My own items\n- Add items from your phone in the Garmin Connect app settings (\"2 kg apples, milk, 6 eggs\")\n- Glance with items left and a colour bar per aisle\n- English, Dutch, German, Spanish and French, including the whole catalogue\n\nWHAT IT NEEDS\nNothing but your watch. No account, no phone in the store.",
-  "nl": "Listo zet je boodschappenlijst op je pols, in kleur. Elk gangpad heeft zijn eigen kleur: de\nring op het thuisscherm is je route door de winkel, de vinkjes in de lijst laten zien waar je\nbent, en één tik markeert een product als gekocht, handen aan de kar en telefoon in je zak.\n\nListo denkt ook vooruit. Het leert hoe vaak je elk product koopt en zegt wat bijna op is\nvoordat je het zelf merkt. Het leert prijzen en schat wat de lijst gaat kosten. En het klokt\nelke winkeltrip.\n\nWAT HET DOET\n- Catalogus van 300+ dagelijkse producten in 10 gangpaden, geen getyp nodig\n- Bijna op: voorspeld uit je eigen koopritme, alles in één tik toevoegen\n- Sets: pasta-avond, ontbijt, taco's, barbecue, schoonmaakdag en meer, of sla je eigen lijst op als set\n- Tik om toe te voegen, nog eens voor één extra; elk aantal en elke eenheid (stuks, kg, g, L, pak)\n- Budget: geleerde prijzen per product, geschat totaal, een limiet per lijst, jouw valuta\n- Winkeltrips: hoe lang elke trip duurde, hoeveel producten, wat het kostte, en gemiddelden\n- Winkelroute: zet de gangpaden in de volgorde van jouw supermarkt\n- Meerdere lijsten, elk met eigen naam en budget\n- Vorige boodschappen met één tik terug, of sorteer op gangpad, op toevoegvolgorde of A tot Z\n- Typ iets anders op het horloge; getypte producten blijven onder Eigen producten op één tik afstand\n- Voeg producten toe vanaf je telefoon via de instellingen in de Garmin Connect-app (\"2 kg appels, melk, 6 eieren\")\n- Glance met wat er nog openstaat en een kleurbalk per gangpad\n- Nederlands, Engels, Duits, Spaans en Frans, inclusief de hele catalogus\n\nWAT HET NODIG HEEFT\nAlleen je horloge. Geen account, geen telefoon in de winkel.",
+  "desc": "Listo puts your grocery list on your wrist, in colour. Every aisle has its own colour: the ring on the home screen is your route through the store, the ticks in the list tell you where you are, and one tap marks a product as bought, hands on the cart and phone in your pocket.\n\nListo also thinks ahead. It learns how often you buy each product and tells you what is running low before you notice. It learns prices and estimates what the list will cost. And it times every shopping trip.\n\nWHAT IT DOES\n- Catalogue of 300+ everyday products in 10 aisles, no typing needed\n- Running low: predicted from your own buying rhythm, add everything in one tap\n- Sets: pasta night, breakfast, tacos, BBQ, cleaning day and more, or save your own list as a set\n- Tap to add, tap again for one more; any quantity and unit (pieces, kg, g, L, pack)\n- Budget: learned prices per product, estimated total, a limit per list, your currency\n- Shopping trips: how long each trip took, how many items, what it cost, and averages\n- Store route: put the aisles in the order of your own supermarket\n- Several lists, each with its own name and budget\n- Bring back last trip's items with one tap, or sort by aisle, by order added or A to Z\n- Type anything else on the watch; typed items stay one tap away under My own items\n- Add items from your phone in the Garmin Connect app settings (\"2 kg apples, milk, 6 eggs\")\n- Glance with items left and a colour bar per aisle\n- English, Dutch, German, Spanish and French, including the whole catalogue\n\nWHAT IT NEEDS\nNothing but your watch. No account, no phone in the store.",
+  "nl": "Listo zet je boodschappenlijst op je pols, in kleur. Elk gangpad heeft zijn eigen kleur: de ring op het thuisscherm is je route door de winkel, de vinkjes in de lijst laten zien waar je bent, en één tik markeert een product als gekocht, handen aan de kar en telefoon in je zak.\n\nListo denkt ook vooruit. Het leert hoe vaak je elk product koopt en zegt wat bijna op is voordat je het zelf merkt. Het leert prijzen en schat wat de lijst gaat kosten. En het klokt elke winkeltrip.\n\nWAT HET DOET\n- Catalogus van 300+ dagelijkse producten in 10 gangpaden, geen getyp nodig\n- Bijna op: voorspeld uit je eigen koopritme, alles in één tik toevoegen\n- Sets: pasta-avond, ontbijt, taco's, barbecue, schoonmaakdag en meer, of sla je eigen lijst op als set\n- Tik om toe te voegen, nog eens voor één extra; elk aantal en elke eenheid (stuks, kg, g, L, pak)\n- Budget: geleerde prijzen per product, geschat totaal, een limiet per lijst, jouw valuta\n- Winkeltrips: hoe lang elke trip duurde, hoeveel producten, wat het kostte, en gemiddelden\n- Winkelroute: zet de gangpaden in de volgorde van jouw supermarkt\n- Meerdere lijsten, elk met eigen naam en budget\n- Vorige boodschappen met één tik terug, of sorteer op gangpad, op toevoegvolgorde of A tot Z\n- Typ iets anders op het horloge; getypte producten blijven onder Eigen producten op één tik afstand\n- Voeg producten toe vanaf je telefoon via de instellingen in de Garmin Connect-app (\"2 kg appels, melk, 6 eieren\")\n- Glance met wat er nog openstaat en een kleurbalk per gangpad\n- Nederlands, Engels, Duits, Spaans en Frans, inclusief de hele catalogus\n\nWAT HET NODIG HEEFT\nAlleen je horloge. Geen account, geen telefoon in de winkel.",
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "2.2",
+  "version": "2.2.1",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -1270,10 +1730,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1790096271000,
-  "whatsnew": "Fixed crashes when changing settings and with damaged saved data. Much faster import and sorting. Prices by gram are now per kg and grams go up to 5000. Running low no longer drops items after 248 days. No more double list, empty menu or hidden tap. Menu counts update right away. Unchecking only affects the purchase history of that list.",
+  "changed": 1790273202000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 54,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
@@ -1334,7 +1794,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.2",
+  "version": "1.2.1",
   "category": "205",
   "icon": "assets/icons/earned.png",
   "shots": [
@@ -1344,10 +1804,10 @@
    "assets/shots/earned-4.jpg",
    "assets/shots/earned-5.jpg"
   ],
-  "changed": 1790166682000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. New app icon. The glance now shows progress to your next portion.",
+  "changed": 1790269254000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 180,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "435be2d8-0a32-4d40-8737-ce97f2824468",
@@ -1359,7 +1819,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.5",
+  "version": "1.5.1",
   "category": "254",
   "icon": "assets/icons/isobar.png",
   "shots": [
@@ -1368,10 +1828,10 @@
    "assets/shots/isobar-3.jpg",
    "assets/shots/isobar-4.jpg"
   ],
-  "changed": 1790077128000,
-  "whatsnew": "Fixed a crash that could stop Isobar from opening at all on watches without a barometer. Isobar is now listed only for watches that have the barometer its forecast is built on.",
+  "changed": 1790266113000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 178,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "c9641632-bf62-4fdb-8e28-e3a4c1c24bc5",
@@ -1457,7 +1917,7 @@
   "rating": 3.9,
   "reviews": 7,
   "downloads": 100,
-  "version": "2.2",
+  "version": "2.2.1",
   "category": "219",
   "icon": "assets/icons/fasted.png",
   "shots": [
@@ -1467,10 +1927,10 @@
    "assets/shots/fasted-4.jpg",
    "assets/shots/fasted-5.jpg"
   ],
-  "changed": 1790168802000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
+  "changed": 1790269489000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 108,
-  "updates": 15
+  "updates": 16
  },
  {
   "id": "b3c49541-6aba-49c8-a271-ee0a4967ee79",
@@ -1507,7 +1967,7 @@
   "rating": 5.0,
   "reviews": 4,
   "downloads": 10,
-  "version": "1.3",
+  "version": "1.3.1",
   "category": "214",
   "icon": "assets/icons/jetshift.png",
   "shots": [
@@ -1516,10 +1976,10 @@
    "assets/shots/jetshift-3.jpg",
    "assets/shots/jetshift-4.jpg"
   ],
-  "changed": 1787603598000,
-  "whatsnew": "",
+  "changed": 1790271481000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 64,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "ea0410c6-e80e-49a2-b567-7da49fde3814",
@@ -1531,7 +1991,7 @@
   "rating": 4.4,
   "reviews": 7,
   "downloads": 100,
-  "version": "1.4",
+  "version": "1.4.1",
   "category": "219",
   "icon": "assets/icons/breathgym.png",
   "shots": [
@@ -1541,10 +2001,10 @@
    "assets/shots/breathgym-4.jpg",
    "assets/shots/breathgym-5.jpg"
   ],
-  "changed": 1788696343000,
-  "whatsnew": "- Holds are now timed on the wall clock: a notification or wrist gesture during a hold no longer costs you seconds, so a record is a record\n- Ending a hold early rounds the time to the nearest second instead of down\n",
+  "changed": 1790265991000,
+  "whatsnew": "Now available on the fenix 9 series. The screen now stays on while you are using the app actively, so it no longer switches off while you are watching it. You can turn this off in the settings under Keep screen on.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "0d5c42f2-903c-4428-98c6-f7ffaf674555",
@@ -1556,7 +2016,7 @@
   "rating": 4.3,
   "reviews": 6,
   "downloads": 10,
-  "version": "1.2",
+  "version": "1.2.1",
   "category": "202",
   "icon": "assets/icons/morsetap.png",
   "shots": [
@@ -1565,10 +2025,10 @@
    "assets/shots/morsetap-3.jpg",
    "assets/shots/morsetap-4.jpg"
   ],
-  "changed": 1787605029000,
-  "whatsnew": "",
+  "changed": 1790273830000,
+  "whatsnew": "Now available on the fenix 9 series. The screen now stays on while you are using the app actively, so it no longer switches off while you are watching it. You can turn this off in the settings under Keep screen on.",
   "devices": 38,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "b651a1e9-7f33-41c3-a477-42c5037e5f67",
@@ -1580,7 +2040,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.7",
+  "version": "1.7.1",
   "category": "210",
   "icon": "assets/icons/altizone.png",
   "shots": [
@@ -1590,10 +2050,10 @@
    "assets/shots/altizone-4.jpg",
    "assets/shots/altizone-5.jpg"
   ],
-  "changed": 1790077235000,
-  "whatsnew": "AltiZone is now listed only for watches that have a barometer, the sensor the altimeter reads.",
+  "changed": 1790265635000,
+  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
   "devices": 180,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "63ee0ca3-120e-4399-8a4d-310d8a00a418",
@@ -1605,7 +2065,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.3",
+  "version": "1.3.1",
   "category": "213",
   "icon": "assets/icons/cardvault.png",
   "shots": [
@@ -1615,10 +2075,10 @@
    "assets/shots/cardvault-4.jpg",
    "assets/shots/cardvault-5.jpg"
   ],
-  "changed": 1790166250000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens. The glance now shows how many cards you have and your first card.",
+  "changed": 1790267132000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 64,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "2f0cb757-209f-4c24-bf73-c5ec56863d70",
@@ -1670,7 +2130,7 @@
   "id": "f37b763c-584b-4b1e-b3d7-dfae12d1fae9",
   "slug": "redline",
   "name": "Redline - Racing Watchface",
-  "desc": "REDLINE - RACING FACE\nEvery second, full throttle.\n\nYour wrist becomes a racing dashboard. The dial around the edge is a real\ntachometer counting the seconds: the needle climbs into the red zone at the\nend of every minute, then snaps back to zero like a gear shift.\n\nBUILT LIKE A COCKPIT\n- Tachometer border with an amber needle sweeping the seconds (it shows the\n  minutes in always-on mode, so it never stands still)\n- Big amber digital time and date, styled like a dashboard display\n- LCD panel with GEAR, heart rate and steps: your GEAR is your live heart\n  rate zone (1-5) - push harder, shift up\n- BAT instrument: battery shown in DAYS remaining, red zone when running\n  on empty\n- KM instrument: today's distance racing toward the 10K redline\n\nDESIGNED FOR AMOLED\nPure black background, warm amber and racing red - and in always-on mode\nthe whole dashboard stays visible, dimmed to half brightness.\n\nQuestions or ideas? Leave a review or contact the developer.",
+  "desc": "REDLINE - RACING FACE\nEvery second, full throttle.\n\nYour wrist becomes a racing dashboard. The dial around the edge is a real tachometer counting the seconds: the needle climbs into the red zone at the end of every minute, then snaps back to zero like a gear shift.\n\nBUILT LIKE A COCKPIT\n- Tachometer border with an amber needle sweeping the seconds (it shows the minutes in always-on mode, so it never stands still)\n- Big amber digital time and date, styled like a dashboard display\n- LCD panel with GEAR, heart rate and steps: your GEAR is your live heart rate zone (1-5) - push harder, shift up\n- BAT instrument: battery shown in DAYS remaining, red zone when running on empty\n- KM instrument: today's distance racing toward the 10K redline\n\nDESIGNED FOR AMOLED\nPure black background, warm amber and racing red - and in always-on mode the whole dashboard stays visible, dimmed to half brightness.\n\nQuestions or ideas? Leave a review or contact the developer.",
   "nl": "REDLINE - RACING FACE\nElke seconde vol gas.\n\nJe pols wordt een racedashboard. De ring langs de rand is een echte toerenteller die de seconden telt: de naald klimt aan het eind van elke minuut het rode gebied in en klapt dan terug naar nul, als een schakelmoment.\n\nGEBOUWD ALS EEN COCKPIT\n- Toerenteller-rand met een amberkleurige naald die de seconden veegt (in always-on-modus toont hij de minuten, dus hij staat nooit stil)\n- Grote amberkleurige digitale tijd en datum, in dashboard-stijl\n- LCD-paneel met GEAR, hartslag en stappen: je GEAR is je actuele hartslagzone (1-5) - ga harder, schakel op\n- BAT-instrument: batterij weergegeven in resterende DAGEN, rood gebied als de tank bijna leeg is\n- KM-instrument: de afstand van vandaag, racend naar de redline op 10 km\n\nONTWORPEN VOOR AMOLED\nPuur zwarte achtergrond, warm amber en racing-rood - en in always-on-modus blijft het hele dashboard zichtbaar, gedimd naar halve helderheid.\n\nVragen of ideeën? Laat een review achter of neem contact op met de ontwikkelaar.",
   "type": "1",
   "rating": 4.1,
@@ -1700,7 +2160,7 @@
   "rating": 5.0,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.4",
+  "version": "1.4.1",
   "category": "168",
   "icon": "assets/icons/triptych.png",
   "shots": [
@@ -1709,10 +2169,10 @@
    "assets/shots/triptych-3.jpg",
    "assets/shots/triptych-4.jpg"
   ],
-  "changed": 1789314535000,
-  "whatsnew": "The watch face list now shows just the name.",
+  "changed": 1790272842000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 64,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "b20b6df0-5943-48bb-be5e-73b3441253d7",
@@ -1724,7 +2184,7 @@
   "rating": 5.0,
   "reviews": 5,
   "downloads": 100,
-  "version": "2.1",
+  "version": "2.3",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -1734,10 +2194,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1788696908000,
-  "whatsnew": "- A drink logged on an earlier day, or removed from one, now updates that day in the 30-day and monthly charts instead of today\n",
+  "changed": 1790499930000,
+  "whatsnew": "The glance now shows -- until the app has been opened once after an update, instead of 0.00. Includes the memory fix from 2.2.",
   "devices": 178,
-  "updates": 11
+  "updates": 13
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
@@ -1746,10 +2206,10 @@
   "desc": "Caffi — Know your caffeine, protect your sleep.\n\nMost caffeine apps just count down from your last cup. Caffi does it properly: it models the caffeine actually in your body with a real pharmacokinetic curve — both the absorption (the rise after you drink) and the elimination (the slow decay) — so the peak and the timing are realistic, not guessed.\n\nAt a glance you see how much caffeine is in your system right now, exactly when you'll be able to sleep again, and whether you're still under your daily limit. Perfect for protecting your sleep, timing a pre-workout boost, and keeping your intake in check.\n\nFeatures\n• Live caffeine level (mg/L) on a clean color gauge\n• \"Sleep-safe\" time — the moment your level drops below your personal sleep threshold, with a bedtime marker\n• Daily total vs. your limit, color-coded green / orange / red\n• Detailed curve graph with stimulation & sleep thresholds, bedtime line and your intake points\n• Daily and 7-day statistics with bar charts\n• One-tap logging from quick presets (espresso, coffee, energy drink…) — or create your own custom drinks\n• Glance widget so you can check your level without opening the app\n• Works on touch and button watches\n• Available in English, Dutch, German, French and Spanish\n\nMake it yours\nSet your body weight, caffeine half-life, sleep & stimulation thresholds, daily limit and bedtime — Caffi recalculates your personal curve instantly.\n\nDrink smart. Sleep better. Caffi.",
   "nl": "Caffi — ken je cafeïne, bescherm je slaap.\n\nDe meeste cafeïne-apps tellen simpelweg af vanaf je laatste kopje. Caffi doet het écht goed: het berekent hoeveel cafeïne er op dit moment in je lichaam zit met een echte farmacokinetische curve — zowel de opname (de stijging na het drinken) als de afbraak (het langzame verval) — zodat de piek en de timing kloppen in plaats van een gok zijn.\n\nIn één oogopslag zie je hoeveel cafeïne er nu in je systeem zit, wanneer je weer kunt slapen, en of je nog onder je daglimiet blijft. Ideaal om je slaap te beschermen, een pre-workout-boost te timen en je inname in de hand te houden.\n\nFuncties\n• Actueel cafeïneniveau (mg/L) op een strakke kleurenmeter\n• \"Slaapveilige\" tijd — het moment waarop je onder je persoonlijke slaapdrempel zakt, met bedtijd-markering\n• Dagtotaal vs. je limiet, met kleurcodering groen / oranje / rood\n• Uitgebreide grafiek met stimulatie- en slaapdrempel, bedtijd-lijn en je innamemomenten\n• Dag- en 7-dagen statistieken met staafgrafieken\n• Snel loggen met presets (espresso, koffie, energydrink…) — of maak je eigen drankjes aan\n• Glance-widget om je niveau te checken zonder de app te openen\n• Werkt op touch- én knop-horloges\n• Beschikbaar in het Engels, Nederlands, Duits, Frans en Spaans\n\nMaak 'm van jou\nStel je gewicht, cafeïne-halfwaardetijd, slaap- en stimulatiedrempel, daglimiet en bedtijd in — Caffi herberekent meteen je persoonlijke curve.\n\nDrink slim. Slaap beter. Caffi.",
   "type": "2",
-  "rating": 5.0,
-  "reviews": 7,
+  "rating": 4.9,
+  "reviews": 8,
   "downloads": 100,
-  "version": "2.1",
+  "version": "2.3",
   "category": "219",
   "icon": "assets/icons/caffi.png",
   "shots": [
@@ -1759,10 +2219,10 @@
    "assets/shots/caffi-4.jpg",
    "assets/shots/caffi-5.jpg"
   ],
-  "changed": 1788696745000,
-  "whatsnew": "- With a long half-life set (10 to 12 h) doses no longer vanish from the curve after 36 hours; the window now scales with your half-life\n- The \"you can sleep\" notification follows your bedtime setting instead of a fixed 18:00 to 06:00 window\n- Changing half-life, threshold or bedtime from the phone re-plans the notification immediately\n- A dose logged on an earlier day, or removed from one, updates that day in the charts instead of today\n",
+  "changed": 1790500056000,
+  "whatsnew": "Glance rebuilt to use a fraction of the memory, preventing IQ errors on the glance with a longer history (fenix 8 and others). Adds fenix 9 support.",
   "devices": 178,
-  "updates": 14
+  "updates": 16
  },
  {
   "id": "173e9d71-48e0-4ded-8515-27c3011032da",
@@ -1774,7 +2234,7 @@
   "rating": 4.5,
   "reviews": 8,
   "downloads": 100,
-  "version": "2.0",
+  "version": "2.0.1",
   "category": "213",
   "icon": "assets/icons/convertr.png",
   "shots": [
@@ -1783,10 +2243,10 @@
    "assets/shots/convertr-3.jpg",
    "assets/shots/convertr-4.jpg"
   ],
-  "changed": 1788689141000,
-  "whatsnew": "- All conversions now calculate in double precision: terabytes, large currency amounts and data rates keep every digit\n- Data units renamed to KiB, MiB, GiB and TiB to make clear they are binary; data rates stay decimal\n- When rates cannot be refreshed you now see \"no connection, tap to retry\"\n",
+  "changed": 1790270877000,
+  "whatsnew": "Now available on the fenix 9 series.",
   "devices": 205,
-  "updates": 13
+  "updates": 14
  },
  {
   "id": "ba8e2555-cf31-45fe-8876-68a4f3b2cbb6",
