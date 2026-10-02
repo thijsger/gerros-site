@@ -1780,7 +1780,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.2",
+  "version": "1.1.3",
   "category": "213",
   "icon": "assets/icons/cutwise.png",
   "shots": [
@@ -1788,10 +1788,10 @@
    "assets/shots/cutwise-2.jpg",
    "assets/shots/cutwise-3.jpg"
   ],
-  "changed": 1790571007000,
-  "whatsnew": "Backing out of a calculation no longer loses your ticks, New list asks first, and menus open on your current choice.",
+  "changed": 1790901125000,
+  "whatsnew": "Large sheet plans now finish and save reliably on older watches.",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
@@ -2753,7 +2753,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.7.1",
+  "version": "1.7.2",
   "category": "210",
   "icon": "assets/icons/altizone.png",
   "shots": [
@@ -2763,10 +2763,10 @@
    "assets/shots/altizone-4.jpg",
    "assets/shots/altizone-5.jpg"
   ],
-  "changed": 1790265635000,
-  "whatsnew": "Now available on the fenix 9 series. New setting Keep screen on: switch it on and the screen stays on for as long as a session runs. It is off by default to save battery on long sessions.",
+  "changed": 1790899508000,
+  "whatsnew": "Large altitudes, speeds and long recording times now always fit on screen, including the unit and the paused label.",
   "devices": 180,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "63ee0ca3-120e-4399-8a4d-310d8a00a418",
@@ -2778,7 +2778,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.3.1",
+  "version": "1.3.2",
   "category": "213",
   "icon": "assets/icons/cardvault.png",
   "shots": [
@@ -2788,10 +2788,10 @@
    "assets/shots/cardvault-4.jpg",
    "assets/shots/cardvault-5.jpg"
   ],
-  "changed": 1790267132000,
-  "whatsnew": "Now available on the fenix 9 series.",
+  "changed": 1790899579000,
+  "whatsnew": "Long QR codes now open without stopping the app and scan correctly. Long card names are shortened to fit the card.",
   "devices": 64,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "2f0cb757-209f-4c24-bf73-c5ec56863d70",
