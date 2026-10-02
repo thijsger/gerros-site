@@ -1159,7 +1159,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "category": "212",
   "icon": "assets/icons/schuss.png",
   "shots": [
@@ -1167,10 +1167,10 @@
    "assets/shots/schuss-2.jpg",
    "assets/shots/schuss-3.jpg"
   ],
-  "changed": 1790183631000,
-  "whatsnew": "",
+  "changed": 1790896215000,
+  "whatsnew": "Long ski days and a full history now save with far less memory and start up faster on older watches, a smoother altitude profile, the glance shows the date of your last ski day, correct singular for a single run, and long trip totals fit on screen.",
   "devices": 159,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "1bebbca2-3389-4b1f-968d-d24553c1dd96",
@@ -2034,7 +2034,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "206",
   "icon": "assets/icons/lexil.png",
   "shots": [
@@ -2044,10 +2044,10 @@
    "assets/shots/lexil-4.jpg",
    "assets/shots/lexil-5.jpg"
   ],
-  "changed": 1790546749000,
-  "whatsnew": "On touch watches the menu now opens from the three dots at the top of the home screen or by holding the screen, no button hold needed.",
+  "changed": 1790893967000,
+  "whatsnew": "Large puzzles open faster and use less memory on older watches, and the glance now starts fresh each day instead of showing yesterday's result.",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "98727840-961a-4649-83ed-7b31520f9525",
@@ -2183,7 +2183,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "206",
   "icon": "assets/icons/spire.png",
   "shots": [
@@ -2193,10 +2193,10 @@
    "assets/shots/spire-4.jpg",
    "assets/shots/spire-5.jpg"
   ],
-  "changed": 1790554020000,
-  "whatsnew": "Enemy debuffs now last as shown, Back no longer skips rewards or leaves the shop, and text always fits the round screen.",
+  "changed": 1790897312000,
+  "whatsnew": "Card descriptions in combat no longer overlap the status lines on smaller screens, boss fights no longer draw the crown over the status line, and damaged saved runs load safely.",
   "devices": 62,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8",
@@ -2308,7 +2308,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "220",
   "icon": "assets/icons/racecast.png",
   "shots": [
@@ -2318,10 +2318,10 @@
    "assets/shots/racecast-4.jpg",
    "assets/shots/racecast-5.jpg"
   ],
-  "changed": 1790548203000,
-  "whatsnew": "Sturdier input and stored data, uncapped ultra predictions and text that always fits the screen.",
+  "changed": 1790894084000,
+  "whatsnew": "Pages with many race results open faster and no longer stop the app on older watches. With one race logged it now says \"1 result\" instead of \"1 results\".",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c",
@@ -2383,7 +2383,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "212",
   "icon": "assets/icons/strike.png",
   "shots": [
@@ -2393,10 +2393,10 @@
    "assets/shots/strike-4.jpg",
    "assets/shots/strike-5.jpg"
   ],
-  "changed": 1790610980000,
-  "whatsnew": "Pin counts can now be adjusted on touch-only watches, stored games are sturdier and text always fits the screen. Faster with several players on slower watches.",
+  "changed": 1790893879000,
+  "whatsnew": "Game history uses far less memory and statistics open faster with a long history. Summaries and series now use the singular for a single strike, spare, open frame or game.",
   "devices": 167,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "7b530ce0-2510-4669-b06e-abc0b2448567",
@@ -2433,7 +2433,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "2.2.2",
+  "version": "2.2.3",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -2443,10 +2443,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1790548056000,
-  "whatsnew": "Your own typed items now get their own heading, long amounts fit on screen and scrolling the list is smoother.",
+  "changed": 1790893480000,
+  "whatsnew": "Faster start-up and a faster \"Running low\" list with many lists and products. Your first trip now reads \"1 trip\", and a single product \"1 item\".",
   "devices": 54,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
@@ -2483,7 +2483,7 @@
   "rating": 4.3,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.5.1",
+  "version": "1.5.2",
   "category": "204",
   "icon": "assets/icons/shiftpay.png",
   "shots": [
@@ -2492,10 +2492,10 @@
    "assets/shots/shiftpay-3.jpg",
    "assets/shots/shiftpay-4.jpg"
   ],
-  "changed": 1790550818000,
-  "whatsnew": "Clearer on Instinct screens, settings update instantly in the menu, and sturdier history. Text no longer sits under the Instinct's round subscreen.",
+  "changed": 1790896415000,
+  "whatsnew": "Large amounts, such as in rupiah, won or yen, now show exact figures instead of odd final digits.",
   "devices": 205,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "a1845d8e-d596-4d4a-9549-9ffa109926a2",
@@ -2873,7 +2873,7 @@
   "rating": 5.0,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.4.1",
+  "version": "1.4.2",
   "category": "168",
   "icon": "assets/icons/triptych.png",
   "shots": [
@@ -2882,10 +2882,10 @@
    "assets/shots/triptych-3.jpg",
    "assets/shots/triptych-4.jpg"
   ],
-  "changed": 1790272842000,
-  "whatsnew": "Now available on the fenix 9 series.",
+  "changed": 1790896970000,
+  "whatsnew": "Sub-dial values and labels now stay inside their rings on smaller screens. Temperature and distance follow your watch units, and always-on mode is gentler on MIP screens.",
   "devices": 64,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "b20b6df0-5943-48bb-be5e-73b3441253d7",
@@ -2947,7 +2947,7 @@
   "rating": 4.5,
   "reviews": 8,
   "downloads": 100,
-  "version": "2.0.1",
+  "version": "2.0.2",
   "category": "213",
   "icon": "assets/icons/convertr.png",
   "shots": [
@@ -2956,10 +2956,10 @@
    "assets/shots/convertr-3.jpg",
    "assets/shots/convertr-4.jpg"
   ],
-  "changed": 1790270877000,
-  "whatsnew": "Now available on the fenix 9 series.",
+  "changed": 1790897147000,
+  "whatsnew": "Cleaner layout on Instinct watches: the unit is fully visible and the keypad shows its DEL and OK keys. Exact absolute zero in temperature conversion, more precise number entry, clearer currency status and sturdier storage handling.",
   "devices": 205,
-  "updates": 14
+  "updates": 15
  },
  {
   "id": "ba8e2555-cf31-45fe-8876-68a4f3b2cbb6",
