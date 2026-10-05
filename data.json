@@ -17,10 +17,10 @@
    "assets/shots/topup-2.jpg",
    "assets/shots/topup-3.jpg"
   ],
-  "changed": 1790777410000,
+  "changed": 1791205011000,
   "whatsnew": "The glance now shows the same charging time as the app.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "09c7f7a8-50ff-44b7-ab12-e9acb549af28",
@@ -40,33 +40,10 @@
    "assets/shots/yolk-2.jpg",
    "assets/shots/yolk-3.jpg"
   ],
-  "changed": 1790777710000,
+  "changed": 1791205016000,
   "whatsnew": "The glance now moves on to the next egg step even when the app is closed.",
   "devices": 185,
-  "updates": 3
- },
- {
-  "id": "af54a959-2564-4117-8de7-7e1e90b807b5",
-  "slug": "nappr",
-  "name": "Nappr - Smart power nap",
-  "desc": "Nappr times your nap from the moment you actually fall asleep, not from the moment you lie down. It watches your heart rate settle below your resting level and your wrist go still, marks the minute you drifted off, and wakes you with a soft vibration that builds up after the nap length you chose — 10, 20, 26 or 90 minutes — with a hard maximum so a nap never runs away with your afternoon.\n\nAfter each nap you see how long it took to fall asleep, how long you slept, how far your heart rate dropped and whether grogginess is likely, plus a minute-by-minute strip of the nap. The history shows your average time to fall asleep and your naps this week, and the start screen uses that average to tell you roughly when you will be up.\n\nWHAT IT DOES\n- Detects falling asleep from heart-rate drop plus stillness, with a motion-only fallback\n- Four nap lengths: quick 10, power 20, NASA 26 and a full 90-minute cycle\n- Smart wake in cycle mode: wakes you on the first movement in the last 10 minutes\n- A maximum nap time that always ends the nap, even if you never fell asleep\n- Gentle alarm in three rising steps, adjustable strength, optional tone, 5-minute snooze\n- Last-nap summary with a sleep strip, grogginess estimate and heart-rate drop\n- History, averages, five languages and a glance with the wake time\n\nWHAT IT NEEDS\n- A watch with a wrist heart-rate sensor for the best detection; without heart rate it uses stillness only\n- Keep the app open during the nap: the watch stops app timers when you leave it",
-  "nl": "Nappr telt je dutje vanaf het moment dat je echt in slaap valt, niet vanaf het moment dat je gaat liggen. Het ziet je hartslag onder je rustniveau zakken en je pols stil worden, onthoudt de minuut waarop je wegzakte en wekt je na de gekozen duur — 10, 20, 26 of 90 minuten — met een zachte trilling die aanzwelt, met een harde bovengrens zodat een dutje nooit je hele middag opslokt.\n\nNa elk dutje zie je hoe lang inslapen duurde, hoe lang je sliep, hoeveel je hartslag daalde en of je waarschijnlijk suf wakker wordt, plus een strookje per minuut. De historie toont je gemiddelde inslaaptijd en je dutjes deze week, en het startscherm gebruikt dat gemiddelde om te zeggen hoe laat je ongeveer weer op bent.\n\nWAT HET DOET\n- Herkent inslapen aan hartslagdaling plus stilliggen, met een terugval op alleen beweging\n- Vier lengtes: kort 10, power 20, NASA 26 en een hele cyclus van 90 minuten\n- Slim wekken in cyclusmodus: bij de eerste beweging in de laatste 10 minuten\n- Een maximumtijd die het dutje altijd beëindigt, ook als je niet in slaap viel\n- Zachte wekker in drie aanzwellende trappen, instelbare sterkte, optionele toon, snooze van 5 minuten\n- Samenvatting van het laatste dutje met slaapstrook, sufheid-inschatting en hartslagdaling\n- Historie, gemiddelden, vijf talen en een glance met de wektijd\n\nWAT HET NODIG HEEFT\n- Een horloge met polshartslag voor de beste herkenning; zonder hartslag telt alleen stilliggen\n- Houd de app open tijdens het dutje: het horloge stopt app-timers als je hem verlaat",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "219",
-  "icon": "assets/icons/nappr.png",
-  "shots": [
-   "assets/shots/nappr-1.jpg",
-   "assets/shots/nappr-2.jpg",
-   "assets/shots/nappr-3.jpg"
-  ],
-  "changed": 1790777960000,
-  "whatsnew": "The glance now counts this week's naps correctly even when the app hasn't been opened.",
-  "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "2d0cc53e-6856-4a02-819b-399f9ac29fb5",
@@ -376,7 +353,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.1",
   "category": "213",
   "icon": "assets/icons/axle.png",
@@ -420,10 +397,10 @@
   "desc": "Vagal is a breathing coach that listens to your heart. It reads the time between every heartbeat from the wrist sensor or a chest strap, and every five seconds it works out how strongly your heart rhythm rises and falls with your breath. That coherence score colours the breathing circle while you follow it, so you can see the moment your breathing and your heart fall into step.\n\nStart with the resonance test: ten minutes, two at each of five breathing rates from 6.5 down to 4.5 per minute. Vagal compares the heart-rate swing and low-frequency power at each rate and suggests the one where your rhythm responds most. After that, daily sessions run at your rate with a gentle vibration at every breath, a one-minute calm reading before and after to show your RMSSD change, and a trend over your last sessions. For relaxation and training only, not a medical device.\n\nWHAT IT DOES\n- Live coherence score from beat-to-beat intervals, updated every five seconds over the last 64 seconds\n- Resonance test across 6.5, 6.0, 5.5, 5.0 and 4.5 breaths per minute, with a score for each rate\n- Breathing circle with adjustable inhale:exhale ratio and a soft vibration pacer you can follow with your eyes closed\n- RMSSD before and after each session, compared with your own seven-session baseline\n- Session summary with time in high coherence, average heart rate and a coherence curve\n- Coherence and RMSSD trends, day streak, weekly minutes goal\n- Optionally saves each session as an activity with a coherence chart in Garmin Connect\n- Five languages and a glance with your rate, last score and weekly minutes\n\nWHAT IT NEEDS\n- A watch that provides beat-to-beat heart data (wrist sensor or paired chest strap for the cleanest signal)\n- Sit still during a session; no phone, no account, no internet",
   "nl": "Vagal is een ademcoach die naar je hart luistert. Hij leest de tijd tussen elke hartslag uit de polssensor of een borstband en rekent elke vijf seconden uit hoe sterk je hartritme met je adem mee op en neer gaat. Die coherentiescore kleurt de ademcirkel terwijl je hem volgt, zodat je ziet wanneer je adem en je hart in de pas lopen.\n\nBegin met de resonantietest: tien minuten, twee op elk van vijf ademtempo's van 6,5 tot 4,5 per minuut. Vagal vergelijkt per tempo de hartslagzwaai en het laagfrequente vermogen en stelt het tempo voor waarop je ritme het sterkst reageert. Daarna ademen je dagelijkse sessies op jouw tempo met een zachte tril bij elke ademhaling, een rustige meting van een minuut ervoor en erna die je RMSSD-verandering laat zien, en een trend over je laatste sessies. Alleen voor ontspanning en training, geen medisch hulpmiddel.\n\nWAT HET DOET\n- Live coherentiescore uit slag-tot-slagintervallen, elke vijf seconden over de laatste 64 seconden\n- Resonantietest op 6,5, 6,0, 5,5, 5,0 en 4,5 ademhalingen per minuut, met een score per tempo\n- Ademcirkel met instelbare verhouding inademen:uitademen en een zachte trilgids die je met je ogen dicht volgt\n- RMSSD voor en na elke sessie, vergeleken met je eigen basislijn van zeven sessies\n- Samenvatting met tijd in hoge coherentie, gemiddelde hartslag en een coherentiecurve\n- Trends voor coherentie en RMSSD, dagen op rij, weekdoel in minuten\n- Bewaart elke sessie desgewenst als activiteit met een coherentiegrafiek in Garmin Connect\n- Vijf talen en een glance met je tempo, laatste score en minuten deze week\n\nWAT HET NODIG HEEFT\n- Een horloge dat slag-tot-slaggegevens levert (polssensor, of een gekoppelde borstband voor het schoonste signaal)\n- Stilzitten tijdens een sessie; geen telefoon, geen account, geen internet",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 4.0,
+  "reviews": 2,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.4",
   "category": "219",
   "icon": "assets/icons/vagal.png",
   "shots": [
@@ -431,10 +408,10 @@
    "assets/shots/vagal-2.jpg",
    "assets/shots/vagal-3.jpg"
   ],
-  "changed": 1790781494000,
-  "whatsnew": "Streaks and weekly minutes now follow your local midnight.",
+  "changed": 1791193498000,
+  "whatsnew": "Fixes No heart rate detected on newer watches like Venu 4.",
   "devices": 182,
-  "updates": 3
+  "updates": 5
  },
  {
   "id": "703a9bcc-7034-4447-9105-8ed408166a64",
@@ -445,7 +422,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.2",
   "category": "219",
   "icon": "assets/icons/rolla.png",
@@ -575,6 +552,167 @@
   "updates": 2
  },
  {
+  "id": "c0f75d95-4a66-42b5-80a9-7a82589dd044",
+  "slug": "evensplit",
+  "name": "Evensplit - lap comparison",
+  "desc": "Evensplit compares the lap you are running right now with your previous lap and with your average lap. It keeps a ghost of the previous lap and tells you, second by second, how far ahead or behind you are at the same distance, and it predicts the time you will finish this lap in. It works for running, cycling, swimming and any sport with laps, with auto-lap or the lap button.\n\nIt fits every field size: the gap to the previous lap in a small slot, the lap pace with an arrow, the gap and the predicted lap time in half a screen, and a full screen with a table of your last laps, the average lap, a comparison of pace, heart rate, power and cadence, your negative split over the whole session and how even your laps are.\n\nWHAT IT DOES\n- Ghost of the previous lap: gap in seconds at the same distance, green when ahead, red when behind\n- Lap prediction: finish time of this lap at your current pace, and whether you will beat the previous one\n- Lap table of the last laps and the average lap, heart rate in Garmin zone colors\n- This lap vs previous lap vs average lap for pace or speed, heart rate, power and cadence, with arrows and colored differences\n- Knows auto-lap by distance or by time, and work/rest intervals: a hard lap is compared with the previous hard lap\n- Negative split over the session (second half minus first half) and the spread of your lap paces\n- Optional vibration, beep and pop-up when you fall behind the previous lap, and a lap summary pop-up\n- Gap, lap pace difference, lap spread and split saved to the FIT file\n- Pace or speed chosen from your sport, or power or heart rate indoors; sun mode with high contrast; five languages\n\nWHAT IT NEEDS\n- Laps: auto-lap or the lap button (before the first lap it assumes 1 km or 1 mile)\n- Optional in the settings of the Connect IQ app: compare by pace, speed, power or heart rate, compare with the previous or the best lap, a fixed lap length, the alert threshold and colors\n- On watches with little memory for data fields (such as fenix 6, Forerunner 55, Instinct 2) the full-screen table, pop-ups, interval detection and the ghost at the same distance are left out; the gap is then based on the average pace of the previous lap\n- How to add: start an activity, open Settings, then Data Screens, pick a screen and a field, then choose Connect IQ and Evensplit",
+  "nl": "Evensplit vergelijkt de ronde die je nu loopt met je vorige ronde en met je gemiddelde ronde. Het houdt een spookloper van de vorige ronde bij en laat per seconde zien hoeveel je op dezelfde afstand voor of achter ligt, en het voorspelt de eindtijd van deze ronde. Het werkt bij hardlopen, fietsen, zwemmen en elke sport met rondes, met auto-lap of de rondeknop.\n\nHet past in elke veldgrootte: het verschil met de vorige ronde in een klein vak, het rondetempo met een pijl, het verschil en de voorspelde rondetijd op een half scherm, en een vol scherm met een tabel van je laatste rondes, de gemiddelde ronde, een vergelijking van tempo, hartslag, vermogen en cadans, je negatieve split over de hele sessie en hoe gelijkmatig je rondes zijn.\n\nWAT HET DOET\n- Spookloper van de vorige ronde: verschil in seconden op dezelfde afstand, groen als je voor ligt, rood als je achter ligt\n- Rondevoorspelling: eindtijd van deze ronde bij je huidige tempo, en of je de vorige gaat verslaan\n- Tabel van de laatste rondes en de gemiddelde ronde, hartslag in de zonekleuren van Garmin\n- Deze ronde vs vorige ronde vs gemiddelde ronde voor tempo of snelheid, hartslag, vermogen en cadans, met pijlen en gekleurde verschillen\n- Herkent auto-lap op afstand of op tijd, en werk/rust-intervallen: een harde ronde wordt met de vorige harde ronde vergeleken\n- Negatieve split over de sessie (tweede helft min eerste helft) en de spreiding van je rondetempo's\n- Optioneel trillen, piepen en een pop-up als je achter raakt op de vorige ronde, en een pop-up met de rondesamenvatting\n- Verschil, tempoverschil per ronde, spreiding en split opgeslagen in het FIT-bestand\n- Tempo of snelheid gekozen op basis van je sport, of vermogen of hartslag binnen; zonmodus met hoog contrast; vijf talen\n\nWAT HET NODIG HEEFT\n- Rondes: auto-lap of de rondeknop (voor de eerste ronde gaat het uit van 1 km of 1 mijl)\n- Optioneel in de instellingen van de Connect IQ-app: vergelijken op tempo, snelheid, vermogen of hartslag, met de vorige of de beste ronde, een vaste rondelengte, de waarschuwingsdrempel en kleuren\n- Op horloges met weinig geheugen voor gegevensvelden (zoals fenix 6, Forerunner 55, Instinct 2) vallen de volle-schermtabel, pop-ups, intervalherkenning en de spookloper op dezelfde afstand weg; het verschil gaat dan uit van het gemiddelde tempo van de vorige ronde\n- Toevoegen: start een activiteit, open Instellingen, dan Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ en Evensplit",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "183",
+  "icon": "assets/icons/evensplit.png",
+  "shots": [
+   "assets/shots/evensplit-1.jpg",
+   "assets/shots/evensplit-2.jpg",
+   "assets/shots/evensplit-3.jpg"
+  ],
+  "changed": 1791205178000,
+  "whatsnew": "Fixes: heart-rate zones from your profile are handled safely even when they are missing or unusual, and power detection resets correctly when you start a new activity.",
+  "devices": 228,
+  "updates": 3
+ },
+ {
+  "id": "3f3c8e51-2137-4007-8105-a844e7fa0504",
+  "slug": "karvonen",
+  "name": "Karvonen - HR zones & effort",
+  "desc": "Karvonen is a heart rate data field for every sport. Your current zone fills the field in the same colours as Garmin Connect (Z1 grey, Z2 blue, Z3 green, Z4 orange, Z5 red), with the zone as a decimal (Z2.7) and your heart rate as % of max or % of heart rate reserve. Bars show how long you have spent in each zone, and a zone goal counts down (\"Z2 12:30\") and vibrates when you reach it.\n\nThe effort score is open about how it is calculated. Banister TRIMP adds up, for every minute, x · 0.64 · e^(1.92 · x) (0.86 · e^(1.67 · x) for women), where x is your heart rate reserve fraction (HR − rest) / (max − rest). Edwards TRIMP simply multiplies the minutes in each zone by the zone number. Aerobic drift compares your pace (or power) per heartbeat in the first and second half of the session after a 5-minute warm-up: under 5 % means your aerobic engine held steady.\n\nWHAT IT DOES\n- Current zone as a big colour, heart rate, zone with one decimal and %HRmax or %HRR (Karvonen)\n- Time-in-zone bars for Z1 to Z5, with minutes in the full-screen view\n- Zone goal (for example 30 min in Z2) with a countdown, vibration, beep and full-screen alert when done\n- Optional alert when you stay above a chosen zone for 20 seconds, with a 2-minute cooldown\n- Live effort score: Banister TRIMP or Edwards TRIMP, formula explained above\n- Aerobic drift (Pa:HR decoupling) from speed or, when a power meter is connected, power\n- Clock and elapsed time (h:mm:ss) in the full-screen view\n- Adapts to every field size, from one number to a full dashboard; colours follow the screen or are set to dark, light or high contrast for bright sun\n- Effort, HR zone, lap effort and aerobic drift are saved to the activity and shown as charts in Garmin Connect\n\nWHAT IT NEEDS\n- A heart rate sensor (wrist or strap); zones, max and resting heart rate are read from your Garmin profile and can be overridden in the settings\n- How to add: start an activity, open Settings / Data Screens, pick a screen, select a field and choose Connect IQ / Karvonen\n- The numbers are training estimates, not a medical measurement",
+  "nl": "Karvonen is een hartslag-gegevensveld voor elke sport. Je huidige zone vult het veld in dezelfde kleuren als Garmin Connect (Z1 grijs, Z2 blauw, Z3 groen, Z4 oranje, Z5 rood), met de zone als decimaal (Z2,7) en je hartslag als % van max of % van de hartslagreserve. Staafjes tonen hoe lang je in elke zone zat, en een zonedoel telt af (\"Z2 12:30\") en trilt als je het haalt.\n\nDe inspanningsscore laat zien hoe hij rekent. Banister-TRIMP telt per minuut x · 0,64 · e^(1,92 · x) op (0,86 · e^(1,67 · x) voor vrouwen), met x het deel van je hartslagreserve (HS − rust) / (max − rust). Edwards-TRIMP vermenigvuldigt de minuten per zone met het zonenummer. Aerobe drift vergelijkt je tempo (of vermogen) per hartslag in de eerste en tweede helft van de sessie, na 5 minuten warming-up: onder 5 % betekent dat je aerobe motor stabiel bleef.\n\nWAT HET DOET\n- Huidige zone als grote kleur, hartslag, zone met één decimaal en %HSmax of %HSR (Karvonen)\n- Staafjes tijd per zone voor Z1 tot Z5, met minuten in de volle weergave\n- Zonedoel (bijvoorbeeld 30 min in Z2) met aftellen, trillen, piep en melding op het hele scherm als het gehaald is\n- Optioneel alarm als je 20 seconden boven een gekozen zone blijft, met 2 minuten rust ertussen\n- Live inspanningsscore: Banister-TRIMP of Edwards-TRIMP, formule hierboven uitgelegd\n- Aerobe drift (Pa:HR-ontkoppeling) uit snelheid of, met een vermogensmeter, uit vermogen\n- Klok en verstreken tijd (u:mm:ss) in de volle weergave\n- Past zich aan elke veldgrootte aan, van één getal tot een volledig dashboard; kleuren volgen het scherm of staan op donker, licht of hoog contrast voor fel zonlicht\n- Inspanning, hartslagzone, inspanning per ronde en aerobe drift worden in de activiteit bewaard en als grafiek getoond in Garmin Connect\n\nWAT HET NODIG HEEFT\n- Een hartslagsensor (pols of band); zones, max- en rusthartslag komen uit je Garmin-profiel en zijn in de instellingen aan te passen\n- Toevoegen: start een activiteit, open Instellingen / Gegevensschermen, kies een scherm, selecteer een veld en kies Connect IQ / Karvonen\n- De getallen zijn trainingsschattingen, geen medische meting",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.3",
+  "category": "185",
+  "icon": "assets/icons/karvonen.png",
+  "shots": [
+   "assets/shots/karvonen-1.jpg",
+   "assets/shots/karvonen-2.jpg",
+   "assets/shots/karvonen-3.jpg"
+  ],
+  "changed": 1791205181000,
+  "whatsnew": "Fixed aerobic drift staying at 0 % when the power meter connects after the start. Drift appears after about 25 minutes; until then the field counts down.",
+  "devices": 228,
+  "updates": 5
+ },
+ {
+  "id": "3e832b0f-634a-463d-8c33-8e29234a744b",
+  "slug": "flipturn",
+  "name": "Flipturn - CSS pace & send-off clock",
+  "desc": "Flipturn is a swim data field that turns your Critical Swim Speed (CSS) into a live target. In the pool it detects every length from the distance your watch records and shows the pace per 100 of the last length, how far ahead of or behind your CSS target the current repeat is, and your SWOLF with a fatigue trend. In open water it smooths your speed into a steady pace per 100 and projects your finish time for the goal distance.\n\nIt fits every field size: the last-length pace in a small slot, pace with the gap to target and SWOLF in half a screen, and a full dashboard with a bar chart of your lengths, the send-off clock and your totals. A vibration tells you when a length was slower than your target, because you cannot look at the watch while swimming.\n\nWHAT IT DOES\n- CSS from your settings: enter it directly, or enter a 400 m and 200 m test time and Flipturn calculates CSS = 200 / (T400 - T200)\n- Target pace as a percentage of CSS (100 % threshold, 105 % endurance) with a margin you choose\n- Length detection with automatic pool length (meters or yards), per length: time, pace per 100, SWOLF, strokes and distance per stroke\n- Repeats and rest detected automatically; per repeat how many seconds ahead of or behind the target you are\n- Send-off clock: set your interval (for example 100s on 1:50); it counts down during rest and vibrates 5 seconds before and at the start\n- SWOLF trend: baseline from your first 200, then a moving average that shows technique decay in percent\n- Open water: smoothed pace per 100, finish-time projection for your goal distance, gap to your CSS target\n- Vibration when a length (or in open water a full minute) is slower than target plus margin, optional tone and a pop-up at send-off\n- In open water, pace, gap to target, lap pace and average pace are saved to the FIT file and appear as charts in Garmin Connect; in the pool everything is shown live on the watch, because Garmin does not let Connect IQ fields record data in pool swims\n- Light and dark backgrounds, five languages\n\nWHAT IT NEEDS\n- A watch with a pool swim or open water profile\n- Your CSS (or 400/200 test times), target percentage and send-off interval in the settings of the Connect IQ app; without settings it uses a CSS of 2:00 per 100 m and automatic pool length\n- Pressing LAP marks rest and a new repeat, just like in the native pool swim profile; it also syncs the send-off clock\n- How to add: open the Pool Swim or Open Water activity, go to Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Flipturn",
+  "nl": "Flipturn is een zwem-dataveld dat je Critical Swim Speed (CSS) omzet in een live doel. In het zwembad herkent het elke baan uit de afstand die je horloge registreert en toont het het tempo per 100 van de laatste baan, hoeveel seconden je herhaling voor of achter ligt op je CSS-doel, en je SWOLF met een vermoeidheidstrend. In open water strijkt het je snelheid glad tot een rustig tempo per 100 en voorspelt het je eindtijd voor de doelafstand.\n\nHet past in elke veldgrootte: het tempo van de laatste baan in een klein vak, tempo met het verschil op je doel en SWOLF in een half scherm, en een volledig dashboard met een staafgrafiek van je banen, de vertrekklok en je totalen. Een trilling laat weten dat een baan trager was dan je doel, want tijdens het zwemmen kijk je niet op je horloge.\n\nWAT HET DOET\n- CSS uit je instellingen: vul hem direct in, of vul een 400 m- en 200 m-testtijd in en Flipturn rekent CSS = 200 / (T400 - T200)\n- Doeltempo als percentage van CSS (100 % drempel, 105 % duur) met een marge naar keuze\n- Baanherkenning met automatische badlengte (meter of yard), per baan: tijd, tempo per 100, SWOLF, slagen en afstand per slag\n- Herhalingen en rust automatisch herkend; per herhaling hoeveel seconden je voor of achter ligt op je doel\n- Vertrekklok: stel je interval in (bijvoorbeeld 100's op 1:50); telt af tijdens de rust en trilt 5 seconden vooraf en bij vertrek\n- SWOLF-trend: basislijn uit je eerste 200, daarna een voortschrijdend gemiddelde dat techniekverval in procenten toont\n- Open water: gladgestreken tempo per 100, voorspelde eindtijd voor je doelafstand, verschil met je CSS-doel\n- Trilling als een baan (of in open water een hele minuut) trager is dan doel plus marge, optionele toon en een pop-up bij vertrek\n- In open water worden tempo, verschil met je doel, rondetempo en gemiddeld tempo in het FIT-bestand opgeslagen en verschijnen ze als grafieken in Garmin Connect; in het zwembad zie je alles live op het horloge, omdat Garmin Connect IQ-velden in zwembadactiviteiten geen gegevens laat opslaan\n- Lichte en donkere achtergrond, vijf talen\n\nWAT HET NODIG HEEFT\n- Een horloge met een zwembad- of open-water-profiel\n- Je CSS (of 400/200-testtijden), doelpercentage en vertrekinterval in de instellingen van de Connect IQ-app; zonder instellingen gebruikt het een CSS van 2:00 per 100 m en een automatische badlengte\n- LAP indrukken markeert rust en een nieuwe herhaling, net als in het eigen zwembadprofiel, en zet de vertrekklok gelijk\n- Toevoegen: open de activiteit Zwembad of Open water, ga naar Instellingen / Gegevensschermen, kies een scherm en een veld en daarna Connect IQ / Flipturn",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "252",
+  "icon": "assets/icons/flipturn.png",
+  "shots": [
+   "assets/shots/flipturn-1.jpg",
+   "assets/shots/flipturn-2.jpg",
+   "assets/shots/flipturn-3.jpg"
+  ],
+  "changed": 1791205184000,
+  "whatsnew": "More robust with many lengths, odd pool settings and full FIT field slots, lower memory use and cleaner small layouts.",
+  "devices": 198,
+  "updates": 3
+ },
+ {
+  "id": "539abdd9-8c7a-4394-8355-94163ad3ed51",
+  "slug": "truepace",
+  "name": "Truepace - Pace adjusted for hills and heat",
+  "desc": "Truepace shows what your running pace is really worth. It works out the gradient from your own altitude and distance, applies the Minetti running-cost curve to turn it into grade-adjusted pace, and adds the slowdown that heat and humidity cause, using the temperature and dew point from your phone's weather. The result is one number: the pace you would be running on flat ground on a cool day for the same effort.\n\nOn a small field you see just that effort pace, coloured by your goal band. On a half field it adds GAP, the heat penalty and how far ahead or behind your goal finish you are. As a full screen it becomes a dashboard with a ten-minute effort graph, gradient, heat, estimated running power without any sensor, and your projected finish. Effort pace, GAP and power are saved to the FIT file, so they appear as charts in Garmin Connect.\n\nWHAT IT DOES\n- Effort pace: grade-adjusted and heat-adjusted pace in one number\n- Grade-adjusted pace (GAP) from a smoothed 50 m gradient\n- Heat penalty from temperature plus dew point, or your own manual values\n- Treadmill mode that uses your incline setting\n- Running power estimate from your weight, speed and gradient, smooth and without a sensor\n- Projected finish time against your goal, with a fade for the distance still to go\n- Vibration and tone alert when your effort drifts outside your pace band (60 s cooldown)\n- Saved to FIT: effort pace, GAP and power per second, lap effort pace, session averages\n\nWHAT IT NEEDS\n- Set goal distance, goal time and pace band in the Connect IQ app (defaults: 10 km in 50:00, ±10 s)\n- Phone weather for automatic heat, or enter temperature and dew point yourself\n- How to add: start a run activity / Settings / Data Screens / choose a screen / edit a field / Connect IQ / Truepace",
+  "nl": "Truepace laat zien wat je looptempo echt waard is. Hij rekent de helling uit je eigen hoogte en afstand, zet die met de Minetti-kostencurve om in hellingtempo, en telt de vertraging door hitte en vocht erbij, op basis van temperatuur en dauwpunt uit het weer van je telefoon. Het resultaat is één getal: het tempo dat je met dezelfde inzet op vlak terrein op een koele dag zou lopen.\n\nIn een klein veld zie je alleen dat inzet-tempo, gekleurd naar je doelband. In een half veld komen daar hellingtempo, de hitte-toeslag en je voorsprong of achterstand op je doeltijd bij. Als volledig scherm wordt het een dashboard met een grafiek van tien minuten, helling, hitte, geschat loopvermogen zonder sensor en je verwachte eindtijd. Inzet-tempo, hellingtempo en vermogen gaan mee in het FIT-bestand, zodat je ze als grafiek in Garmin Connect ziet.\n\nWAT HET DOET\n- Inzet-tempo: tempo gecorrigeerd voor helling én hitte in één getal\n- Hellingtempo (GAP) uit een gladgestreken helling over 50 m\n- Hitte-toeslag uit temperatuur plus dauwpunt, of je eigen handmatige waarden\n- Loopbandstand die je ingestelde helling gebruikt\n- Geschat loopvermogen uit gewicht, snelheid en helling, rustig en zonder sensor\n- Verwachte eindtijd tegenover je doel, met verval voor het stuk dat nog komt\n- Tril- en toonalarm als je inzet buiten je tempoband loopt (60 s rust ertussen)\n- In het FIT-bestand: inzet-tempo, hellingtempo en vermogen per seconde, per ronde en gemiddeld\n\nWAT HET NODIG HEEFT\n- Stel doelafstand, doeltijd en tempoband in via de Connect IQ-app (standaard 10 km in 50:00, ±10 s)\n- Weer van de telefoon voor automatische hitte, of vul zelf temperatuur en dauwpunt in\n- Toevoegen: start een hardloopactiviteit / Instellingen / Gegevensschermen / kies een scherm / wijzig een veld / Connect IQ / Truepace",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "251",
+  "icon": "assets/icons/truepace.png",
+  "shots": [
+   "assets/shots/truepace-1.jpg",
+   "assets/shots/truepace-2.jpg",
+   "assets/shots/truepace-3.jpg"
+  ],
+  "changed": 1791205187000,
+  "whatsnew": "Fixes: FIT recording is more robust, the finish shows your real finish time relative to the goal once you reach it, lap splits are handled safely, the alert text fits the screen, and memory use on smaller watches is lower.",
+  "devices": 201,
+  "updates": 3
+ },
+ {
+  "id": "f8e21748-d755-4870-8362-38d385f12e3b",
+  "slug": "waymark",
+  "name": "Waymark - ETA with climbing",
+  "desc": "Waymark tells you when you will really arrive on a hilly route. Instead of dividing the distance by your current speed, it uses the Alpine club walking-time formula that counts every metre of climbing and descending, and it learns your own flat, uphill and downhill pace while you move. Breaks and a gradual slowdown over a long day are taken into account.\n\nAdd your aid stations and cut-offs and the field shows the arrival time at the next station and how much buffer you have on its cut-off, in green, orange or red. It also works out civil dusk at your position and tells you whether you finish before dark. The full-screen view adds a route bar with your altitude profile, the stations and the point where it gets dark.\n\nWHAT IT DOES\n- Arrival time at the finish that accounts for the climbing and descending still ahead\n- Learns your own pace on flat, uphill and downhill sections during the activity\n- Next aid station: arrival time and buffer on its cut-off, plus a finish cut-off\n- Minutes of daylight left at arrival, with an alert if you will finish after dark\n- Alert when your buffer on a cut-off drops below your limit\n- Adapts to every field size: small, half screen and a full-screen dashboard\n- Saves time left, cut-off buffer, predicted finish and pace index to your activity file\n- Modes for hiking, trail running and gravel/MTB, or your own speeds\n\nWHAT IT NEEDS\n- A course on the device, or the total distance and ascent in the settings\n- Aid stations and cut-offs are optional, set in the Garmin Connect app\n- How to add: start the activity, open Settings / Data Screens, pick a field and choose Connect IQ / Waymark\n- On older and smaller watches with little memory, daylight and the graphs are not available",
+  "nl": "Waymark vertelt wanneer je echt aankomt op een route met hoogtemeters. In plaats van de afstand door je huidige snelheid te delen gebruikt het de looptijdformule van de Alpenverenigingen, die elke meter stijgen en dalen meetelt, en het leert tijdens het bewegen je eigen tempo op vlak, bergop en bergaf. Pauzes en langzaam vertragen over een lange dag worden meegenomen.\n\nZet je verzorgingsposten en limieten erin en het veld toont de aankomsttijd bij de volgende post en hoeveel buffer je op de limiet hebt, in groen, oranje of rood. Het rekent ook de schemering op je positie uit en zegt of je voor donker binnen bent. Op het volle scherm komt er een routebalk bij met je hoogteprofiel, de posten en het punt waar het donker wordt.\n\nWAT HET DOET\n- Aankomsttijd bij de finish die rekening houdt met het klimmen en dalen dat nog komt\n- Leert tijdens de activiteit je eigen tempo op vlak, bergop en bergaf\n- Volgende post: aankomsttijd en buffer op de limiet, plus een finish-limiet\n- Minuten daglicht over bij aankomst, met een alarm als je na donker binnenkomt\n- Alarm als je buffer op een limiet onder je grens zakt\n- Past zich aan elke veldgrootte aan: klein, half scherm en een volledig dashboard\n- Slaat resttijd, buffer, voorspelde finish en tempo-index op in je activiteit\n- Standen voor wandelen, trailrunnen en gravel/MTB, of je eigen snelheden\n\nWAT HET NODIG HEEFT\n- Een course op het toestel, of de totale afstand en stijging in de instellingen\n- Posten en limieten zijn optioneel, in te stellen in de Garmin Connect-app\n- Toevoegen: start de activiteit, open Instellingen / Gegevensschermen, kies een veld en dan Connect IQ / Waymark\n- Op oudere en kleine horloges met weinig geheugen ontbreken daglicht en de grafieken",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "182",
+  "icon": "assets/icons/waymark.png",
+  "shots": [
+   "assets/shots/waymark-1.jpg",
+   "assets/shots/waymark-2.jpg",
+   "assets/shots/waymark-3.jpg"
+  ],
+  "changed": 1791205191000,
+  "whatsnew": "More reliable ETA on very long routes, sturdier settings handling and no more missing letters on the PLAN screen.",
+  "devices": 235,
+  "updates": 3
+ },
+ {
+  "id": "f4c1c1f5-dc19-4546-9b17-726765b5367f",
+  "slug": "bonkline",
+  "name": "Bonkline - Fuel & bonk timer",
+  "desc": "Bonkline is a data field that keeps a live estimate of your carbohydrate tank during any endurance activity. It works out how many carbs you burn at your current heart rate, adds what you have eaten once your gut has absorbed it, and tells you how long you have before the tank runs low and when to eat next.\n\nWhen it is time to eat, the watch vibrates, beeps and shows a full-screen reminder with the portion to take. Tap the field (touch devices) or press the lap button (optional setting) to log what you ate. The alerts have a cooldown, so they never fire every second, and there are no ads or donation pop-ups.\n\nWHAT IT DOES\n- Carbohydrate tank in % with a time-to-bonk estimate at your current intensity\n- Carb burn from calories and heart-rate intensity, so an easy spin and a hard climb count differently\n- Intake with an absorption delay and a gut limit (60, 90 or 120 g/h)\n- Eat-now alert when the tank will drop below your threshold within 20 minutes, or when your eating interval is up\n- Grams per hour against your target\n- Full-screen view with the tank curve, a projection for the next hour and marks for every portion eaten\n- Adapts to every field size, from a single number to a full dashboard, on dark and light backgrounds\n- Tank %, total carbs, carbs per lap and lowest tank are saved to the activity and shown in Garmin Connect\n- Settings for portion size, target, interval, threshold, carb loading, weight and more; five languages\n\nWHAT IT NEEDS\n- Heart rate for the intensity estimate; weight, age and resting heart rate are read from your Garmin profile\n- How to add: start an activity, open Settings / Data Screens, pick a screen, select a field and choose Connect IQ / Bonkline\n- The numbers are an estimate to help plan your fuelling, not a measurement",
+  "nl": "Bonkline is een dataveld dat tijdens elke duursport een live schatting bijhoudt van je koolhydraattank. Het rekent uit hoeveel koolhydraten je verbrandt bij je huidige hartslag, telt je inname erbij zodra je darm die heeft opgenomen, en laat zien hoe lang je nog hebt voordat de tank leeg raakt en wanneer je weer moet eten.\n\nIs het tijd om te eten, dan trilt en piept het horloge en verschijnt er een melding over het hele scherm met de portie die je moet nemen. Tik op het veld (touchtoestellen) of druk op de rondeknop (instelling) om te loggen wat je at. De alarmen hebben een afkoeltijd, dus ze gaan nooit elke seconde af, en er zijn geen advertenties of donatiepop-ups.\n\nWAT HET DOET\n- Koolhydraattank in % met een schatting van de tijd tot de hongerklop bij je huidige inspanning\n- Koolhydraatverbruik uit calorieën en hartslagintensiteit, dus rustig fietsen en een zware klim tellen verschillend\n- Inname met opnamevertraging en darmlimiet (60, 90 of 120 g/u)\n- Eet-nu-alarm als de tank binnen 20 minuten onder je drempel zakt, of als je eetinterval voorbij is\n- Gram per uur tegenover je doel\n- Volledig scherm met de tankcurve, een vooruitblik op het komende uur en een streepje voor elke portie\n- Past zich aan elke veldgrootte aan, van één getal tot een volledig dashboard, op donkere en lichte achtergrond\n- Tank %, totale koolhydraten, koolhydraten per ronde en de laagste tank worden in de activiteit opgeslagen en in Garmin Connect getoond\n- Instellingen voor portie, doel, interval, drempel, carboloading, gewicht en meer; vijf talen\n\nWAT HET NODIG HEEFT\n- Hartslag voor de inspanningsschatting; gewicht, leeftijd en rusthartslag komen uit je Garmin-profiel\n- Toevoegen: start een activiteit, open Instellingen / Gegevensschermen, kies een scherm, selecteer een veld en kies Connect IQ / Bonkline\n- De cijfers zijn een schatting om je voeding te plannen, geen meting",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "183",
+  "icon": "assets/icons/bonkline.png",
+  "shots": [
+   "assets/shots/bonkline-1.jpg",
+   "assets/shots/bonkline-2.jpg",
+   "assets/shots/bonkline-3.jpg"
+  ],
+  "changed": 1791205202000,
+  "whatsnew": "Leaner memory on older watches and no lost carbs when you log very often.",
+  "devices": 228,
+  "updates": 3
+ },
+ {
+  "id": "af54a959-2564-4117-8de7-7e1e90b807b5",
+  "slug": "nappr",
+  "name": "Nappr - Smart power nap",
+  "desc": "Nappr times your nap from the moment you actually fall asleep, not from the moment you lie down. It watches your heart rate settle below your resting level and your wrist go still, marks the minute you drifted off, and wakes you with a soft vibration that builds up after the nap length you chose — 10, 20, 26 or 90 minutes — with a hard maximum so a nap never runs away with your afternoon.\n\nAfter each nap you see how long it took to fall asleep, how long you slept, how far your heart rate dropped and whether grogginess is likely, plus a minute-by-minute strip of the nap. The history shows your average time to fall asleep and your naps this week, and the start screen uses that average to tell you roughly when you will be up.\n\nWHAT IT DOES\n- Detects falling asleep from heart-rate drop plus stillness, with a motion-only fallback\n- Four nap lengths: quick 10, power 20, NASA 26 and a full 90-minute cycle\n- Smart wake in cycle mode: wakes you on the first movement in the last 10 minutes\n- A maximum nap time that always ends the nap, even if you never fell asleep\n- Gentle alarm in three rising steps, adjustable strength, optional tone, 5-minute snooze\n- Last-nap summary with a sleep strip, grogginess estimate and heart-rate drop\n- History, averages, five languages and a glance with the wake time\n\nWHAT IT NEEDS\n- A watch with a wrist heart-rate sensor for the best detection; without heart rate it uses stillness only\n- Keep the app open during the nap: the watch stops app timers when you leave it",
+  "nl": "Nappr telt je dutje vanaf het moment dat je echt in slaap valt, niet vanaf het moment dat je gaat liggen. Het ziet je hartslag onder je rustniveau zakken en je pols stil worden, onthoudt de minuut waarop je wegzakte en wekt je na de gekozen duur — 10, 20, 26 of 90 minuten — met een zachte trilling die aanzwelt, met een harde bovengrens zodat een dutje nooit je hele middag opslokt.\n\nNa elk dutje zie je hoe lang inslapen duurde, hoe lang je sliep, hoeveel je hartslag daalde en of je waarschijnlijk suf wakker wordt, plus een strookje per minuut. De historie toont je gemiddelde inslaaptijd en je dutjes deze week, en het startscherm gebruikt dat gemiddelde om te zeggen hoe laat je ongeveer weer op bent.\n\nWAT HET DOET\n- Herkent inslapen aan hartslagdaling plus stilliggen, met een terugval op alleen beweging\n- Vier lengtes: kort 10, power 20, NASA 26 en een hele cyclus van 90 minuten\n- Slim wekken in cyclusmodus: bij de eerste beweging in de laatste 10 minuten\n- Een maximumtijd die het dutje altijd beëindigt, ook als je niet in slaap viel\n- Zachte wekker in drie aanzwellende trappen, instelbare sterkte, optionele toon, snooze van 5 minuten\n- Samenvatting van het laatste dutje met slaapstrook, sufheid-inschatting en hartslagdaling\n- Historie, gemiddelden, vijf talen en een glance met de wektijd\n\nWAT HET NODIG HEEFT\n- Een horloge met polshartslag voor de beste herkenning; zonder hartslag telt alleen stilliggen\n- Houd de app open tijdens het dutje: het horloge stopt app-timers als je hem verlaat",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.2",
+  "category": "219",
+  "icon": "assets/icons/nappr.png",
+  "shots": [
+   "assets/shots/nappr-1.jpg",
+   "assets/shots/nappr-2.jpg",
+   "assets/shots/nappr-3.jpg"
+  ],
+  "changed": 1790777960000,
+  "whatsnew": "The glance now counts this week's naps correctly even when the app hasn't been opened.",
+  "devices": 185,
+  "updates": 3
+ },
+ {
   "id": "ae6a02b0-bfad-4982-9d9c-d2754c2098c1",
   "slug": "paddledeck",
   "name": "Paddledeck - all-in-one paddling field",
@@ -644,52 +782,6 @@
   "updates": 2
  },
  {
-  "id": "c0f75d95-4a66-42b5-80a9-7a82589dd044",
-  "slug": "evensplit",
-  "name": "Evensplit - lap comparison",
-  "desc": "Evensplit compares the lap you are running right now with your previous lap and with your average lap. It keeps a ghost of the previous lap and tells you, second by second, how far ahead or behind you are at the same distance, and it predicts the time you will finish this lap in. It works for running, cycling, swimming and any sport with laps, with auto-lap or the lap button.\n\nIt fits every field size: the gap to the previous lap in a small slot, the lap pace with an arrow, the gap and the predicted lap time in half a screen, and a full screen with a table of your last laps, the average lap, a comparison of pace, heart rate, power and cadence, your negative split over the whole session and how even your laps are.\n\nWHAT IT DOES\n- Ghost of the previous lap: gap in seconds at the same distance, green when ahead, red when behind\n- Lap prediction: finish time of this lap at your current pace, and whether you will beat the previous one\n- Lap table of the last laps and the average lap, heart rate in Garmin zone colors\n- This lap vs previous lap vs average lap for pace or speed, heart rate, power and cadence, with arrows and colored differences\n- Knows auto-lap by distance or by time, and work/rest intervals: a hard lap is compared with the previous hard lap\n- Negative split over the session (second half minus first half) and the spread of your lap paces\n- Optional vibration, beep and pop-up when you fall behind the previous lap, and a lap summary pop-up\n- Gap, lap pace difference, lap spread and split saved to the FIT file\n- Pace or speed chosen from your sport, or power or heart rate indoors; sun mode with high contrast; five languages\n\nWHAT IT NEEDS\n- Laps: auto-lap or the lap button (before the first lap it assumes 1 km or 1 mile)\n- Optional in the settings of the Connect IQ app: compare by pace, speed, power or heart rate, compare with the previous or the best lap, a fixed lap length, the alert threshold and colors\n- On watches with little memory for data fields (such as fenix 6, Forerunner 55, Instinct 2) the full-screen table, pop-ups, interval detection and the ghost at the same distance are left out; the gap is then based on the average pace of the previous lap\n- How to add: start an activity, open Settings, then Data Screens, pick a screen and a field, then choose Connect IQ and Evensplit",
-  "nl": "Evensplit vergelijkt de ronde die je nu loopt met je vorige ronde en met je gemiddelde ronde. Het houdt een spookloper van de vorige ronde bij en laat per seconde zien hoeveel je op dezelfde afstand voor of achter ligt, en het voorspelt de eindtijd van deze ronde. Het werkt bij hardlopen, fietsen, zwemmen en elke sport met rondes, met auto-lap of de rondeknop.\n\nHet past in elke veldgrootte: het verschil met de vorige ronde in een klein vak, het rondetempo met een pijl, het verschil en de voorspelde rondetijd op een half scherm, en een vol scherm met een tabel van je laatste rondes, de gemiddelde ronde, een vergelijking van tempo, hartslag, vermogen en cadans, je negatieve split over de hele sessie en hoe gelijkmatig je rondes zijn.\n\nWAT HET DOET\n- Spookloper van de vorige ronde: verschil in seconden op dezelfde afstand, groen als je voor ligt, rood als je achter ligt\n- Rondevoorspelling: eindtijd van deze ronde bij je huidige tempo, en of je de vorige gaat verslaan\n- Tabel van de laatste rondes en de gemiddelde ronde, hartslag in de zonekleuren van Garmin\n- Deze ronde vs vorige ronde vs gemiddelde ronde voor tempo of snelheid, hartslag, vermogen en cadans, met pijlen en gekleurde verschillen\n- Herkent auto-lap op afstand of op tijd, en werk/rust-intervallen: een harde ronde wordt met de vorige harde ronde vergeleken\n- Negatieve split over de sessie (tweede helft min eerste helft) en de spreiding van je rondetempo's\n- Optioneel trillen, piepen en een pop-up als je achter raakt op de vorige ronde, en een pop-up met de rondesamenvatting\n- Verschil, tempoverschil per ronde, spreiding en split opgeslagen in het FIT-bestand\n- Tempo of snelheid gekozen op basis van je sport, of vermogen of hartslag binnen; zonmodus met hoog contrast; vijf talen\n\nWAT HET NODIG HEEFT\n- Rondes: auto-lap of de rondeknop (voor de eerste ronde gaat het uit van 1 km of 1 mijl)\n- Optioneel in de instellingen van de Connect IQ-app: vergelijken op tempo, snelheid, vermogen of hartslag, met de vorige of de beste ronde, een vaste rondelengte, de waarschuwingsdrempel en kleuren\n- Op horloges met weinig geheugen voor gegevensvelden (zoals fenix 6, Forerunner 55, Instinct 2) vallen de volle-schermtabel, pop-ups, intervalherkenning en de spookloper op dezelfde afstand weg; het verschil gaat dan uit van het gemiddelde tempo van de vorige ronde\n- Toevoegen: start een activiteit, open Instellingen, dan Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ en Evensplit",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.1",
-  "category": "183",
-  "icon": "assets/icons/evensplit.png",
-  "shots": [
-   "assets/shots/evensplit-1.jpg",
-   "assets/shots/evensplit-2.jpg",
-   "assets/shots/evensplit-3.jpg"
-  ],
-  "changed": 1790701890000,
-  "whatsnew": "Fixes: heart-rate zones from your profile are handled safely even when they are missing or unusual, and power detection resets correctly when you start a new activity.",
-  "devices": 228,
-  "updates": 2
- },
- {
-  "id": "3f3c8e51-2137-4007-8105-a844e7fa0504",
-  "slug": "karvonen",
-  "name": "Karvonen - HR zones & effort",
-  "desc": "Karvonen is a heart rate data field for every sport. Your current zone fills the field in the same colours as Garmin Connect (Z1 grey, Z2 blue, Z3 green, Z4 orange, Z5 red), with the zone as a decimal (Z2.7) and your heart rate as % of max or % of heart rate reserve. Bars show how long you have spent in each zone, and a zone goal counts down (\"Z2 12:30\") and vibrates when you reach it.\n\nThe effort score is open about how it is calculated. Banister TRIMP adds up, for every minute, x · 0.64 · e^(1.92 · x) (0.86 · e^(1.67 · x) for women), where x is your heart rate reserve fraction (HR − rest) / (max − rest). Edwards TRIMP simply multiplies the minutes in each zone by the zone number. Aerobic drift compares your pace (or power) per heartbeat in the first and second half of the session after a 5-minute warm-up: under 5 % means your aerobic engine held steady.\n\nWHAT IT DOES\n- Current zone as a big colour, heart rate, zone with one decimal and %HRmax or %HRR (Karvonen)\n- Time-in-zone bars for Z1 to Z5, with minutes in the full-screen view\n- Zone goal (for example 30 min in Z2) with a countdown, vibration, beep and full-screen alert when done\n- Optional alert when you stay above a chosen zone for 20 seconds, with a 2-minute cooldown\n- Live effort score: Banister TRIMP or Edwards TRIMP, formula explained above\n- Aerobic drift (Pa:HR decoupling) from speed or, when a power meter is connected, power\n- Clock and elapsed time (h:mm:ss) in the full-screen view\n- Adapts to every field size, from one number to a full dashboard; colours follow the screen or are set to dark, light or high contrast for bright sun\n- Effort, HR zone, lap effort and aerobic drift are saved to the activity and shown as charts in Garmin Connect\n\nWHAT IT NEEDS\n- A heart rate sensor (wrist or strap); zones, max and resting heart rate are read from your Garmin profile and can be overridden in the settings\n- How to add: start an activity, open Settings / Data Screens, pick a screen, select a field and choose Connect IQ / Karvonen\n- The numbers are training estimates, not a medical measurement",
-  "nl": "Karvonen is een hartslag-gegevensveld voor elke sport. Je huidige zone vult het veld in dezelfde kleuren als Garmin Connect (Z1 grijs, Z2 blauw, Z3 groen, Z4 oranje, Z5 rood), met de zone als decimaal (Z2,7) en je hartslag als % van max of % van de hartslagreserve. Staafjes tonen hoe lang je in elke zone zat, en een zonedoel telt af (\"Z2 12:30\") en trilt als je het haalt.\n\nDe inspanningsscore laat zien hoe hij rekent. Banister-TRIMP telt per minuut x · 0,64 · e^(1,92 · x) op (0,86 · e^(1,67 · x) voor vrouwen), met x het deel van je hartslagreserve (HS − rust) / (max − rust). Edwards-TRIMP vermenigvuldigt de minuten per zone met het zonenummer. Aerobe drift vergelijkt je tempo (of vermogen) per hartslag in de eerste en tweede helft van de sessie, na 5 minuten warming-up: onder 5 % betekent dat je aerobe motor stabiel bleef.\n\nWAT HET DOET\n- Huidige zone als grote kleur, hartslag, zone met één decimaal en %HSmax of %HSR (Karvonen)\n- Staafjes tijd per zone voor Z1 tot Z5, met minuten in de volle weergave\n- Zonedoel (bijvoorbeeld 30 min in Z2) met aftellen, trillen, piep en melding op het hele scherm als het gehaald is\n- Optioneel alarm als je 20 seconden boven een gekozen zone blijft, met 2 minuten rust ertussen\n- Live inspanningsscore: Banister-TRIMP of Edwards-TRIMP, formule hierboven uitgelegd\n- Aerobe drift (Pa:HR-ontkoppeling) uit snelheid of, met een vermogensmeter, uit vermogen\n- Klok en verstreken tijd (u:mm:ss) in de volle weergave\n- Past zich aan elke veldgrootte aan, van één getal tot een volledig dashboard; kleuren volgen het scherm of staan op donker, licht of hoog contrast voor fel zonlicht\n- Inspanning, hartslagzone, inspanning per ronde en aerobe drift worden in de activiteit bewaard en als grafiek getoond in Garmin Connect\n\nWAT HET NODIG HEEFT\n- Een hartslagsensor (pols of band); zones, max- en rusthartslag komen uit je Garmin-profiel en zijn in de instellingen aan te passen\n- Toevoegen: start een activiteit, open Instellingen / Gegevensschermen, kies een scherm, selecteer een veld en kies Connect IQ / Karvonen\n- De getallen zijn trainingsschattingen, geen medische meting",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "185",
-  "icon": "assets/icons/karvonen.png",
-  "shots": [
-   "assets/shots/karvonen-1.jpg",
-   "assets/shots/karvonen-2.jpg",
-   "assets/shots/karvonen-3.jpg"
-  ],
-  "changed": 1790783272000,
-  "whatsnew": "The effort score for women now uses the correct Banister factor.",
-  "devices": 228,
-  "updates": 3
- },
- {
   "id": "a586da27-3a17-456c-b55f-34579423f678",
   "slug": "stridedeck",
   "name": "Stridedeck - all-in-one running field",
@@ -730,10 +822,10 @@
    "assets/shots/trailmix-2.jpg",
    "assets/shots/trailmix-3.jpg"
   ],
-  "changed": 1790783481000,
+  "changed": 1791205860000,
   "whatsnew": "Correcting your food no longer resets your position or pace, and the glance now counts down the days to your next resupply without opening the app.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "97598093-b2dc-46eb-9921-49c223ae648c",
@@ -744,7 +836,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.3",
   "category": "208",
   "icon": "assets/icons/muhurta.png",
@@ -753,10 +845,10 @@
    "assets/shots/muhurta-2.jpg",
    "assets/shots/muhurta-3.jpg"
   ],
-  "changed": 1790783903000,
+  "changed": 1791205865000,
   "whatsnew": "The glance now stays current for about a week: upcoming tithis and Rahu Kalam without opening the app.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "07a9433a-d6a4-40e4-a57f-7b53154037d9",
@@ -776,10 +868,10 @@
    "assets/shots/mooncake-2.jpg",
    "assets/shots/mooncake-3.jpg"
   ],
-  "changed": 1790710515000,
+  "changed": 1791205872000,
   "whatsnew": "Fixed the converter losing the chosen day while a year loads and capped the calendar cache so storage no longer fills up.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "a46b792b-4814-4043-8eb4-063a5e17d00f",
@@ -799,10 +891,10 @@
    "assets/shots/cull-2.jpg",
    "assets/shots/cull-3.jpg"
   ],
-  "changed": 1790711022000,
+  "changed": 1791205875000,
   "whatsnew": "Clearing records now also updates the records list, and saved catches load more safely.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "7d5ab78f-706c-4b69-92af-e09e7c6e8846",
@@ -822,10 +914,10 @@
    "assets/shots/leapload-2.jpg",
    "assets/shots/leapload-3.jpg"
   ],
-  "changed": 1790806198000,
+  "changed": 1791205879000,
   "whatsnew": "The glance now stays current on days you do not open the app, deleting a session after midnight corrects the right day, and one session or jump now uses the singular.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "a964a4a1-5f3c-4cf4-8a8a-d7da97c5b9ca",
@@ -845,10 +937,10 @@
    "assets/shots/sixball-2.jpg",
    "assets/shots/sixball-3.jpg"
   ],
-  "changed": 1790734496000,
+  "changed": 1791205882000,
   "whatsnew": "Faster scoring in long matches and safer storage limits.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "f1441bd8-cc0f-44ce-9ae2-2295827405c0",
@@ -891,10 +983,10 @@
    "assets/shots/propwash-2.jpg",
    "assets/shots/propwash-3.jpg"
   ],
-  "changed": 1790784047000,
+  "changed": 1791205886000,
   "whatsnew": "The glance now follows the hourly forecast: current GO status and best hour without opening the app.",
   "devices": 162,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "2bf457d8-1a2e-4cf0-8248-5d8e862d3da0",
@@ -914,10 +1006,10 @@
    "assets/shots/meridia-2.jpg",
    "assets/shots/meridia-3.jpg"
   ],
-  "changed": 1790620803000,
+  "changed": 1791205889000,
   "whatsnew": "The menu icon on the last page shows where to open settings, and durations and clock-change hints read correctly in every language.",
   "devices": 160,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "f387d927-aa24-4880-9b6d-dbd336ab5d11",
@@ -960,10 +1052,10 @@
    "assets/shots/driftline-2.jpg",
    "assets/shots/driftline-3.jpg"
   ],
-  "changed": 1790807001000,
+  "changed": 1791205892000,
   "whatsnew": "Shows \"1 test\" instead of \"1 tests\".",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "46983d57-7a1d-4fdc-8d63-4252165b3769",
@@ -983,10 +1075,10 @@
    "assets/shots/balk-2.jpg",
    "assets/shots/balk-3.jpg"
   ],
-  "changed": 1790734591000,
+  "changed": 1791205896000,
   "whatsnew": "Undo stays exact in long games, stored data is more robust and a full rest calendar no longer runs out of memory.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "302b820a-8d92-43da-a970-67e8a39ad759",
@@ -1006,10 +1098,10 @@
    "assets/shots/purlwise-2.jpg",
    "assets/shots/purlwise-3.jpg"
   ],
-  "changed": 1790734707000,
+  "changed": 1791205901000,
   "whatsnew": "Saved projects load more safely, storage stays within the watch limits and long reminder lists open quickly in pages.",
   "devices": 178,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "22bbc797-23db-483e-86f7-696f58a25839",
@@ -1029,10 +1121,10 @@
    "assets/shots/stillpoint-2.jpg",
    "assets/shots/stillpoint-3.jpg"
   ],
-  "changed": 1790787516000,
+  "changed": 1791205904000,
   "whatsnew": "The glance now shows the correct protocol day even if you have not opened the app.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "c2e849fc-b763-4f82-a5f6-6d4b47e204bf",
@@ -1052,10 +1144,10 @@
    "assets/shots/burnpoint-2.jpg",
    "assets/shots/burnpoint-3.jpg"
   ],
-  "changed": 1790720006000,
+  "changed": 1791205924000,
   "whatsnew": "Safer loading of saved workouts and settings.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "0b2a7a49-a924-4583-8e5e-62668829d6dc",
@@ -1075,10 +1167,10 @@
    "assets/shots/greyline-2.jpg",
    "assets/shots/greyline-3.jpg"
   ],
-  "changed": 1790788592000,
+  "changed": 1791205927000,
   "whatsnew": "The glance QSO count now resets at 00:00 UTC, just like in the app.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "32407a88-858a-4e07-8025-2723e8850525",
@@ -1098,10 +1190,10 @@
    "assets/shots/ninety-2.jpg",
    "assets/shots/ninety-3.jpg"
   ],
-  "changed": 1790789040000,
+  "changed": 1791205931000,
   "whatsnew": "The glance now stays accurate for 30 days without opening the app.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "dd26069c-fd6b-4b7b-9ce5-2858888b72cb",
@@ -1121,10 +1213,10 @@
    "assets/shots/kickwax-2.jpg",
    "assets/shots/kickwax-3.jpg"
   ],
-  "changed": 1790789160000,
+  "changed": 1791205935000,
   "whatsnew": "The glance no longer shows yesterday's wax; weather-based advice expires after your race window.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "eb323f3f-b54f-4140-abb3-4b86827d3a99",
@@ -1144,10 +1236,10 @@
    "assets/shots/swelt-2.jpg",
    "assets/shots/swelt-3.jpg"
   ],
-  "changed": 1790790718000,
+  "changed": 1791205940000,
   "whatsnew": "The glance now shows your current acclimation, including the decay since you last opened the app.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "542eec60-a9f7-47d8-9037-49a0c1221959",
@@ -1167,10 +1259,10 @@
    "assets/shots/schuss-2.jpg",
    "assets/shots/schuss-3.jpg"
   ],
-  "changed": 1790896215000,
+  "changed": 1791206179000,
   "whatsnew": "Long ski days and a full history now save with far less memory and start up faster on older watches, a smoother altitude profile, the glance shows the date of your last ski day, correct singular for a single run, and long trip totals fit on screen.",
   "devices": 159,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "1bebbca2-3389-4b1f-968d-d24553c1dd96",
@@ -1190,10 +1282,10 @@
    "assets/shots/marks-2.jpg",
    "assets/shots/marks-3.jpg"
   ],
-  "changed": 1790735129000,
+  "changed": 1791206652000,
   "whatsnew": "Saved bows and courses are now checked and repaired on load, so older data can no longer confuse the sight marks.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "8f86ef23-a8de-4ff1-97a7-33e4ebccc2f5",
@@ -1213,10 +1305,10 @@
    "assets/shots/canter-2.jpg",
    "assets/shots/canter-3.jpg"
   ],
-  "changed": 1790807412000,
+  "changed": 1791206769000,
   "whatsnew": "Rides around a daylight saving change now count in the right week, and the gait label menu now says \"1 label\" instead of \"1 labels\".",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "32db9931-ba0c-4e4b-8b7b-9d5a11a2ba47",
@@ -1236,10 +1328,10 @@
    "assets/shots/stand-2.jpg",
    "assets/shots/stand-3.jpg"
   ],
-  "changed": 1790830769000,
+  "changed": 1791206788000,
   "whatsnew": "Text on the home screen, hour chart and log no longer runs into the edge on smaller watches.",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "9a0b092a-a668-4d54-8535-10f9693d6d43",
@@ -1259,10 +1351,10 @@
    "assets/shots/sprintr-2.jpg",
    "assets/shots/sprintr-3.jpg"
   ],
-  "changed": 1790830943000,
+  "changed": 1791206792000,
   "whatsnew": "Session dates stay correct around daylight saving changes, one session or sprint now reads in the singular (also in the glance), and the heatmap no longer crashes older watches after a long session.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "d555d45f-cc9c-4229-85d7-4ce515f8c534",
@@ -1282,10 +1374,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1790828035000,
+  "changed": 1791206798000,
   "whatsnew": "Settings are now shown at the top of the start screen, speed has a proper up/down setter, and you can discard a swim when stopping.",
   "devices": 185,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
@@ -1305,10 +1397,10 @@
    "assets/shots/coil-2.jpg",
    "assets/shots/coil-3.jpg"
   ],
-  "changed": 1790809606000,
+  "changed": 1791206804000,
   "whatsnew": "The glance now says \"1 find\" instead of \"1 finds\".",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "303690e7-1f6e-4f1f-ad0b-841187866a1a",
@@ -1328,10 +1420,10 @@
    "assets/shots/recruit-2.jpg",
    "assets/shots/recruit-3.jpg"
   ],
-  "changed": 1790809910000,
+  "changed": 1791206810000,
   "whatsnew": "The beep test now gives adults a realistic VO2max (adult Léger formula from age 18).",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "52e3403d-fd0f-4642-877d-c623a017705e",
@@ -1351,10 +1443,10 @@
    "assets/shots/gravid-2.jpg",
    "assets/shots/gravid-3.jpg"
   ],
-  "changed": 1790811056000,
+  "changed": 1791206814000,
   "whatsnew": "Dates now show correctly in time zones far east of UTC, one day or one counting session uses the singular, and the glance no longer cuts off the days line.",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "0e80d313-7f2b-4c2b-ad2b-c4fee937fc40",
@@ -1397,10 +1489,10 @@
    "assets/shots/airtime-2.jpg",
    "assets/shots/airtime-3.jpg"
   ],
-  "changed": 1790811626000,
+  "changed": 1791207943000,
   "whatsnew": "Shows \"1 jump\" instead of \"1 jumps\", also in the glance.",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "b3dc4fa0-011c-4988-97f1-8b4bcbe5b61d",
@@ -1420,10 +1512,10 @@
    "assets/shots/rime-2.jpg",
    "assets/shots/rime-3.jpg"
   ],
-  "changed": 1790812351000,
+  "changed": 1791207952000,
   "whatsnew": "The title of the forecast breakdown page is no longer cut off on smaller screens.",
   "devices": 133,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "787aaac9-6bff-43b8-a1dc-a83f1db77154",
@@ -1443,22 +1535,22 @@
    "assets/shots/plates-2.jpg",
    "assets/shots/plates-3.jpg"
   ],
-  "changed": 1790812707000,
+  "changed": 1791207959000,
   "whatsnew": "Stored profile points are read more robustly, and the profile page now says \"1 point\" instead of \"1 points\".",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "ae16ee36-8dde-4387-a461-3e4af1140b2c",
   "slug": "splitr",
   "name": "Rowcast - Rowing with PM5 and FTMS",
-  "desc": "Rowcast is a rowing app for your watch. It connects to your rowing machine first — a Concept2 PM5 or any rower that speaks Bluetooth FTMS — and then starts the piece: metres, split, stroke rate and watts come straight from the machine, the activity is saved in Garmin Connect with your heart rate, and when your PM5 workout ends, Rowcast stops and saves on its own. No machine? It rows on your wrist instead.\n\nRowcast builds a picture of your rowing out of the times you have already done. Enter a distance and the time you rowed it in, add a second one over another distance, and it fits critical speed and D' to your own points: the pace you can hold, and the metres you have on top of it. From that it works out critical power in watts with the Concept2 formula, and predicts your 2k.\n\nThat prediction is checked against Paul's law, which adds about five seconds per 500 metres for every doubling of the distance — when the two estimates drift apart the app says so instead of quietly picking one. Set a target time and it lays out a split plan over four times 500 metres, even, negative or race-shaped, with the power each split asks for. Start a piece on the erg or on the water and the watch shows your split right now, the metres, your stroke rate, and how many seconds you are ahead of or behind the plan; afterwards you type in the metres you really rowed and it corrects its own distance per stroke.\n\nWHAT IT DOES\n- Critical speed and D' fitted by least squares to your own distances and times\n- Critical power and the watts of every split, with the Concept2 formula P = 2.80/pace³\n- A 2k prediction from the model, with Paul's law beside it as a second, independent estimate\n- Predicted times and splits for 500 m, 1k, 5k, 6k and 10k from the same model\n- Connects to your rowing machine over Bluetooth: Concept2 PM5 and every rower that speaks FTMS (the Bluetooth standard used by most connected rowers) — then the metres, split, stroke rate and watts come straight from the machine\n- Every piece is saved as a rowing activity in Garmin Connect, with your heart rate, distance, power and stroke rate\n- Save a measured piece as an effort in one tap, so the model learns from what you actually rowed\n- A split plan over four times 500 metres: even, negative or race-shaped, each split with its power\n- A live screen while rowing: split now, distance, stroke rate, metres per stroke, and seconds ahead of or behind the plan\n- A summary after every piece, and the option to type the real metres so the distance estimate gets sharper\n- The trend of your 2k prediction over time, five languages, and a glance with the prediction and its split\n\nWHAT IT NEEDS\n- Two efforts over different distances to fit the model; with one, Paul's law alone still works\n- Without a connected rowing machine: the accelerometer for stroke rate — distance is then estimated from your rhythm, not measured, and the app says so\n- The PM5 accepts one Bluetooth connection at a time, so close ErgData or other apps before you start\n- No phone, no account, no internet — everything is worked out on the watch",
-  "nl": "Rowcast is een roei-app voor je horloge. Hij verbindt eerst met je roeimachine — een Concept2 PM5 of elke roeier die Bluetooth FTMS spreekt — en start dan pas het stuk: meters, split, slagfrequentie en watts komen rechtstreeks van de machine, de activiteit komt met je hartslag in Garmin Connect, en als je PM5-workout klaar is stopt en bewaart Rowcast vanzelf. Geen machine? Dan roeit hij op je pols.\n\nRowcast bouwt een beeld van je roeien uit de tijden die je al gezet hebt. Voer een afstand in met de tijd die je erover deed, zet er een tweede op een andere afstand bij, en de app past kritieke snelheid en D′ op je eigen punten: het tempo dat je kunt volhouden, en de meters die je daar bovenop nog hebt. Daaruit volgt het kritieke vermogen in watt met de Concept2-formule, en een voorspelling van je 2k.\n\nDie voorspelling wordt getoetst aan Paul's law, die per verdubbeling van de afstand ongeveer vijf seconden per 500 meter optelt — lopen de twee schatters uit elkaar, dan zegt de app dat in plaats van er stilletjes één te kiezen. Geef een doeltijd op en er komt een splitplan over vier keer 500 meter uit, vlak, negatief of wedstrijdvorm, met het vermogen dat bij elke split hoort. Start een stuk op de ergometer of op het water en het horloge toont de split van dit moment, de meters, je slagfrequentie en hoeveel seconden je voor of achter op het plan ligt; achteraf tik je de meters in die je echt geroeid hebt en stelt de app zijn eigen afstand per haal bij.\n\nWAT HET DOET\n- Kritieke snelheid en D′ met kleinste kwadraten op je eigen afstanden en tijden\n- Kritiek vermogen en de watts van elke split, met de Concept2-formule P = 2,80/tempo³\n- Een 2k-voorspelling uit het model, met Paul's law ernaast als tweede, onafhankelijke schatter\n- Voorspelde tijden en splits voor 500 m, 1k, 5k, 6k en 10k uit hetzelfde model\n- Verbindt met je roeimachine via Bluetooth: Concept2 PM5 en elke roeier die FTMS spreekt (de Bluetooth-standaard die de meeste verbonden roeiers gebruiken) — dan komen de meters, split, slagfrequentie en watts rechtstreeks van de machine\n- Elk stuk wordt opgeslagen als roeiactiviteit in Garmin Connect, met je hartslag, afstand, vermogen en slagfrequentie\n- Een gemeten stuk met één tik opslaan als inspanning, zodat het model leert van wat je echt geroeid hebt\n- Een splitplan over vier keer 500 meter: vlak, negatief of wedstrijdvorm, elke split met zijn vermogen\n- Een scherm tijdens het roeien: split van nu, afstand, slagfrequentie, meters per haal, en seconden voor of achter op het plan\n- Een samenvatting na elk stuk, en de mogelijkheid om de echte meters in te tikken zodat de afstandsschatting scherper wordt\n- Het verloop van je 2k-voorspelling, vijf talen, en een glance met de voorspelling en de bijbehorende split\n\nWAT HET NODIG HEEFT\n- Twee inspanningen over verschillende afstanden voor het model; met één werkt Paul's law nog steeds\n- Zonder verbonden roeimachine: de versnellingsmeter voor de slagfrequentie — de afstand is dan geschat uit je ritme, niet gemeten, en dat staat er ook bij\n- De PM5 accepteert één Bluetooth-verbinding tegelijk, dus sluit ErgData of andere apps voor je begint\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge uitgerekend",
+  "desc": "Rowcast is a rowing app for your watch. It connects to your rowing machine first — a Concept2 PM5 or any rower that speaks Bluetooth FTMS — and then starts the piece: metres, split, stroke rate and watts come straight from the machine, the activity is saved in Garmin Connect with your heart rate, and when your PM5 workout ends, Rowcast stops and saves on its own. No machine? It rows on your wrist instead.\n\nRowcast builds a picture of your rowing out of the times you have already done. Enter a distance and the time you rowed it in, add a second one over another distance, and it fits critical speed and D' to your own points: the pace you can hold, and the metres you have on top of it. From that it works out critical power in watts with the Concept2 formula, and predicts your 2k.\n\nWHAT IT DOES\n- Critical speed and D' fitted by least squares to your own distances and times\n- Critical power and the watts of every split, with the Concept2 formula P = 2.80/pace³\n- A 2k prediction from the model, with Paul's law beside it as a second, independent estimate\n- Predicted times and splits for 500 m, 1k, 5k, 6k and 10k from the same model\n- Connects to your rowing machine over Bluetooth: Concept2 PM5 and every rower that speaks FTMS (the Bluetooth standard used by most connected rowers) — then the metres, split, stroke rate and watts come straight from the machine\n- Every piece is saved as a rowing activity in Garmin Connect, with your heart rate, distance, power and stroke rate\n- Set a goal — 500 m to 10 000 m, any distance, or a time like 20:00 — and the piece stops on its own when you reach it, with the metres to go or the clock counting down on screen\n- Personal bests per distance (500 m, 1k, 2k, 5k, 6k, 10k) from pieces measured by your machine: \"New best\" and a long buzz when you beat it, otherwise how far off you were; a PR attempt races against your best by default\n- The same goal goes onto your PM5 as a workout, so the monitor counts down with you and ends the piece at the same metre\n- Stopping works like on a Garmin activity: the piece pauses and you choose Save, Resume or Discard, and the summary says clearly that it was saved\n- Four pages while rowing: the live split, your heart rate big in zone colour with a thin zone arc, a stats page (average split, average and max power, stroke rate, strokes, metres per stroke, calories, projected finish) and your times per 500 m\n- Save a measured piece as an effort in one tap, so the model learns from what you actually rowed; a goal reached on a rowing machine counts automatically\n- A split plan over four times 500 metres: even, negative or race-shaped, each split with its power\n- A summary after every piece, and the option to type the real metres so the distance estimate gets sharper\n- The trend of your 2k prediction over time, five languages, and a glance with the prediction and its split\n\nWHAT IT NEEDS\n- Two efforts over different distances to fit the model; with one, Paul's law alone still works\n- Without a connected rowing machine: the accelerometer for stroke rate — distance is then estimated from your rhythm, not measured, and the app says so\n- The PM5 accepts one Bluetooth connection at a time, so close ErgData or other apps before you start\n- Records only count pieces measured by a rowing machine\n- No phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Rowcast is een roei-app voor je horloge. Hij verbindt eerst met je roeimachine — een Concept2 PM5 of elke roeier die Bluetooth FTMS spreekt — en start dan pas het stuk: meters, split, slagfrequentie en watts komen rechtstreeks van de machine, de activiteit komt met je hartslag in Garmin Connect, en als je PM5-workout klaar is stopt en bewaart Rowcast vanzelf. Geen machine? Dan roeit hij op je pols.\n\nRowcast bouwt een beeld van je roeien uit de tijden die je al gezet hebt. Voer een afstand in met de tijd die je erover deed, zet er een tweede op een andere afstand bij, en de app past kritieke snelheid en D′ op je eigen punten: het tempo dat je kunt volhouden, en de meters die je daar bovenop nog hebt. Daaruit volgt het kritieke vermogen in watt met de Concept2-formule, en een voorspelling van je 2k.\n\nWAT HET DOET\n- Kritieke snelheid en D′ met kleinste kwadraten op je eigen afstanden en tijden\n- Kritiek vermogen en de watts van elke split, met de Concept2-formule P = 2,80/tempo³\n- Een 2k-voorspelling uit het model, met Paul's law ernaast als tweede, onafhankelijke schatter\n- Voorspelde tijden en splits voor 500 m, 1k, 5k, 6k en 10k uit hetzelfde model\n- Verbindt met je roeimachine via Bluetooth: Concept2 PM5 en elke roeier die FTMS spreekt (de Bluetooth-standaard die de meeste verbonden roeiers gebruiken) — dan komen de meters, split, slagfrequentie en watts rechtstreeks van de machine\n- Elk stuk wordt opgeslagen als roeiactiviteit in Garmin Connect, met je hartslag, afstand, vermogen en slagfrequentie\n- Stel een doel in — 500 m tot 10 000 m, elke afstand, of een tijd als 20:00 — en het stuk stopt vanzelf als je het haalt, met de resterende meters of een aftellende klok op het scherm\n- Persoonlijke records per afstand (500 m, 1k, 2k, 5k, 6k, 10k) uit stukken die je machine gemeten heeft: \"Nieuw record\" en een lange tril als je hem verbetert, anders hoeveel je ervan af zat; een recordpoging race je standaard tegen je record\n- Hetzelfde doel gaat als workout naar je PM5, zodat de monitor met je meetelt en het stuk op dezelfde meter afsluit\n- Stoppen werkt zoals bij een Garmin-activiteit: het stuk pauzeert en je kiest Opslaan, Hervatten of Weggooien, en de samenvatting zegt duidelijk dat het is opgeslagen\n- Vier pagina's tijdens het roeien: de live split, je hartslag groot in zonekleur met een dunne zoneboog, een statistiekpagina (gemiddelde split, gemiddeld en maximaal vermogen, slagfrequentie, slagen, meters per haal, calorieën, verwachte eindtijd) en je tijden per 500 m\n- Een gemeten stuk met één tik opslaan als inspanning, zodat het model leert van wat je echt geroeid hebt; een gehaald doel op een roeimachine telt vanzelf mee\n- Een splitplan over vier keer 500 meter: vlak, negatief of wedstrijdvorm, elke split met zijn vermogen\n- Een samenvatting na elk stuk, en de mogelijkheid om de echte meters in te tikken zodat de afstandsschatting scherper wordt\n- Het verloop van je 2k-voorspelling, vijf talen, en een glance met de voorspelling en de bijbehorende split\n\nWAT HET NODIG HEEFT\n- Twee inspanningen over verschillende afstanden voor het model; met één werkt Paul's law nog steeds\n- Zonder verbonden roeimachine: de versnellingsmeter voor de slagfrequentie — de afstand is dan geschat uit je ritme, niet gemeten, en dat staat er ook bij\n- De PM5 accepteert één Bluetooth-verbinding tegelijk, dus sluit ErgData of andere apps voor je begint\n- Records tellen alleen stukken die een roeimachine gemeten heeft\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge uitgerekend",
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.4.0",
+  "version": "1.6.0",
   "category": "219",
   "icon": "assets/icons/splitr.png",
   "shots": [
@@ -1466,10 +1558,10 @@
    "assets/shots/splitr-2.jpg",
    "assets/shots/splitr-3.jpg"
   ],
-  "changed": 1790934975000,
-  "whatsnew": "Splitr is now Rowcast: a full rowing app. It opens on a Row page, connects to your rowing machine (Concept2 PM5 or FTMS) before the piece starts, and stops and saves on its own when your PM5 workout ends. Your efforts and predictions stay as they were.",
+  "changed": 1791207964000,
+  "whatsnew": "Stopping now pauses the row and asks Save, Resume or Discard, with a clear \"Saved\" on the summary; page 2 shows your heart rate big in zone colour, and a goal reached on a rowing machine now counts as an effort automatically.",
   "devices": 178,
-  "updates": 7
+  "updates": 10
  },
  {
   "id": "d5b404a4-cf14-40f6-a12f-e672e607f36c",
@@ -1489,10 +1581,10 @@
    "assets/shots/lineup-2.jpg",
    "assets/shots/lineup-3.jpg"
   ],
-  "changed": 1790885994000,
+  "changed": 1791207967000,
   "whatsnew": "Shows \"1 wave\" instead of \"1 waves\", and session and detection rows are no longer cut off on smaller screens (the detection footer wraps onto a second line).",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "b23b1ead-1709-468b-9f17-4d43d0a30174",
@@ -1535,10 +1627,10 @@
    "assets/shots/amp-2.jpg",
    "assets/shots/amp-3.jpg"
   ],
-  "changed": 1790587969000,
+  "changed": 1791208011000,
   "whatsnew": "Fixed the wire size converter range, IEC grouping now counts bundled circuits, and menu values update when you switch standard. Text fits better on smaller screens.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "e2268881-b058-40ed-bd72-024e12b4f49e",
@@ -1558,10 +1650,10 @@
    "assets/shots/chains-2.jpg",
    "assets/shots/chains-3.jpg"
   ],
-  "changed": 1790815165000,
+  "changed": 1791208061000,
   "whatsnew": "Correcting a hole score afterwards now also updates your hole averages and stats, and single rounds and throws are no longer shown as plural.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "012f9674-bb02-4adf-bc9d-74fdc4354805",
@@ -1581,10 +1673,10 @@
    "assets/shots/nocto-2.jpg",
    "assets/shots/nocto-3.jpg"
   ],
-  "changed": 1790792642000,
+  "changed": 1791208066000,
   "whatsnew": "The glance now shows tonight's dark window for a week without opening the app, in your watch's time format.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "b43550ab-a12a-404d-a293-31643dc23f54",
@@ -1604,10 +1696,10 @@
    "assets/shots/beam-2.jpg",
    "assets/shots/beam-3.jpg"
   ],
-  "changed": 1790815399000,
+  "changed": 1791208073000,
   "whatsnew": "The materials page now says \"1 can\" or \"1 box\" instead of \"1 cans\".",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "acb6e144-0df2-4a0a-9860-80536e1359d2",
@@ -1627,10 +1719,10 @@
    "assets/shots/crimpa-2.jpg",
    "assets/shots/crimpa-3.jpg"
   ],
-  "changed": 1790816220000,
+  "changed": 1791208724000,
   "whatsnew": "Edge depth now works the right way round (a smaller edge gives a lighter target load), history counts days by calendar date, and the body weight row is no longer cut off.",
   "devices": 175,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "6b0dad0f-72c2-440e-b9dc-5cde79fba602",
@@ -1650,10 +1742,10 @@
    "assets/shots/intake-2.jpg",
    "assets/shots/intake-3.jpg"
   ],
-  "changed": 1790816508000,
+  "changed": 1791208727000,
   "whatsnew": "The start screen now says \"1 gel\" instead of \"1 gels\".",
   "devices": 175,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "7f20bc29-8650-421c-b0ee-4b83b9593ee6",
@@ -1673,10 +1765,10 @@
    "assets/shots/altura-2.jpg",
    "assets/shots/altura-3.jpg"
   ],
-  "changed": 1790591966000,
+  "changed": 1791208729000,
   "whatsnew": "Menu opens with a tap, clearer hints per watch, safer data and a glance that always fits. Text fits better on smaller screens.",
   "devices": 158,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "1ce4573a-c932-43cb-97a6-554ffcc36740",
@@ -1696,10 +1788,10 @@
    "assets/shots/toca-2.jpg",
    "assets/shots/toca-3.jpg"
   ],
-  "changed": 1790817767000,
+  "changed": 1791208731000,
   "whatsnew": "The glance no longer shows a forgotten contraction as running forever.",
   "devices": 175,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "7de7bf20-ab54-4cab-ab64-7f2ba735c35a",
@@ -1719,10 +1811,10 @@
    "assets/shots/bitewell-2.jpg",
    "assets/shots/bitewell-3.jpg"
   ],
-  "changed": 1790792918000,
+  "changed": 1791208736000,
   "whatsnew": "The glance now counts down to the next major window all week, even with reminders off and without opening the app.",
   "devices": 175,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "b5ba81df-5b6d-4de8-b94f-3c26519b2730",
@@ -1742,10 +1834,10 @@
    "assets/shots/laylin-2.jpg",
    "assets/shots/laylin-3.jpg"
   ],
-  "changed": 1790729446000,
+  "changed": 1791208739000,
   "whatsnew": "More robust startup when saved data is damaged.",
   "devices": 175,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
@@ -1788,10 +1880,10 @@
    "assets/shots/cutwise-2.jpg",
    "assets/shots/cutwise-3.jpg"
   ],
-  "changed": 1790901125000,
+  "changed": 1791209763000,
   "whatsnew": "Large sheet plans now finish and save reliably on older watches.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
@@ -1811,10 +1903,10 @@
    "assets/shots/platewise-2.jpg",
    "assets/shots/platewise-3.jpg"
   ],
-  "changed": 1790738044000,
+  "changed": 1791209767000,
   "whatsnew": "Steadier glance and reminders with large meals.",
   "devices": 167,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
@@ -1834,10 +1926,10 @@
    "assets/shots/pawcast-2.jpg",
    "assets/shots/pawcast-3.jpg"
   ],
-  "changed": 1790819020000,
+  "changed": 1791209770000,
   "whatsnew": "The glance now refreshes itself every 15 minutes with the latest weather, so it stays current without opening the app, and a walk with one break shows \"1 break\" instead of \"1 breaks\".",
   "devices": 133,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
@@ -1857,10 +1949,10 @@
    "assets/shots/halflight-2.jpg",
    "assets/shots/halflight-3.jpg"
   ],
-  "changed": 1790793979000,
+  "changed": 1791209773000,
   "whatsnew": "The glance now shows today's last light even when you haven't opened the app for days.",
   "devices": 168,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
@@ -1882,10 +1974,10 @@
    "assets/shots/cyra-4.jpg",
    "assets/shots/cyra-5.jpg"
   ],
-  "changed": 1790735442000,
+  "changed": 1791207877000,
   "whatsnew": "More robust loading of long cycle and night histories, and the patterns page stays smooth with long histories.",
   "devices": 174,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
@@ -1905,10 +1997,10 @@
    "assets/shots/circada-2.jpg",
    "assets/shots/circada-3.jpg"
   ],
-  "changed": 1790793454000,
+  "changed": 1791209760000,
   "whatsnew": "The glance now keeps showing your alertness for six days after you last opened the app.",
   "devices": 167,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf",
@@ -1928,10 +2020,10 @@
    "assets/shots/flexa-2.jpg",
    "assets/shots/flexa-3.jpg"
   ],
-  "changed": 1790820206000,
+  "changed": 1791209777000,
   "whatsnew": "Measurements are now grouped by your local calendar day, and long setup instructions no longer overlap the side label.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1",
@@ -1950,10 +2042,10 @@
    "assets/shots/cadenzo-1.jpg",
    "assets/shots/cadenzo-2.jpg"
   ],
-  "changed": 1790820634000,
+  "changed": 1791209780000,
   "whatsnew": "The glance now shows which piece to start with today, even when the app has not been opened for days.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
@@ -1973,10 +2065,10 @@
    "assets/shots/barocast-2.jpg",
    "assets/shots/barocast-3.jpg"
   ],
-  "changed": 1790679671000,
+  "changed": 1791209792000,
   "whatsnew": "The glance now shows the forecast weather with a small icon, and it and the storm alert update reliably in the background.",
   "devices": 165,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
@@ -1996,10 +2088,10 @@
    "assets/shots/skyfix-2.jpg",
    "assets/shots/skyfix-3.jpg"
   ],
-  "changed": 1790583788000,
+  "changed": 1791209795000,
   "whatsnew": "Page dots now point the way you scroll, and moon and night times wait for your GPS position instead of showing a default place.",
   "devices": 167,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "d66900af-a149-4309-a7f1-3bdb70eced57",
@@ -2019,10 +2111,10 @@
    "assets/shots/kedge-2.jpg",
    "assets/shots/kedge-3.jpg"
   ],
-  "changed": 1790878725000,
+  "changed": 1791209804000,
   "whatsnew": "The anchor watch keeps warning about lost GPS while a menu is open, remembers the widest swing even if the app stops, and the bottom line with radius and time no longer runs off the edge on smaller screens.",
   "devices": 175,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "f9151c72-b578-40df-af86-a2b9830b4b71",
@@ -2044,10 +2136,10 @@
    "assets/shots/lexil-4.jpg",
    "assets/shots/lexil-5.jpg"
   ],
-  "changed": 1790893967000,
+  "changed": 1791210223000,
   "whatsnew": "Large puzzles open faster and use less memory on older watches, and the glance now starts fresh each day instead of showing yesterday's result.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "98727840-961a-4649-83ed-7b31520f9525",
@@ -2068,10 +2160,10 @@
    "assets/shots/coglet-3.jpg",
    "assets/shots/coglet-4.jpg"
   ],
-  "changed": 1790552101000,
+  "changed": 1791210228000,
   "whatsnew": "Menus now spend your up-to-the-second balance, big numbers round cleanly into the next suffix and labels always fit the round screen.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "c867b0b4-932e-427f-9f15-c803d3c61b5e",
@@ -2093,10 +2185,10 @@
    "assets/shots/verdix-4.jpg",
    "assets/shots/verdix-5.jpg"
   ],
-  "changed": 1790887649000,
+  "changed": 1791210236000,
   "whatsnew": "The how-to-play pages now fit small round screens.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "12a9c39d-9abb-427d-9b9d-c548d880811b",
@@ -2118,10 +2210,10 @@
    "assets/shots/pixara-4.jpg",
    "assets/shots/pixara-5.jpg"
   ],
-  "changed": 1790888226000,
+  "changed": 1791210241000,
   "whatsnew": "A one-day streak now reads \"1 day in a row\", the 10×10 grid fits small round screens and the clock stops at 99:59:59.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "a163fbe8-c744-4840-81b6-f303c0a2830d",
@@ -2168,10 +2260,10 @@
    "assets/shots/hounded-4.jpg",
    "assets/shots/hounded-5.jpg"
   ],
-  "changed": 1790823115000,
+  "changed": 1791210588000,
   "whatsnew": "Sturdier saving of your run history and a correct XP display at the top level.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "9a0f0939-945e-44e3-8085-d42ee659e150",
@@ -2218,10 +2310,10 @@
    "assets/shots/radar-4.jpg",
    "assets/shots/radar-5.jpg"
   ],
-  "changed": 1790824325000,
+  "changed": 1791210929000,
   "whatsnew": "Sturdier saving of your hunt history and faster level calculation.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8",
@@ -2231,9 +2323,9 @@
   "nl": "Adapt is een caloriedoel dat leert van je weegschaal. Log wat je eet en weeg je wanneer je kunt, en Adapt rekent uit wat je lichaam werkelijk verbruikt: geen formule, maar het getal dat jouw gewichtstrend verklaart tegenover jouw inname. Daaruit volgt één getal dat er vandaag toe doet: hoeveel je nog kunt eten.\n\nDe meeste caloriedoelen zijn een gok uit een formule, en een verkeerde gok kost je stilletjes maanden. Adapt begint met de formule en vervangt die door je gemeten verbruik naarmate het logboek groeit. Je wegingen worden gladgestreken tot een trendlijn, zodat vochtschommelingen en een groot diner het doel niet verschuiven. Stel een doelgewicht en een tempo in, en Adapt toont de datum waarop je er bent, of je op koers ligt en hoeveel je moet eten om daar te blijven.\n\nWAT HET DOET\n- Vandaag-pagina: calorieën over, gegeten van doel, een ring die vult terwijl je eet\n- Gemeten verbruik (TDEE) uit je inname en gewichtstrend, gemengd met de formule tot er genoeg data is\n- Betrouwbaarheidsbalk toont hoeveel van de schatting gemeten is\n- Gewichtstrend: gladde lijn door je wegingen, weekverandering, 30-dagengrafiek\n- Doel: doelgewicht en tempo per week, dagen te gaan, verwachte datum, op koers of achter\n- Dagdoel volgt je doel en zakt nooit onder een veilige ondergrens\n- Snel toetsenbord voor maaltijden, dagtotaal en gewicht; kilo's of ponden\n- Activiteitsniveau en profiel uit Garmin voor de formule-schatting\n- Glance met calorieën over vandaag en de vulbalk\n- Vijf talen, werkt met knoppen of touch",
   "type": "2",
   "rating": 5.0,
-  "reviews": 1,
+  "reviews": 2,
   "downloads": 100,
-  "version": "1.0.6",
+  "version": "1.1.0",
   "category": "219",
   "icon": "assets/icons/adapt.png",
   "shots": [
@@ -2243,10 +2335,10 @@
    "assets/shots/adapt-4.jpg",
    "assets/shots/adapt-5.jpg"
   ],
-  "changed": 1790825831000,
-  "whatsnew": "Daily food total now stays within a sensible range, and the weight chart caption no longer runs off the screen on smaller watches.",
+  "changed": 1791211433000,
+  "whatsnew": "Set a fixed daily calorie target (Menu, Daily target, Manual) or pick a weekly pace without a target weight. Smarter adaptive estimate: weighted trend over 28 days, optional Garmin calories with a learned correction, and safety limits (at most 1% of body weight a week). New evening reminder to log your food.",
   "devices": 178,
-  "updates": 7
+  "updates": 9
  },
  {
   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065",
@@ -2257,7 +2349,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 2,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.5",
   "category": "277",
   "icon": "assets/icons/recover.png",
@@ -2268,10 +2360,10 @@
    "assets/shots/recover-4.jpg",
    "assets/shots/recover-5.jpg"
   ],
-  "changed": 1790825901000,
+  "changed": 1791211436000,
   "whatsnew": "A session with a single set now says \"1 set\" in the app and the glance, and the glance title no longer runs off the round screen.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce",
@@ -2293,10 +2385,10 @@
    "assets/shots/cue-4.jpg",
    "assets/shots/cue-5.jpg"
   ],
-  "changed": 1790832069000,
+  "changed": 1791211439000,
   "whatsnew": "Stats now say \"1 frame played\" instead of \"1 frames played\", and the last-frames list fits better on smaller round screens.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "82b01416-0980-4085-aa72-3e05ffae990b",
@@ -2318,10 +2410,10 @@
    "assets/shots/racecast-4.jpg",
    "assets/shots/racecast-5.jpg"
   ],
-  "changed": 1790894084000,
+  "changed": 1791211480000,
   "whatsnew": "Pages with many race results open faster and no longer stop the app on older watches. With one race logged it now says \"1 result\" instead of \"1 results\".",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c",
@@ -2343,10 +2435,10 @@
    "assets/shots/pitstop-4.jpg",
    "assets/shots/pitstop-5.jpg"
   ],
-  "changed": 1790875451000,
+  "changed": 1791211713000,
   "whatsnew": "The glance range now counts down day by day and turns red at the reserve without opening the app, and the fill-up interval says \"1 day\" instead of \"1 days\".",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "2ad8b993-d09c-4624-b4bc-60e07e97145c",
@@ -2368,10 +2460,10 @@
    "assets/shots/podium-4.jpg",
    "assets/shots/podium-5.jpg"
   ],
-  "changed": 1790889025000,
+  "changed": 1791211787000,
   "whatsnew": "Lighter glance and sturdier storage for long talk lists and history.",
   "devices": 178,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "8a3e833b-11ae-42de-9221-f397907e33a6",
@@ -2393,10 +2485,10 @@
    "assets/shots/strike-4.jpg",
    "assets/shots/strike-5.jpg"
   ],
-  "changed": 1790893879000,
+  "changed": 1791212063000,
   "whatsnew": "Game history uses far less memory and statistics open faster with a long history. Summaries and series now use the singular for a single strike, spare, open frame or game.",
   "devices": 167,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "7b530ce0-2510-4669-b06e-abc0b2448567",
@@ -2431,7 +2523,7 @@
   "nl": "Listo zet je boodschappenlijst op je pols, in kleur. Elk gangpad heeft zijn eigen kleur: de ring op het thuisscherm is je route door de winkel, de vinkjes in de lijst laten zien waar je bent, en één tik markeert een product als gekocht, handen aan de kar en telefoon in je zak.\n\nListo denkt ook vooruit. Het leert hoe vaak je elk product koopt en zegt wat bijna op is voordat je het zelf merkt. Het leert prijzen en schat wat de lijst gaat kosten. En het klokt elke winkeltrip.\n\nWAT HET DOET\n- Catalogus van 300+ dagelijkse producten in 10 gangpaden, geen getyp nodig\n- Bijna op: voorspeld uit je eigen koopritme, alles in één tik toevoegen\n- Sets: pasta-avond, ontbijt, taco's, barbecue, schoonmaakdag en meer, of sla je eigen lijst op als set\n- Tik om toe te voegen, nog eens voor één extra; elk aantal en elke eenheid (stuks, kg, g, L, pak)\n- Budget: geleerde prijzen per product, geschat totaal, een limiet per lijst, jouw valuta\n- Winkeltrips: hoe lang elke trip duurde, hoeveel producten, wat het kostte, en gemiddelden\n- Winkelroute: zet de gangpaden in de volgorde van jouw supermarkt\n- Meerdere lijsten, elk met eigen naam en budget\n- Vorige boodschappen met één tik terug, of sorteer op gangpad, op toevoegvolgorde of A tot Z\n- Typ iets anders op het horloge; getypte producten blijven onder Eigen producten op één tik afstand\n- Voeg producten toe vanaf je telefoon via de instellingen in de Garmin Connect-app (\"2 kg appels, melk, 6 eieren\")\n- Glance met wat er nog openstaat en een kleurbalk per gangpad\n- Nederlands, Engels, Duits, Spaans en Frans, inclusief de hele catalogus\n\nWAT HET NODIG HEEFT\nAlleen je horloge. Geen account, geen telefoon in de winkel.",
   "type": "2",
   "rating": 5.0,
-  "reviews": 1,
+  "reviews": 2,
   "downloads": 100,
   "version": "2.2.3",
   "category": "213",
@@ -2492,10 +2584,10 @@
    "assets/shots/shiftpay-3.jpg",
    "assets/shots/shiftpay-4.jpg"
   ],
-  "changed": 1790896415000,
+  "changed": 1791213200000,
   "whatsnew": "Large amounts, such as in rupiah, won or yen, now show exact figures instead of odd final digits.",
   "devices": 205,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "a1845d8e-d596-4d4a-9549-9ffa109926a2",
@@ -2517,10 +2609,10 @@
    "assets/shots/earned-4.jpg",
    "assets/shots/earned-5.jpg"
   ],
-  "changed": 1790795397000,
+  "changed": 1791213574000,
   "whatsnew": "Servings are no longer rounded up before you have earned them, and long walk or run times show as hours.",
   "devices": 180,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "435be2d8-0a32-4d40-8737-ce97f2824468",
@@ -2541,10 +2633,10 @@
    "assets/shots/isobar-3.jpg",
    "assets/shots/isobar-4.jpg"
   ],
-  "changed": 1790796651000,
+  "changed": 1791213753000,
   "whatsnew": "Faster insights, a lighter background check with a long attack log, and the glance now refreshes itself after every background pressure reading.",
   "devices": 178,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "c9641632-bf62-4fdb-8e28-e3a4c1c24bc5",
@@ -2565,10 +2657,10 @@
    "assets/shots/remindersplus-3.jpg",
    "assets/shots/remindersplus-4.jpg"
   ],
-  "changed": 1790797753000,
+  "changed": 1791213783000,
   "whatsnew": "Scheduled reminders ticked off early stay done, also around the daylight saving change, and the correct singular when you have one reminder.",
   "devices": 63,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "9f23b16c-4816-43e4-b467-8aac293d0d31",
@@ -2602,8 +2694,8 @@
   "desc": "Smokeless turns quitting into something you can see on your wrist: how long you have been smoke-free, what you have saved, what your body is repairing right now, and what to do when the craving hits.\n\nSet your quit moment and the app starts counting. Quit last week, last month or years ago? Pick the date and everything is calculated from there. Works for cigarettes, vaping and nicotine pouches.\n\nEIGHT SCREENS, ONE SWIPE APART\n• Dashboard — a ring filling toward your next health milestone, your smoke-free time down to the second, and the money saved so far\n• Body recovery — 16 milestones from 20 minutes to 15 years, each with what is actually happening: heart rate settling, carbon monoxide clearing, circulation and lungs improving, risk dropping\n• Money and goal — what you have saved, what it buys in everyday terms, and your own savings goal with the days left until you reach it\n• Cravings, seven days — resisted against slipped as stacked bars, with your win rate\n• Triggers — your top triggers ranked, your toughest hour of the day, and a 24-hour picture of when cravings hit\n• Badges — sixteen to unlock, for time clean, cravings resisted, money saved and breathing sessions done\n• Why I quit — your own reasons, in your words, plus a rotating line of encouragement when you have not written any\n\nWHEN A CRAVING HITS\nOpen the craving flow and breathe through it. Choose 4-7-8, box breathing or a calm 4-6 rhythm; your heart rate is shown live and the app tells you how many beats per minute you have come down. A three-minute urge ring runs alongside, because that is roughly how long a craving lasts.\nAfterwards you log what happened — resisted or slipped — and which trigger it was: stress, coffee, alcohol, boredom, after a meal, other people, and more. If you slipped, you decide yourself whether the streak stands or the clock restarts; your best streak is banked either way, so you never lose what you already did.\n\nIT KEEPS UP WITH YOU\nMilestone alerts when your body reaches the next stage, a nudge when a badge unlocks, a daily check-in at an hour you choose, and — once the app knows your pattern — a heads-up one hour before your personal danger hour. The glance on your watch face shows your smoke-free time, your savings and the next milestone without opening the app at all.\n\nMAKE IT YOURS\nIn Garmin Connect you set your product (cigarettes, vape, pouches), how much you used per day, pack size, price and currency, nicotine strength, your savings goal, up to three personal reasons, your breathing pattern, the reminder hour and the language.\n\nInterface in English, Dutch, German, French and Spanish. Everything stays on the watch: no account, no internet connection, no data sent anywhere.\n\nSmokeless is not medical advice. If you need help quitting, talk to your doctor about the options.",
   "nl": "Smokeless maakt stoppen zichtbaar op je pols: hoe lang je rookvrij bent, wat je hebt bespaard, wat je lichaam op dit moment aan het herstellen is, en wat je kunt doen als de trek komt.\n\nZet je stopmoment en de app begint te tellen. Vorige week gestopt, vorige maand of jaren geleden? Kies de datum en alles wordt daarvandaan berekend. Werkt voor sigaretten, vapen en nicotinezakjes.\n\nACHT SCHERMEN, ÉÉN VEEG UIT ELKAAR\n• Dashboard — een ring die naar je volgende herstelmoment toe loopt, je rookvrije tijd tot op de seconde, en het geld dat je tot nu toe bespaarde\n• Herstel van je lichaam — 16 momenten van 20 minuten tot 15 jaar, elk met wat er werkelijk gebeurt: hartslag die zakt, koolmonoxide die verdwijnt, betere doorbloeding en longen, dalend risico\n• Geld en doel — wat je bespaarde, wat dat in dagelijkse dingen betekent, en je eigen spaardoel met de dagen die je nog nodig hebt\n• Trek, zeven dagen — weerstaan tegenover gerookt als gestapelde staven, met je slagingspercentage\n• Triggers — je grootste triggers op volgorde, het zwaarste uur van je dag, en een 24-uursbeeld van wanneer de trek toeslaat\n• Badges — zestien om vrij te spelen, voor rookvrije tijd, weerstane trek, bespaard geld en gedane ademsessies\n• Waarom ik stop — je eigen redenen, in je eigen woorden, en anders een wisselende aanmoediging\n\nALS DE TREK KOMT\nOpen de trek-modus en adem er doorheen. Kies 4-7-8, box-ademhaling of een rustig 4-6-ritme; je hartslag staat live in beeld en de app laat zien hoeveel slagen per minuut je gezakt bent. Daarnaast loopt een ring van drie minuten, want zo lang duurt een golf van trek ongeveer.\nDaarna leg je vast wat er gebeurde — weerstaan of toch gerookt — en welke trigger het was: stress, koffie, alcohol, verveling, na het eten, andere mensen, en meer. Bij een misstap bepaal je zelf of je reeks blijft staan of de klok opnieuw begint; je beste reeks wordt hoe dan ook bewaard, dus je raakt nooit kwijt wat je al deed.\n\nHET DENKT MET JE MEE\nEen melding als je lichaam een volgend herstelmoment haalt, een seintje bij een nieuwe badge, een dagelijkse check op een uur dat jij kiest, en — zodra de app je patroon kent — een waarschuwing een uur vóór jouw persoonlijke gevaarlijke uur. De glance op je horloge toont je rookvrije tijd, je besparing en het volgende herstelmoment zonder dat je de app hoeft te openen.\n\nMAAK HEM VAN JOU\nIn Garmin Connect stel je je product in (sigaretten, vape, zakjes), hoeveel je per dag gebruikte, pakgrootte, prijs en munteenheid, nicotinesterkte, je spaardoel, maximaal drie persoonlijke redenen, je ademhalingspatroon, het herinneringsuur en de taal.\n\nInterface in het Nederlands, Engels, Duits, Frans en Spaans. Alles blijft op je horloge: geen account, geen internetverbinding, geen data die ergens heen gaat.\n\nSmokeless is geen medisch advies. Heb je hulp nodig bij het stoppen, bespreek de mogelijkheden dan met je arts.",
   "type": "2",
-  "rating": 5.0,
-  "reviews": 3,
+  "rating": 4.0,
+  "reviews": 4,
   "downloads": 100,
   "version": "1.7.1",
   "category": "254",
@@ -2640,10 +2732,10 @@
    "assets/shots/fasted-4.jpg",
    "assets/shots/fasted-5.jpg"
   ],
-  "changed": 1790908307000,
+  "changed": 1791218018000,
   "whatsnew": "You can now edit or delete fasts in your history.",
   "devices": 108,
-  "updates": 18
+  "updates": 19
  },
  {
   "id": "b3c49541-6aba-49c8-a271-ee0a4967ee79",
@@ -2897,7 +2989,7 @@
   "rating": 5.0,
   "reviews": 5,
   "downloads": 100,
-  "version": "2.4.1",
+  "version": "2.4.2",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -2907,10 +2999,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1790885004000,
-  "whatsnew": "Faster with a full drink log (no more crash on older watches), the stats page opens quickly after a long night, graph labels and lines no longer overlap or run over the page dots, and it now says \"1 drink\" instead of \"1 drinks\".",
+  "changed": 1791193369000,
+  "whatsnew": "The main screen now shows the estimated time you will be below your own limit, together with that limit (e.g. below 0.5‰ at 23:40). Before, it showed the time back to 0.0‰. The morning recap and glance are labelled the same way, and long lines shrink to fit small screens.",
   "devices": 178,
-  "updates": 15
+  "updates": 16
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
