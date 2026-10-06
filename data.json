@@ -1296,7 +1296,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.1.3",
   "category": "212",
   "icon": "assets/icons/canter.png",
@@ -2682,10 +2682,10 @@
    "assets/shots/speedometer-pro-4.jpg",
    "assets/shots/speedometer-pro-5.jpg"
   ],
-  "changed": 1790880387000,
+  "changed": 1791217969000,
   "whatsnew": "Smoother dial on older watches, a live trip screen and no more false top speeds from weak GPS.",
   "devices": 178,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "be12dc0d-65b0-46e8-be2e-7677289ca9fe",
@@ -2707,10 +2707,10 @@
    "assets/shots/smokeless-4.jpg",
    "assets/shots/smokeless-5.jpg"
   ],
-  "changed": 1790799117000,
+  "changed": 1791218015000,
   "whatsnew": "German translation restored, your chosen quit date starts at local midnight, very large counts fit on the cravings and triggers pages, and the correct singular after your first smoke-free day (\"1 day free\").",
   "devices": 153,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "cec46a63-db0b-4506-b046-2a59e120d2d0",
@@ -2757,10 +2757,10 @@
    "assets/shots/reactr-4.jpg",
    "assets/shots/reactr-5.jpg"
   ],
-  "changed": 1790800579000,
+  "changed": 1791218394000,
   "whatsnew": "More accurate reaction timing, button controls for Choice mode, translated ranks, and the correct singular for a single try and a one-day streak, also in the glance.",
   "devices": 104,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "4709a2ba-d48e-48b9-8cc0-ff741a5a85e2",
@@ -2781,10 +2781,10 @@
    "assets/shots/jetshift-3.jpg",
    "assets/shots/jetshift-4.jpg"
   ],
-  "changed": 1790880966000,
+  "changed": 1791218481000,
   "whatsnew": "Fixes for the morning check-in after editing a trip, reminders stop when the plan is done, localized day names and a tidier day plan on round screens.",
   "devices": 64,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "ea0410c6-e80e-49a2-b567-7da49fde3814",
@@ -2806,10 +2806,10 @@
    "assets/shots/breathgym-4.jpg",
    "assets/shots/breathgym-5.jpg"
   ],
-  "changed": 1790801480000,
+  "changed": 1791218548000,
   "whatsnew": "Sessions are no longer lost from Garmin Connect after a notification, steadier box breathing timing, a session count beyond 30, and the correct singular for one day, one session and one cycle.",
   "devices": 178,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "0d5c42f2-903c-4428-98c6-f7ffaf674555",
@@ -2855,10 +2855,10 @@
    "assets/shots/altizone-4.jpg",
    "assets/shots/altizone-5.jpg"
   ],
-  "changed": 1790899508000,
+  "changed": 1791218863000,
   "whatsnew": "Large altitudes, speeds and long recording times now always fit on screen, including the unit and the paused label.",
   "devices": 180,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "63ee0ca3-120e-4399-8a4d-310d8a00a418",
@@ -2902,10 +2902,10 @@
    "assets/shots/wordclock-1.jpg",
    "assets/shots/wordclock-2.jpg"
   ],
-  "changed": 1790883589000,
+  "changed": 1791219193000,
   "whatsnew": "Italian and Portuguese sentences now read correctly, the bottom line re-fits after changing settings and temperature follows your unit setting.",
   "devices": 162,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "fa5c4134-fea5-4f57-b6ae-9c86facad9a2",
@@ -2926,10 +2926,10 @@
    "assets/shots/spotsave-3.jpg",
    "assets/shots/spotsave-4.jpg"
   ],
-  "changed": 1790802125000,
+  "changed": 1791219371000,
   "whatsnew": "Faster and lighter with many saved spots, the arrow no longer follows a stale GPS heading when standing still, old positions are no longer saved as your current spot, and with a single saved spot the app now says \"1 spot saved\".",
   "devices": 178,
-  "updates": 13
+  "updates": 14
  },
  {
   "id": "f37b763c-584b-4b1e-b3d7-dfae12d1fae9",
@@ -2950,10 +2950,10 @@
    "assets/shots/redline-3.jpg",
    "assets/shots/redline-4.jpg"
   ],
-  "changed": 1790884530000,
+  "changed": 1791219390000,
   "whatsnew": "Always-on mode on AMOLED watches is now sparse and shifts to prevent burn-in, distance follows your km or mile setting and the stats bar text always fits.",
   "devices": 59,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "5ff40a3f-96bf-4462-adc6-795a7bb6f928",
@@ -2974,10 +2974,10 @@
    "assets/shots/triptych-3.jpg",
    "assets/shots/triptych-4.jpg"
   ],
-  "changed": 1790896970000,
+  "changed": 1791219411000,
   "whatsnew": "Sub-dial values and labels now stay inside their rings on smaller screens. Temperature and distance follow your watch units, and always-on mode is gentler on MIP screens.",
   "devices": 64,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "b20b6df0-5943-48bb-be5e-73b3441253d7",
@@ -2999,10 +2999,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1791193369000,
+  "changed": 1791219536000,
   "whatsnew": "The main screen now shows the estimated time you will be below your own limit, together with that limit (e.g. below 0.5‰ at 23:40). Before, it showed the time back to 0.0‰. The morning recap and glance are labelled the same way, and long lines shrink to fit small screens.",
   "devices": 178,
-  "updates": 16
+  "updates": 17
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
@@ -3024,10 +3024,10 @@
    "assets/shots/caffi-4.jpg",
    "assets/shots/caffi-5.jpg"
   ],
-  "changed": 1790830210000,
+  "changed": 1791219612000,
   "whatsnew": "Day history stays correct across daylight saving changes, stats are faster with a full log (no more crash on older watches), graph labels are clearer, no text runs over the page dots, and stats now say \"1 drink\".",
   "devices": 178,
-  "updates": 19
+  "updates": 20
  },
  {
   "id": "173e9d71-48e0-4ded-8515-27c3011032da",
@@ -3039,7 +3039,7 @@
   "rating": 4.5,
   "reviews": 8,
   "downloads": 100,
-  "version": "2.0.2",
+  "version": "2.0.3",
   "category": "213",
   "icon": "assets/icons/convertr.png",
   "shots": [
@@ -3048,10 +3048,10 @@
    "assets/shots/convertr-3.jpg",
    "assets/shots/convertr-4.jpg"
   ],
-  "changed": 1790897147000,
-  "whatsnew": "Cleaner layout on Instinct watches: the unit is fully visible and the keypad shows its DEL and OK keys. Exact absolute zero in temperature conversion, more precise number entry, clearer currency status and sturdier storage handling.",
+  "changed": 1791248243000,
+  "whatsnew": "Exact conversions for arcminutes, radians, km/h and knots, and the first key you type now replaces the prefilled value.",
   "devices": 205,
-  "updates": 15
+  "updates": 17
  },
  {
   "id": "ba8e2555-cf31-45fe-8876-68a4f3b2cbb6",
@@ -3072,9 +3072,9 @@
    "assets/shots/rallypoint-3.jpg",
    "assets/shots/rallypoint-4.jpg"
   ],
-  "changed": 1790803933000,
+  "changed": 1791220659000,
   "whatsnew": "Undo now fully restores deuce and match stats, tiebreaks show side changes, switching sport mid-match asks for confirmation, match duration stops at match point, and the per-set page shows all five sets.",
   "devices": 178,
-  "updates": 30
+  "updates": 31
  }
 ]
