@@ -161,29 +161,6 @@
   "updates": 3
  },
  {
-  "id": "ff34fbc8-34f5-4142-9065-16d6679c0fc3",
-  "slug": "oneira",
-  "name": "Oneira - Lucid dream cues",
-  "desc": "Oneira stays open on your wrist through the night and estimates when you are likely in REM sleep, from your heart rate, how irregular it is and how still you lie, weighed against the 90-minute sleep cycle. From the second half of the night it sends a soft vibration pattern when REM looks likely for a few minutes in a row, so the cue can reach you inside a dream without waking you. During the day you practise reality checks with the very same pattern, so that at night it means one thing: am I dreaming?\n\nEach morning you log what you remember in two taps. Oneira learns from it: if a cue woke you, it goes one step softer; if you never noticed it, one step stronger. It stops for the night after three wake-ups. Your journal shows lucid dreams, how often you remember a dream, your streak and today's reality checks, and the last night page shows the REM estimate, the cue moments and how much battery the night used.\n\nWHAT IT DOES\n- Night mode with a live REM estimate from heart rate, beat-to-beat variability, stillness and the sleep cycle\n- Gentle cues in three patterns and five strengths, only after a set time asleep, with a pause between cues\n- Backs off after a cue wakes you and stops after three wake-ups\n- Morning log in two taps; the cue strength adjusts itself from your answers\n- Reality-check reminders and a 10-minute pre-sleep training with the same pattern\n- Dream journal: lucid dreams, recall rate, streak, and a 14-night overview\n- Last-night view with REM estimate, cue moments and battery use per hour\n- Five languages and a glance with your lucid count and recall\n\nWHAT IT NEEDS\n- A watch with an optical heart rate sensor, worn snugly overnight\n- Leave the app open when you go to sleep; it uses a low sensor rate to save battery\n- Staying open all night costs extra battery; the last-night page shows how much per hour, so charge before bed\n- The REM estimate is a guess from wrist signals, not a sleep test",
-  "nl": "Oneira blijft 's nachts open op je pols en schat wanneer je waarschijnlijk in REM-slaap bent, uit je hartslag, hoe onregelmatig die is en hoe stil je ligt, afgewogen tegen de slaapcyclus van 90 minuten. Vanaf de tweede helft van de nacht geeft hij een zacht trilpatroon als REM een paar minuten op rij waarschijnlijk is, zodat de cue je in een droom kan bereiken zonder je te wekken. Overdag oefen je realiteitschecks met precies hetzelfde patroon, zodat het 's nachts maar één ding betekent: droom ik?\n\nElke ochtend log je in twee tikken wat je je herinnert. Oneira leert ervan: wekte een cue je, dan gaat hij een stap zachter; merkte je hem niet, dan een stap sterker. Na drie keer wakker worden stopt hij voor die nacht. Je dagboek toont lucide dromen, hoe vaak je een droom onthoudt, je reeks en de realiteitschecks van vandaag, en de pagina van afgelopen nacht toont de REM-schatting, de cue-momenten en hoeveel accu de nacht kostte.\n\nWAT HET DOET\n- Nachtmodus met een live REM-schatting uit hartslag, slag-tot-slagvariatie, stilliggen en de slaapcyclus\n- Zachte cues in drie patronen en vijf sterktes, pas na een ingestelde slaaptijd, met een pauze ertussen\n- Wordt zachter als een cue je wekt en stopt na drie keer wakker worden\n- Ochtendlog in twee tikken; de cue-sterkte stelt zichzelf bij op je antwoorden\n- Realiteitscheck-herinneringen en een training van 10 minuten voor het slapen, met hetzelfde patroon\n- Droomdagboek: lucide dromen, herinneringspercentage, reeks en een overzicht van 14 nachten\n- Afgelopen nacht met REM-schatting, cue-momenten en accuverbruik per uur\n- Vijf talen en een glance met je lucide dromen en herinnering\n\nWAT HET NODIG HEEFT\n- Een horloge met optische hartslagmeter, 's nachts goed aansluitend gedragen\n- Laat de app open als je gaat slapen; hij gebruikt een lage sensorfrequentie om accu te sparen\n- De hele nacht open blijven kost extra accu; de pagina van afgelopen nacht toont hoeveel per uur, dus laad op voor het slapen\n- De REM-schatting is een inschatting uit polssignalen, geen slaaponderzoek",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 100,
-  "version": "1.0.2",
-  "category": "219",
-  "icon": "assets/icons/oneira.png",
-  "shots": [
-   "assets/shots/oneira-1.jpg",
-   "assets/shots/oneira-2.jpg",
-   "assets/shots/oneira-3.jpg"
-  ],
-  "changed": 1790877743000,
-  "whatsnew": "Correcting a morning log no longer counts the same night twice, and on watches with smaller fonts the big number on the REM, dream journal and cue coach pages no longer overlaps the title.",
-  "devices": 185,
-  "updates": 3
- },
- {
   "id": "2a619a51-4b35-4758-ad6a-1ed2bfa3a518",
   "slug": "agewise",
   "name": "Agewise - Functional age tests",
@@ -249,6 +226,29 @@
   ],
   "changed": 1790780378000,
   "whatsnew": "A stage with one check now shows \"1 check\".",
+  "devices": 185,
+  "updates": 3
+ },
+ {
+  "id": "cb4f3814-039c-4fb7-ad01-98e20f74956e",
+  "slug": "fianchetto",
+  "name": "Fianchetto - Chess puzzles",
+  "desc": "Fianchetto puts a daily chess puzzle on your wrist, plus unlimited training from 1500 hand-picked positions out of the Lichess puzzle database. Each puzzle has a Glicko-2 rating, and so do you: solve it cleanly and both ratings move, exactly the way the big puzzle sites do it, so the next puzzle is chosen to match your level.\n\nYou never have to hit a tiny square. Pick a piece with the buttons or a swipe, then pick where it goes; on touch screens the first tap aims a large frame and the second tap confirms, snapping to the nearest legal move. The board and pieces are drawn in vector shapes, the moves are written out in short notation, and a wrong move is shown and taken back so you can keep looking.\n\nWHAT IT DOES\n- A daily puzzle matched to your rating, with a day streak\n- Unlimited training near your rating, easier or harder if you like\n- Glicko-2 rating for you and for every puzzle, with rating history\n- Themes: mate, fork, pin and skewer, discovered attack, sacrifice, endgame, hanging piece, deflection\n- Hint (first the piece, then the square) and show solution\n- Stats: solved, accuracy, best run, best day streak and your strongest themes\n- Three board colour sets, optional coordinates, a daily goal and a glance with your rating\n\nWHAT IT NEEDS\n- Nothing: all 1500 puzzles are on the watch, no phone and no internet\n- Puzzles from the Lichess.org puzzle database (CC0)",
+  "nl": "Fianchetto zet elke dag een schaakpuzzel op je pols, plus onbeperkt trainen uit 1500 gekozen stellingen uit de Lichess-puzzeldatabase. Elke puzzel heeft een Glicko-2-rating, en jij ook: los je hem foutloos op, dan schuiven beide ratings, precies zoals de grote puzzelsites het doen, zodat de volgende puzzel bij je niveau past.\n\nJe hoeft nooit een piepklein vakje te raken. Kies een stuk met de knoppen of een veeg en kies dan waar het heen gaat; op een touchscreen richt de eerste tik een groot kader en bevestigt de tweede, en de tik springt naar de dichtstbijzijnde legale zet. Bord en stukken zijn met vectorvormen getekend, de zetten staan er in korte notatie bij, en een foute zet wordt getoond en teruggenomen zodat je verder kunt zoeken.\n\nWAT HET DOET\n- Een dagpuzzel op jouw rating, met een dagenreeks\n- Onbeperkt trainen rond je rating, desgewenst makkelijker of moeilijker\n- Glicko-2-rating voor jou en voor elke puzzel, met ratingverloop\n- Thema's: mat, vork, penning, aftrek, offer, eindspel, hangend stuk, afleiding\n- Hint (eerst het stuk, dan het veld) en oplossing tonen\n- Cijfers: opgelost, score, beste reeks, beste dagenreeks en je sterkste thema's\n- Drie bordkleuren, coördinaten naar keuze, een dagdoel en een glance met je rating\n\nWAT HET NODIG HEEFT\n- Niets: alle 1500 puzzels staan op het horloge, geen telefoon en geen internet\n- Puzzels uit de puzzeldatabase van Lichess.org (CC0)",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 100,
+  "version": "1.0.2",
+  "category": "206",
+  "icon": "assets/icons/fianchetto.png",
+  "shots": [
+   "assets/shots/fianchetto-1.jpg",
+   "assets/shots/fianchetto-2.jpg",
+   "assets/shots/fianchetto-3.jpg"
+  ],
+  "changed": 1790780883000,
+  "whatsnew": "The glance now drops a broken daily streak without opening the app.",
   "devices": 185,
   "updates": 3
  },
@@ -343,29 +343,6 @@
   "whatsnew": "The glance moves on to the next golden or blue hour by itself, and ND shows \"1 stop\".",
   "devices": 185,
   "updates": 3
- },
- {
-  "id": "4d987198-57f0-4d6f-8d00-cefde548c048",
-  "slug": "vagal",
-  "name": "Vagal - HRV breathing coach",
-  "desc": "Vagal is a breathing coach that listens to your heart. It reads the time between every heartbeat from the wrist sensor or a chest strap, and every five seconds it works out how strongly your heart rhythm rises and falls with your breath. That coherence score colours the breathing circle while you follow it, so you can see the moment your breathing and your heart fall into step.\n\nStart with the resonance test: ten minutes, two at each of five breathing rates from 6.5 down to 4.5 per minute. Vagal compares the heart-rate swing and low-frequency power at each rate and suggests the one where your rhythm responds most. After that, daily sessions run at your rate with a gentle vibration at every breath, a one-minute calm reading before and after to show your RMSSD change, and a trend over your last sessions. For relaxation and training only, not a medical device.\n\nWHAT IT DOES\n- Live coherence score from beat-to-beat intervals, updated every five seconds over the last 64 seconds\n- Resonance test across 6.5, 6.0, 5.5, 5.0 and 4.5 breaths per minute, with a score for each rate\n- Breathing circle with adjustable inhale:exhale ratio and a soft vibration pacer you can follow with your eyes closed\n- RMSSD before and after each session, compared with your own seven-session baseline\n- Session summary with time in high coherence, average heart rate and a coherence curve\n- Coherence and RMSSD trends, day streak, weekly minutes goal\n- Optionally saves each session as an activity with a coherence chart in Garmin Connect\n- Five languages and a glance with your rate, last score and weekly minutes\n\nWHAT IT NEEDS\n- A watch that provides beat-to-beat heart data (wrist sensor or paired chest strap for the cleanest signal)\n- Sit still during a session; no phone, no account, no internet",
-  "nl": "Vagal is een ademcoach die naar je hart luistert. Hij leest de tijd tussen elke hartslag uit de polssensor of een borstband en rekent elke vijf seconden uit hoe sterk je hartritme met je adem mee op en neer gaat. Die coherentiescore kleurt de ademcirkel terwijl je hem volgt, zodat je ziet wanneer je adem en je hart in de pas lopen.\n\nBegin met de resonantietest: tien minuten, twee op elk van vijf ademtempo's van 6,5 tot 4,5 per minuut. Vagal vergelijkt per tempo de hartslagzwaai en het laagfrequente vermogen en stelt het tempo voor waarop je ritme het sterkst reageert. Daarna ademen je dagelijkse sessies op jouw tempo met een zachte tril bij elke ademhaling, een rustige meting van een minuut ervoor en erna die je RMSSD-verandering laat zien, en een trend over je laatste sessies. Alleen voor ontspanning en training, geen medisch hulpmiddel.\n\nWAT HET DOET\n- Live coherentiescore uit slag-tot-slagintervallen, elke vijf seconden over de laatste 64 seconden\n- Resonantietest op 6,5, 6,0, 5,5, 5,0 en 4,5 ademhalingen per minuut, met een score per tempo\n- Ademcirkel met instelbare verhouding inademen:uitademen en een zachte trilgids die je met je ogen dicht volgt\n- RMSSD voor en na elke sessie, vergeleken met je eigen basislijn van zeven sessies\n- Samenvatting met tijd in hoge coherentie, gemiddelde hartslag en een coherentiecurve\n- Trends voor coherentie en RMSSD, dagen op rij, weekdoel in minuten\n- Bewaart elke sessie desgewenst als activiteit met een coherentiegrafiek in Garmin Connect\n- Vijf talen en een glance met je tempo, laatste score en minuten deze week\n\nWAT HET NODIG HEEFT\n- Een horloge dat slag-tot-slaggegevens levert (polssensor, of een gekoppelde borstband voor het schoonste signaal)\n- Stilzitten tijdens een sessie; geen telefoon, geen account, geen internet",
-  "type": "2",
-  "rating": 3.3,
-  "reviews": 3,
-  "downloads": 10,
-  "version": "1.0.5",
-  "category": "219",
-  "icon": "assets/icons/vagal.png",
-  "shots": [
-   "assets/shots/vagal-1.jpg",
-   "assets/shots/vagal-2.jpg",
-   "assets/shots/vagal-3.jpg"
-  ],
-  "changed": 1791288951000,
-  "whatsnew": "Reads the same heart rate your watch face shows when beat data is missing, so newer watches like Venu 4 no longer show No heart rate.",
-  "devices": 182,
-  "updates": 6
  },
  {
   "id": "703a9bcc-7034-4447-9105-8ed408166a64",
@@ -483,6 +460,29 @@
   "updates": 3
  },
  {
+  "id": "81bc7aef-ea3a-4959-b2ae-7577fc14ee18",
+  "slug": "pedaldeck",
+  "name": "Pedaldeck - all-in-one cycling field",
+  "desc": "Pedaldeck is one cycling data field for Edge and watch that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a speed graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot, such as the 10-field Edge page, one. Every row is fitted with the largest text that fits, so nothing is cut off. Choose a preset (Endurance, Intervals, Race / time trial, Climb, Training load) or set every slot yourself in the Connect IQ app. It works without any setup.\n\nNo power meter? Pedaldeck estimates virtual power from your speed, the grade, your weight, bike weight, air density and your riding position (CdA and rolling resistance can be set). With a power meter it uses the real numbers. From there it shows 3 s power with a zone bar, W/kg, normalized power, intensity factor, TSS and kJ, and compares each lap with the last three. A climb meter picks up climbs by itself and shows height gained, average grade and length, next to grade and VAM. Speed is smoothed with a Kalman filter, so GPS noise is damped but a sprint shows within seconds. Power, grade, NP, TSS and lap power are saved to the FIT file.\n\nWHAT IT DOES\n- 48 values to choose from: power (3 s), W/kg, average power, NP, IF, TSS, kJ, power zone, lap power and the last three laps, lap power versus last lap, max power, cadence, grade, VAM, climb height / grade / distance, speed, heart rate, HR zone, %HRmax or %HR reserve, distance, timer, lap values, time of day, battery, ascent, altitude, calories and more\n- Presets Endurance / Intervals / Race / Climb / Training load, or your own order in 12 slots (slot 1 is the most important)\n- Virtual power for riders without a power meter, or the power meter when one is paired\n- FTP from your Garmin profile (newer devices) or set by hand; power zones in the Garmin Connect colours\n- Kalman-smoothed speed with adjustable smoothing\n- Alerts (vibration, tone and pop-up) when power stays above a chosen % of FTP or HR goes above a chosen zone, with a cool-down\n- Automatic, dark, light and high-contrast colours; five languages\n- Power, grade, NP, TSS and lap power saved to the FIT file\n\nWHAT IT NEEDS\n- GPS or a speed sensor for speed; a barometric altimeter for grade, VAM, climbs and virtual power; a power meter for measured power; a cadence sensor for cadence\n- Older watches with little memory show a smaller set: power meter values, W/kg, NP and cadence, but no virtual power, climbs or lap comparison\n- Settings in the Connect IQ app (preset, slots, FTP, weights, CdA, rolling resistance, alerts)\n- How to add: start a ride, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Pedaldeck",
+  "nl": "Pedaldeck is één fiets-gegevensveld voor Edge en horloge dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een snelheidsgrafiek in hartslagzonekleuren; op een half scherm je vier belangrijkste; op een kwart twee; in het kleinste vak, zoals de Edge-pagina met 10 velden, één. Elke rij krijgt de grootste letter die past, dus er wordt niets afgeknipt. Kies een voorinstelling (Duurrit, Intervallen, Wedstrijd / tijdrit, Klimmen, Trainingsbelasting) of stel elk vak zelf in via de Connect IQ-app. Zonder instellen werkt het al.\n\nGeen vermogensmeter? Pedaldeck schat virtueel vermogen uit je snelheid, de helling, je gewicht, het fietsgewicht, de luchtdichtheid en je houding op de fiets (CdA en rolweerstand zijn instelbaar). Met een vermogensmeter gebruikt het de echte waarden. Daarmee toont het vermogen over 3 s met een zonebalk, W/kg, genormaliseerd vermogen, intensiteitsfactor, TSS en kJ, en vergelijkt het elke ronde met de vorige drie. Een klimmeter herkent klimmen vanzelf en toont gewonnen hoogte, gemiddelde helling en lengte, naast helling en VAM. Snelheid wordt gedempt met een Kalman-filter: GPS-ruis verdwijnt, maar een sprint zie je binnen seconden. Vermogen, helling, NP, TSS en rondevermogen worden in het FIT-bestand opgeslagen.\n\nWAT HET DOET\n- 48 waarden om uit te kiezen: vermogen (3 s), W/kg, gemiddeld vermogen, NP, IF, TSS, kJ, vermogenszone, rondevermogen en de laatste drie rondes, rondevermogen t.o.v. vorige ronde, max. vermogen, cadans, helling, VAM, klimhoogte / -helling / -afstand, snelheid, hartslag, hartslagzone, %HRmax of %hartslagreserve, afstand, tijd, rondewaarden, kloktijd, accu, stijging, hoogte, calorieën en meer\n- Voorinstellingen Duurrit / Intervallen / Wedstrijd / Klimmen / Trainingsbelasting, of je eigen volgorde in 12 vakken (vak 1 is het belangrijkst)\n- Virtueel vermogen voor wie geen vermogensmeter heeft, of de vermogensmeter als die gekoppeld is\n- FTP uit je Garmin-profiel (nieuwere toestellen) of zelf ingesteld; vermogenszones in de Garmin Connect-kleuren\n- Snelheid gedempt met een Kalman-filter, demping instelbaar\n- Alarmen (trillen, toon en melding) als het vermogen boven een gekozen % van je FTP blijft of je hartslag boven een gekozen zone komt, met afkoeltijd\n- Automatische, donkere, lichte en hoog-contrast-kleuren; vijf talen\n- Vermogen, helling, NP, TSS en rondevermogen opgeslagen in het FIT-bestand\n\nWAT HET NODIG HEEFT\n- GPS of een snelheidssensor voor snelheid; een barometrische hoogtemeter voor helling, VAM, klimmen en virtueel vermogen; een vermogensmeter voor gemeten vermogen; een cadanssensor voor cadans\n- Oudere horloges met weinig geheugen tonen een kleinere set: waarden van de vermogensmeter, W/kg, NP en cadans, maar geen virtueel vermogen, klimmen of rondevergelijking\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, FTP, gewichten, CdA, rolweerstand, alarmen)\n- Toevoegen: start een rit, open Instellingen / Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ / Pedaldeck",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.1",
+  "category": "253",
+  "icon": "assets/icons/pedaldeck.png",
+  "shots": [
+   "assets/shots/pedaldeck-1.jpg",
+   "assets/shots/pedaldeck-2.jpg",
+   "assets/shots/pedaldeck-3.jpg"
+  ],
+  "changed": 1790717836000,
+  "whatsnew": "More robust with unusual heart rate zones, the chart stays inside small fields, less memory on older watches and more values on a full-screen field.",
+  "devices": 223,
+  "updates": 2
+ },
+ {
   "id": "3e832b0f-634a-463d-8c33-8e29234a744b",
   "slug": "flipturn",
   "name": "Flipturn - CSS pace & send-off clock",
@@ -503,29 +503,6 @@
   "changed": 1791205184000,
   "whatsnew": "More robust with many lengths, odd pool settings and full FIT field slots, lower memory use and cleaner small layouts.",
   "devices": 199,
-  "updates": 3
- },
- {
-  "id": "f4c1c1f5-dc19-4546-9b17-726765b5367f",
-  "slug": "bonkline",
-  "name": "Bonkline - Fuel & bonk timer",
-  "desc": "Bonkline is a data field that keeps a live estimate of your carbohydrate tank during any endurance activity. It works out how many carbs you burn at your current heart rate, adds what you have eaten once your gut has absorbed it, and tells you how long you have before the tank runs low and when to eat next.\n\nWhen it is time to eat, the watch vibrates, beeps and shows a full-screen reminder with the portion to take. Tap the field (touch devices) or press the lap button (optional setting) to log what you ate. The alerts have a cooldown, so they never fire every second, and there are no ads or donation pop-ups.\n\nWHAT IT DOES\n- Carbohydrate tank in % with a time-to-bonk estimate at your current intensity\n- Carb burn from calories and heart-rate intensity, so an easy spin and a hard climb count differently\n- Intake with an absorption delay and a gut limit (60, 90 or 120 g/h)\n- Eat-now alert when the tank will drop below your threshold within 20 minutes, or when your eating interval is up\n- Grams per hour against your target\n- Full-screen view with the tank curve, a projection for the next hour and marks for every portion eaten\n- Adapts to every field size, from a single number to a full dashboard, on dark and light backgrounds\n- Tank %, total carbs, carbs per lap and lowest tank are saved to the activity and shown in Garmin Connect\n- Settings for portion size, target, interval, threshold, carb loading, weight and more; five languages\n\nWHAT IT NEEDS\n- Heart rate for the intensity estimate; weight, age and resting heart rate are read from your Garmin profile\n- How to add: start an activity, open Settings / Data Screens, pick a screen, select a field and choose Connect IQ / Bonkline\n- The numbers are an estimate to help plan your fuelling, not a measurement",
-  "nl": "Bonkline is een dataveld dat tijdens elke duursport een live schatting bijhoudt van je koolhydraattank. Het rekent uit hoeveel koolhydraten je verbrandt bij je huidige hartslag, telt je inname erbij zodra je darm die heeft opgenomen, en laat zien hoe lang je nog hebt voordat de tank leeg raakt en wanneer je weer moet eten.\n\nIs het tijd om te eten, dan trilt en piept het horloge en verschijnt er een melding over het hele scherm met de portie die je moet nemen. Tik op het veld (touchtoestellen) of druk op de rondeknop (instelling) om te loggen wat je at. De alarmen hebben een afkoeltijd, dus ze gaan nooit elke seconde af, en er zijn geen advertenties of donatiepop-ups.\n\nWAT HET DOET\n- Koolhydraattank in % met een schatting van de tijd tot de hongerklop bij je huidige inspanning\n- Koolhydraatverbruik uit calorieën en hartslagintensiteit, dus rustig fietsen en een zware klim tellen verschillend\n- Inname met opnamevertraging en darmlimiet (60, 90 of 120 g/u)\n- Eet-nu-alarm als de tank binnen 20 minuten onder je drempel zakt, of als je eetinterval voorbij is\n- Gram per uur tegenover je doel\n- Volledig scherm met de tankcurve, een vooruitblik op het komende uur en een streepje voor elke portie\n- Past zich aan elke veldgrootte aan, van één getal tot een volledig dashboard, op donkere en lichte achtergrond\n- Tank %, totale koolhydraten, koolhydraten per ronde en de laagste tank worden in de activiteit opgeslagen en in Garmin Connect getoond\n- Instellingen voor portie, doel, interval, drempel, carboloading, gewicht en meer; vijf talen\n\nWAT HET NODIG HEEFT\n- Hartslag voor de inspanningsschatting; gewicht, leeftijd en rusthartslag komen uit je Garmin-profiel\n- Toevoegen: start een activiteit, open Instellingen / Gegevensschermen, kies een scherm, selecteer een veld en kies Connect IQ / Bonkline\n- De cijfers zijn een schatting om je voeding te plannen, geen meting",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.1",
-  "category": "183",
-  "icon": "assets/icons/bonkline.png",
-  "shots": [
-   "assets/shots/bonkline-1.jpg",
-   "assets/shots/bonkline-2.jpg",
-   "assets/shots/bonkline-3.jpg"
-  ],
-  "changed": 1791205202000,
-  "whatsnew": "Leaner memory on older watches and no lost carbs when you log very often.",
-  "devices": 229,
   "updates": 3
  },
  {
@@ -688,6 +665,98 @@
   "whatsnew": "The glance now follows the hourly forecast: current GO status and best hour without opening the app.",
   "devices": 170,
   "updates": 4
+ },
+ {
+  "id": "2bf457d8-1a2e-4cf0-8248-5d8e862d3da0",
+  "slug": "meridia",
+  "name": "Meridia - World clock with DST",
+  "desc": "Meridia is a world clock that gets daylight saving time right. It carries its own rule set for nearly 200 cities — Europe, North America, Chile, Australia, New Zealand, Israel, Egypt and the zones that never change, including half-hour and 45-minute offsets — so the time is correct today, next week and next year, even when two countries switch on different dates.\n\nThe home screen lists your home city and up to six favourites with their time and whether they are at work, asleep or free. Swipe for each city with a day-and-night bar, the call-window planner that finds when everyone is in office hours today or tomorrow, and the list of upcoming clock changes that shift the gap between you and them. A converter answers \"15:00 for them is what for me?\" in a few presses.\n\nWHAT IT DOES\n- Correct offsets for about 200 cities, now and ahead, from its own DST rules\n- Home city plus up to six favourites with work, sleep and free colours\n- Day-and-night bar per city from sunrise and sunset\n- Call-window planner: office hours of several cities against your own waking hours, next 48 hours\n- Clock-change list: \"next week the gap to New York changes\"\n- Time converter between any two cities\n- Adjustable office hours, weekends, shortest window, five languages and a glance with two cities\n\nWHAT IT NEEDS\n- Nothing: no phone, no account, no internet — all rules and cities live on the watch",
+  "nl": "Meridia is een wereldklok die de zomertijd goed doet. Hij heeft een eigen regelset voor bijna 200 steden — Europa, Noord-Amerika, Chili, Australië, Nieuw-Zeeland, Israël, Egypte en de zones zonder zomertijd, inclusief halfuur- en kwartier-offsets — zodat de tijd klopt vandaag, volgende week en volgend jaar, ook als twee landen op verschillende data omschakelen.\n\nHet startscherm toont je thuisstad en tot zes favorieten met hun tijd en of ze aan het werk zijn, slapen of vrij zijn. Veeg voor elke stad met een dag-en-nachtbalk, de belvenster-planner die vindt wanneer iedereen vandaag of morgen in kantooruren zit, en de lijst met komende klokwissels die het verschil tussen jou en hen verschuiven. Een omrekenaar beantwoordt \"15:00 bij hen is hoe laat bij mij?\" in een paar drukken.\n\nWHAT IT DOES\n- Juiste offsets voor zo'n 200 steden, nu en vooruit, uit eigen zomertijdregels\n- Thuisstad plus tot zes favorieten met kleuren voor werk, slaap en vrij\n- Dag-en-nachtbalk per stad uit zonsopkomst en zonsondergang\n- Belvenster-planner: kantooruren van meerdere steden naast je eigen wakkere uren, komende 48 uur\n- Klokwissel-lijst: \"volgende week verandert het verschil met New York\"\n- Tijdrekenaar tussen twee willekeurige steden\n- Instelbare kantooruren, weekenden, kortste venster, vijf talen en een glance met twee steden\n\nWHAT IT NEEDS\n- Niets: geen telefoon, geen account, geen internet — alle regels en steden staan op het horloge",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.2",
+  "category": "213",
+  "icon": "assets/icons/meridia.png",
+  "shots": [
+   "assets/shots/meridia-1.jpg",
+   "assets/shots/meridia-2.jpg",
+   "assets/shots/meridia-3.jpg"
+  ],
+  "changed": 1791205889000,
+  "whatsnew": "The menu icon on the last page shows where to open settings, and durations and clock-change hints read correctly in every language.",
+  "devices": 161,
+  "updates": 4
+ },
+ {
+  "id": "ff34fbc8-34f5-4142-9065-16d6679c0fc3",
+  "slug": "oneira",
+  "name": "Oneira - Lucid dream cues",
+  "desc": "Oneira stays open on your wrist through the night and estimates when you are likely in REM sleep, from your heart rate, how irregular it is and how still you lie, weighed against the 90-minute sleep cycle. From the second half of the night it sends a soft vibration pattern when REM looks likely for a few minutes in a row, so the cue can reach you inside a dream without waking you. During the day you practise reality checks with the very same pattern, so that at night it means one thing: am I dreaming?\n\nEach morning you log what you remember in two taps. Oneira learns from it: if a cue woke you, it goes one step softer; if you never noticed it, one step stronger. It stops for the night after three wake-ups. Your journal shows lucid dreams, how often you remember a dream, your streak and today's reality checks, and the last night page shows the REM estimate, the cue moments and how much battery the night used.\n\nWHAT IT DOES\n- Night mode with a live REM estimate from heart rate, beat-to-beat variability, stillness and the sleep cycle\n- Gentle cues in three patterns and five strengths, only after a set time asleep, with a pause between cues\n- Backs off after a cue wakes you and stops after three wake-ups\n- Morning log in two taps; the cue strength adjusts itself from your answers\n- Reality-check reminders and a 10-minute pre-sleep training with the same pattern\n- Dream journal: lucid dreams, recall rate, streak, and a 14-night overview\n- Last-night view with REM estimate, cue moments and battery use per hour\n- Five languages and a glance with your lucid count and recall\n\nWHAT IT NEEDS\n- A watch with an optical heart rate sensor, worn snugly overnight\n- Leave the app open when you go to sleep; it uses a low sensor rate to save battery\n- Staying open all night costs extra battery; the last-night page shows how much per hour, so charge before bed\n- The REM estimate is a guess from wrist signals, not a sleep test",
+  "nl": "Oneira blijft 's nachts open op je pols en schat wanneer je waarschijnlijk in REM-slaap bent, uit je hartslag, hoe onregelmatig die is en hoe stil je ligt, afgewogen tegen de slaapcyclus van 90 minuten. Vanaf de tweede helft van de nacht geeft hij een zacht trilpatroon als REM een paar minuten op rij waarschijnlijk is, zodat de cue je in een droom kan bereiken zonder je te wekken. Overdag oefen je realiteitschecks met precies hetzelfde patroon, zodat het 's nachts maar één ding betekent: droom ik?\n\nElke ochtend log je in twee tikken wat je je herinnert. Oneira leert ervan: wekte een cue je, dan gaat hij een stap zachter; merkte je hem niet, dan een stap sterker. Na drie keer wakker worden stopt hij voor die nacht. Je dagboek toont lucide dromen, hoe vaak je een droom onthoudt, je reeks en de realiteitschecks van vandaag, en de pagina van afgelopen nacht toont de REM-schatting, de cue-momenten en hoeveel accu de nacht kostte.\n\nWAT HET DOET\n- Nachtmodus met een live REM-schatting uit hartslag, slag-tot-slagvariatie, stilliggen en de slaapcyclus\n- Zachte cues in drie patronen en vijf sterktes, pas na een ingestelde slaaptijd, met een pauze ertussen\n- Wordt zachter als een cue je wekt en stopt na drie keer wakker worden\n- Ochtendlog in twee tikken; de cue-sterkte stelt zichzelf bij op je antwoorden\n- Realiteitscheck-herinneringen en een training van 10 minuten voor het slapen, met hetzelfde patroon\n- Droomdagboek: lucide dromen, herinneringspercentage, reeks en een overzicht van 14 nachten\n- Afgelopen nacht met REM-schatting, cue-momenten en accuverbruik per uur\n- Vijf talen en een glance met je lucide dromen en herinnering\n\nWAT HET NODIG HEEFT\n- Een horloge met optische hartslagmeter, 's nachts goed aansluitend gedragen\n- Laat de app open als je gaat slapen; hij gebruikt een lage sensorfrequentie om accu te sparen\n- De hele nacht open blijven kost extra accu; de pagina van afgelopen nacht toont hoeveel per uur, dus laad op voor het slapen\n- De REM-schatting is een inschatting uit polssignalen, geen slaaponderzoek",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 100,
+  "version": "1.0.2",
+  "category": "219",
+  "icon": "assets/icons/oneira.png",
+  "shots": [
+   "assets/shots/oneira-1.jpg",
+   "assets/shots/oneira-2.jpg",
+   "assets/shots/oneira-3.jpg"
+  ],
+  "changed": 1790877743000,
+  "whatsnew": "Correcting a morning log no longer counts the same night twice, and on watches with smaller fonts the big number on the REM, dream journal and cue coach pages no longer overlaps the title.",
+  "devices": 185,
+  "updates": 3
+ },
+ {
+  "id": "4d987198-57f0-4d6f-8d00-cefde548c048",
+  "slug": "vagal",
+  "name": "Vagal - HRV breathing coach",
+  "desc": "Vagal is a breathing coach that listens to your heart. It reads the time between every heartbeat from the wrist sensor or a chest strap, and every five seconds it works out how strongly your heart rhythm rises and falls with your breath. That coherence score colours the breathing circle while you follow it, so you can see the moment your breathing and your heart fall into step.\n\nStart with the resonance test: ten minutes, two at each of five breathing rates from 6.5 down to 4.5 per minute. Vagal compares the heart-rate swing and low-frequency power at each rate and suggests the one where your rhythm responds most. After that, daily sessions run at your rate with a gentle vibration at every breath, a one-minute calm reading before and after to show your RMSSD change, and a trend over your last sessions. For relaxation and training only, not a medical device.\n\nWHAT IT DOES\n- Live coherence score from beat-to-beat intervals, updated every five seconds over the last 64 seconds\n- Resonance test across 6.5, 6.0, 5.5, 5.0 and 4.5 breaths per minute, with a score for each rate\n- Breathing circle with adjustable inhale:exhale ratio and a soft vibration pacer you can follow with your eyes closed\n- RMSSD before and after each session, compared with your own seven-session baseline\n- Session summary with time in high coherence, average heart rate and a coherence curve\n- Coherence and RMSSD trends, day streak, weekly minutes goal\n- Optionally saves each session as an activity with a coherence chart in Garmin Connect\n- Five languages and a glance with your rate, last score and weekly minutes\n\nWHAT IT NEEDS\n- A watch that provides beat-to-beat heart data (wrist sensor or paired chest strap for the cleanest signal)\n- Sit still during a session; no phone, no account, no internet",
+  "nl": "Vagal is een ademcoach die naar je hart luistert. Hij leest de tijd tussen elke hartslag uit de polssensor of een borstband en rekent elke vijf seconden uit hoe sterk je hartritme met je adem mee op en neer gaat. Die coherentiescore kleurt de ademcirkel terwijl je hem volgt, zodat je ziet wanneer je adem en je hart in de pas lopen.\n\nBegin met de resonantietest: tien minuten, twee op elk van vijf ademtempo's van 6,5 tot 4,5 per minuut. Vagal vergelijkt per tempo de hartslagzwaai en het laagfrequente vermogen en stelt het tempo voor waarop je ritme het sterkst reageert. Daarna ademen je dagelijkse sessies op jouw tempo met een zachte tril bij elke ademhaling, een rustige meting van een minuut ervoor en erna die je RMSSD-verandering laat zien, en een trend over je laatste sessies. Alleen voor ontspanning en training, geen medisch hulpmiddel.\n\nWAT HET DOET\n- Live coherentiescore uit slag-tot-slagintervallen, elke vijf seconden over de laatste 64 seconden\n- Resonantietest op 6,5, 6,0, 5,5, 5,0 en 4,5 ademhalingen per minuut, met een score per tempo\n- Ademcirkel met instelbare verhouding inademen:uitademen en een zachte trilgids die je met je ogen dicht volgt\n- RMSSD voor en na elke sessie, vergeleken met je eigen basislijn van zeven sessies\n- Samenvatting met tijd in hoge coherentie, gemiddelde hartslag en een coherentiecurve\n- Trends voor coherentie en RMSSD, dagen op rij, weekdoel in minuten\n- Bewaart elke sessie desgewenst als activiteit met een coherentiegrafiek in Garmin Connect\n- Vijf talen en een glance met je tempo, laatste score en minuten deze week\n\nWAT HET NODIG HEEFT\n- Een horloge dat slag-tot-slaggegevens levert (polssensor, of een gekoppelde borstband voor het schoonste signaal)\n- Stilzitten tijdens een sessie; geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 3.3,
+  "reviews": 3,
+  "downloads": 10,
+  "version": "1.0.5",
+  "category": "219",
+  "icon": "assets/icons/vagal.png",
+  "shots": [
+   "assets/shots/vagal-1.jpg",
+   "assets/shots/vagal-2.jpg",
+   "assets/shots/vagal-3.jpg"
+  ],
+  "changed": 1791288951000,
+  "whatsnew": "Reads the same heart rate your watch face shows when beat data is missing, so newer watches like Venu 4 no longer show No heart rate.",
+  "devices": 182,
+  "updates": 6
+ },
+ {
+  "id": "f4c1c1f5-dc19-4546-9b17-726765b5367f",
+  "slug": "bonkline",
+  "name": "Bonkline - Fuel & bonk timer",
+  "desc": "Bonkline is a data field that keeps a live estimate of your carbohydrate tank during any endurance activity. It works out how many carbs you burn at your current heart rate, adds what you have eaten once your gut has absorbed it, and tells you how long you have before the tank runs low and when to eat next.\n\nWhen it is time to eat, the watch vibrates, beeps and shows a full-screen reminder with the portion to take. Tap the field (touch devices) or press the lap button (optional setting) to log what you ate. The alerts have a cooldown, so they never fire every second, and there are no ads or donation pop-ups.\n\nWHAT IT DOES\n- Carbohydrate tank in % with a time-to-bonk estimate at your current intensity\n- Carb burn from calories and heart-rate intensity, so an easy spin and a hard climb count differently\n- Intake with an absorption delay and a gut limit (60, 90 or 120 g/h)\n- Eat-now alert when the tank will drop below your threshold within 20 minutes, or when your eating interval is up\n- Grams per hour against your target\n- Full-screen view with the tank curve, a projection for the next hour and marks for every portion eaten\n- Adapts to every field size, from a single number to a full dashboard, on dark and light backgrounds\n- Tank %, total carbs, carbs per lap and lowest tank are saved to the activity and shown in Garmin Connect\n- Settings for portion size, target, interval, threshold, carb loading, weight and more; five languages\n\nWHAT IT NEEDS\n- Heart rate for the intensity estimate; weight, age and resting heart rate are read from your Garmin profile\n- How to add: start an activity, open Settings / Data Screens, pick a screen, select a field and choose Connect IQ / Bonkline\n- The numbers are an estimate to help plan your fuelling, not a measurement",
+  "nl": "Bonkline is een dataveld dat tijdens elke duursport een live schatting bijhoudt van je koolhydraattank. Het rekent uit hoeveel koolhydraten je verbrandt bij je huidige hartslag, telt je inname erbij zodra je darm die heeft opgenomen, en laat zien hoe lang je nog hebt voordat de tank leeg raakt en wanneer je weer moet eten.\n\nIs het tijd om te eten, dan trilt en piept het horloge en verschijnt er een melding over het hele scherm met de portie die je moet nemen. Tik op het veld (touchtoestellen) of druk op de rondeknop (instelling) om te loggen wat je at. De alarmen hebben een afkoeltijd, dus ze gaan nooit elke seconde af, en er zijn geen advertenties of donatiepop-ups.\n\nWAT HET DOET\n- Koolhydraattank in % met een schatting van de tijd tot de hongerklop bij je huidige inspanning\n- Koolhydraatverbruik uit calorieën en hartslagintensiteit, dus rustig fietsen en een zware klim tellen verschillend\n- Inname met opnamevertraging en darmlimiet (60, 90 of 120 g/u)\n- Eet-nu-alarm als de tank binnen 20 minuten onder je drempel zakt, of als je eetinterval voorbij is\n- Gram per uur tegenover je doel\n- Volledig scherm met de tankcurve, een vooruitblik op het komende uur en een streepje voor elke portie\n- Past zich aan elke veldgrootte aan, van één getal tot een volledig dashboard, op donkere en lichte achtergrond\n- Tank %, totale koolhydraten, koolhydraten per ronde en de laagste tank worden in de activiteit opgeslagen en in Garmin Connect getoond\n- Instellingen voor portie, doel, interval, drempel, carboloading, gewicht en meer; vijf talen\n\nWAT HET NODIG HEEFT\n- Hartslag voor de inspanningsschatting; gewicht, leeftijd en rusthartslag komen uit je Garmin-profiel\n- Toevoegen: start een activiteit, open Instellingen / Gegevensschermen, kies een scherm, selecteer een veld en kies Connect IQ / Bonkline\n- De cijfers zijn een schatting om je voeding te plannen, geen meting",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "183",
+  "icon": "assets/icons/bonkline.png",
+  "shots": [
+   "assets/shots/bonkline-1.jpg",
+   "assets/shots/bonkline-2.jpg",
+   "assets/shots/bonkline-3.jpg"
+  ],
+  "changed": 1791205202000,
+  "whatsnew": "Leaner memory on older watches and no lost carbs when you log very often.",
+  "devices": 229,
+  "updates": 3
  },
  {
   "id": "7565fe42-c64b-41f2-a3d5-bd76fba0cb9c",
@@ -989,29 +1058,6 @@
   "updates": 2
  },
  {
-  "id": "2bf457d8-1a2e-4cf0-8248-5d8e862d3da0",
-  "slug": "meridia",
-  "name": "Meridia - World clock with DST",
-  "desc": "Meridia is a world clock that gets daylight saving time right. It carries its own rule set for nearly 200 cities — Europe, North America, Chile, Australia, New Zealand, Israel, Egypt and the zones that never change, including half-hour and 45-minute offsets — so the time is correct today, next week and next year, even when two countries switch on different dates.\n\nThe home screen lists your home city and up to six favourites with their time and whether they are at work, asleep or free. Swipe for each city with a day-and-night bar, the call-window planner that finds when everyone is in office hours today or tomorrow, and the list of upcoming clock changes that shift the gap between you and them. A converter answers \"15:00 for them is what for me?\" in a few presses.\n\nWHAT IT DOES\n- Correct offsets for about 200 cities, now and ahead, from its own DST rules\n- Home city plus up to six favourites with work, sleep and free colours\n- Day-and-night bar per city from sunrise and sunset\n- Call-window planner: office hours of several cities against your own waking hours, next 48 hours\n- Clock-change list: \"next week the gap to New York changes\"\n- Time converter between any two cities\n- Adjustable office hours, weekends, shortest window, five languages and a glance with two cities\n\nWHAT IT NEEDS\n- Nothing: no phone, no account, no internet — all rules and cities live on the watch",
-  "nl": "Meridia is een wereldklok die de zomertijd goed doet. Hij heeft een eigen regelset voor bijna 200 steden — Europa, Noord-Amerika, Chili, Australië, Nieuw-Zeeland, Israël, Egypte en de zones zonder zomertijd, inclusief halfuur- en kwartier-offsets — zodat de tijd klopt vandaag, volgende week en volgend jaar, ook als twee landen op verschillende data omschakelen.\n\nHet startscherm toont je thuisstad en tot zes favorieten met hun tijd en of ze aan het werk zijn, slapen of vrij zijn. Veeg voor elke stad met een dag-en-nachtbalk, de belvenster-planner die vindt wanneer iedereen vandaag of morgen in kantooruren zit, en de lijst met komende klokwissels die het verschil tussen jou en hen verschuiven. Een omrekenaar beantwoordt \"15:00 bij hen is hoe laat bij mij?\" in een paar drukken.\n\nWHAT IT DOES\n- Juiste offsets voor zo'n 200 steden, nu en vooruit, uit eigen zomertijdregels\n- Thuisstad plus tot zes favorieten met kleuren voor werk, slaap en vrij\n- Dag-en-nachtbalk per stad uit zonsopkomst en zonsondergang\n- Belvenster-planner: kantooruren van meerdere steden naast je eigen wakkere uren, komende 48 uur\n- Klokwissel-lijst: \"volgende week verandert het verschil met New York\"\n- Tijdrekenaar tussen twee willekeurige steden\n- Instelbare kantooruren, weekenden, kortste venster, vijf talen en een glance met twee steden\n\nWHAT IT NEEDS\n- Niets: geen telefoon, geen account, geen internet — alle regels en steden staan op het horloge",
-  "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "213",
-  "icon": "assets/icons/meridia.png",
-  "shots": [
-   "assets/shots/meridia-1.jpg",
-   "assets/shots/meridia-2.jpg",
-   "assets/shots/meridia-3.jpg"
-  ],
-  "changed": 1791205889000,
-  "whatsnew": "The menu icon on the last page shows where to open settings, and durations and clock-change hints read correctly in every language.",
-  "devices": 160,
-  "updates": 4
- },
- {
   "id": "f387d927-aa24-4880-9b6d-dbd336ab5d11",
   "slug": "labyrinx",
   "name": "Labyrinx - Tilt maze",
@@ -1020,8 +1066,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.1",
+  "downloads": 100,
+  "version": "1.0.2",
   "category": "206",
   "icon": "assets/icons/labyrinx.png",
   "shots": [
@@ -1029,10 +1075,10 @@
    "assets/shots/labyrinx-2.jpg",
    "assets/shots/labyrinx-3.jpg"
   ],
-  "changed": 1790271717000,
-  "whatsnew": "Now available on the fenix 9 series. The screen now stays on while you are using the app actively, so it no longer switches off while you are watching it. You can turn this off in the settings under Keep screen on.",
+  "changed": 1790713013000,
+  "whatsnew": "Saved progress now loads more safely and is never reset by damaged data.",
   "devices": 185,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "e7a08ac1-e5e5-4cdd-a0fa-f0bf526321bc",
@@ -1237,7 +1283,7 @@
    "assets/shots/swelt-3.jpg"
   ],
   "changed": 1791205940000,
-  "whatsnew": "The glance now shows your current acclimation, including the decay since you last opened the app.",
+  "whatsnew": "More reliable heart rate on newer watches.",
   "devices": 178,
   "updates": 4
  },
@@ -1444,7 +1490,7 @@
    "assets/shots/gravid-3.jpg"
   ],
   "changed": 1791206814000,
-  "whatsnew": "Dates now show correctly in time zones far east of UTC, one day or one counting session uses the singular, and the glance no longer cuts off the days line.",
+  "whatsnew": "More reliable heart rate on newer watches.",
   "devices": 185,
   "updates": 6
  },
@@ -1848,8 +1894,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
-  "version": "1.1.1",
+  "downloads": 100,
+  "version": "1.1.4",
   "category": "202",
   "icon": "assets/icons/studo.png",
   "shots": [
@@ -1857,10 +1903,10 @@
    "assets/shots/studo-2.jpg",
    "assets/shots/studo-3.jpg"
   ],
-  "changed": 1790168900000,
-  "whatsnew": "Redesigned glance: clearer layout, nothing cut off on smaller screens.",
+  "changed": 1790793099000,
+  "whatsnew": "Correct singular for a 1-day streak and a single distraction.",
   "devices": 178,
-  "updates": 3
+  "updates": 5
  },
  {
   "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
@@ -2137,7 +2183,7 @@
    "assets/shots/lexil-5.jpg"
   ],
   "changed": 1791210223000,
-  "whatsnew": "Large puzzles open faster and use less memory on older watches, and the glance now starts fresh each day instead of showing yesterday's result.",
+  "whatsnew": "Your streak no longer breaks when the clocks go back.",
   "devices": 178,
   "updates": 6
  },
@@ -2500,7 +2546,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.7",
+  "version": "1.0.8",
   "category": "204",
   "icon": "assets/icons/spent.png",
   "shots": [
@@ -2510,10 +2556,10 @@
    "assets/shots/spent-4.jpg",
    "assets/shots/spent-5.jpg"
   ],
-  "changed": 1790794922000,
-  "whatsnew": "Lower memory use with a long expense history, long category names no longer overlap amounts, and the correct singular on the last day of the period (\"for 1 day\").",
+  "changed": 1791612590000,
+  "whatsnew": "The daily allowance is now correct in the month the clocks change.",
   "devices": 59,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "acf0e837-8f06-42c0-a1b7-62275ac792fc",
@@ -2672,7 +2718,7 @@
   "rating": 4.3,
   "reviews": 8,
   "downloads": 100,
-  "version": "1.5.0",
+  "version": "1.5.1",
   "category": "213",
   "icon": "assets/icons/speedometer-pro.png",
   "shots": [
@@ -2682,10 +2728,10 @@
    "assets/shots/speedometer-pro-4.jpg",
    "assets/shots/speedometer-pro-5.jpg"
   ],
-  "changed": 1791471863000,
+  "changed": 1791474144000,
   "whatsnew": "More accurate Drag timing when you pull away between two GPS fixes.",
   "devices": 178,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "be12dc0d-65b0-46e8-be2e-7677289ca9fe",
@@ -2758,7 +2804,7 @@
    "assets/shots/reactr-5.jpg"
   ],
   "changed": 1791218394000,
-  "whatsnew": "More accurate reaction timing, button controls for Choice mode, translated ranks, and the correct singular for a single try and a one-day streak, also in the glance.",
+  "whatsnew": "Fixed the daily streak breaking at the clock change in UK, Irish and Portuguese time zones.",
   "devices": 104,
   "updates": 10
  },
