@@ -3035,7 +3035,7 @@
   "rating": 5.0,
   "reviews": 5,
   "downloads": 100,
-  "version": "2.4.2",
+  "version": "2.4.3",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -3045,10 +3045,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1791219536000,
+  "changed": 1791615007000,
   "whatsnew": "New: show your BAC, the time you are under your limit and today's drinks on watch faces that support Connect IQ complications.",
   "devices": 178,
-  "updates": 17
+  "updates": 18
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
@@ -3060,7 +3060,7 @@
   "rating": 4.8,
   "reviews": 9,
   "downloads": 100,
-  "version": "2.5.1",
+  "version": "2.5.2",
   "category": "219",
   "icon": "assets/icons/caffi.png",
   "shots": [
@@ -3070,10 +3070,10 @@
    "assets/shots/caffi-4.jpg",
    "assets/shots/caffi-5.jpg"
   ],
-  "changed": 1791219612000,
+  "changed": 1791614855000,
   "whatsnew": "New: show your caffeine level, today's total and sleep-OK time on watch faces that support Connect IQ complications.",
   "devices": 178,
-  "updates": 20
+  "updates": 21
  },
  {
   "id": "173e9d71-48e0-4ded-8515-27c3011032da",
