@@ -2112,7 +2112,7 @@
    "assets/shots/barocast-3.jpg"
   ],
   "changed": 1791209792000,
-  "whatsnew": "The glance now shows the forecast weather with a small icon, and it and the storm alert update reliably in the background.",
+  "whatsnew": "The forecast no longer flips the wrong way when you walk around or the altimeter recalibrates, and the app now flags showers nearby when a sudden pressure jump passes.",
   "devices": 165,
   "updates": 6
  },
