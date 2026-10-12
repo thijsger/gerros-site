@@ -483,6 +483,29 @@
   "updates": 2
  },
  {
+  "id": "a586da27-3a17-456c-b55f-34579423f678",
+  "slug": "stridedeck",
+  "name": "Stridedeck - all-in-one running field",
+  "desc": "Stridedeck is one running data field that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a pace graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot one. It fills the space row by row within the round screen edge, with the largest text that fits, so nothing is cut off. Choose a preset (Easy, Tempo, Race, Long run, Trail) or set every slot yourself in the Connect IQ app. It works without any setup.\n\nPace is smoothed with a Kalman filter instead of a fixed rolling average: GPS noise is damped on steady runs, but the start of an interval shows within two or three seconds. Heart rate shows your zone in the Garmin Connect colours, with zones taken from your watch. Stridedeck also estimates running power and grade-adjusted pace from the grade (Minetti), predicts your finish time for the race distance you choose (Riegel), and can correct GPS distance when you press lap at a km marker. Smoothed speed, HR zone and power are saved to the FIT file.\n\nWHAT IT DOES\n- 35 values to choose from: pace, speed, heart rate, HR zone (3.4), %HRmax or %HR reserve, distance, timer, average and lap pace, lap time and distance, last lap, time of day, battery, ascent, altitude, calories, cadence and more\n- Presets Easy / Tempo / Race / Long run / Trail, or your own order in 12 slots (slot 1 is the most important)\n- Kalman-smoothed pace with adjustable smoothing\n- Cadence coloured against your target cadence\n- Running power: your watch's power when available, otherwise an estimate from speed, grade and weight\n- Grade-adjusted pace (GAP) and grade in percent\n- Predicted finish time for 5K, 10K, half marathon, marathon or a custom distance, plus distance to go\n- Optional distance correction: press lap at a km marker and the rest of the run is scaled to match\n- Alerts (vibration, tone and pop-up) when HR goes above a chosen zone or cadence stays low, with a cool-down\n- Automatic, dark, light and high-contrast colours; five languages\n- Smoothed speed, HR zone and running power saved to the FIT file\n\nWHAT IT NEEDS\n- GPS for pace and distance; a heart-rate sensor for HR values; a barometric altimeter for grade and GAP\n- Settings in the Connect IQ app (preset, slots, smoothing, target cadence, race distance, alerts)\n- How to add: start a run, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Stridedeck",
+  "nl": "Stridedeck is één gegevensveld voor hardlopen dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een tempografiek in de kleur van je hartslagzone; op een half scherm toont het je vier belangrijkste; in een kwart twee; in het kleinste vak één. Het vult de ruimte rij voor rij binnen de ronde schermrand, met de grootste tekst die past, zodat er niets wordt afgesneden. Kies een voorinstelling (Rustig, Tempo, Wedstrijd, Duurloop, Trail) of stel elk vak zelf in via de Connect IQ-app. Het werkt zonder iets in te stellen.\n\nHet tempo wordt gedempt met een Kalman-filter in plaats van een vast rollend gemiddelde: GPS-ruis wordt weggedempt tijdens een rustige loop, maar het begin van een interval zie je binnen twee à drie seconden. De hartslag toont je zone in de kleuren van Garmin Connect, met de zones uit je horloge. Stridedeck schat ook loopvermogen en hellinggecorrigeerd tempo uit de helling (Minetti), voorspelt je eindtijd voor de wedstrijdafstand die je kiest (Riegel) en kan de GPS-afstand corrigeren als je bij een km-bord op de rondeknop drukt. Gedempte snelheid, hartslagzone en vermogen worden in het FIT-bestand opgeslagen.\n\nWAT HET DOET\n- 35 waarden om uit te kiezen: tempo, snelheid, hartslag, hartslagzone (3.4), % van max. hartslag of hartslagreserve, afstand, tijd, gemiddeld en rondetempo, rondetijd en -afstand, vorige ronde, kloktijd, accu, stijging, hoogte, calorieën, cadans en meer\n- Voorinstellingen Rustig / Tempo / Wedstrijd / Duurloop / Trail, of je eigen volgorde in 12 vakken (vak 1 is het belangrijkst)\n- Tempo gedempt met een Kalman-filter, demping instelbaar\n- Cadans gekleurd ten opzichte van je doelcadans\n- Loopvermogen: het vermogen van je horloge als dat er is, anders een schatting uit snelheid, helling en gewicht\n- Hellinggecorrigeerd tempo (GAP) en helling in procenten\n- Voorspelde eindtijd voor 5 km, 10 km, halve marathon, marathon of een eigen afstand, plus resterende afstand\n- Optionele afstandscorrectie: druk bij een km-bord op ronde en de rest van de loop wordt daarop geschaald\n- Alarmen (trillen, toon en pop-up) als je hartslag boven een gekozen zone komt of je cadans te laag blijft, met afkoeltijd\n- Automatische, donkere, lichte en hoogcontrast-kleuren; vijf talen\n- Gedempte snelheid, hartslagzone en loopvermogen in het FIT-bestand\n\nWAT HET NODIG HEEFT\n- GPS voor tempo en afstand; een hartslagsensor voor hartslagwaarden; een barometrische hoogtemeter voor helling en GAP\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, demping, doelcadans, wedstrijdafstand, alarmen)\n- Zo voeg je het toe: start een loop, open Instellingen / Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ / Stridedeck",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.3",
+  "category": "251",
+  "icon": "assets/icons/stridedeck.png",
+  "shots": [
+   "assets/shots/stridedeck-1.jpg",
+   "assets/shots/stridedeck-2.jpg",
+   "assets/shots/stridedeck-3.jpg"
+  ],
+  "changed": 1790783010000,
+  "whatsnew": "The predicted finish time is now accurate from the first minutes.",
+  "devices": 196,
+  "updates": 4
+ },
+ {
   "id": "3e832b0f-634a-463d-8c33-8e29234a744b",
   "slug": "flipturn",
   "name": "Flipturn - CSS pace & send-off clock",
@@ -642,6 +665,29 @@
   "whatsnew": "Faster scoring in long matches and safer storage limits.",
   "devices": 186,
   "updates": 3
+ },
+ {
+  "id": "f1441bd8-cc0f-44ce-9ae2-2295827405c0",
+  "slug": "trickster",
+  "name": "Trickster - Spades, Hearts, Euchre",
+  "desc": "Trickster brings three classic trick-taking card games to your watch: Spades, Hearts and Euchre, each against three computer players. The opponents don't cheat and don't see your cards. Before every move they deal out the cards they can't see in many possible ways, play each version to the end, and choose what works best across all of them — so they bid sensibly, duck the queen of spades, and notice when someone is going for the moon.\n\nYou pick a card by scrolling to it and confirming, so there are no tiny cards to tap. The current trick sits in the middle of the table with every card played in front of its player, and the last trick is always one menu away. Close the app halfway through a hand and the game is waiting where you left it. Stuck? Ask for a hint and the same engine the opponents use suggests a card.\n\nWHAT IT DOES\n- Spades with nil bids, bags and the 100-point bag penalty, played to 300 or 500\n- Hearts with passing left, across, right and hold, shooting the moon, played to 50 or 100\n- Euchre with order up, calling trump, going alone, stick the dealer and marches, played to 10\n- Three difficulty levels, from quick heuristics to full card sampling\n- A suggested bid in Spades and a hint button during play\n- Statistics per game: wins, streaks, moons, contracts, marches and euchres\n- Resume after closing, adjustable card speed, five languages and a glance with the score\n\nWHAT IT NEEDS\n- Nothing else — no phone, no account, no internet; all games run on the watch",
+  "nl": "Trickster zet drie klassieke slagenspellen op je horloge: Spades, Hearts en Euchre, telkens tegen drie computerspelers. De tegenstanders spelen eerlijk en zien jouw kaarten niet. Voor elke zet delen ze de kaarten die ze niet kennen op veel manieren uit, spelen elke versie tot het eind en kiezen wat over al die versies het best uitpakt — zo bieden ze verstandig, ontwijken ze de schoppenvrouw en merken ze op wanneer iemand naar de maan schiet.\n\nJe kiest een kaart door ernaartoe te scrollen en te bevestigen, dus geen piepkleine kaartjes aantikken. De lopende slag ligt midden op tafel, elke kaart voor de speler die hem legde, en de vorige slag is altijd één menu ver weg. Sluit je de app halverwege een hand, dan wacht het spel precies waar je was. Weet je het even niet? Vraag een hint en dezelfde rekenmotor als die van de tegenstanders stelt een kaart voor.\n\nWAT HET DOET\n- Spades met nil-biedingen, bags en de straf van 100 punten, tot 300 of 500\n- Hearts met doorgeven naar links, over, rechts en houden, naar de maan schieten, tot 50 of 100\n- Euchre met order up, troef kiezen, alleen spelen, stick the dealer en marches, tot 10\n- Drie moeilijkheidsniveaus, van snelle vuistregels tot volledige kaartsampling\n- Een voorgesteld bod bij Spades en een hintknop tijdens het spel\n- Statistiek per spel: winst, reeksen, manen, contracten, marches en euchres\n- Hervatten na afsluiten, instelbare kaartsnelheid, vijf talen en een glance met de stand\n\nWAT HET NODIG HEEFT\n- Verder niets — geen telefoon, geen account, geen internet; alles draait op het horloge",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.2",
+  "category": "206",
+  "icon": "assets/icons/trickster.png",
+  "shots": [
+   "assets/shots/trickster-1.jpg",
+   "assets/shots/trickster-2.jpg",
+   "assets/shots/trickster-3.jpg"
+  ],
+  "changed": 1790622826000,
+  "whatsnew": "The pause menu now opens with a vertical swipe on every touch watch, and saved games load more reliably.",
+  "devices": 185,
+  "updates": 2
  },
  {
   "id": "646b6c68-1186-4ba0-b370-7644a2f5ce39",
@@ -1009,52 +1055,6 @@
   "changed": 1790718733000,
   "whatsnew": "Handles incomplete heart rate zones safely, short chart windows show the right time span and the cadence chart scales from your real minimum.",
   "devices": 228,
-  "updates": 2
- },
- {
-  "id": "a586da27-3a17-456c-b55f-34579423f678",
-  "slug": "stridedeck",
-  "name": "Stridedeck - all-in-one running field",
-  "desc": "Stridedeck is one running data field that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a pace graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot one. It fills the space row by row within the round screen edge, with the largest text that fits, so nothing is cut off. Choose a preset (Easy, Tempo, Race, Long run, Trail) or set every slot yourself in the Connect IQ app. It works without any setup.\n\nPace is smoothed with a Kalman filter instead of a fixed rolling average: GPS noise is damped on steady runs, but the start of an interval shows within two or three seconds. Heart rate shows your zone in the Garmin Connect colours, with zones taken from your watch. Stridedeck also estimates running power and grade-adjusted pace from the grade (Minetti), predicts your finish time for the race distance you choose (Riegel), and can correct GPS distance when you press lap at a km marker. Smoothed speed, HR zone and power are saved to the FIT file.\n\nWHAT IT DOES\n- 35 values to choose from: pace, speed, heart rate, HR zone (3.4), %HRmax or %HR reserve, distance, timer, average and lap pace, lap time and distance, last lap, time of day, battery, ascent, altitude, calories, cadence and more\n- Presets Easy / Tempo / Race / Long run / Trail, or your own order in 12 slots (slot 1 is the most important)\n- Kalman-smoothed pace with adjustable smoothing\n- Cadence coloured against your target cadence\n- Running power: your watch's power when available, otherwise an estimate from speed, grade and weight\n- Grade-adjusted pace (GAP) and grade in percent\n- Predicted finish time for 5K, 10K, half marathon, marathon or a custom distance, plus distance to go\n- Optional distance correction: press lap at a km marker and the rest of the run is scaled to match\n- Alerts (vibration, tone and pop-up) when HR goes above a chosen zone or cadence stays low, with a cool-down\n- Automatic, dark, light and high-contrast colours; five languages\n- Smoothed speed, HR zone and running power saved to the FIT file\n\nWHAT IT NEEDS\n- GPS for pace and distance; a heart-rate sensor for HR values; a barometric altimeter for grade and GAP\n- Settings in the Connect IQ app (preset, slots, smoothing, target cadence, race distance, alerts)\n- How to add: start a run, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Stridedeck",
-  "nl": "Stridedeck is één gegevensveld voor hardlopen dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een tempografiek in de kleur van je hartslagzone; op een half scherm toont het je vier belangrijkste; in een kwart twee; in het kleinste vak één. Het vult de ruimte rij voor rij binnen de ronde schermrand, met de grootste tekst die past, zodat er niets wordt afgesneden. Kies een voorinstelling (Rustig, Tempo, Wedstrijd, Duurloop, Trail) of stel elk vak zelf in via de Connect IQ-app. Het werkt zonder iets in te stellen.\n\nHet tempo wordt gedempt met een Kalman-filter in plaats van een vast rollend gemiddelde: GPS-ruis wordt weggedempt tijdens een rustige loop, maar het begin van een interval zie je binnen twee à drie seconden. De hartslag toont je zone in de kleuren van Garmin Connect, met de zones uit je horloge. Stridedeck schat ook loopvermogen en hellinggecorrigeerd tempo uit de helling (Minetti), voorspelt je eindtijd voor de wedstrijdafstand die je kiest (Riegel) en kan de GPS-afstand corrigeren als je bij een km-bord op de rondeknop drukt. Gedempte snelheid, hartslagzone en vermogen worden in het FIT-bestand opgeslagen.\n\nWAT HET DOET\n- 35 waarden om uit te kiezen: tempo, snelheid, hartslag, hartslagzone (3.4), % van max. hartslag of hartslagreserve, afstand, tijd, gemiddeld en rondetempo, rondetijd en -afstand, vorige ronde, kloktijd, accu, stijging, hoogte, calorieën, cadans en meer\n- Voorinstellingen Rustig / Tempo / Wedstrijd / Duurloop / Trail, of je eigen volgorde in 12 vakken (vak 1 is het belangrijkst)\n- Tempo gedempt met een Kalman-filter, demping instelbaar\n- Cadans gekleurd ten opzichte van je doelcadans\n- Loopvermogen: het vermogen van je horloge als dat er is, anders een schatting uit snelheid, helling en gewicht\n- Hellinggecorrigeerd tempo (GAP) en helling in procenten\n- Voorspelde eindtijd voor 5 km, 10 km, halve marathon, marathon of een eigen afstand, plus resterende afstand\n- Optionele afstandscorrectie: druk bij een km-bord op ronde en de rest van de loop wordt daarop geschaald\n- Alarmen (trillen, toon en pop-up) als je hartslag boven een gekozen zone komt of je cadans te laag blijft, met afkoeltijd\n- Automatische, donkere, lichte en hoogcontrast-kleuren; vijf talen\n- Gedempte snelheid, hartslagzone en loopvermogen in het FIT-bestand\n\nWAT HET NODIG HEEFT\n- GPS voor tempo en afstand; een hartslagsensor voor hartslagwaarden; een barometrische hoogtemeter voor helling en GAP\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, demping, doelcadans, wedstrijdafstand, alarmen)\n- Zo voeg je het toe: start een loop, open Instellingen / Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ / Stridedeck",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "251",
-  "icon": "assets/icons/stridedeck.png",
-  "shots": [
-   "assets/shots/stridedeck-1.jpg",
-   "assets/shots/stridedeck-2.jpg",
-   "assets/shots/stridedeck-3.jpg"
-  ],
-  "changed": 1790718242000,
-  "whatsnew": "Uses less memory on older watches and shows more values on a full-screen field.",
-  "devices": 196,
-  "updates": 3
- },
- {
-  "id": "f1441bd8-cc0f-44ce-9ae2-2295827405c0",
-  "slug": "trickster",
-  "name": "Trickster - Spades, Hearts, Euchre",
-  "desc": "Trickster brings three classic trick-taking card games to your watch: Spades, Hearts and Euchre, each against three computer players. The opponents don't cheat and don't see your cards. Before every move they deal out the cards they can't see in many possible ways, play each version to the end, and choose what works best across all of them — so they bid sensibly, duck the queen of spades, and notice when someone is going for the moon.\n\nYou pick a card by scrolling to it and confirming, so there are no tiny cards to tap. The current trick sits in the middle of the table with every card played in front of its player, and the last trick is always one menu away. Close the app halfway through a hand and the game is waiting where you left it. Stuck? Ask for a hint and the same engine the opponents use suggests a card.\n\nWHAT IT DOES\n- Spades with nil bids, bags and the 100-point bag penalty, played to 300 or 500\n- Hearts with passing left, across, right and hold, shooting the moon, played to 50 or 100\n- Euchre with order up, calling trump, going alone, stick the dealer and marches, played to 10\n- Three difficulty levels, from quick heuristics to full card sampling\n- A suggested bid in Spades and a hint button during play\n- Statistics per game: wins, streaks, moons, contracts, marches and euchres\n- Resume after closing, adjustable card speed, five languages and a glance with the score\n\nWHAT IT NEEDS\n- Nothing else — no phone, no account, no internet; all games run on the watch",
-  "nl": "Trickster zet drie klassieke slagenspellen op je horloge: Spades, Hearts en Euchre, telkens tegen drie computerspelers. De tegenstanders spelen eerlijk en zien jouw kaarten niet. Voor elke zet delen ze de kaarten die ze niet kennen op veel manieren uit, spelen elke versie tot het eind en kiezen wat over al die versies het best uitpakt — zo bieden ze verstandig, ontwijken ze de schoppenvrouw en merken ze op wanneer iemand naar de maan schiet.\n\nJe kiest een kaart door ernaartoe te scrollen en te bevestigen, dus geen piepkleine kaartjes aantikken. De lopende slag ligt midden op tafel, elke kaart voor de speler die hem legde, en de vorige slag is altijd één menu ver weg. Sluit je de app halverwege een hand, dan wacht het spel precies waar je was. Weet je het even niet? Vraag een hint en dezelfde rekenmotor als die van de tegenstanders stelt een kaart voor.\n\nWAT HET DOET\n- Spades met nil-biedingen, bags en de straf van 100 punten, tot 300 of 500\n- Hearts met doorgeven naar links, over, rechts en houden, naar de maan schieten, tot 50 of 100\n- Euchre met order up, troef kiezen, alleen spelen, stick the dealer en marches, tot 10\n- Drie moeilijkheidsniveaus, van snelle vuistregels tot volledige kaartsampling\n- Een voorgesteld bod bij Spades en een hintknop tijdens het spel\n- Statistiek per spel: winst, reeksen, manen, contracten, marches en euchres\n- Hervatten na afsluiten, instelbare kaartsnelheid, vijf talen en een glance met de stand\n\nWAT HET NODIG HEEFT\n- Verder niets — geen telefoon, geen account, geen internet; alles draait op het horloge",
-  "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "206",
-  "icon": "assets/icons/trickster.png",
-  "shots": [
-   "assets/shots/trickster-1.jpg",
-   "assets/shots/trickster-2.jpg",
-   "assets/shots/trickster-3.jpg"
-  ],
-  "changed": 1790622826000,
-  "whatsnew": "The pause menu now opens with a vertical swipe on every touch watch, and saved games load more reliably.",
-  "devices": 178,
   "updates": 2
  },
  {
@@ -1503,8 +1503,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
-  "version": "1.1.2",
+  "downloads": 100,
+  "version": "1.1.3",
   "category": "219",
   "icon": "assets/icons/baseline.png",
   "shots": [
@@ -1512,10 +1512,10 @@
    "assets/shots/baseline-2.jpg",
    "assets/shots/baseline-3.jpg"
   ],
-  "changed": 1790559387000,
-  "whatsnew": "Correct accents in all languages.",
+  "changed": 1790811411000,
+  "whatsnew": "More robust loading of stored days, and the glance no longer shows an old verdict as today's.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "0c2e5921-af6d-47e7-bf91-3a4899a2a752",
@@ -2021,7 +2021,7 @@
    "assets/shots/cyra-5.jpg"
   ],
   "changed": 1791207877000,
-  "whatsnew": "More robust loading of long cycle and night histories, and the patterns page stays smooth with long histories.",
+  "whatsnew": "\"Another day\" now sits right below \"Period started\", so logging a period that began earlier is easier to find.",
   "devices": 174,
   "updates": 5
  },
