@@ -363,7 +363,7 @@
    "assets/shots/rolla-3.jpg"
   ],
   "changed": 1790781630000,
-  "whatsnew": "The interval screen now says \"1 push\" after the first push.",
+  "whatsnew": "Fixed a crash when starting a Sport or Handbike session on older watches such as the fenix 5.",
   "devices": 185,
   "updates": 3
  },
@@ -2010,7 +2010,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "219",
   "icon": "assets/icons/cyra.png",
   "shots": [
@@ -2020,10 +2020,10 @@
    "assets/shots/cyra-4.jpg",
    "assets/shots/cyra-5.jpg"
   ],
-  "changed": 1791207877000,
+  "changed": 1791820839000,
   "whatsnew": "\"Another day\" now sits right below \"Period started\", so logging a period that began earlier is easier to find.",
   "devices": 174,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
