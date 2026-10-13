@@ -133,7 +133,7 @@
    "assets/shots/southpaw-3.jpg"
   ],
   "changed": 1790778767000,
-  "whatsnew": "Shows \"1 round\" after a single-round workout.",
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 185,
   "updates": 3
  },
@@ -193,7 +193,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 1,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "220",
   "icon": "assets/icons/ramprate.png",
   "shots": [
@@ -201,10 +201,10 @@
    "assets/shots/ramprate-2.jpg",
    "assets/shots/ramprate-3.jpg"
   ],
-  "changed": 1790780163000,
-  "whatsnew": "The glance now shows your safe limit on every watch and lowers it on time when your longest run drops out of the 30-day window.",
+  "changed": 1791889906000,
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "69d4b79a-b5d6-4a37-8f9b-7707ceb4197f",
@@ -261,7 +261,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.2",
   "category": "205",
   "icon": "assets/icons/barkline.png",
@@ -354,7 +354,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "219",
   "icon": "assets/icons/rolla.png",
   "shots": [
@@ -362,10 +362,10 @@
    "assets/shots/rolla-2.jpg",
    "assets/shots/rolla-3.jpg"
   ],
-  "changed": 1790781630000,
+  "changed": 1791850919000,
   "whatsnew": "Fixed a crash when starting a Sport or Handbike session on older watches such as the fenix 5.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "9578be2b-1305-4d8b-9ace-70cd90b3a8fd",
@@ -377,7 +377,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "212",
   "icon": "assets/icons/oxer.png",
   "shots": [
@@ -385,10 +385,10 @@
    "assets/shots/oxer-2.jpg",
    "assets/shots/oxer-3.jpg"
   ],
-  "changed": 1790781926000,
-  "whatsnew": "Starts reliably with many saved courses on older watches, and walking a course now shows \"1 fence\" after the first fence.",
+  "changed": 1791889815000,
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "85acf954-7675-4fcb-b5bc-1c4d07e0864f",
@@ -639,7 +639,7 @@
    "assets/shots/leapload-3.jpg"
   ],
   "changed": 1791205879000,
-  "whatsnew": "The glance now stays current on days you do not open the app, deleting a session after midnight corrects the right day, and one session or jump now uses the singular.",
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 186,
   "updates": 5
  },
@@ -1090,7 +1090,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "220",
   "icon": "assets/icons/driftline.png",
   "shots": [
@@ -1098,10 +1098,10 @@
    "assets/shots/driftline-2.jpg",
    "assets/shots/driftline-3.jpg"
   ],
-  "changed": 1791205892000,
-  "whatsnew": "Shows \"1 test\" instead of \"1 tests\".",
+  "changed": 1791889454000,
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "46983d57-7a1d-4fdc-8d63-4252165b3769",
@@ -1182,7 +1182,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "219",
   "icon": "assets/icons/burnpoint.png",
   "shots": [
@@ -1190,10 +1190,10 @@
    "assets/shots/burnpoint-2.jpg",
    "assets/shots/burnpoint-3.jpg"
   ],
-  "changed": 1791205924000,
-  "whatsnew": "Safer loading of saved workouts and settings.",
+  "changed": 1791889309000,
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "0b2a7a49-a924-4583-8e5e-62668829d6dc",
@@ -1283,7 +1283,7 @@
    "assets/shots/swelt-3.jpg"
   ],
   "changed": 1791613782000,
-  "whatsnew": "More reliable heart rate on newer watches.",
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 178,
   "updates": 5
  },
@@ -1467,7 +1467,7 @@
    "assets/shots/recruit-3.jpg"
   ],
   "changed": 1791206810000,
-  "whatsnew": "The beep test now gives adults a realistic VO2max (adult Léger formula from age 18).",
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 178,
   "updates": 6
  },
@@ -1872,7 +1872,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "247",
   "icon": "assets/icons/laylin.png",
   "shots": [
@@ -1880,10 +1880,10 @@
    "assets/shots/laylin-2.jpg",
    "assets/shots/laylin-3.jpg"
   ],
-  "changed": 1791208739000,
-  "whatsnew": "More robust startup when saved data is damaged.",
+  "changed": 1791889629000,
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 175,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
