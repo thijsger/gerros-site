@@ -124,7 +124,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "212",
   "icon": "assets/icons/southpaw.png",
   "shots": [
@@ -132,10 +132,10 @@
    "assets/shots/southpaw-2.jpg",
    "assets/shots/southpaw-3.jpg"
   ],
-  "changed": 1790778767000,
+  "changed": 1791890071000,
   "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "95f77174-4fa4-4dc9-8e83-c3dbeaf738a7",
@@ -506,6 +506,29 @@
   "updates": 4
  },
  {
+  "id": "c0f75d95-4a66-42b5-80a9-7a82589dd044",
+  "slug": "evensplit",
+  "name": "Evensplit - lap comparison",
+  "desc": "Evensplit compares the lap you are running right now with your previous lap and with your average lap. It keeps a ghost of the previous lap and tells you, second by second, how far ahead or behind you are at the same distance, and it predicts the time you will finish this lap in. It works for running, cycling, swimming and any sport with laps, with auto-lap or the lap button.\n\nIt fits every field size: the gap to the previous lap in a small slot, the lap pace with an arrow, the gap and the predicted lap time in half a screen, and a full screen with a table of your last laps, the average lap, a comparison of pace, heart rate, power and cadence, your negative split over the whole session and how even your laps are.\n\nWHAT IT DOES\n- Ghost of the previous lap: gap in seconds at the same distance, green when ahead, red when behind\n- Lap prediction: finish time of this lap at your current pace, and whether you will beat the previous one\n- Lap table of the last laps and the average lap, heart rate in Garmin zone colors\n- This lap vs previous lap vs average lap for pace or speed, heart rate, power and cadence, with arrows and colored differences\n- Knows auto-lap by distance or by time, and work/rest intervals: a hard lap is compared with the previous hard lap\n- Negative split over the session (second half minus first half) and the spread of your lap paces\n- Optional vibration, beep and pop-up when you fall behind the previous lap, and a lap summary pop-up\n- Gap, lap pace difference, lap spread and split saved to the FIT file\n- Pace or speed chosen from your sport, or power or heart rate indoors; sun mode with high contrast; five languages\n\nWHAT IT NEEDS\n- Laps: auto-lap or the lap button (before the first lap it assumes 1 km or 1 mile)\n- Optional in the settings of the Connect IQ app: compare by pace, speed, power or heart rate, compare with the previous or the best lap, a fixed lap length, the alert threshold and colors\n- On watches with little memory for data fields (such as fenix 6, Forerunner 55, Instinct 2) the full-screen table, pop-ups, interval detection and the ghost at the same distance are left out; the gap is then based on the average pace of the previous lap\n- How to add: start an activity, open Settings, then Data Screens, pick a screen and a field, then choose Connect IQ and Evensplit",
+  "nl": "Evensplit vergelijkt de ronde die je nu loopt met je vorige ronde en met je gemiddelde ronde. Het houdt een spookloper van de vorige ronde bij en laat per seconde zien hoeveel je op dezelfde afstand voor of achter ligt, en het voorspelt de eindtijd van deze ronde. Het werkt bij hardlopen, fietsen, zwemmen en elke sport met rondes, met auto-lap of de rondeknop.\n\nHet past in elke veldgrootte: het verschil met de vorige ronde in een klein vak, het rondetempo met een pijl, het verschil en de voorspelde rondetijd op een half scherm, en een vol scherm met een tabel van je laatste rondes, de gemiddelde ronde, een vergelijking van tempo, hartslag, vermogen en cadans, je negatieve split over de hele sessie en hoe gelijkmatig je rondes zijn.\n\nWAT HET DOET\n- Spookloper van de vorige ronde: verschil in seconden op dezelfde afstand, groen als je voor ligt, rood als je achter ligt\n- Rondevoorspelling: eindtijd van deze ronde bij je huidige tempo, en of je de vorige gaat verslaan\n- Tabel van de laatste rondes en de gemiddelde ronde, hartslag in de zonekleuren van Garmin\n- Deze ronde vs vorige ronde vs gemiddelde ronde voor tempo of snelheid, hartslag, vermogen en cadans, met pijlen en gekleurde verschillen\n- Herkent auto-lap op afstand of op tijd, en werk/rust-intervallen: een harde ronde wordt met de vorige harde ronde vergeleken\n- Negatieve split over de sessie (tweede helft min eerste helft) en de spreiding van je rondetempo's\n- Optioneel trillen, piepen en een pop-up als je achter raakt op de vorige ronde, en een pop-up met de rondesamenvatting\n- Verschil, tempoverschil per ronde, spreiding en split opgeslagen in het FIT-bestand\n- Tempo of snelheid gekozen op basis van je sport, of vermogen of hartslag binnen; zonmodus met hoog contrast; vijf talen\n\nWAT HET NODIG HEEFT\n- Rondes: auto-lap of de rondeknop (voor de eerste ronde gaat het uit van 1 km of 1 mijl)\n- Optioneel in de instellingen van de Connect IQ-app: vergelijken op tempo, snelheid, vermogen of hartslag, met de vorige of de beste ronde, een vaste rondelengte, de waarschuwingsdrempel en kleuren\n- Op horloges met weinig geheugen voor gegevensvelden (zoals fenix 6, Forerunner 55, Instinct 2) vallen de volle-schermtabel, pop-ups, intervalherkenning en de spookloper op dezelfde afstand weg; het verschil gaat dan uit van het gemiddelde tempo van de vorige ronde\n- Toevoegen: start een activiteit, open Instellingen, dan Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ en Evensplit",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.2",
+  "category": "183",
+  "icon": "assets/icons/evensplit.png",
+  "shots": [
+   "assets/shots/evensplit-1.jpg",
+   "assets/shots/evensplit-2.jpg",
+   "assets/shots/evensplit-3.jpg"
+  ],
+  "changed": 1791889548000,
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
+  "devices": 228,
+  "updates": 4
+ },
+ {
   "id": "3e832b0f-634a-463d-8c33-8e29234a744b",
   "slug": "flipturn",
   "name": "Flipturn - CSS pace & send-off clock",
@@ -630,7 +653,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "212",
   "icon": "assets/icons/leapload.png",
   "shots": [
@@ -638,10 +661,10 @@
    "assets/shots/leapload-2.jpg",
    "assets/shots/leapload-3.jpg"
   ],
-  "changed": 1791205879000,
+  "changed": 1791889713000,
   "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
-  "devices": 186,
-  "updates": 5
+  "devices": 185,
+  "updates": 6
  },
  {
   "id": "a964a4a1-5f3c-4cf4-8a8a-d7da97c5b9ca",
@@ -872,29 +895,6 @@
   "whatsnew": "Keeps the learned pool length when you change a setting mid-swim, uses less memory on older watches and shows more values on a full-screen field.",
   "devices": 196,
   "updates": 2
- },
- {
-  "id": "c0f75d95-4a66-42b5-80a9-7a82589dd044",
-  "slug": "evensplit",
-  "name": "Evensplit - lap comparison",
-  "desc": "Evensplit compares the lap you are running right now with your previous lap and with your average lap. It keeps a ghost of the previous lap and tells you, second by second, how far ahead or behind you are at the same distance, and it predicts the time you will finish this lap in. It works for running, cycling, swimming and any sport with laps, with auto-lap or the lap button.\n\nIt fits every field size: the gap to the previous lap in a small slot, the lap pace with an arrow, the gap and the predicted lap time in half a screen, and a full screen with a table of your last laps, the average lap, a comparison of pace, heart rate, power and cadence, your negative split over the whole session and how even your laps are.\n\nWHAT IT DOES\n- Ghost of the previous lap: gap in seconds at the same distance, green when ahead, red when behind\n- Lap prediction: finish time of this lap at your current pace, and whether you will beat the previous one\n- Lap table of the last laps and the average lap, heart rate in Garmin zone colors\n- This lap vs previous lap vs average lap for pace or speed, heart rate, power and cadence, with arrows and colored differences\n- Knows auto-lap by distance or by time, and work/rest intervals: a hard lap is compared with the previous hard lap\n- Negative split over the session (second half minus first half) and the spread of your lap paces\n- Optional vibration, beep and pop-up when you fall behind the previous lap, and a lap summary pop-up\n- Gap, lap pace difference, lap spread and split saved to the FIT file\n- Pace or speed chosen from your sport, or power or heart rate indoors; sun mode with high contrast; five languages\n\nWHAT IT NEEDS\n- Laps: auto-lap or the lap button (before the first lap it assumes 1 km or 1 mile)\n- Optional in the settings of the Connect IQ app: compare by pace, speed, power or heart rate, compare with the previous or the best lap, a fixed lap length, the alert threshold and colors\n- On watches with little memory for data fields (such as fenix 6, Forerunner 55, Instinct 2) the full-screen table, pop-ups, interval detection and the ghost at the same distance are left out; the gap is then based on the average pace of the previous lap\n- How to add: start an activity, open Settings, then Data Screens, pick a screen and a field, then choose Connect IQ and Evensplit",
-  "nl": "Evensplit vergelijkt de ronde die je nu loopt met je vorige ronde en met je gemiddelde ronde. Het houdt een spookloper van de vorige ronde bij en laat per seconde zien hoeveel je op dezelfde afstand voor of achter ligt, en het voorspelt de eindtijd van deze ronde. Het werkt bij hardlopen, fietsen, zwemmen en elke sport met rondes, met auto-lap of de rondeknop.\n\nHet past in elke veldgrootte: het verschil met de vorige ronde in een klein vak, het rondetempo met een pijl, het verschil en de voorspelde rondetijd op een half scherm, en een vol scherm met een tabel van je laatste rondes, de gemiddelde ronde, een vergelijking van tempo, hartslag, vermogen en cadans, je negatieve split over de hele sessie en hoe gelijkmatig je rondes zijn.\n\nWAT HET DOET\n- Spookloper van de vorige ronde: verschil in seconden op dezelfde afstand, groen als je voor ligt, rood als je achter ligt\n- Rondevoorspelling: eindtijd van deze ronde bij je huidige tempo, en of je de vorige gaat verslaan\n- Tabel van de laatste rondes en de gemiddelde ronde, hartslag in de zonekleuren van Garmin\n- Deze ronde vs vorige ronde vs gemiddelde ronde voor tempo of snelheid, hartslag, vermogen en cadans, met pijlen en gekleurde verschillen\n- Herkent auto-lap op afstand of op tijd, en werk/rust-intervallen: een harde ronde wordt met de vorige harde ronde vergeleken\n- Negatieve split over de sessie (tweede helft min eerste helft) en de spreiding van je rondetempo's\n- Optioneel trillen, piepen en een pop-up als je achter raakt op de vorige ronde, en een pop-up met de rondesamenvatting\n- Verschil, tempoverschil per ronde, spreiding en split opgeslagen in het FIT-bestand\n- Tempo of snelheid gekozen op basis van je sport, of vermogen of hartslag binnen; zonmodus met hoog contrast; vijf talen\n\nWAT HET NODIG HEEFT\n- Rondes: auto-lap of de rondeknop (voor de eerste ronde gaat het uit van 1 km of 1 mijl)\n- Optioneel in de instellingen van de Connect IQ-app: vergelijken op tempo, snelheid, vermogen of hartslag, met de vorige of de beste ronde, een vaste rondelengte, de waarschuwingsdrempel en kleuren\n- Op horloges met weinig geheugen voor gegevensvelden (zoals fenix 6, Forerunner 55, Instinct 2) vallen de volle-schermtabel, pop-ups, intervalherkenning en de spookloper op dezelfde afstand weg; het verschil gaat dan uit van het gemiddelde tempo van de vorige ronde\n- Toevoegen: start een activiteit, open Instellingen, dan Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ en Evensplit",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.1",
-  "category": "183",
-  "icon": "assets/icons/evensplit.png",
-  "shots": [
-   "assets/shots/evensplit-1.jpg",
-   "assets/shots/evensplit-2.jpg",
-   "assets/shots/evensplit-3.jpg"
-  ],
-  "changed": 1791205178000,
-  "whatsnew": "Fixes: heart-rate zones from your profile are handled safely even when they are missing or unusual, and power detection resets correctly when you start a new activity.",
-  "devices": 228,
-  "updates": 3
  },
  {
   "id": "3f3c8e51-2137-4007-8105-a844e7fa0504",
@@ -1274,7 +1274,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "219",
   "icon": "assets/icons/swelt.png",
   "shots": [
@@ -1282,10 +1282,10 @@
    "assets/shots/swelt-2.jpg",
    "assets/shots/swelt-3.jpg"
   ],
-  "changed": 1791613782000,
+  "changed": 1791890139000,
   "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "542eec60-a9f7-47d8-9037-49a0c1221959",
@@ -1458,7 +1458,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.4",
+  "version": "1.1.5",
   "category": "219",
   "icon": "assets/icons/recruit.png",
   "shots": [
@@ -1466,10 +1466,10 @@
    "assets/shots/recruit-2.jpg",
    "assets/shots/recruit-3.jpg"
   ],
-  "changed": 1791206810000,
+  "changed": 1791889996000,
   "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "52e3403d-fd0f-4642-877d-c623a017705e",
@@ -1641,8 +1641,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 2,
-  "downloads": 10,
-  "version": "1.1",
+  "downloads": 100,
+  "version": "1.1.2",
   "category": "219",
   "icon": "assets/icons/strain.png",
   "shots": [
@@ -1650,10 +1650,10 @@
    "assets/shots/strain-2.jpg",
    "assets/shots/strain-3.jpg"
   ],
-  "changed": 1790096482000,
-  "whatsnew": "Fixed a possible crash with damaged saved data and a possible timeout on long histories. Heart rate scan now works on more watches and no longer gets stuck on an old find. Active minutes are read every start. The glance now decays over days without opening the app. Back in the log screen goes one field back. Tap the page title to open the menu.",
+  "changed": 1790894987000,
+  "whatsnew": "Faster and more reliable start-up with a long training log on older watches.",
   "devices": 178,
-  "updates": 2
+  "updates": 4
  },
  {
   "id": "9515da43-3860-4968-8123-b7498ab7227d",
