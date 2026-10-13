@@ -46,6 +46,29 @@
   "updates": 4
  },
  {
+  "id": "af54a959-2564-4117-8de7-7e1e90b807b5",
+  "slug": "nappr",
+  "name": "Nappr - Smart power nap",
+  "desc": "Nappr times your nap from the moment you actually fall asleep, not from the moment you lie down. It watches your heart rate settle below your resting level and your wrist go still, marks the minute you drifted off, and wakes you with a soft vibration that builds up after the nap length you chose — 10, 20, 26 or 90 minutes — with a hard maximum so a nap never runs away with your afternoon.\n\nAfter each nap you see how long it took to fall asleep, how long you slept, how far your heart rate dropped and whether grogginess is likely, plus a minute-by-minute strip of the nap. The history shows your average time to fall asleep and your naps this week, and the start screen uses that average to tell you roughly when you will be up.\n\nWHAT IT DOES\n- Detects falling asleep from heart-rate drop plus stillness, with a motion-only fallback\n- Four nap lengths: quick 10, power 20, NASA 26 and a full 90-minute cycle\n- Smart wake in cycle mode: wakes you on the first movement in the last 10 minutes\n- A maximum nap time that always ends the nap, even if you never fell asleep\n- Gentle alarm in three rising steps, adjustable strength, optional tone, 5-minute snooze\n- Last-nap summary with a sleep strip, grogginess estimate and heart-rate drop\n- History, averages, five languages and a glance with the wake time\n\nWHAT IT NEEDS\n- A watch with a wrist heart-rate sensor for the best detection; without heart rate it uses stillness only\n- Keep the app open during the nap: the watch stops app timers when you leave it",
+  "nl": "Nappr telt je dutje vanaf het moment dat je echt in slaap valt, niet vanaf het moment dat je gaat liggen. Het ziet je hartslag onder je rustniveau zakken en je pols stil worden, onthoudt de minuut waarop je wegzakte en wekt je na de gekozen duur — 10, 20, 26 of 90 minuten — met een zachte trilling die aanzwelt, met een harde bovengrens zodat een dutje nooit je hele middag opslokt.\n\nNa elk dutje zie je hoe lang inslapen duurde, hoe lang je sliep, hoeveel je hartslag daalde en of je waarschijnlijk suf wakker wordt, plus een strookje per minuut. De historie toont je gemiddelde inslaaptijd en je dutjes deze week, en het startscherm gebruikt dat gemiddelde om te zeggen hoe laat je ongeveer weer op bent.\n\nWAT HET DOET\n- Herkent inslapen aan hartslagdaling plus stilliggen, met een terugval op alleen beweging\n- Vier lengtes: kort 10, power 20, NASA 26 en een hele cyclus van 90 minuten\n- Slim wekken in cyclusmodus: bij de eerste beweging in de laatste 10 minuten\n- Een maximumtijd die het dutje altijd beëindigt, ook als je niet in slaap viel\n- Zachte wekker in drie aanzwellende trappen, instelbare sterkte, optionele toon, snooze van 5 minuten\n- Samenvatting van het laatste dutje met slaapstrook, sufheid-inschatting en hartslagdaling\n- Historie, gemiddelden, vijf talen en een glance met de wektijd\n\nWAT HET NODIG HEEFT\n- Een horloge met polshartslag voor de beste herkenning; zonder hartslag telt alleen stilliggen\n- Houd de app open tijdens het dutje: het horloge stopt app-timers als je hem verlaat",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.2",
+  "category": "219",
+  "icon": "assets/icons/nappr.png",
+  "shots": [
+   "assets/shots/nappr-1.jpg",
+   "assets/shots/nappr-2.jpg",
+   "assets/shots/nappr-3.jpg"
+  ],
+  "changed": 1790777960000,
+  "whatsnew": "The glance now counts this week's naps correctly even when the app hasn't been opened.",
+  "devices": 185,
+  "updates": 3
+ },
+ {
   "id": "2d0cc53e-6856-4a02-819b-399f9ac29fb5",
   "slug": "vilpa",
   "name": "Vilpa - Exercise snacks",
@@ -115,6 +138,29 @@
   "updates": 3
  },
  {
+  "id": "7565fe42-c64b-41f2-a3d5-bd76fba0cb9c",
+  "slug": "laddr",
+  "name": "Laddr - Pull-up & push-up plan",
+  "desc": "Laddr turns one max test into a daily plan for pull-ups, push-ups or dips. Choose Grease the Groove (small sets of 40-50% of your max spread through the day), ladders (1-2-3…), the Armstrong pull-up week or the 30-day Fighter pull-up table, and the watch tells you what to do today and when your next set is due.\n\nDuring a set the accelerometer counts your reps and closes the set when you stop; you can correct the count with one tap, and Laddr learns from your corrections. Rest timers follow the program, the plan moves forward on its own, and a weekly retest shows a forecast of your next max from your test trend and how well you kept to the plan.\n\nWHAT IT DOES\n- Max test and a plan for today from Grease the Groove, ladders, Armstrong or Fighter\n- Automatic rep counting with the watch sensors, plus quick manual correction\n- Next Grease the Groove set time spread across your chosen time window\n- Rest timers per program: 90 s, 60 s, 10 s per rep or count-up\n- Program progression: ladder rungs, Armstrong training set, Fighter day\n- Max history, trend per week and a forecast for the next retest\n- Daily goal, streak and the last seven days at a glance\n- Pull-ups, push-ups and dips kept separately, five languages, and a glance with today's sets\n\nWHAT IT NEEDS\n- A pull-up bar or dip station for pull-ups and dips; nothing for push-ups\n- One max test to start, or type in your current max\n- No phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Laddr maakt van één maximaaltest een dagplan voor optrekken, opdrukken of dips. Kies Grease the Groove (kleine sets van 40-50 % van je max, verspreid over de dag), ladders (1-2-3…), de Armstrong-optrekweek of de 30-daagse Fighter-tabel, en het horloge zegt wat je vandaag doet en wanneer je volgende set komt.\n\nTijdens een set telt de versnellingsmeter je herhalingen en sluit hij de set als je stopt; met één tik stel je de telling bij, en Laddr leert van die correcties. De rusttimers volgen het programma, het plan schuift vanzelf door, en een wekelijkse hertest toont een voorspelling van je volgende max uit je testtrend en hoe trouw je het plan volgde.\n\nWAT HET DOET\n- Maximaaltest en een plan voor vandaag uit Grease the Groove, ladders, Armstrong of Fighter\n- Herhalingen automatisch tellen met de sensoren van het horloge, snel handmatig bij te stellen\n- Tijdstip van de volgende Grease the Groove-set, verdeeld over je eigen tijdvak\n- Rusttimers per programma: 90 s, 60 s, 10 s per herhaling of oplopend\n- Het programma groeit mee: ladders, Armstrong-trainingsset, Fighter-dag\n- Max-historie, trend per week en een voorspelling voor de volgende hertest\n- Dagdoel, reeks en de laatste zeven dagen in één oogopslag\n- Optrekken, opdrukken en dips apart bijgehouden, vijf talen, en een glance met de sets van vandaag\n\nWAT HET NODIG HEEFT\n- Een optrekstang of dipstation voor optrekken en dips; niets voor opdrukken\n- Eén maximaaltest om te starten, of vul je huidige max in\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge berekend",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.2",
+  "category": "277",
+  "icon": "assets/icons/laddr.png",
+  "shots": [
+   "assets/shots/laddr-1.jpg",
+   "assets/shots/laddr-2.jpg",
+   "assets/shots/laddr-3.jpg"
+  ],
+  "changed": 1790778622000,
+  "whatsnew": "The glance now shows the right day (training or rest) and streak even when the app hasn't been opened.",
+  "devices": 185,
+  "updates": 3
+ },
+ {
   "id": "887525cf-b0c0-42ea-85f9-1acb25b29120",
   "slug": "southpaw",
   "name": "Southpaw - Punch counter",
@@ -138,6 +184,29 @@
   "updates": 4
  },
  {
+  "id": "1f67ba9a-0f03-42f0-9322-edc31e07f942",
+  "slug": "nockpoint",
+  "name": "Nockpoint - Archery scores",
+  "desc": "Nockpoint is an archery score sheet on your wrist. Place each arrow on a drawn target face — tap to aim, tap again to confirm — and it scores the ring for you, keeps the end and running totals, and works out your Archery GB handicap (2023 tables) and classification the moment the round is done.\n\nBecause it knows where every arrow landed, it also reads your group: the centre, the spread in centimetres, how far to move your sight, and the score and handicap you would have shot with the same group in the middle. On the watch pages you find the minimum score for each classification on your round, your handicap trend, personal bests and arrow volume.\n\nWHAT IT DOES\n- WA 18, WA 25, Portsmouth, Worcester, WA 70m/60m/50m, WA 1440, York, Hereford, National, WA Field and free practice\n- Correct faces per bow: 3-spot, inner-10 for compound indoor, 6-ring, imperial 5-zone, Worcester, field\n- Archery GB handicap for full and partial rounds, updated after every end\n- AGB classification for your bow, category and age group, including prestige and distance rules, and the three-score count toward the next class\n- Group centre, spread and sight correction in millimetres from your sight radius\n- End totals, X and 10 counts, average per arrow, trend, records and history\n- Works with buttons too: up and down step through the rings, START confirms\n- Five languages and a glance with your latest handicap and score\n\nWHAT IT NEEDS\n- Nothing but the watch: no phone, no account, no internet\n- For the group and sight correction: place at least six arrows on the face",
+  "nl": "Nockpoint is een scorekaart voor handboogschieten om je pols. Je zet elke pijl op een getekend doelpak — tik om te richten, tik nog eens om te bevestigen — en de app telt de ring, houdt end- en tussenstanden bij en berekent je Archery GB-handicap (tabellen van 2023) en classificatie zodra de ronde klaar is.\n\nOmdat de app weet waar elke pijl zat, leest hij ook je groep: het centrum, de spreiding in centimeters, hoeveel je vizier moet verschuiven, en welke score en handicap je met dezelfde groep in het midden had geschoten. Op de pagina's vind je de minimumscore per klasse voor je ronde, je handicapverloop, records en het aantal geschoten pijlen.\n\nWAT HET DOET\n- WA 18, WA 25, Portsmouth, Worcester, WA 70m/60m/50m, WA 1440, York, Hereford, National, WA Veld en vrij oefenen\n- Het juiste pak per boog: 3-spot, inner-10 voor compound indoor, 6-ring, imperiaal 5-zone, Worcester, veld\n- Archery GB-handicap voor hele en halve rondes, bijgewerkt na elke end\n- AGB-classificatie voor je boog, categorie en leeftijd, met prestige- en afstandsregels, en de telling van drie scores naar de volgende klasse\n- Groepscentrum, spreiding en vizierverstelling in millimeters op basis van je vizierstraal\n- Endtotalen, X'en en tienen, gemiddelde per pijl, verloop, records en historie\n- Werkt ook met knoppen: omhoog en omlaag stappen door de ringen, START bevestigt\n- Vijf talen en een glance met je laatste handicap en score\n\nWAT HET NODIG HEEFT\n- Alleen het horloge: geen telefoon, geen account, geen internet\n- Voor groep en vizierverstelling: plaats minstens zes pijlen op het pak",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.2",
+  "category": "212",
+  "icon": "assets/icons/nockpoint.png",
+  "shots": [
+   "assets/shots/nockpoint-1.jpg",
+   "assets/shots/nockpoint-2.jpg",
+   "assets/shots/nockpoint-3.jpg"
+  ],
+  "changed": 1790778920000,
+  "whatsnew": "The pause menu now says \"1 arrow\" after a single arrow.",
+  "devices": 185,
+  "updates": 3
+ },
+ {
   "id": "95f77174-4fa4-4dc9-8e83-c3dbeaf738a7",
   "slug": "flightplan",
   "name": "Flightplan - Powerlifting meet",
@@ -159,6 +228,29 @@
   "whatsnew": "The glance no longer shows \"now\" long after the meet and uses h:mm from one hour; \"1 attempt before you\" is now singular.",
   "devices": 185,
   "updates": 3
+ },
+ {
+  "id": "ff34fbc8-34f5-4142-9065-16d6679c0fc3",
+  "slug": "oneira",
+  "name": "Oneira - Lucid dream cues",
+  "desc": "Oneira stays open on your wrist through the night and estimates when you are likely in REM sleep, from your heart rate, how irregular it is and how still you lie, weighed against the 90-minute sleep cycle. From the second half of the night it sends a soft vibration pattern when REM looks likely for a few minutes in a row, so the cue can reach you inside a dream without waking you. During the day you practise reality checks with the very same pattern, so that at night it means one thing: am I dreaming?\n\nEach morning you log what you remember in two taps. Oneira learns from it: if a cue woke you, it goes one step softer; if you never noticed it, one step stronger. It stops for the night after three wake-ups. Your journal shows lucid dreams, how often you remember a dream, your streak and today's reality checks, and the last night page shows the REM estimate, the cue moments and how much battery the night used.\n\nWHAT IT DOES\n- Night mode with a live REM estimate from heart rate, beat-to-beat variability, stillness and the sleep cycle\n- Gentle cues in three patterns and five strengths, only after a set time asleep, with a pause between cues\n- Backs off after a cue wakes you and stops after three wake-ups\n- Morning log in two taps; the cue strength adjusts itself from your answers\n- Reality-check reminders and a 10-minute pre-sleep training with the same pattern\n- Dream journal: lucid dreams, recall rate, streak, and a 14-night overview\n- Last-night view with REM estimate, cue moments and battery use per hour\n- Five languages and a glance with your lucid count and recall\n\nWHAT IT NEEDS\n- A watch with an optical heart rate sensor, worn snugly overnight\n- Leave the app open when you go to sleep; it uses a low sensor rate to save battery\n- Staying open all night costs extra battery; the last-night page shows how much per hour, so charge before bed\n- The REM estimate is a guess from wrist signals, not a sleep test",
+  "nl": "Oneira blijft 's nachts open op je pols en schat wanneer je waarschijnlijk in REM-slaap bent, uit je hartslag, hoe onregelmatig die is en hoe stil je ligt, afgewogen tegen de slaapcyclus van 90 minuten. Vanaf de tweede helft van de nacht geeft hij een zacht trilpatroon als REM een paar minuten op rij waarschijnlijk is, zodat de cue je in een droom kan bereiken zonder je te wekken. Overdag oefen je realiteitschecks met precies hetzelfde patroon, zodat het 's nachts maar één ding betekent: droom ik?\n\nElke ochtend log je in twee tikken wat je je herinnert. Oneira leert ervan: wekte een cue je, dan gaat hij een stap zachter; merkte je hem niet, dan een stap sterker. Na drie keer wakker worden stopt hij voor die nacht. Je dagboek toont lucide dromen, hoe vaak je een droom onthoudt, je reeks en de realiteitschecks van vandaag, en de pagina van afgelopen nacht toont de REM-schatting, de cue-momenten en hoeveel accu de nacht kostte.\n\nWAT HET DOET\n- Nachtmodus met een live REM-schatting uit hartslag, slag-tot-slagvariatie, stilliggen en de slaapcyclus\n- Zachte cues in drie patronen en vijf sterktes, pas na een ingestelde slaaptijd, met een pauze ertussen\n- Wordt zachter als een cue je wekt en stopt na drie keer wakker worden\n- Ochtendlog in twee tikken; de cue-sterkte stelt zichzelf bij op je antwoorden\n- Realiteitscheck-herinneringen en een training van 10 minuten voor het slapen, met hetzelfde patroon\n- Droomdagboek: lucide dromen, herinneringspercentage, reeks en een overzicht van 14 nachten\n- Afgelopen nacht met REM-schatting, cue-momenten en accuverbruik per uur\n- Vijf talen en een glance met je lucide dromen en herinnering\n\nWAT HET NODIG HEEFT\n- Een horloge met optische hartslagmeter, 's nachts goed aansluitend gedragen\n- Laat de app open als je gaat slapen; hij gebruikt een lage sensorfrequentie om accu te sparen\n- De hele nacht open blijven kost extra accu; de pagina van afgelopen nacht toont hoeveel per uur, dus laad op voor het slapen\n- De REM-schatting is een inschatting uit polssignalen, geen slaaponderzoek",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.3",
+  "category": "219",
+  "icon": "assets/icons/oneira.png",
+  "shots": [
+   "assets/shots/oneira-1.jpg",
+   "assets/shots/oneira-2.jpg",
+   "assets/shots/oneira-3.jpg"
+  ],
+  "changed": 1791613627000,
+  "whatsnew": "More reliable heart rate during the night on newer watches.",
+  "devices": 185,
+  "updates": 4
  },
  {
   "id": "2a619a51-4b35-4758-ad6a-1ed2bfa3a518",
@@ -345,6 +437,29 @@
   "updates": 3
  },
  {
+  "id": "4d987198-57f0-4d6f-8d00-cefde548c048",
+  "slug": "vagal",
+  "name": "Vagal - HRV breathing coach",
+  "desc": "Vagal is a breathing coach that listens to your heart. It reads the time between every heartbeat from the wrist sensor or a chest strap, and every five seconds it works out how strongly your heart rhythm rises and falls with your breath. That coherence score colours the breathing circle while you follow it, so you can see the moment your breathing and your heart fall into step.\n\nStart with the resonance test: ten minutes, two at each of five breathing rates from 6.5 down to 4.5 per minute. Vagal compares the heart-rate swing and low-frequency power at each rate and suggests the one where your rhythm responds most. After that, daily sessions run at your rate with a gentle vibration at every breath, a one-minute calm reading before and after to show your RMSSD change, and a trend over your last sessions. For relaxation and training only, not a medical device.\n\nWHAT IT DOES\n- Live coherence score from beat-to-beat intervals, updated every five seconds over the last 64 seconds\n- Resonance test across 6.5, 6.0, 5.5, 5.0 and 4.5 breaths per minute, with a score for each rate\n- Breathing circle with adjustable inhale:exhale ratio and a soft vibration pacer you can follow with your eyes closed\n- RMSSD before and after each session, compared with your own seven-session baseline\n- Session summary with time in high coherence, average heart rate and a coherence curve\n- Coherence and RMSSD trends, day streak, weekly minutes goal\n- Optionally saves each session as an activity with a coherence chart in Garmin Connect\n- Five languages and a glance with your rate, last score and weekly minutes\n\nWHAT IT NEEDS\n- A watch that provides beat-to-beat heart data (wrist sensor or paired chest strap for the cleanest signal)\n- Sit still during a session; no phone, no account, no internet",
+  "nl": "Vagal is een ademcoach die naar je hart luistert. Hij leest de tijd tussen elke hartslag uit de polssensor of een borstband en rekent elke vijf seconden uit hoe sterk je hartritme met je adem mee op en neer gaat. Die coherentiescore kleurt de ademcirkel terwijl je hem volgt, zodat je ziet wanneer je adem en je hart in de pas lopen.\n\nBegin met de resonantietest: tien minuten, twee op elk van vijf ademtempo's van 6,5 tot 4,5 per minuut. Vagal vergelijkt per tempo de hartslagzwaai en het laagfrequente vermogen en stelt het tempo voor waarop je ritme het sterkst reageert. Daarna ademen je dagelijkse sessies op jouw tempo met een zachte tril bij elke ademhaling, een rustige meting van een minuut ervoor en erna die je RMSSD-verandering laat zien, en een trend over je laatste sessies. Alleen voor ontspanning en training, geen medisch hulpmiddel.\n\nWAT HET DOET\n- Live coherentiescore uit slag-tot-slagintervallen, elke vijf seconden over de laatste 64 seconden\n- Resonantietest op 6,5, 6,0, 5,5, 5,0 en 4,5 ademhalingen per minuut, met een score per tempo\n- Ademcirkel met instelbare verhouding inademen:uitademen en een zachte trilgids die je met je ogen dicht volgt\n- RMSSD voor en na elke sessie, vergeleken met je eigen basislijn van zeven sessies\n- Samenvatting met tijd in hoge coherentie, gemiddelde hartslag en een coherentiecurve\n- Trends voor coherentie en RMSSD, dagen op rij, weekdoel in minuten\n- Bewaart elke sessie desgewenst als activiteit met een coherentiegrafiek in Garmin Connect\n- Vijf talen en een glance met je tempo, laatste score en minuten deze week\n\nWAT HET NODIG HEEFT\n- Een horloge dat slag-tot-slaggegevens levert (polssensor, of een gekoppelde borstband voor het schoonste signaal)\n- Stilzitten tijdens een sessie; geen telefoon, geen account, geen internet",
+  "type": "2",
+  "rating": 3.3,
+  "reviews": 3,
+  "downloads": 100,
+  "version": "1.0.5",
+  "category": "219",
+  "icon": "assets/icons/vagal.png",
+  "shots": [
+   "assets/shots/vagal-1.jpg",
+   "assets/shots/vagal-2.jpg",
+   "assets/shots/vagal-3.jpg"
+  ],
+  "changed": 1791288951000,
+  "whatsnew": "Reads the same heart rate your watch face shows when beat data is missing, so newer watches like Venu 4 no longer show No heart rate.",
+  "devices": 182,
+  "updates": 6
+ },
+ {
   "id": "703a9bcc-7034-4447-9105-8ed408166a64",
   "slug": "rolla",
   "name": "Rolla - Wheelchair & handbike",
@@ -458,6 +573,75 @@
   "whatsnew": "Closing a long walked outline no longer stalls on older watches, and material amounts now say \"1 roll\" and \"1 horse\".",
   "devices": 185,
   "updates": 3
+ },
+ {
+  "id": "e9c55f30-2b87-4b36-91c9-683436315e43",
+  "slug": "lanedeck",
+  "name": "Lanedeck - all-in-one swim field",
+  "desc": "Lanedeck is one swimming data field for the pool and open water that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a speed graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot one. Nothing is cut off on round screens: every row is fitted to the visible width.\n\nIn the pool Lanedeck counts lengths from the watch's own length detection and works out the time and pace of every length, your interval (the lengths between two rests) and a rest clock. Press lap to start and end a rest, as usual; if you forget, a long pause is recognised as rest. In open water the pace per 100 is smoothed with a Kalman filter, so a wobbly GPS track does not make the number jump. Lanedeck picks pool or open water from your activity profile.\n\nWHAT IT DOES\n- Pace per 100 m or yd for the last length, the current interval, the previous interval and the whole swim (swim time only)\n- Rest clock, interval time, interval distance and interval number\n- SWOLF and strokes of the last length, average SWOLF, distance per stroke, stroke rate\n- Lengths and distance in metres or yards; pool length learned from the first length (yard pools recognised) or set yourself\n- Projected finish time for a goal distance and distance to go\n- Presets Pool steady / Pool intervals / Technique / Open water / Goal distance, or your own order in 12 slots\n- Heart rate with zone in the Garmin Connect colours, %HRmax or %HR reserve, time of day, battery, calories\n- Alerts (vibration, tone and pop-up) when your pace is slower than a limit, when you reach the goal distance, or when HR goes above a chosen zone\n- Automatic, dark, light and high-contrast colours; five languages\n- Open water: smoothed speed, HR zone and pace per 100 saved to the FIT file\n- Watches with little memory (fenix 6, Forerunner 55/245, vivoactive 3/4, Venu, Instinct 2 and similar) get a light version: pace, average pace, interval pace, rest clock, lengths, distance, timer, lap time, heart rate and clock\n\nWHAT IT NEEDS\n- A Pool Swim or Open Water activity; heart rate under water is often not available, the field then shows dashes\n- Garmin does not save data from Connect IQ fields in pool swims, so the FIT values only appear for open water\n- Settings in the Connect IQ app (preset, slots, swim type, pool length, goal distance, alerts)\n- How to add: start a swim, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Lanedeck",
+  "nl": "Lanedeck is één zwemveld voor het zwembad en open water dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een snelheidsgrafiek in hartslagzonekleuren; op een half scherm je vier belangrijkste; op een kwart twee; in het kleinste vak één. Op ronde schermen wordt niets afgesneden: elke rij past in de zichtbare breedte.\n\nIn het bad telt Lanedeck banen uit de baanherkenning van het horloge en berekent per baan de tijd en het tempo, je interval (de banen tussen twee rustmomenten) en een rustklok. Druk zoals gewoonlijk op lap om rust te beginnen en te beëindigen; vergeet je dat, dan wordt een lange pauze als rust herkend. In open water wordt het tempo per 100 gedempt met een Kalman-filter, zodat een slingerend GPS-spoor het getal niet laat springen. Lanedeck kiest zelf bad of open water uit je activiteitprofiel.\n\nWAT HET DOET\n- Tempo per 100 m of yd voor de laatste baan, het huidige interval, het vorige interval en de hele sessie (alleen zwemtijd)\n- Rustklok, intervaltijd, intervalafstand en intervalnummer\n- SWOLF en slagen van de laatste baan, gemiddelde SWOLF, afstand per slag, slagfrequentie\n- Banen en afstand in meters of yards; badlengte geleerd uit de eerste baan (yardbaden herkend) of zelf ingesteld\n- Verwachte eindtijd voor een doelafstand en de afstand die nog rest\n- Voorinstellingen Bad duur / Bad intervallen / Techniek / Open water / Doelafstand, of je eigen volgorde in 12 vakken\n- Hartslag met zone in de Garmin Connect-kleuren, %HRmax of %hartslagreserve, kloktijd, accu, calorieën\n- Alarmen (trillen, toon en pop-up) als je tempo trager is dan een grens, als je de doelafstand haalt, of als je hartslag boven een gekozen zone komt\n- Automatische, donkere, lichte en hoog-contrastkleuren; vijf talen\n- Open water: gedempte snelheid, hartslagzone en tempo per 100 in het FIT-bestand\n- Horloges met weinig geheugen (fenix 6, Forerunner 55/245, vivoactive 3/4, Venu, Instinct 2 en vergelijkbaar) krijgen een lichte versie: tempo, gemiddeld tempo, intervaltempo, rustklok, banen, afstand, tijd, rondetijd, hartslag en klok\n\nWAT HET NODIG HEEFT\n- Een activiteit Zwembad of Open water; hartslag onder water is vaak niet beschikbaar, het veld toont dan streepjes\n- Garmin slaat in zwembadsessies geen gegevens van Connect IQ-velden op, dus de FIT-waarden verschijnen alleen bij open water\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, soort zwemmen, badlengte, doelafstand, alarmen)\n- Toevoegen: start een zwemactiviteit, open Instellingen / Gegevensschermen, kies een scherm en een veld, dan Connect IQ / Lanedeck",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.1",
+  "category": "252",
+  "icon": "assets/icons/lanedeck.png",
+  "shots": [
+   "assets/shots/lanedeck-1.jpg",
+   "assets/shots/lanedeck-2.jpg",
+   "assets/shots/lanedeck-3.jpg"
+  ],
+  "changed": 1790716413000,
+  "whatsnew": "Keeps the learned pool length when you change a setting mid-swim, uses less memory on older watches and shows more values on a full-screen field.",
+  "devices": 196,
+  "updates": 2
+ },
+ {
+  "id": "ae6a02b0-bfad-4982-9d9c-d2754c2098c1",
+  "slug": "paddledeck",
+  "name": "Paddledeck - all-in-one paddling field",
+  "desc": "Paddledeck is one data field for kayak, SUP, canoe and rowing that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a speed graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot one. It fills the space row by row within the round screen edge, with the largest text that fits, so nothing is cut off.\n\nSpeed is smoothed with a Kalman filter, so a stroke-by-stroke speed surge does not make the numbers jump, but a sprint start shows within seconds. From the stroke rate your watch measures, Paddledeck works out distance per stroke, your split per 500 m and how this lap compares with the last one. On open water it learns the current from your GPS track: it compares your speed on every heading, then shows how much the current helps or hinders you now, your speed through the water and how long it takes to get back to the start against the current.\n\nWHAT IT DOES\n- 40 values to choose from: speed, split per 500 m (now, average, lap), stroke rate, distance per stroke, strokes, heart rate, HR zone (3.4), %HRmax or %HR reserve, distance, timer, lap and last lap, time of day, battery, calories and more\n- Presets Tour / Intervals / Race / Long distance / River, or your own order in 12 slots (slot 1 is the most important)\n- Stroke rate coloured against your target, with an option to double it when the watch counts only one side\n- Lap comparison: this lap's split versus the last lap, in seconds per 500 m, green when faster\n- Current estimate: current along your course (+ with you, - against you), current strength, speed through the water, time back to the start\n- Predicted finish time for 500 m, 1 km, 2 km, 5 km, 10 km or a custom distance (Paul's law), plus distance to go\n- Alerts (vibration, tone and pop-up) when HR goes above a chosen zone or stroke rate stays low, with a cool-down\n- Automatic, dark, light and high-contrast colours; five languages\n- Smoothed speed, HR zone and distance per stroke saved to the FIT file\n\nWHAT IT NEEDS\n- GPS for speed, distance and the current estimate; a watch that reports stroke rate (cadence) in paddle and row activities for stroke values; a heart-rate sensor for HR values\n- The current estimate needs a few changes of heading (out and back is enough); wind has the same effect and is included\n- On watches with 32 KB for data fields the current values and presets are left out\n- Settings in the Connect IQ app (preset, slots, smoothing, target stroke rate, race distance, alerts)\n- How to add: start a paddle or row activity, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Paddledeck",
+  "nl": "Paddledeck is één gegevensveld voor kajak, SUP, kano en roeien dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een snelheidsgrafiek in de kleur van je hartslagzone; op een half scherm toont het je vier belangrijkste; in een kwart twee; in het kleinste vak één. Het vult de ruimte rij voor rij binnen de ronde schermrand, met de grootste letter die past, zodat niets wordt afgesneden.\n\nDe snelheid wordt gedempt met een Kalman-filter, zodat de golf in snelheid per slag de cijfers niet laat springen, terwijl een sprintstart binnen enkele seconden zichtbaar is. Uit de slagfrequentie die je horloge meet berekent Paddledeck de afstand per slag, je split per 500 m en hoe deze ronde zich verhoudt tot de vorige. Op open water leert het de stroming uit je GPS-spoor: het vergelijkt je snelheid op elke koers en toont hoeveel de stroming je nu helpt of tegenwerkt, je snelheid door het water en hoe lang je nog nodig hebt om tegen de stroming terug te komen bij de start.\n\nWAT HET DOET\n- 40 waarden om uit te kiezen: snelheid, split per 500 m (nu, gemiddeld, ronde), slagfrequentie, afstand per slag, aantal slagen, hartslag, hartslagzone (3.4), %HRmax of %hartslagreserve, afstand, tijd, ronde en vorige ronde, kloktijd, accu, calorieën en meer\n- Voorinstellingen Tocht / Intervallen / Wedstrijd / Lange afstand / Rivier, of je eigen volgorde in 12 vakken (vak 1 is het belangrijkst)\n- Slagfrequentie gekleurd t.o.v. je doel, met een optie om te verdubbelen als het horloge maar één kant telt\n- Rondevergelijking: split van deze ronde tegenover de vorige, in seconden per 500 m, groen als je sneller bent\n- Stromingsschatting: stroming langs je koers (+ mee, - tegen), sterkte van de stroming, snelheid door het water, tijd terug naar de start\n- Voorspelde eindtijd voor 500 m, 1 km, 2 km, 5 km, 10 km of een eigen afstand (Paul's law), plus resterende afstand\n- Alarmen (trillen, toon en pop-up) als je hartslag boven een gekozen zone komt of je slagfrequentie te laag blijft, met afkoeltijd\n- Automatische, donkere, lichte en hoog-contrast-kleuren; vijf talen\n- Gedempte snelheid, hartslagzone en afstand per slag opgeslagen in het FIT-bestand\n\nWAT HET NODIG HEEFT\n- GPS voor snelheid, afstand en de stromingsschatting; een horloge dat slagfrequentie (cadans) meet bij peddel- en roeiactiviteiten voor de slagwaarden; een hartslagsensor voor hartslagwaarden\n- De stromingsschatting heeft een paar koerswisselingen nodig (heen en terug is genoeg); wind werkt hetzelfde en telt mee\n- Op horloges met 32 KB voor gegevensvelden vallen de stromingswaarden en voorinstellingen weg\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, demping, doel-slagfrequentie, wedstrijdafstand, alarmen)\n- Zo voeg je het toe: start een peddel- of roeiactiviteit, open Instellingen / Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ / Paddledeck",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.2",
+  "category": "183",
+  "icon": "assets/icons/paddledeck.png",
+  "shots": [
+   "assets/shots/paddledeck-1.jpg",
+   "assets/shots/paddledeck-2.jpg",
+   "assets/shots/paddledeck-3.jpg"
+  ],
+  "changed": 1790716849000,
+  "whatsnew": "Uses less memory on older watches and shows more values on a full-screen field.",
+  "devices": 206,
+  "updates": 3
+ },
+ {
+  "id": "ae2a50e2-93a6-4288-9638-338a439adbe8",
+  "slug": "trekdeck",
+  "name": "Trekdeck - all-in-one hiking field",
+  "desc": "Trekdeck is one hiking data field that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a speed graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot one. It works without any setup: the Hike preset shows distance, time, speed, ascent, altitude, heart rate, vertical speed, daylight left, steps, time of day, last-hour speed and battery.\n\nTrekdeck tells you when you will arrive and whether you will make it before dark. When you follow a course it takes the distance and height difference to the finish from your watch; without a course you can enter the planned tour length and ascent. Time to go uses the DAV/SAC hiking-time rule of the Alpine clubs and learns your own speed on the flat, uphill and downhill as you walk, including your breaks. From your position it works out sunset (or the end of civil twilight) and shows the daylight margin at arrival in green, orange or red, with an alert when that margin gets small.\n\nWHAT IT DOES\n- 42 values to choose from: speed, pace, heart rate, HR zone, %HRmax or %HR reserve, distance, timer, moving time, ascent, descent, altitude, vertical speed, grade, steps, step cadence, step length, last-hour pace, speed and ascent, time of day, battery and more\n- Time to go, arrival time, distance and ascent to go: from your course, or from a planned tour length and ascent\n- Three time-to-go models: DAV/SAC that learns your pace, DAV/SAC standard, or Naismith (older watches with little memory, such as fenix 6 and Instinct 2, use the standard models and skip the last-hour values)\n- Sunset or end of civil twilight, daylight left, and daylight margin at arrival with colours and an alert\n- Presets Hike / Navigate / Climb / Fitness walk / Long day, or your own order in 12 slots\n- Kalman-smoothed speed with adjustable smoothing; HR zone colours as in Garmin Connect\n- Automatic, dark, light and high-contrast colours; five languages\n- Smoothed speed, HR zone and vertical speed saved to the FIT file, plus steps per lap and per activity\n\nWHAT IT NEEDS\n- GPS for speed and distance; a barometric altimeter for vertical speed and grade; a heart-rate sensor for HR values\n- A course or a planned tour length for time to go; a GPS fix once for sunset\n- Settings in the Connect IQ app (preset, slots, time-to-go model, tour length and ascent, daylight alert)\n- How to add: start a hike, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Trekdeck",
+  "nl": "Trekdeck is één gegevensveld voor wandelen dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een snelheidsgrafiek in hartslagzonekleuren; op een half scherm je vier belangrijkste; op een kwart twee; in het kleinste vak één. Het werkt zonder instellen: de voorinstelling Wandeltocht toont afstand, tijd, snelheid, stijging, hoogte, hartslag, stijgsnelheid, daglicht over, passen, kloktijd, snelheid van het laatste uur en accu.\n\nTrekdeck vertelt je wanneer je aankomt en of je dat vóór het donker haalt. Volg je een route, dan neemt het de afstand en het hoogteverschil tot de finish van je horloge; zonder route vul je de geplande tourlengte en stijging in. De resterende tijd gebruikt de DAV/SAC-looptijdregel van de Alpenverenigingen en leert onderweg je eigen snelheid vlak, omhoog en omlaag, inclusief je pauzes. Uit je positie berekent het de zonsondergang (of het einde van de burgerlijke schemering) en toont het de daglichtmarge bij aankomst in groen, oranje of rood, met een alarm als die marge klein wordt.\n\nWAT HET DOET\n- 42 waarden om uit te kiezen: snelheid, tempo, hartslag, hartslagzone, %HRmax of %hartslagreserve, afstand, tijd, beweegtijd, stijging, daling, hoogte, stijgsnelheid, helling, passen, pasfrequentie, paslengte, tempo, snelheid en stijging van het laatste uur, kloktijd, accu en meer\n- Resterende tijd, aankomsttijd, resterende afstand en stijging: uit je route, of uit een geplande tourlengte en stijging\n- Drie modellen: DAV/SAC die je tempo leert, DAV/SAC standaard, of Naismith (oudere horloges met weinig geheugen, zoals fenix 6 en Instinct 2, gebruiken de standaardmodellen en slaan de waarden van het laatste uur over)\n- Zonsondergang of einde burgerlijke schemering, daglicht over en daglichtmarge bij aankomst met kleuren en een alarm\n- Voorinstellingen Wandeltocht / Navigeren / Klimmen / Stevig wandelen / Lange dag, of je eigen volgorde in 12 vakken\n- Snelheid gedempt met een Kalman-filter (instelbaar); hartslagzonekleuren zoals in Garmin Connect\n- Automatische, donkere, lichte en hoog-contrastkleuren; vijf talen\n- Gedempte snelheid, hartslagzone en stijgsnelheid in het FIT-bestand, plus passen per ronde en per activiteit\n\nWAT HET NODIG HEEFT\n- GPS voor snelheid en afstand; een barometrische hoogtemeter voor stijgsnelheid en helling; een hartslagsensor voor hartslagwaarden\n- Een route of een geplande tourlengte voor de resterende tijd; één keer een GPS-fix voor de zonsondergang\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, model, tourlengte en stijging, daglichtalarm)\n- Toevoegen: start een wandeling, open Instellingen / Gegevensschermen, kies een scherm en een veld, dan Connect IQ / Trekdeck",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.1",
+  "category": "180",
+  "icon": "assets/icons/trekdeck.png",
+  "shots": [
+   "assets/shots/trekdeck-1.jpg",
+   "assets/shots/trekdeck-2.jpg",
+   "assets/shots/trekdeck-3.jpg"
+  ],
+  "changed": 1790717395000,
+  "whatsnew": "More accurate climb rate, safer settings and heart-rate zone handling, less memory on older watches and more values on a full-screen field.",
+  "devices": 228,
+  "updates": 2
  },
  {
   "id": "81bc7aef-ea3a-4959-b2ae-7577fc14ee18",
@@ -759,52 +943,6 @@
   "updates": 4
  },
  {
-  "id": "ff34fbc8-34f5-4142-9065-16d6679c0fc3",
-  "slug": "oneira",
-  "name": "Oneira - Lucid dream cues",
-  "desc": "Oneira stays open on your wrist through the night and estimates when you are likely in REM sleep, from your heart rate, how irregular it is and how still you lie, weighed against the 90-minute sleep cycle. From the second half of the night it sends a soft vibration pattern when REM looks likely for a few minutes in a row, so the cue can reach you inside a dream without waking you. During the day you practise reality checks with the very same pattern, so that at night it means one thing: am I dreaming?\n\nEach morning you log what you remember in two taps. Oneira learns from it: if a cue woke you, it goes one step softer; if you never noticed it, one step stronger. It stops for the night after three wake-ups. Your journal shows lucid dreams, how often you remember a dream, your streak and today's reality checks, and the last night page shows the REM estimate, the cue moments and how much battery the night used.\n\nWHAT IT DOES\n- Night mode with a live REM estimate from heart rate, beat-to-beat variability, stillness and the sleep cycle\n- Gentle cues in three patterns and five strengths, only after a set time asleep, with a pause between cues\n- Backs off after a cue wakes you and stops after three wake-ups\n- Morning log in two taps; the cue strength adjusts itself from your answers\n- Reality-check reminders and a 10-minute pre-sleep training with the same pattern\n- Dream journal: lucid dreams, recall rate, streak, and a 14-night overview\n- Last-night view with REM estimate, cue moments and battery use per hour\n- Five languages and a glance with your lucid count and recall\n\nWHAT IT NEEDS\n- A watch with an optical heart rate sensor, worn snugly overnight\n- Leave the app open when you go to sleep; it uses a low sensor rate to save battery\n- Staying open all night costs extra battery; the last-night page shows how much per hour, so charge before bed\n- The REM estimate is a guess from wrist signals, not a sleep test",
-  "nl": "Oneira blijft 's nachts open op je pols en schat wanneer je waarschijnlijk in REM-slaap bent, uit je hartslag, hoe onregelmatig die is en hoe stil je ligt, afgewogen tegen de slaapcyclus van 90 minuten. Vanaf de tweede helft van de nacht geeft hij een zacht trilpatroon als REM een paar minuten op rij waarschijnlijk is, zodat de cue je in een droom kan bereiken zonder je te wekken. Overdag oefen je realiteitschecks met precies hetzelfde patroon, zodat het 's nachts maar één ding betekent: droom ik?\n\nElke ochtend log je in twee tikken wat je je herinnert. Oneira leert ervan: wekte een cue je, dan gaat hij een stap zachter; merkte je hem niet, dan een stap sterker. Na drie keer wakker worden stopt hij voor die nacht. Je dagboek toont lucide dromen, hoe vaak je een droom onthoudt, je reeks en de realiteitschecks van vandaag, en de pagina van afgelopen nacht toont de REM-schatting, de cue-momenten en hoeveel accu de nacht kostte.\n\nWAT HET DOET\n- Nachtmodus met een live REM-schatting uit hartslag, slag-tot-slagvariatie, stilliggen en de slaapcyclus\n- Zachte cues in drie patronen en vijf sterktes, pas na een ingestelde slaaptijd, met een pauze ertussen\n- Wordt zachter als een cue je wekt en stopt na drie keer wakker worden\n- Ochtendlog in twee tikken; de cue-sterkte stelt zichzelf bij op je antwoorden\n- Realiteitscheck-herinneringen en een training van 10 minuten voor het slapen, met hetzelfde patroon\n- Droomdagboek: lucide dromen, herinneringspercentage, reeks en een overzicht van 14 nachten\n- Afgelopen nacht met REM-schatting, cue-momenten en accuverbruik per uur\n- Vijf talen en een glance met je lucide dromen en herinnering\n\nWAT HET NODIG HEEFT\n- Een horloge met optische hartslagmeter, 's nachts goed aansluitend gedragen\n- Laat de app open als je gaat slapen; hij gebruikt een lage sensorfrequentie om accu te sparen\n- De hele nacht open blijven kost extra accu; de pagina van afgelopen nacht toont hoeveel per uur, dus laad op voor het slapen\n- De REM-schatting is een inschatting uit polssignalen, geen slaaponderzoek",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 100,
-  "version": "1.0.2",
-  "category": "219",
-  "icon": "assets/icons/oneira.png",
-  "shots": [
-   "assets/shots/oneira-1.jpg",
-   "assets/shots/oneira-2.jpg",
-   "assets/shots/oneira-3.jpg"
-  ],
-  "changed": 1790877743000,
-  "whatsnew": "Correcting a morning log no longer counts the same night twice, and on watches with smaller fonts the big number on the REM, dream journal and cue coach pages no longer overlaps the title.",
-  "devices": 185,
-  "updates": 3
- },
- {
-  "id": "4d987198-57f0-4d6f-8d00-cefde548c048",
-  "slug": "vagal",
-  "name": "Vagal - HRV breathing coach",
-  "desc": "Vagal is a breathing coach that listens to your heart. It reads the time between every heartbeat from the wrist sensor or a chest strap, and every five seconds it works out how strongly your heart rhythm rises and falls with your breath. That coherence score colours the breathing circle while you follow it, so you can see the moment your breathing and your heart fall into step.\n\nStart with the resonance test: ten minutes, two at each of five breathing rates from 6.5 down to 4.5 per minute. Vagal compares the heart-rate swing and low-frequency power at each rate and suggests the one where your rhythm responds most. After that, daily sessions run at your rate with a gentle vibration at every breath, a one-minute calm reading before and after to show your RMSSD change, and a trend over your last sessions. For relaxation and training only, not a medical device.\n\nWHAT IT DOES\n- Live coherence score from beat-to-beat intervals, updated every five seconds over the last 64 seconds\n- Resonance test across 6.5, 6.0, 5.5, 5.0 and 4.5 breaths per minute, with a score for each rate\n- Breathing circle with adjustable inhale:exhale ratio and a soft vibration pacer you can follow with your eyes closed\n- RMSSD before and after each session, compared with your own seven-session baseline\n- Session summary with time in high coherence, average heart rate and a coherence curve\n- Coherence and RMSSD trends, day streak, weekly minutes goal\n- Optionally saves each session as an activity with a coherence chart in Garmin Connect\n- Five languages and a glance with your rate, last score and weekly minutes\n\nWHAT IT NEEDS\n- A watch that provides beat-to-beat heart data (wrist sensor or paired chest strap for the cleanest signal)\n- Sit still during a session; no phone, no account, no internet",
-  "nl": "Vagal is een ademcoach die naar je hart luistert. Hij leest de tijd tussen elke hartslag uit de polssensor of een borstband en rekent elke vijf seconden uit hoe sterk je hartritme met je adem mee op en neer gaat. Die coherentiescore kleurt de ademcirkel terwijl je hem volgt, zodat je ziet wanneer je adem en je hart in de pas lopen.\n\nBegin met de resonantietest: tien minuten, twee op elk van vijf ademtempo's van 6,5 tot 4,5 per minuut. Vagal vergelijkt per tempo de hartslagzwaai en het laagfrequente vermogen en stelt het tempo voor waarop je ritme het sterkst reageert. Daarna ademen je dagelijkse sessies op jouw tempo met een zachte tril bij elke ademhaling, een rustige meting van een minuut ervoor en erna die je RMSSD-verandering laat zien, en een trend over je laatste sessies. Alleen voor ontspanning en training, geen medisch hulpmiddel.\n\nWAT HET DOET\n- Live coherentiescore uit slag-tot-slagintervallen, elke vijf seconden over de laatste 64 seconden\n- Resonantietest op 6,5, 6,0, 5,5, 5,0 en 4,5 ademhalingen per minuut, met een score per tempo\n- Ademcirkel met instelbare verhouding inademen:uitademen en een zachte trilgids die je met je ogen dicht volgt\n- RMSSD voor en na elke sessie, vergeleken met je eigen basislijn van zeven sessies\n- Samenvatting met tijd in hoge coherentie, gemiddelde hartslag en een coherentiecurve\n- Trends voor coherentie en RMSSD, dagen op rij, weekdoel in minuten\n- Bewaart elke sessie desgewenst als activiteit met een coherentiegrafiek in Garmin Connect\n- Vijf talen en een glance met je tempo, laatste score en minuten deze week\n\nWAT HET NODIG HEEFT\n- Een horloge dat slag-tot-slaggegevens levert (polssensor, of een gekoppelde borstband voor het schoonste signaal)\n- Stilzitten tijdens een sessie; geen telefoon, geen account, geen internet",
-  "type": "2",
-  "rating": 3.3,
-  "reviews": 3,
-  "downloads": 10,
-  "version": "1.0.5",
-  "category": "219",
-  "icon": "assets/icons/vagal.png",
-  "shots": [
-   "assets/shots/vagal-1.jpg",
-   "assets/shots/vagal-2.jpg",
-   "assets/shots/vagal-3.jpg"
-  ],
-  "changed": 1791288951000,
-  "whatsnew": "Reads the same heart rate your watch face shows when beat data is missing, so newer watches like Venu 4 no longer show No heart rate.",
-  "devices": 182,
-  "updates": 6
- },
- {
   "id": "f4c1c1f5-dc19-4546-9b17-726765b5367f",
   "slug": "bonkline",
   "name": "Bonkline - Fuel & bonk timer",
@@ -813,7 +951,7 @@
   "type": "4",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.1",
   "category": "183",
   "icon": "assets/icons/bonkline.png",
@@ -828,75 +966,6 @@
   "updates": 3
  },
  {
-  "id": "7565fe42-c64b-41f2-a3d5-bd76fba0cb9c",
-  "slug": "laddr",
-  "name": "Laddr - Pull-up & push-up plan",
-  "desc": "Laddr turns one max test into a daily plan for pull-ups, push-ups or dips. Choose Grease the Groove (small sets of 40-50% of your max spread through the day), ladders (1-2-3…), the Armstrong pull-up week or the 30-day Fighter pull-up table, and the watch tells you what to do today and when your next set is due.\n\nDuring a set the accelerometer counts your reps and closes the set when you stop; you can correct the count with one tap, and Laddr learns from your corrections. Rest timers follow the program, the plan moves forward on its own, and a weekly retest shows a forecast of your next max from your test trend and how well you kept to the plan.\n\nWHAT IT DOES\n- Max test and a plan for today from Grease the Groove, ladders, Armstrong or Fighter\n- Automatic rep counting with the watch sensors, plus quick manual correction\n- Next Grease the Groove set time spread across your chosen time window\n- Rest timers per program: 90 s, 60 s, 10 s per rep or count-up\n- Program progression: ladder rungs, Armstrong training set, Fighter day\n- Max history, trend per week and a forecast for the next retest\n- Daily goal, streak and the last seven days at a glance\n- Pull-ups, push-ups and dips kept separately, five languages, and a glance with today's sets\n\nWHAT IT NEEDS\n- A pull-up bar or dip station for pull-ups and dips; nothing for push-ups\n- One max test to start, or type in your current max\n- No phone, no account, no internet — everything is worked out on the watch",
-  "nl": "Laddr maakt van één maximaaltest een dagplan voor optrekken, opdrukken of dips. Kies Grease the Groove (kleine sets van 40-50 % van je max, verspreid over de dag), ladders (1-2-3…), de Armstrong-optrekweek of de 30-daagse Fighter-tabel, en het horloge zegt wat je vandaag doet en wanneer je volgende set komt.\n\nTijdens een set telt de versnellingsmeter je herhalingen en sluit hij de set als je stopt; met één tik stel je de telling bij, en Laddr leert van die correcties. De rusttimers volgen het programma, het plan schuift vanzelf door, en een wekelijkse hertest toont een voorspelling van je volgende max uit je testtrend en hoe trouw je het plan volgde.\n\nWAT HET DOET\n- Maximaaltest en een plan voor vandaag uit Grease the Groove, ladders, Armstrong of Fighter\n- Herhalingen automatisch tellen met de sensoren van het horloge, snel handmatig bij te stellen\n- Tijdstip van de volgende Grease the Groove-set, verdeeld over je eigen tijdvak\n- Rusttimers per programma: 90 s, 60 s, 10 s per herhaling of oplopend\n- Het programma groeit mee: ladders, Armstrong-trainingsset, Fighter-dag\n- Max-historie, trend per week en een voorspelling voor de volgende hertest\n- Dagdoel, reeks en de laatste zeven dagen in één oogopslag\n- Optrekken, opdrukken en dips apart bijgehouden, vijf talen, en een glance met de sets van vandaag\n\nWAT HET NODIG HEEFT\n- Een optrekstang of dipstation voor optrekken en dips; niets voor opdrukken\n- Eén maximaaltest om te starten, of vul je huidige max in\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge berekend",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "277",
-  "icon": "assets/icons/laddr.png",
-  "shots": [
-   "assets/shots/laddr-1.jpg",
-   "assets/shots/laddr-2.jpg",
-   "assets/shots/laddr-3.jpg"
-  ],
-  "changed": 1790778622000,
-  "whatsnew": "The glance now shows the right day (training or rest) and streak even when the app hasn't been opened.",
-  "devices": 185,
-  "updates": 3
- },
- {
-  "id": "1f67ba9a-0f03-42f0-9322-edc31e07f942",
-  "slug": "nockpoint",
-  "name": "Nockpoint - Archery scores",
-  "desc": "Nockpoint is an archery score sheet on your wrist. Place each arrow on a drawn target face — tap to aim, tap again to confirm — and it scores the ring for you, keeps the end and running totals, and works out your Archery GB handicap (2023 tables) and classification the moment the round is done.\n\nBecause it knows where every arrow landed, it also reads your group: the centre, the spread in centimetres, how far to move your sight, and the score and handicap you would have shot with the same group in the middle. On the watch pages you find the minimum score for each classification on your round, your handicap trend, personal bests and arrow volume.\n\nWHAT IT DOES\n- WA 18, WA 25, Portsmouth, Worcester, WA 70m/60m/50m, WA 1440, York, Hereford, National, WA Field and free practice\n- Correct faces per bow: 3-spot, inner-10 for compound indoor, 6-ring, imperial 5-zone, Worcester, field\n- Archery GB handicap for full and partial rounds, updated after every end\n- AGB classification for your bow, category and age group, including prestige and distance rules, and the three-score count toward the next class\n- Group centre, spread and sight correction in millimetres from your sight radius\n- End totals, X and 10 counts, average per arrow, trend, records and history\n- Works with buttons too: up and down step through the rings, START confirms\n- Five languages and a glance with your latest handicap and score\n\nWHAT IT NEEDS\n- Nothing but the watch: no phone, no account, no internet\n- For the group and sight correction: place at least six arrows on the face",
-  "nl": "Nockpoint is een scorekaart voor handboogschieten om je pols. Je zet elke pijl op een getekend doelpak — tik om te richten, tik nog eens om te bevestigen — en de app telt de ring, houdt end- en tussenstanden bij en berekent je Archery GB-handicap (tabellen van 2023) en classificatie zodra de ronde klaar is.\n\nOmdat de app weet waar elke pijl zat, leest hij ook je groep: het centrum, de spreiding in centimeters, hoeveel je vizier moet verschuiven, en welke score en handicap je met dezelfde groep in het midden had geschoten. Op de pagina's vind je de minimumscore per klasse voor je ronde, je handicapverloop, records en het aantal geschoten pijlen.\n\nWAT HET DOET\n- WA 18, WA 25, Portsmouth, Worcester, WA 70m/60m/50m, WA 1440, York, Hereford, National, WA Veld en vrij oefenen\n- Het juiste pak per boog: 3-spot, inner-10 voor compound indoor, 6-ring, imperiaal 5-zone, Worcester, veld\n- Archery GB-handicap voor hele en halve rondes, bijgewerkt na elke end\n- AGB-classificatie voor je boog, categorie en leeftijd, met prestige- en afstandsregels, en de telling van drie scores naar de volgende klasse\n- Groepscentrum, spreiding en vizierverstelling in millimeters op basis van je vizierstraal\n- Endtotalen, X'en en tienen, gemiddelde per pijl, verloop, records en historie\n- Werkt ook met knoppen: omhoog en omlaag stappen door de ringen, START bevestigt\n- Vijf talen en een glance met je laatste handicap en score\n\nWAT HET NODIG HEEFT\n- Alleen het horloge: geen telefoon, geen account, geen internet\n- Voor groep en vizierverstelling: plaats minstens zes pijlen op het pak",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "212",
-  "icon": "assets/icons/nockpoint.png",
-  "shots": [
-   "assets/shots/nockpoint-1.jpg",
-   "assets/shots/nockpoint-2.jpg",
-   "assets/shots/nockpoint-3.jpg"
-  ],
-  "changed": 1790778920000,
-  "whatsnew": "The pause menu now says \"1 arrow\" after a single arrow.",
-  "devices": 185,
-  "updates": 3
- },
- {
-  "id": "e9c55f30-2b87-4b36-91c9-683436315e43",
-  "slug": "lanedeck",
-  "name": "Lanedeck - all-in-one swim field",
-  "desc": "Lanedeck is one swimming data field for the pool and open water that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a speed graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot one. Nothing is cut off on round screens: every row is fitted to the visible width.\n\nIn the pool Lanedeck counts lengths from the watch's own length detection and works out the time and pace of every length, your interval (the lengths between two rests) and a rest clock. Press lap to start and end a rest, as usual; if you forget, a long pause is recognised as rest. In open water the pace per 100 is smoothed with a Kalman filter, so a wobbly GPS track does not make the number jump. Lanedeck picks pool or open water from your activity profile.\n\nWHAT IT DOES\n- Pace per 100 m or yd for the last length, the current interval, the previous interval and the whole swim (swim time only)\n- Rest clock, interval time, interval distance and interval number\n- SWOLF and strokes of the last length, average SWOLF, distance per stroke, stroke rate\n- Lengths and distance in metres or yards; pool length learned from the first length (yard pools recognised) or set yourself\n- Projected finish time for a goal distance and distance to go\n- Presets Pool steady / Pool intervals / Technique / Open water / Goal distance, or your own order in 12 slots\n- Heart rate with zone in the Garmin Connect colours, %HRmax or %HR reserve, time of day, battery, calories\n- Alerts (vibration, tone and pop-up) when your pace is slower than a limit, when you reach the goal distance, or when HR goes above a chosen zone\n- Automatic, dark, light and high-contrast colours; five languages\n- Open water: smoothed speed, HR zone and pace per 100 saved to the FIT file\n- Watches with little memory (fenix 6, Forerunner 55/245, vivoactive 3/4, Venu, Instinct 2 and similar) get a light version: pace, average pace, interval pace, rest clock, lengths, distance, timer, lap time, heart rate and clock\n\nWHAT IT NEEDS\n- A Pool Swim or Open Water activity; heart rate under water is often not available, the field then shows dashes\n- Garmin does not save data from Connect IQ fields in pool swims, so the FIT values only appear for open water\n- Settings in the Connect IQ app (preset, slots, swim type, pool length, goal distance, alerts)\n- How to add: start a swim, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Lanedeck",
-  "nl": "Lanedeck is één zwemveld voor het zwembad en open water dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een snelheidsgrafiek in hartslagzonekleuren; op een half scherm je vier belangrijkste; op een kwart twee; in het kleinste vak één. Op ronde schermen wordt niets afgesneden: elke rij past in de zichtbare breedte.\n\nIn het bad telt Lanedeck banen uit de baanherkenning van het horloge en berekent per baan de tijd en het tempo, je interval (de banen tussen twee rustmomenten) en een rustklok. Druk zoals gewoonlijk op lap om rust te beginnen en te beëindigen; vergeet je dat, dan wordt een lange pauze als rust herkend. In open water wordt het tempo per 100 gedempt met een Kalman-filter, zodat een slingerend GPS-spoor het getal niet laat springen. Lanedeck kiest zelf bad of open water uit je activiteitprofiel.\n\nWAT HET DOET\n- Tempo per 100 m of yd voor de laatste baan, het huidige interval, het vorige interval en de hele sessie (alleen zwemtijd)\n- Rustklok, intervaltijd, intervalafstand en intervalnummer\n- SWOLF en slagen van de laatste baan, gemiddelde SWOLF, afstand per slag, slagfrequentie\n- Banen en afstand in meters of yards; badlengte geleerd uit de eerste baan (yardbaden herkend) of zelf ingesteld\n- Verwachte eindtijd voor een doelafstand en de afstand die nog rest\n- Voorinstellingen Bad duur / Bad intervallen / Techniek / Open water / Doelafstand, of je eigen volgorde in 12 vakken\n- Hartslag met zone in de Garmin Connect-kleuren, %HRmax of %hartslagreserve, kloktijd, accu, calorieën\n- Alarmen (trillen, toon en pop-up) als je tempo trager is dan een grens, als je de doelafstand haalt, of als je hartslag boven een gekozen zone komt\n- Automatische, donkere, lichte en hoog-contrastkleuren; vijf talen\n- Open water: gedempte snelheid, hartslagzone en tempo per 100 in het FIT-bestand\n- Horloges met weinig geheugen (fenix 6, Forerunner 55/245, vivoactive 3/4, Venu, Instinct 2 en vergelijkbaar) krijgen een lichte versie: tempo, gemiddeld tempo, intervaltempo, rustklok, banen, afstand, tijd, rondetijd, hartslag en klok\n\nWAT HET NODIG HEEFT\n- Een activiteit Zwembad of Open water; hartslag onder water is vaak niet beschikbaar, het veld toont dan streepjes\n- Garmin slaat in zwembadsessies geen gegevens van Connect IQ-velden op, dus de FIT-waarden verschijnen alleen bij open water\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, soort zwemmen, badlengte, doelafstand, alarmen)\n- Toevoegen: start een zwemactiviteit, open Instellingen / Gegevensschermen, kies een scherm en een veld, dan Connect IQ / Lanedeck",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.1",
-  "category": "252",
-  "icon": "assets/icons/lanedeck.png",
-  "shots": [
-   "assets/shots/lanedeck-1.jpg",
-   "assets/shots/lanedeck-2.jpg",
-   "assets/shots/lanedeck-3.jpg"
-  ],
-  "changed": 1790716413000,
-  "whatsnew": "Keeps the learned pool length when you change a setting mid-swim, uses less memory on older watches and shows more values on a full-screen field.",
-  "devices": 196,
-  "updates": 2
- },
- {
   "id": "3f3c8e51-2137-4007-8105-a844e7fa0504",
   "slug": "karvonen",
   "name": "Karvonen - HR zones & effort",
@@ -905,7 +974,7 @@
   "type": "4",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.3",
   "category": "185",
   "icon": "assets/icons/karvonen.png",
@@ -928,7 +997,7 @@
   "type": "4",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.1",
   "category": "251",
   "icon": "assets/icons/truepace.png",
@@ -951,7 +1020,7 @@
   "type": "4",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.1",
   "category": "182",
   "icon": "assets/icons/waymark.png",
@@ -966,75 +1035,6 @@
   "updates": 3
  },
  {
-  "id": "af54a959-2564-4117-8de7-7e1e90b807b5",
-  "slug": "nappr",
-  "name": "Nappr - Smart power nap",
-  "desc": "Nappr times your nap from the moment you actually fall asleep, not from the moment you lie down. It watches your heart rate settle below your resting level and your wrist go still, marks the minute you drifted off, and wakes you with a soft vibration that builds up after the nap length you chose — 10, 20, 26 or 90 minutes — with a hard maximum so a nap never runs away with your afternoon.\n\nAfter each nap you see how long it took to fall asleep, how long you slept, how far your heart rate dropped and whether grogginess is likely, plus a minute-by-minute strip of the nap. The history shows your average time to fall asleep and your naps this week, and the start screen uses that average to tell you roughly when you will be up.\n\nWHAT IT DOES\n- Detects falling asleep from heart-rate drop plus stillness, with a motion-only fallback\n- Four nap lengths: quick 10, power 20, NASA 26 and a full 90-minute cycle\n- Smart wake in cycle mode: wakes you on the first movement in the last 10 minutes\n- A maximum nap time that always ends the nap, even if you never fell asleep\n- Gentle alarm in three rising steps, adjustable strength, optional tone, 5-minute snooze\n- Last-nap summary with a sleep strip, grogginess estimate and heart-rate drop\n- History, averages, five languages and a glance with the wake time\n\nWHAT IT NEEDS\n- A watch with a wrist heart-rate sensor for the best detection; without heart rate it uses stillness only\n- Keep the app open during the nap: the watch stops app timers when you leave it",
-  "nl": "Nappr telt je dutje vanaf het moment dat je echt in slaap valt, niet vanaf het moment dat je gaat liggen. Het ziet je hartslag onder je rustniveau zakken en je pols stil worden, onthoudt de minuut waarop je wegzakte en wekt je na de gekozen duur — 10, 20, 26 of 90 minuten — met een zachte trilling die aanzwelt, met een harde bovengrens zodat een dutje nooit je hele middag opslokt.\n\nNa elk dutje zie je hoe lang inslapen duurde, hoe lang je sliep, hoeveel je hartslag daalde en of je waarschijnlijk suf wakker wordt, plus een strookje per minuut. De historie toont je gemiddelde inslaaptijd en je dutjes deze week, en het startscherm gebruikt dat gemiddelde om te zeggen hoe laat je ongeveer weer op bent.\n\nWAT HET DOET\n- Herkent inslapen aan hartslagdaling plus stilliggen, met een terugval op alleen beweging\n- Vier lengtes: kort 10, power 20, NASA 26 en een hele cyclus van 90 minuten\n- Slim wekken in cyclusmodus: bij de eerste beweging in de laatste 10 minuten\n- Een maximumtijd die het dutje altijd beëindigt, ook als je niet in slaap viel\n- Zachte wekker in drie aanzwellende trappen, instelbare sterkte, optionele toon, snooze van 5 minuten\n- Samenvatting van het laatste dutje met slaapstrook, sufheid-inschatting en hartslagdaling\n- Historie, gemiddelden, vijf talen en een glance met de wektijd\n\nWAT HET NODIG HEEFT\n- Een horloge met polshartslag voor de beste herkenning; zonder hartslag telt alleen stilliggen\n- Houd de app open tijdens het dutje: het horloge stopt app-timers als je hem verlaat",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "219",
-  "icon": "assets/icons/nappr.png",
-  "shots": [
-   "assets/shots/nappr-1.jpg",
-   "assets/shots/nappr-2.jpg",
-   "assets/shots/nappr-3.jpg"
-  ],
-  "changed": 1790777960000,
-  "whatsnew": "The glance now counts this week's naps correctly even when the app hasn't been opened.",
-  "devices": 185,
-  "updates": 3
- },
- {
-  "id": "ae6a02b0-bfad-4982-9d9c-d2754c2098c1",
-  "slug": "paddledeck",
-  "name": "Paddledeck - all-in-one paddling field",
-  "desc": "Paddledeck is one data field for kayak, SUP, canoe and rowing that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a speed graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot one. It fills the space row by row within the round screen edge, with the largest text that fits, so nothing is cut off.\n\nSpeed is smoothed with a Kalman filter, so a stroke-by-stroke speed surge does not make the numbers jump, but a sprint start shows within seconds. From the stroke rate your watch measures, Paddledeck works out distance per stroke, your split per 500 m and how this lap compares with the last one. On open water it learns the current from your GPS track: it compares your speed on every heading, then shows how much the current helps or hinders you now, your speed through the water and how long it takes to get back to the start against the current.\n\nWHAT IT DOES\n- 40 values to choose from: speed, split per 500 m (now, average, lap), stroke rate, distance per stroke, strokes, heart rate, HR zone (3.4), %HRmax or %HR reserve, distance, timer, lap and last lap, time of day, battery, calories and more\n- Presets Tour / Intervals / Race / Long distance / River, or your own order in 12 slots (slot 1 is the most important)\n- Stroke rate coloured against your target, with an option to double it when the watch counts only one side\n- Lap comparison: this lap's split versus the last lap, in seconds per 500 m, green when faster\n- Current estimate: current along your course (+ with you, - against you), current strength, speed through the water, time back to the start\n- Predicted finish time for 500 m, 1 km, 2 km, 5 km, 10 km or a custom distance (Paul's law), plus distance to go\n- Alerts (vibration, tone and pop-up) when HR goes above a chosen zone or stroke rate stays low, with a cool-down\n- Automatic, dark, light and high-contrast colours; five languages\n- Smoothed speed, HR zone and distance per stroke saved to the FIT file\n\nWHAT IT NEEDS\n- GPS for speed, distance and the current estimate; a watch that reports stroke rate (cadence) in paddle and row activities for stroke values; a heart-rate sensor for HR values\n- The current estimate needs a few changes of heading (out and back is enough); wind has the same effect and is included\n- On watches with 32 KB for data fields the current values and presets are left out\n- Settings in the Connect IQ app (preset, slots, smoothing, target stroke rate, race distance, alerts)\n- How to add: start a paddle or row activity, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Paddledeck",
-  "nl": "Paddledeck is één gegevensveld voor kajak, SUP, kano en roeien dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een snelheidsgrafiek in de kleur van je hartslagzone; op een half scherm toont het je vier belangrijkste; in een kwart twee; in het kleinste vak één. Het vult de ruimte rij voor rij binnen de ronde schermrand, met de grootste letter die past, zodat niets wordt afgesneden.\n\nDe snelheid wordt gedempt met een Kalman-filter, zodat de golf in snelheid per slag de cijfers niet laat springen, terwijl een sprintstart binnen enkele seconden zichtbaar is. Uit de slagfrequentie die je horloge meet berekent Paddledeck de afstand per slag, je split per 500 m en hoe deze ronde zich verhoudt tot de vorige. Op open water leert het de stroming uit je GPS-spoor: het vergelijkt je snelheid op elke koers en toont hoeveel de stroming je nu helpt of tegenwerkt, je snelheid door het water en hoe lang je nog nodig hebt om tegen de stroming terug te komen bij de start.\n\nWAT HET DOET\n- 40 waarden om uit te kiezen: snelheid, split per 500 m (nu, gemiddeld, ronde), slagfrequentie, afstand per slag, aantal slagen, hartslag, hartslagzone (3.4), %HRmax of %hartslagreserve, afstand, tijd, ronde en vorige ronde, kloktijd, accu, calorieën en meer\n- Voorinstellingen Tocht / Intervallen / Wedstrijd / Lange afstand / Rivier, of je eigen volgorde in 12 vakken (vak 1 is het belangrijkst)\n- Slagfrequentie gekleurd t.o.v. je doel, met een optie om te verdubbelen als het horloge maar één kant telt\n- Rondevergelijking: split van deze ronde tegenover de vorige, in seconden per 500 m, groen als je sneller bent\n- Stromingsschatting: stroming langs je koers (+ mee, - tegen), sterkte van de stroming, snelheid door het water, tijd terug naar de start\n- Voorspelde eindtijd voor 500 m, 1 km, 2 km, 5 km, 10 km of een eigen afstand (Paul's law), plus resterende afstand\n- Alarmen (trillen, toon en pop-up) als je hartslag boven een gekozen zone komt of je slagfrequentie te laag blijft, met afkoeltijd\n- Automatische, donkere, lichte en hoog-contrast-kleuren; vijf talen\n- Gedempte snelheid, hartslagzone en afstand per slag opgeslagen in het FIT-bestand\n\nWAT HET NODIG HEEFT\n- GPS voor snelheid, afstand en de stromingsschatting; een horloge dat slagfrequentie (cadans) meet bij peddel- en roeiactiviteiten voor de slagwaarden; een hartslagsensor voor hartslagwaarden\n- De stromingsschatting heeft een paar koerswisselingen nodig (heen en terug is genoeg); wind werkt hetzelfde en telt mee\n- Op horloges met 32 KB voor gegevensvelden vallen de stromingswaarden en voorinstellingen weg\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, demping, doel-slagfrequentie, wedstrijdafstand, alarmen)\n- Zo voeg je het toe: start een peddel- of roeiactiviteit, open Instellingen / Gegevensschermen, kies een scherm en een veld, en kies dan Connect IQ / Paddledeck",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "183",
-  "icon": "assets/icons/paddledeck.png",
-  "shots": [
-   "assets/shots/paddledeck-1.jpg",
-   "assets/shots/paddledeck-2.jpg",
-   "assets/shots/paddledeck-3.jpg"
-  ],
-  "changed": 1790716849000,
-  "whatsnew": "Uses less memory on older watches and shows more values on a full-screen field.",
-  "devices": 206,
-  "updates": 3
- },
- {
-  "id": "ae2a50e2-93a6-4288-9638-338a439adbe8",
-  "slug": "trekdeck",
-  "name": "Trekdeck - all-in-one hiking field",
-  "desc": "Trekdeck is one hiking data field that fills any slot on your data screen with the numbers you pick. In a full screen it is a dashboard of up to 11 values plus a speed graph coloured by heart-rate zone; in half a screen it shows your top four; in a quarter two; in the smallest slot one. It works without any setup: the Hike preset shows distance, time, speed, ascent, altitude, heart rate, vertical speed, daylight left, steps, time of day, last-hour speed and battery.\n\nTrekdeck tells you when you will arrive and whether you will make it before dark. When you follow a course it takes the distance and height difference to the finish from your watch; without a course you can enter the planned tour length and ascent. Time to go uses the DAV/SAC hiking-time rule of the Alpine clubs and learns your own speed on the flat, uphill and downhill as you walk, including your breaks. From your position it works out sunset (or the end of civil twilight) and shows the daylight margin at arrival in green, orange or red, with an alert when that margin gets small.\n\nWHAT IT DOES\n- 42 values to choose from: speed, pace, heart rate, HR zone, %HRmax or %HR reserve, distance, timer, moving time, ascent, descent, altitude, vertical speed, grade, steps, step cadence, step length, last-hour pace, speed and ascent, time of day, battery and more\n- Time to go, arrival time, distance and ascent to go: from your course, or from a planned tour length and ascent\n- Three time-to-go models: DAV/SAC that learns your pace, DAV/SAC standard, or Naismith (older watches with little memory, such as fenix 6 and Instinct 2, use the standard models and skip the last-hour values)\n- Sunset or end of civil twilight, daylight left, and daylight margin at arrival with colours and an alert\n- Presets Hike / Navigate / Climb / Fitness walk / Long day, or your own order in 12 slots\n- Kalman-smoothed speed with adjustable smoothing; HR zone colours as in Garmin Connect\n- Automatic, dark, light and high-contrast colours; five languages\n- Smoothed speed, HR zone and vertical speed saved to the FIT file, plus steps per lap and per activity\n\nWHAT IT NEEDS\n- GPS for speed and distance; a barometric altimeter for vertical speed and grade; a heart-rate sensor for HR values\n- A course or a planned tour length for time to go; a GPS fix once for sunset\n- Settings in the Connect IQ app (preset, slots, time-to-go model, tour length and ascent, daylight alert)\n- How to add: start a hike, open Settings / Data Screens, pick a screen and a field, then choose Connect IQ / Trekdeck",
-  "nl": "Trekdeck is één gegevensveld voor wandelen dat elk vak op je gegevensscherm vult met de waarden die jij kiest. Op een vol scherm is het een dashboard met tot 11 waarden plus een snelheidsgrafiek in hartslagzonekleuren; op een half scherm je vier belangrijkste; op een kwart twee; in het kleinste vak één. Het werkt zonder instellen: de voorinstelling Wandeltocht toont afstand, tijd, snelheid, stijging, hoogte, hartslag, stijgsnelheid, daglicht over, passen, kloktijd, snelheid van het laatste uur en accu.\n\nTrekdeck vertelt je wanneer je aankomt en of je dat vóór het donker haalt. Volg je een route, dan neemt het de afstand en het hoogteverschil tot de finish van je horloge; zonder route vul je de geplande tourlengte en stijging in. De resterende tijd gebruikt de DAV/SAC-looptijdregel van de Alpenverenigingen en leert onderweg je eigen snelheid vlak, omhoog en omlaag, inclusief je pauzes. Uit je positie berekent het de zonsondergang (of het einde van de burgerlijke schemering) en toont het de daglichtmarge bij aankomst in groen, oranje of rood, met een alarm als die marge klein wordt.\n\nWAT HET DOET\n- 42 waarden om uit te kiezen: snelheid, tempo, hartslag, hartslagzone, %HRmax of %hartslagreserve, afstand, tijd, beweegtijd, stijging, daling, hoogte, stijgsnelheid, helling, passen, pasfrequentie, paslengte, tempo, snelheid en stijging van het laatste uur, kloktijd, accu en meer\n- Resterende tijd, aankomsttijd, resterende afstand en stijging: uit je route, of uit een geplande tourlengte en stijging\n- Drie modellen: DAV/SAC die je tempo leert, DAV/SAC standaard, of Naismith (oudere horloges met weinig geheugen, zoals fenix 6 en Instinct 2, gebruiken de standaardmodellen en slaan de waarden van het laatste uur over)\n- Zonsondergang of einde burgerlijke schemering, daglicht over en daglichtmarge bij aankomst met kleuren en een alarm\n- Voorinstellingen Wandeltocht / Navigeren / Klimmen / Stevig wandelen / Lange dag, of je eigen volgorde in 12 vakken\n- Snelheid gedempt met een Kalman-filter (instelbaar); hartslagzonekleuren zoals in Garmin Connect\n- Automatische, donkere, lichte en hoog-contrastkleuren; vijf talen\n- Gedempte snelheid, hartslagzone en stijgsnelheid in het FIT-bestand, plus passen per ronde en per activiteit\n\nWAT HET NODIG HEEFT\n- GPS voor snelheid en afstand; een barometrische hoogtemeter voor stijgsnelheid en helling; een hartslagsensor voor hartslagwaarden\n- Een route of een geplande tourlengte voor de resterende tijd; één keer een GPS-fix voor de zonsondergang\n- Instellingen in de Connect IQ-app (voorinstelling, vakken, model, tourlengte en stijging, daglichtalarm)\n- Toevoegen: start een wandeling, open Instellingen / Gegevensschermen, kies een scherm en een veld, dan Connect IQ / Trekdeck",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.1",
-  "category": "180",
-  "icon": "assets/icons/trekdeck.png",
-  "shots": [
-   "assets/shots/trekdeck-1.jpg",
-   "assets/shots/trekdeck-2.jpg",
-   "assets/shots/trekdeck-3.jpg"
-  ],
-  "changed": 1790717395000,
-  "whatsnew": "More accurate climb rate, safer settings and heart-rate zone handling, less memory on older watches and more values on a full-screen field.",
-  "devices": 228,
-  "updates": 2
- },
- {
   "id": "500021f6-e7ed-4b53-88e1-89c3aee68907",
   "slug": "stripchart",
   "name": "Stripchart - Graphs with numbers",
@@ -1043,7 +1043,7 @@
   "type": "4",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.1",
   "category": "183",
   "icon": "assets/icons/stripchart.png",
@@ -1135,8 +1135,8 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
-  "version": "1.0.2",
+  "downloads": 100,
+  "version": "1.0.3",
   "category": "208",
   "icon": "assets/icons/purlwise.png",
   "shots": [
@@ -1144,10 +1144,10 @@
    "assets/shots/purlwise-2.jpg",
    "assets/shots/purlwise-3.jpg"
   ],
-  "changed": 1791205901000,
-  "whatsnew": "Saved projects load more safely, storage stays within the watch limits and long reminder lists open quickly in pages.",
+  "changed": 1791613309000,
+  "whatsnew": "Undo no longer skews your stats right after adding a new part.",
   "devices": 178,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "22bbc797-23db-483e-86f7-696f58a25839",
@@ -1411,7 +1411,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.1.4",
   "category": "221",
   "icon": "assets/icons/flume.png",
@@ -1596,7 +1596,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.6.0",
+  "version": "1.6.1",
   "category": "219",
   "icon": "assets/icons/splitr.png",
   "shots": [
@@ -1604,10 +1604,10 @@
    "assets/shots/splitr-2.jpg",
    "assets/shots/splitr-3.jpg"
   ],
-  "changed": 1791207964000,
-  "whatsnew": "Stopping now pauses the row and asks Save, Resume or Discard, with a clear \"Saved\" on the summary; page 2 shows your heart rate big in zone colour, and a goal reached on a rowing machine now counts as an effort automatically.",
+  "changed": 1791615107000,
+  "whatsnew": "Fixed calories and stroke count from a PM5 monitor.",
   "devices": 178,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "d5b404a4-cf14-40f6-a12f-e672e607f36c",
@@ -1618,7 +1618,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.3",
   "category": "212",
   "icon": "assets/icons/lineup.png",
@@ -2125,7 +2125,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.1.2",
   "category": "256",
   "icon": "assets/icons/skyfix.png",
