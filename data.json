@@ -253,29 +253,6 @@
   "updates": 4
  },
  {
-  "id": "2a619a51-4b35-4758-ad6a-1ed2bfa3a518",
-  "slug": "agewise",
-  "name": "Agewise - Functional age tests",
-  "desc": "Agewise runs a short set of home fitness tests on your wrist and compares each result with published norms for your age and sex. The watch times a one-leg stand and senses when your foot touches down, counts your chair stands with the motion sensor, beats the rhythm of a three-minute step test and reads your recovery heart rate, and adds the VO2max your watch already estimates. Each test gives the age at which your score is typical; together they give one functional age with a range.\n\nRepeat the round every few weeks and the trend page shows how your functional age moves over time. The results are a fitness indication for comparing yourself with yourself, not a medical assessment. Norms: Springer 2007 (one-leg stand), Rikli & Jones 1999 and McKay 2017 (chair stand), YMCA 3-minute step test, FRIEND registry 2015 (VO2max).\n\nWHAT IT DOES\n- One-leg stand, eyes open or closed, best of three, with automatic foot-down detection and a sway measure\n- 30-second chair stand counted by the motion sensor, with a quick check-and-adjust screen afterwards\n- YMCA 3-minute step test with a vibrating metronome and a one-minute recovery heart rate\n- VO2max from your running or cycling estimate, or entered by hand\n- Age-equivalent and percentile for every test, plus one combined functional age with a ± range\n- Full test round in about seven minutes, trend line over months, previous result per test\n- Five languages and a glance with your functional age\n\nWHAT IT NEEDS\n- A sturdy chair without armrests and a step or bench of about 30 cm\n- Birth year and sex from your Garmin profile (or set them in the app)\n- No phone, no account, no internet — everything is worked out on the watch",
-  "nl": "Agewise doet een korte reeks fitheidstests thuis op je pols en vergelijkt elke uitslag met gepubliceerde normen voor je leeftijd en geslacht. Het horloge timet het staan op één been en merkt wanneer je voet neerkomt, telt het opstaan uit een stoel met de bewegingssensor, geeft het ritme van een step test van drie minuten aan en leest je herstelhartslag, en neemt de VO2max mee die je horloge al schat. Elke test geeft de leeftijd waarbij jouw score typisch is; samen vormen ze één functionele leeftijd met een marge.\n\nHerhaal de ronde om de paar weken en de trendpagina laat zien hoe je functionele leeftijd verloopt. De uitslagen zijn een fitheidsindicatie om jezelf met jezelf te vergelijken, geen medische beoordeling. Normen: Springer 2007 (één been), Rikli & Jones 1999 en McKay 2017 (stoel-opstaan), YMCA 3-minuten step test, FRIEND-register 2015 (VO2max).\n\nWAT HET DOET\n- Eén been staan, ogen open of dicht, beste van drie, met automatische voet-neer-herkenning en een zwaaimaat\n- 30 seconden stoel-opstaan geteld door de bewegingssensor, met een scherm om de telling na te kijken\n- YMCA 3-minuten step test met trillende metronoom en herstelhartslag over één minuut\n- VO2max uit je hardloop- of fietsschatting, of handmatig ingevuld\n- Leeftijdswaarde en percentiel per test, plus één functionele leeftijd met ± marge\n- Volledige testronde in zo'n zeven minuten, trendlijn over maanden, vorige uitslag per test\n- Vijf talen en een glance met je functionele leeftijd\n\nWAT HET NODIG HEEFT\n- Een stevige stoel zonder armleuningen en een trede of bankje van ongeveer 30 cm\n- Geboortejaar en geslacht uit je Garmin-profiel (of in de app in te stellen)\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge berekend",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 10,
-  "version": "1.0.2",
-  "category": "219",
-  "icon": "assets/icons/agewise.png",
-  "shots": [
-   "assets/shots/agewise-1.jpg",
-   "assets/shots/agewise-2.jpg",
-   "assets/shots/agewise-3.jpg"
-  ],
-  "changed": 1790779561000,
-  "whatsnew": "The glance keeps your age current after New Year, and the main screen now says \"1 yr\" and \"1 test\".",
-  "devices": 185,
-  "updates": 3
- },
- {
   "id": "1362d0ac-78fb-4192-a1d4-e6f48a85b4cf",
   "slug": "ramprate",
   "name": "Ramprate - Long run guard",
@@ -690,6 +667,52 @@
   "updates": 4
  },
  {
+  "id": "500021f6-e7ed-4b53-88e1-89c3aee68907",
+  "slug": "stripchart",
+  "name": "Stripchart - Graphs with numbers",
+  "desc": "Stripchart is a graph data field for every sport, made with Edge riders in mind. Pick up to three graphs from heart rate, speed, pace, power, cadence and elevation. Each graph shows the current value big, with average and maximum next to it, the scale in numbers on the axis and the time span in the corner. Heart rate and power are coloured in the same zone colours as Garmin Connect (Z1 grey, Z2 blue, Z3 green, Z4 orange, Z5 red), with a zone strip along the axis.\n\nThe elevation graph is a real profile with numbers: it shows the whole activity by default, with total ascent and descent, the current grade and your climbing speed (VAM, metres per hour). The scale adapts to your ride, so a mountain stage looks like one and a flat ride does not turn noise into hills. Other graphs use a time window of your choice (for example 10 minutes) or the whole activity; long activities are compressed step by step, so the graph always fits.\n\nWHAT IT DOES\n- One to three graphs: heart rate, speed, pace, power, cadence or elevation\n- Current value big, average and maximum as numbers, axis values and time span on every graph\n- Heart rate zones from your Garmin profile and power zones from your FTP, in Garmin Connect colours\n- Elevation profile of the whole activity with ascent, descent, grade in % and VAM\n- Normalized Power next to the power graph\n- Time window in minutes or the whole activity; average shown as a dotted line\n- Optional alert (vibration, beep and full-screen message) when graph 1 stays above a value for 20 seconds\n- Adapts to every field size, from one number to three graphs on the full screen with clock and elapsed time; colours follow the screen or are set to dark, light or high contrast for bright sun\n- Grade and VAM are saved to the activity and shown as charts in Garmin Connect, with the maximum VAM in the summary\n- Works on watches and on every Edge from the Edge 130 to the Edge 1050\n\nWHAT IT NEEDS\n- The sensors for the graphs you choose (heart rate, power meter, cadence sensor); elevation uses the device altimeter or GPS\n- How to add: start an activity, open Settings / Data Screens, pick a screen, select a field and choose Connect IQ / Stripchart\n- On watches with little memory (such as Fenix 6, Forerunner 55, Instinct 2) one graph is shown",
+  "nl": "Stripchart is een grafiekveld voor elke sport, gemaakt met Edge-fietsers in gedachten. Kies tot drie grafieken uit hartslag, snelheid, tempo, vermogen, cadans en hoogte. Elke grafiek toont de huidige waarde groot, met gemiddelde en maximum ernaast, de schaal in getallen op de as en de tijdspanne in de hoek. Hartslag en vermogen krijgen dezelfde zonekleuren als Garmin Connect (Z1 grijs, Z2 blauw, Z3 groen, Z4 oranje, Z5 rood), met een zonestrook langs de as.\n\nDe hoogtegrafiek is een echt profiel met getallen: standaard de hele activiteit, met totale stijging en daling, de huidige helling en je stijgsnelheid (VAM, meter per uur). De schaal past zich aan je rit aan, dus een bergrit ziet eruit als een bergrit en een vlakke rit maakt van ruis geen heuvels. De andere grafieken gebruiken een tijdvenster naar keuze (bijvoorbeeld 10 minuten) of de hele activiteit; lange activiteiten worden stap voor stap samengevat, zodat de grafiek altijd past.\n\nWAT HET DOET\n- Eén tot drie grafieken: hartslag, snelheid, tempo, vermogen, cadans of hoogte\n- Huidige waarde groot, gemiddelde en maximum als getal, as-waarden en tijdspanne bij elke grafiek\n- Hartslagzones uit je Garmin-profiel en vermogenszones uit je FTP, in de kleuren van Garmin Connect\n- Hoogteprofiel van de hele activiteit met stijging, daling, helling in % en VAM\n- Normalized Power bij de vermogensgrafiek\n- Tijdvenster in minuten of de hele activiteit; gemiddelde als stippellijn\n- Optioneel alarm (trillen, piep en melding over het hele scherm) als grafiek 1 20 seconden boven een waarde blijft\n- Past zich aan elke veldgrootte aan, van één getal tot drie grafieken op het hele scherm met klok en verstreken tijd; kleuren volgen het scherm of staan op donker, licht of hoog contrast voor fel zonlicht\n- Helling en VAM worden in de activiteit opgeslagen en als grafiek getoond in Garmin Connect, met de maximale VAM in het overzicht\n- Werkt op horloges en op elke Edge van de Edge 130 tot de Edge 1050\n\nWAT HET NODIG HEEFT\n- De sensoren voor de grafieken die je kiest (hartslag, vermogensmeter, cadanssensor); hoogte komt van de hoogtemeter of gps van het toestel\n- Toevoegen: start een activiteit, open Instellingen / Gegevensschermen, kies een scherm, selecteer een veld en kies Connect IQ / Stripchart\n- Op horloges met weinig geheugen (zoals Fenix 6, Forerunner 55, Instinct 2) wordt één grafiek getoond",
+  "type": "4",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.1",
+  "category": "183",
+  "icon": "assets/icons/stripchart.png",
+  "shots": [
+   "assets/shots/stripchart-1.jpg",
+   "assets/shots/stripchart-2.jpg",
+   "assets/shots/stripchart-3.jpg"
+  ],
+  "changed": 1790718733000,
+  "whatsnew": "Handles incomplete heart rate zones safely, short chart windows show the right time span and the cadence chart scales from your real minimum.",
+  "devices": 228,
+  "updates": 2
+ },
+ {
+  "id": "2a619a51-4b35-4758-ad6a-1ed2bfa3a518",
+  "slug": "agewise",
+  "name": "Agewise - Functional age tests",
+  "desc": "Agewise runs a short set of home fitness tests on your wrist and compares each result with published norms for your age and sex. The watch times a one-leg stand and senses when your foot touches down, counts your chair stands with the motion sensor, beats the rhythm of a three-minute step test and reads your recovery heart rate, and adds the VO2max your watch already estimates. Each test gives the age at which your score is typical; together they give one functional age with a range.\n\nRepeat the round every few weeks and the trend page shows how your functional age moves over time. The results are a fitness indication for comparing yourself with yourself, not a medical assessment. Norms: Springer 2007 (one-leg stand), Rikli & Jones 1999 and McKay 2017 (chair stand), YMCA 3-minute step test, FRIEND registry 2015 (VO2max).\n\nWHAT IT DOES\n- One-leg stand, eyes open or closed, best of three, with automatic foot-down detection and a sway measure\n- 30-second chair stand counted by the motion sensor, with a quick check-and-adjust screen afterwards\n- YMCA 3-minute step test with a vibrating metronome and a one-minute recovery heart rate\n- VO2max from your running or cycling estimate, or entered by hand\n- Age-equivalent and percentile for every test, plus one combined functional age with a ± range\n- Full test round in about seven minutes, trend line over months, previous result per test\n- Five languages and a glance with your functional age\n\nWHAT IT NEEDS\n- A sturdy chair without armrests and a step or bench of about 30 cm\n- Birth year and sex from your Garmin profile (or set them in the app)\n- No phone, no account, no internet — everything is worked out on the watch",
+  "nl": "Agewise doet een korte reeks fitheidstests thuis op je pols en vergelijkt elke uitslag met gepubliceerde normen voor je leeftijd en geslacht. Het horloge timet het staan op één been en merkt wanneer je voet neerkomt, telt het opstaan uit een stoel met de bewegingssensor, geeft het ritme van een step test van drie minuten aan en leest je herstelhartslag, en neemt de VO2max mee die je horloge al schat. Elke test geeft de leeftijd waarbij jouw score typisch is; samen vormen ze één functionele leeftijd met een marge.\n\nHerhaal de ronde om de paar weken en de trendpagina laat zien hoe je functionele leeftijd verloopt. De uitslagen zijn een fitheidsindicatie om jezelf met jezelf te vergelijken, geen medische beoordeling. Normen: Springer 2007 (één been), Rikli & Jones 1999 en McKay 2017 (stoel-opstaan), YMCA 3-minuten step test, FRIEND-register 2015 (VO2max).\n\nWAT HET DOET\n- Eén been staan, ogen open of dicht, beste van drie, met automatische voet-neer-herkenning en een zwaaimaat\n- 30 seconden stoel-opstaan geteld door de bewegingssensor, met een scherm om de telling na te kijken\n- YMCA 3-minuten step test met trillende metronoom en herstelhartslag over één minuut\n- VO2max uit je hardloop- of fietsschatting, of handmatig ingevuld\n- Leeftijdswaarde en percentiel per test, plus één functionele leeftijd met ± marge\n- Volledige testronde in zo'n zeven minuten, trendlijn over maanden, vorige uitslag per test\n- Vijf talen en een glance met je functionele leeftijd\n\nWAT HET NODIG HEEFT\n- Een stevige stoel zonder armleuningen en een trede of bankje van ongeveer 30 cm\n- Geboortejaar en geslacht uit je Garmin-profiel (of in de app in te stellen)\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge berekend",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.2",
+  "category": "219",
+  "icon": "assets/icons/agewise.png",
+  "shots": [
+   "assets/shots/agewise-1.jpg",
+   "assets/shots/agewise-2.jpg",
+   "assets/shots/agewise-3.jpg"
+  ],
+  "changed": 1790779561000,
+  "whatsnew": "The glance keeps your age current after New Year, and the main screen now says \"1 yr\" and \"1 test\".",
+  "devices": 185,
+  "updates": 3
+ },
+ {
   "id": "c0f75d95-4a66-42b5-80a9-7a82589dd044",
   "slug": "evensplit",
   "name": "Evensplit - lap comparison",
@@ -1033,29 +1056,6 @@
   "whatsnew": "More reliable ETA on very long routes, sturdier settings handling and no more missing letters on the PLAN screen.",
   "devices": 235,
   "updates": 3
- },
- {
-  "id": "500021f6-e7ed-4b53-88e1-89c3aee68907",
-  "slug": "stripchart",
-  "name": "Stripchart - Graphs with numbers",
-  "desc": "Stripchart is a graph data field for every sport, made with Edge riders in mind. Pick up to three graphs from heart rate, speed, pace, power, cadence and elevation. Each graph shows the current value big, with average and maximum next to it, the scale in numbers on the axis and the time span in the corner. Heart rate and power are coloured in the same zone colours as Garmin Connect (Z1 grey, Z2 blue, Z3 green, Z4 orange, Z5 red), with a zone strip along the axis.\n\nThe elevation graph is a real profile with numbers: it shows the whole activity by default, with total ascent and descent, the current grade and your climbing speed (VAM, metres per hour). The scale adapts to your ride, so a mountain stage looks like one and a flat ride does not turn noise into hills. Other graphs use a time window of your choice (for example 10 minutes) or the whole activity; long activities are compressed step by step, so the graph always fits.\n\nWHAT IT DOES\n- One to three graphs: heart rate, speed, pace, power, cadence or elevation\n- Current value big, average and maximum as numbers, axis values and time span on every graph\n- Heart rate zones from your Garmin profile and power zones from your FTP, in Garmin Connect colours\n- Elevation profile of the whole activity with ascent, descent, grade in % and VAM\n- Normalized Power next to the power graph\n- Time window in minutes or the whole activity; average shown as a dotted line\n- Optional alert (vibration, beep and full-screen message) when graph 1 stays above a value for 20 seconds\n- Adapts to every field size, from one number to three graphs on the full screen with clock and elapsed time; colours follow the screen or are set to dark, light or high contrast for bright sun\n- Grade and VAM are saved to the activity and shown as charts in Garmin Connect, with the maximum VAM in the summary\n- Works on watches and on every Edge from the Edge 130 to the Edge 1050\n\nWHAT IT NEEDS\n- The sensors for the graphs you choose (heart rate, power meter, cadence sensor); elevation uses the device altimeter or GPS\n- How to add: start an activity, open Settings / Data Screens, pick a screen, select a field and choose Connect IQ / Stripchart\n- On watches with little memory (such as Fenix 6, Forerunner 55, Instinct 2) one graph is shown",
-  "nl": "Stripchart is een grafiekveld voor elke sport, gemaakt met Edge-fietsers in gedachten. Kies tot drie grafieken uit hartslag, snelheid, tempo, vermogen, cadans en hoogte. Elke grafiek toont de huidige waarde groot, met gemiddelde en maximum ernaast, de schaal in getallen op de as en de tijdspanne in de hoek. Hartslag en vermogen krijgen dezelfde zonekleuren als Garmin Connect (Z1 grijs, Z2 blauw, Z3 groen, Z4 oranje, Z5 rood), met een zonestrook langs de as.\n\nDe hoogtegrafiek is een echt profiel met getallen: standaard de hele activiteit, met totale stijging en daling, de huidige helling en je stijgsnelheid (VAM, meter per uur). De schaal past zich aan je rit aan, dus een bergrit ziet eruit als een bergrit en een vlakke rit maakt van ruis geen heuvels. De andere grafieken gebruiken een tijdvenster naar keuze (bijvoorbeeld 10 minuten) of de hele activiteit; lange activiteiten worden stap voor stap samengevat, zodat de grafiek altijd past.\n\nWAT HET DOET\n- Eén tot drie grafieken: hartslag, snelheid, tempo, vermogen, cadans of hoogte\n- Huidige waarde groot, gemiddelde en maximum als getal, as-waarden en tijdspanne bij elke grafiek\n- Hartslagzones uit je Garmin-profiel en vermogenszones uit je FTP, in de kleuren van Garmin Connect\n- Hoogteprofiel van de hele activiteit met stijging, daling, helling in % en VAM\n- Normalized Power bij de vermogensgrafiek\n- Tijdvenster in minuten of de hele activiteit; gemiddelde als stippellijn\n- Optioneel alarm (trillen, piep en melding over het hele scherm) als grafiek 1 20 seconden boven een waarde blijft\n- Past zich aan elke veldgrootte aan, van één getal tot drie grafieken op het hele scherm met klok en verstreken tijd; kleuren volgen het scherm of staan op donker, licht of hoog contrast voor fel zonlicht\n- Helling en VAM worden in de activiteit opgeslagen en als grafiek getoond in Garmin Connect, met de maximale VAM in het overzicht\n- Werkt op horloges en op elke Edge van de Edge 130 tot de Edge 1050\n\nWAT HET NODIG HEEFT\n- De sensoren voor de grafieken die je kiest (hartslag, vermogensmeter, cadanssensor); hoogte komt van de hoogtemeter of gps van het toestel\n- Toevoegen: start een activiteit, open Instellingen / Gegevensschermen, kies een scherm, selecteer een veld en kies Connect IQ / Stripchart\n- Op horloges met weinig geheugen (zoals Fenix 6, Forerunner 55, Instinct 2) wordt één grafiek getoond",
-  "type": "4",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 100,
-  "version": "1.0.1",
-  "category": "183",
-  "icon": "assets/icons/stripchart.png",
-  "shots": [
-   "assets/shots/stripchart-1.jpg",
-   "assets/shots/stripchart-2.jpg",
-   "assets/shots/stripchart-3.jpg"
-  ],
-  "changed": 1790718733000,
-  "whatsnew": "Handles incomplete heart rate zones safely, short chart windows show the right time span and the cadence chart scales from your real minimum.",
-  "devices": 228,
-  "updates": 2
  },
  {
   "id": "f387d927-aa24-4880-9b6d-dbd336ab5d11",
