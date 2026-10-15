@@ -607,7 +607,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "183",
   "icon": "assets/icons/paddledeck.png",
   "shots": [
@@ -615,10 +615,10 @@
    "assets/shots/paddledeck-2.jpg",
    "assets/shots/paddledeck-3.jpg"
   ],
-  "changed": 1790716849000,
+  "changed": 1792070669000,
   "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
   "devices": 206,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "ae2a50e2-93a6-4288-9638-338a439adbe8",
@@ -722,7 +722,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "183",
   "icon": "assets/icons/evensplit.png",
   "shots": [
@@ -730,10 +730,10 @@
    "assets/shots/evensplit-2.jpg",
    "assets/shots/evensplit-3.jpg"
   ],
-  "changed": 1791889548000,
+  "changed": 1792070820000,
   "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
   "devices": 228,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "3e832b0f-634a-463d-8c33-8e29234a744b",
