@@ -584,7 +584,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "252",
   "icon": "assets/icons/lanedeck.png",
   "shots": [
@@ -592,10 +592,10 @@
    "assets/shots/lanedeck-2.jpg",
    "assets/shots/lanedeck-3.jpg"
   ],
-  "changed": 1790716413000,
-  "whatsnew": "Keeps the learned pool length when you change a setting mid-swim, uses less memory on older watches and shows more values on a full-screen field.",
+  "changed": 1792070538000,
+  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
   "devices": 196,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "ae6a02b0-bfad-4982-9d9c-d2754c2098c1",
@@ -616,7 +616,7 @@
    "assets/shots/paddledeck-3.jpg"
   ],
   "changed": 1790716849000,
-  "whatsnew": "Uses less memory on older watches and shows more values on a full-screen field.",
+  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
   "devices": 206,
   "updates": 3
  },
@@ -630,7 +630,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "180",
   "icon": "assets/icons/trekdeck.png",
   "shots": [
@@ -638,10 +638,10 @@
    "assets/shots/trekdeck-2.jpg",
    "assets/shots/trekdeck-3.jpg"
   ],
-  "changed": 1790717395000,
-  "whatsnew": "More accurate climb rate, safer settings and heart-rate zone handling, less memory on older watches and more values on a full-screen field.",
+  "changed": 1792070411000,
+  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
   "devices": 228,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "81bc7aef-ea3a-4959-b2ae-7577fc14ee18",
@@ -653,7 +653,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "253",
   "icon": "assets/icons/pedaldeck.png",
   "shots": [
@@ -661,10 +661,10 @@
    "assets/shots/pedaldeck-2.jpg",
    "assets/shots/pedaldeck-3.jpg"
   ],
-  "changed": 1790717836000,
-  "whatsnew": "More robust with unusual heart rate zones, the chart stays inside small fields, less memory on older watches and more values on a full-screen field.",
+  "changed": 1792070266000,
+  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
   "devices": 223,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "a586da27-3a17-456c-b55f-34579423f678",
@@ -676,7 +676,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "251",
   "icon": "assets/icons/stridedeck.png",
   "shots": [
@@ -684,10 +684,10 @@
    "assets/shots/stridedeck-2.jpg",
    "assets/shots/stridedeck-3.jpg"
   ],
-  "changed": 1790783010000,
-  "whatsnew": "The predicted finish time is now accurate from the first minutes.",
+  "changed": 1792070141000,
+  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
   "devices": 196,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "500021f6-e7ed-4b53-88e1-89c3aee68907",
@@ -731,7 +731,7 @@
    "assets/shots/evensplit-3.jpg"
   ],
   "changed": 1791889548000,
-  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
+  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
   "devices": 228,
   "updates": 4
  },
