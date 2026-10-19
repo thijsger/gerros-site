@@ -929,7 +929,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "213",
   "icon": "assets/icons/propwash.png",
   "shots": [
@@ -937,10 +937,10 @@
    "assets/shots/propwash-2.jpg",
    "assets/shots/propwash-3.jpg"
   ],
-  "changed": 1791205886000,
-  "whatsnew": "The glance now follows the hourly forecast: current GO status and best hour without opening the app.",
+  "changed": 1792423905000,
+  "whatsnew": "Fixes a crash on some watches when loading the weather.",
   "devices": 170,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "2bf457d8-1a2e-4cf0-8248-5d8e862d3da0",
@@ -2949,7 +2949,7 @@
    "assets/shots/wordclock-2.jpg"
   ],
   "changed": 1791219193000,
-  "whatsnew": "Italian and Portuguese sentences now read correctly, the bottom line re-fits after changing settings and temperature follows your unit setting.",
+  "whatsnew": "Cleaner letter spacing and the bottom text size setting works again.",
   "devices": 162,
   "updates": 10
  },
@@ -3060,7 +3060,7 @@
   "rating": 4.8,
   "reviews": 9,
   "downloads": 100,
-  "version": "2.5.2",
+  "version": "2.5.3",
   "category": "219",
   "icon": "assets/icons/caffi.png",
   "shots": [
@@ -3070,10 +3070,10 @@
    "assets/shots/caffi-4.jpg",
    "assets/shots/caffi-5.jpg"
   ],
-  "changed": 1791614855000,
-  "whatsnew": "New: show your caffeine level, today's total and sleep-OK time on watch faces that support Connect IQ complications.",
+  "changed": 1792424144000,
+  "whatsnew": "Adds support for the Enduro 4.",
   "devices": 178,
-  "updates": 21
+  "updates": 22
  },
  {
   "id": "173e9d71-48e0-4ded-8515-27c3011032da",
