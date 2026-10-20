@@ -1412,7 +1412,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.4",
+  "version": "1.1.5",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -1420,10 +1420,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1791206798000,
+  "changed": 1792466205000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
@@ -1527,7 +1527,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.3",
+  "version": "1.1.4",
   "category": "212",
   "icon": "assets/icons/airtime.png",
   "shots": [
@@ -1535,10 +1535,10 @@
    "assets/shots/airtime-2.jpg",
    "assets/shots/airtime-3.jpg"
   ],
-  "changed": 1791207943000,
+  "changed": 1792466496000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "b3dc4fa0-011c-4988-97f1-8b4bcbe5b61d",
@@ -1596,7 +1596,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.6.1",
+  "version": "1.6.2",
   "category": "219",
   "icon": "assets/icons/splitr.png",
   "shots": [
@@ -1604,10 +1604,10 @@
    "assets/shots/splitr-2.jpg",
    "assets/shots/splitr-3.jpg"
   ],
-  "changed": 1791615107000,
+  "changed": 1792466600000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "d5b404a4-cf14-40f6-a12f-e672e607f36c",
@@ -1619,7 +1619,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "212",
   "icon": "assets/icons/lineup.png",
   "shots": [
@@ -1627,10 +1627,10 @@
    "assets/shots/lineup-2.jpg",
    "assets/shots/lineup-3.jpg"
   ],
-  "changed": 1791207967000,
-  "whatsnew": "Shows \"1 wave\" instead of \"1 waves\", and session and detection rows are no longer cut off on smaller screens (the detection footer wraps onto a second line).",
+  "changed": 1792466691000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "b23b1ead-1709-468b-9f17-4d43d0a30174",
@@ -1642,7 +1642,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.1.2",
+  "version": "1.1.3",
   "category": "219",
   "icon": "assets/icons/strain.png",
   "shots": [
@@ -1650,10 +1650,10 @@
    "assets/shots/strain-2.jpg",
    "assets/shots/strain-3.jpg"
   ],
-  "changed": 1790894987000,
-  "whatsnew": "Faster and more reliable start-up with a long training log on older watches.",
+  "changed": 1792466796000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "9515da43-3860-4968-8123-b7498ab7227d",
@@ -1803,7 +1803,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "218",
   "icon": "assets/icons/altura.png",
   "shots": [
@@ -1811,10 +1811,10 @@
    "assets/shots/altura-2.jpg",
    "assets/shots/altura-3.jpg"
   ],
-  "changed": 1791208729000,
-  "whatsnew": "Menu opens with a tap, clearer hints per watch, safer data and a glance that always fits. Text fits better on smaller screens.",
+  "changed": 1792466887000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 158,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "1ce4573a-c932-43cb-97a6-554ffcc36740",
@@ -1872,7 +1872,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "category": "247",
   "icon": "assets/icons/laylin.png",
   "shots": [
@@ -1880,10 +1880,10 @@
    "assets/shots/laylin-2.jpg",
    "assets/shots/laylin-3.jpg"
   ],
-  "changed": 1791889629000,
-  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
+  "changed": 1792466976000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 175,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
@@ -1895,7 +1895,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.4",
+  "version": "1.1.5",
   "category": "202",
   "icon": "assets/icons/studo.png",
   "shots": [
@@ -1903,10 +1903,10 @@
    "assets/shots/studo-2.jpg",
    "assets/shots/studo-3.jpg"
   ],
-  "changed": 1790793099000,
-  "whatsnew": "Correct singular for a 1-day streak and a single distraction.",
+  "changed": 1792467063000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
@@ -2035,7 +2035,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "254",
   "icon": "assets/icons/circada.png",
   "shots": [
@@ -2043,10 +2043,10 @@
    "assets/shots/circada-2.jpg",
    "assets/shots/circada-3.jpg"
   ],
-  "changed": 1791209760000,
-  "whatsnew": "The glance now keeps showing your alertness for six days after you last opened the app.",
+  "changed": 1792467172000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 167,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf",
@@ -2103,7 +2103,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.4",
+  "version": "1.1.5",
   "category": "215",
   "icon": "assets/icons/barocast.png",
   "shots": [
@@ -2111,10 +2111,10 @@
    "assets/shots/barocast-2.jpg",
    "assets/shots/barocast-3.jpg"
   ],
-  "changed": 1791657082000,
-  "whatsnew": "The forecast no longer flips the wrong way when you walk around or the altimeter recalibrates, and the app now flags showers nearby when a sudden pressure jump passes.",
+  "changed": 1792467267000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 165,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
@@ -2126,7 +2126,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.2",
+  "version": "1.1.3",
   "category": "256",
   "icon": "assets/icons/skyfix.png",
   "shots": [
@@ -2134,10 +2134,10 @@
    "assets/shots/skyfix-2.jpg",
    "assets/shots/skyfix-3.jpg"
   ],
-  "changed": 1791209795000,
-  "whatsnew": "Page dots now point the way you scroll, and moon and night times wait for your GPS position instead of showing a default place.",
+  "changed": 1792467361000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 167,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "d66900af-a149-4309-a7f1-3bdb70eced57",
@@ -2172,7 +2172,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "206",
   "icon": "assets/icons/lexil.png",
   "shots": [
@@ -2182,10 +2182,10 @@
    "assets/shots/lexil-4.jpg",
    "assets/shots/lexil-5.jpg"
   ],
-  "changed": 1791613473000,
-  "whatsnew": "Your streak no longer breaks when the clocks go back.",
+  "changed": 1792467449000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "98727840-961a-4649-83ed-7b31520f9525",
@@ -2346,7 +2346,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "217",
   "icon": "assets/icons/radar.png",
   "shots": [
@@ -2356,10 +2356,10 @@
    "assets/shots/radar-4.jpg",
    "assets/shots/radar-5.jpg"
   ],
-  "changed": 1791210929000,
-  "whatsnew": "Sturdier saving of your hunt history and faster level calculation.",
+  "changed": 1792467556000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8",
@@ -2371,7 +2371,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "219",
   "icon": "assets/icons/adapt.png",
   "shots": [
@@ -2381,10 +2381,10 @@
    "assets/shots/adapt-4.jpg",
    "assets/shots/adapt-5.jpg"
   ],
-  "changed": 1791211433000,
-  "whatsnew": "Set a fixed daily calorie target (Menu, Daily target, Manual) or pick a weekly pace without a target weight. Smarter adaptive estimate: weighted trend over 28 days, optional Garmin calories with a learned correction, and safety limits (at most 1% of body weight a week). New evening reminder to log your food.",
+  "changed": 1792467653000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065",
@@ -2396,7 +2396,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "277",
   "icon": "assets/icons/recover.png",
   "shots": [
@@ -2406,10 +2406,10 @@
    "assets/shots/recover-4.jpg",
    "assets/shots/recover-5.jpg"
   ],
-  "changed": 1791211436000,
-  "whatsnew": "A session with a single set now says \"1 set\" in the app and the glance, and the glance title no longer runs off the round screen.",
+  "changed": 1792467741000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce",
@@ -2446,7 +2446,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "category": "220",
   "icon": "assets/icons/racecast.png",
   "shots": [
@@ -2456,10 +2456,10 @@
    "assets/shots/racecast-4.jpg",
    "assets/shots/racecast-5.jpg"
   ],
-  "changed": 1791211480000,
-  "whatsnew": "Pages with many race results open faster and no longer stop the app on older watches. With one race logged it now says \"1 result\" instead of \"1 results\".",
+  "changed": 1792467832000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c",
@@ -2496,7 +2496,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.7",
+  "version": "1.0.8",
   "category": "200",
   "icon": "assets/icons/podium.png",
   "shots": [
@@ -2506,10 +2506,10 @@
    "assets/shots/podium-4.jpg",
    "assets/shots/podium-5.jpg"
   ],
-  "changed": 1791211787000,
-  "whatsnew": "Lighter glance and sturdier storage for long talk lists and history.",
+  "changed": 1792467932000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "8a3e833b-11ae-42de-9221-f397907e33a6",
@@ -2571,7 +2571,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.2.3",
+  "version": "2.2.4",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -2581,10 +2581,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1790893480000,
-  "whatsnew": "Faster start-up and a faster \"Running low\" list with many lists and products. Your first trip now reads \"1 trip\", and a single product \"1 item\".",
+  "changed": 1792468022000,
+  "whatsnew": "Adds support for MARQ (Gen 3) and Approach S72.",
   "devices": 54,
-  "updates": 13
+  "updates": 14
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
@@ -2621,7 +2621,7 @@
   "rating": 4.3,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.5.2",
+  "version": "1.5.3",
   "category": "204",
   "icon": "assets/icons/shiftpay.png",
   "shots": [
@@ -2630,10 +2630,10 @@
    "assets/shots/shiftpay-3.jpg",
    "assets/shots/shiftpay-4.jpg"
   ],
-  "changed": 1791213200000,
-  "whatsnew": "Large amounts, such as in rupiah, won or yen, now show exact figures instead of odd final digits.",
+  "changed": 1792468114000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 205,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "a1845d8e-d596-4d4a-9549-9ffa109926a2",
@@ -2645,7 +2645,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.2.3",
+  "version": "1.2.4",
   "category": "205",
   "icon": "assets/icons/earned.png",
   "shots": [
@@ -2655,10 +2655,10 @@
    "assets/shots/earned-4.jpg",
    "assets/shots/earned-5.jpg"
   ],
-  "changed": 1791213574000,
-  "whatsnew": "Servings are no longer rounded up before you have earned them, and long walk or run times show as hours.",
+  "changed": 1792468182000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 180,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "435be2d8-0a32-4d40-8737-ce97f2824468",
@@ -2670,7 +2670,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.5.2",
+  "version": "1.5.3",
   "category": "254",
   "icon": "assets/icons/isobar.png",
   "shots": [
@@ -2679,10 +2679,10 @@
    "assets/shots/isobar-3.jpg",
    "assets/shots/isobar-4.jpg"
   ],
-  "changed": 1791213753000,
-  "whatsnew": "Faster insights, a lighter background check with a long attack log, and the glance now refreshes itself after every background pressure reading.",
+  "changed": 1792468265000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "c9641632-bf62-4fdb-8e28-e3a4c1c24bc5",
@@ -2694,7 +2694,7 @@
   "rating": 4.5,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.4.1",
+  "version": "1.4.2",
   "category": "213",
   "icon": "assets/icons/remindersplus.png",
   "shots": [
@@ -2703,10 +2703,10 @@
    "assets/shots/remindersplus-3.jpg",
    "assets/shots/remindersplus-4.jpg"
   ],
-  "changed": 1791213783000,
-  "whatsnew": "Scheduled reminders ticked off early stay done, also around the daylight saving change, and the correct singular when you have one reminder.",
+  "changed": 1792468311000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 63,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "9f23b16c-4816-43e4-b467-8aac293d0d31",
@@ -2718,7 +2718,7 @@
   "rating": 4.3,
   "reviews": 8,
   "downloads": 100,
-  "version": "1.5.1",
+  "version": "1.5.2",
   "category": "213",
   "icon": "assets/icons/speedometer-pro.png",
   "shots": [
@@ -2728,10 +2728,10 @@
    "assets/shots/speedometer-pro-4.jpg",
    "assets/shots/speedometer-pro-5.jpg"
   ],
-  "changed": 1791474144000,
-  "whatsnew": "More accurate Drag timing when you pull away between two GPS fixes.",
+  "changed": 1792468364000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "be12dc0d-65b0-46e8-be2e-7677289ca9fe",
@@ -2743,7 +2743,7 @@
   "rating": 3.4,
   "reviews": 5,
   "downloads": 100,
-  "version": "1.7.1",
+  "version": "1.7.2",
   "category": "254",
   "icon": "assets/icons/smokeless.png",
   "shots": [
@@ -2753,10 +2753,10 @@
    "assets/shots/smokeless-4.jpg",
    "assets/shots/smokeless-5.jpg"
   ],
-  "changed": 1791218015000,
-  "whatsnew": "German translation restored, your chosen quit date starts at local midnight, very large counts fit on the cravings and triggers pages, and the correct singular after your first smoke-free day (\"1 day free\").",
+  "changed": 1792468418000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 153,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "cec46a63-db0b-4506-b046-2a59e120d2d0",
@@ -2779,7 +2779,7 @@
    "assets/shots/fasted-5.jpg"
   ],
   "changed": 1792082567000,
-  "whatsnew": "New app icon.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 108,
   "updates": 20
  },
@@ -2804,7 +2804,7 @@
    "assets/shots/reactr-5.jpg"
   ],
   "changed": 1791613174000,
-  "whatsnew": "Fixed the daily streak breaking at the clock change in UK, Irish and Portuguese time zones.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 104,
   "updates": 11
  },
