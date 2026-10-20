@@ -1757,7 +1757,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "219",
   "icon": "assets/icons/crimpa.png",
   "shots": [
@@ -1765,10 +1765,10 @@
    "assets/shots/crimpa-2.jpg",
    "assets/shots/crimpa-3.jpg"
   ],
-  "changed": 1791208724000,
+  "changed": 1792476469000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 175,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "6b0dad0f-72c2-440e-b9dc-5cde79fba602",
@@ -1987,7 +1987,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.3",
+  "version": "1.1.4",
   "category": "210",
   "icon": "assets/icons/halflight.png",
   "shots": [
@@ -1995,10 +1995,10 @@
    "assets/shots/halflight-2.jpg",
    "assets/shots/halflight-3.jpg"
   ],
-  "changed": 1791209773000,
+  "changed": 1792477022000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 168,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
@@ -2207,7 +2207,7 @@
    "assets/shots/coglet-4.jpg"
   ],
   "changed": 1791210228000,
-  "whatsnew": "Menus now spend your up-to-the-second balance, big numbers round cleanly into the next suffix and labels always fit the round screen.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
   "updates": 6
  },
@@ -2257,7 +2257,7 @@
    "assets/shots/pixara-5.jpg"
   ],
   "changed": 1791210241000,
-  "whatsnew": "A one-day streak now reads \"1 day in a row\", the 10×10 grid fits small round screens and the clock stops at 99:59:59.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
   "updates": 8
  },
@@ -2332,7 +2332,7 @@
    "assets/shots/spire-5.jpg"
   ],
   "changed": 1790897312000,
-  "whatsnew": "Card descriptions in combat no longer overlap the status lines on smaller screens, boss fights no longer draw the crown over the status line, and damaged saved runs load safely.",
+  "whatsnew": "Adds support for MARQ (Gen 3) and Approach S72.",
   "devices": 62,
   "updates": 5
  },
@@ -2432,7 +2432,7 @@
    "assets/shots/cue-5.jpg"
   ],
   "changed": 1791211439000,
-  "whatsnew": "Stats now say \"1 frame played\" instead of \"1 frames played\", and the last-frames list fits better on smaller round screens.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
   "updates": 7
  },
@@ -2482,7 +2482,7 @@
    "assets/shots/pitstop-5.jpg"
   ],
   "changed": 1791211713000,
-  "whatsnew": "The glance range now counts down day by day and turns red at the reserve without opening the app, and the fill-up interval says \"1 day\" instead of \"1 days\".",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
   "updates": 6
  },
@@ -2532,7 +2532,7 @@
    "assets/shots/strike-5.jpg"
   ],
   "changed": 1791212063000,
-  "whatsnew": "Game history uses far less memory and statistics open faster with a long history. Summaries and series now use the singular for a single strike, spare, open frame or game.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 167,
   "updates": 6
  },
@@ -2557,7 +2557,7 @@
    "assets/shots/spent-5.jpg"
   ],
   "changed": 1791612590000,
-  "whatsnew": "The daily allowance is now correct in the month the clocks change.",
+  "whatsnew": "Adds support for MARQ (Gen 3) and Approach S72.",
   "devices": 59,
   "updates": 9
  },
@@ -2607,7 +2607,7 @@
    "assets/shots/zeitnot-5.jpg"
   ],
   "changed": 1790879785000,
-  "whatsnew": "Changing the increment mode now starts a new game, and the summary fits long times.",
+  "whatsnew": "Adds support for MARQ (Gen 3) and Approach S72.",
   "devices": 59,
   "updates": 3
  },
