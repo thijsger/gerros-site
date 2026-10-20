@@ -9,7 +9,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "213",
   "icon": "assets/icons/topup.png",
   "shots": [
@@ -17,10 +17,10 @@
    "assets/shots/topup-2.jpg",
    "assets/shots/topup-3.jpg"
   ],
-  "changed": 1791205011000,
+  "changed": 1792472149000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
-  "devices": 186,
-  "updates": 4
+  "devices": 189,
+  "updates": 5
  },
  {
   "id": "09c7f7a8-50ff-44b7-ab12-e9acb549af28",
@@ -32,7 +32,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "205",
   "icon": "assets/icons/yolk.png",
   "shots": [
@@ -40,10 +40,10 @@
    "assets/shots/yolk-2.jpg",
    "assets/shots/yolk-3.jpg"
   ],
-  "changed": 1791205016000,
+  "changed": 1792472236000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
-  "devices": 186,
-  "updates": 4
+  "devices": 189,
+  "updates": 5
  },
  {
   "id": "af54a959-2564-4117-8de7-7e1e90b807b5",
@@ -78,7 +78,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "219",
   "icon": "assets/icons/vilpa.png",
   "shots": [
@@ -86,10 +86,10 @@
    "assets/shots/vilpa-2.jpg",
    "assets/shots/vilpa-3.jpg"
   ],
-  "changed": 1790778133000,
+  "changed": 1792472329000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 189,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "f16961e7-1c1b-46ff-be0c-c8d9bfc0c9ec",
@@ -101,7 +101,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "205",
   "icon": "assets/icons/jigger.png",
   "shots": [
@@ -109,10 +109,10 @@
    "assets/shots/jigger-2.jpg",
    "assets/shots/jigger-3.jpg"
   ],
-  "changed": 1790778287000,
+  "changed": 1792472419000,
   "whatsnew": "Shows \"1 pour\" instead of \"1 pours\".",
-  "devices": 185,
-  "updates": 3
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "d675e77a-2f12-4dbd-bc1e-117e3545aa03",
@@ -124,7 +124,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "216",
   "icon": "assets/icons/tyrewise.png",
   "shots": [
@@ -132,10 +132,10 @@
    "assets/shots/tyrewise-2.jpg",
    "assets/shots/tyrewise-3.jpg"
   ],
-  "changed": 1790778440000,
+  "changed": 1792472530000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
-  "devices": 185,
-  "updates": 3
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "7565fe42-c64b-41f2-a3d5-bd76fba0cb9c",
@@ -216,7 +216,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 1,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "277",
   "icon": "assets/icons/flightplan.png",
   "shots": [
@@ -224,10 +224,10 @@
    "assets/shots/flightplan-2.jpg",
    "assets/shots/flightplan-3.jpg"
   ],
-  "changed": 1790779264000,
+  "changed": 1792472699000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
-  "devices": 185,
-  "updates": 3
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "ff34fbc8-34f5-4142-9065-16d6679c0fc3",
@@ -285,7 +285,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "220",
   "icon": "assets/icons/ramprate.png",
   "shots": [
@@ -293,10 +293,10 @@
    "assets/shots/ramprate-2.jpg",
    "assets/shots/ramprate-3.jpg"
   ],
-  "changed": 1791889906000,
+  "changed": 1792472786000,
   "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
-  "devices": 185,
-  "updates": 4
+  "devices": 189,
+  "updates": 5
  },
  {
   "id": "69d4b79a-b5d6-4a37-8f9b-7707ceb4197f",
@@ -308,7 +308,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "212",
   "icon": "assets/icons/codriver.png",
   "shots": [
@@ -316,10 +316,10 @@
    "assets/shots/codriver-2.jpg",
    "assets/shots/codriver-3.jpg"
   ],
-  "changed": 1790780378000,
+  "changed": 1792472878000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
-  "devices": 185,
-  "updates": 3
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "cb4f3814-039c-4fb7-ad01-98e20f74956e",
@@ -354,7 +354,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "205",
   "icon": "assets/icons/barkline.png",
   "shots": [
@@ -362,10 +362,10 @@
    "assets/shots/barkline-2.jpg",
    "assets/shots/barkline-3.jpg"
   ],
-  "changed": 1790781106000,
+  "changed": 1792472987000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
-  "devices": 185,
-  "updates": 3
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "f5f61163-c766-43a5-89e8-410d71cf4aab",
@@ -377,7 +377,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "208",
   "icon": "assets/icons/levain.png",
   "shots": [
@@ -385,10 +385,10 @@
    "assets/shots/levain-2.jpg",
    "assets/shots/levain-3.jpg"
   ],
-  "changed": 1790693837000,
-  "whatsnew": "Polish and fixes: damaged saved data no longer causes problems, autolyse timing is right when you mix now, bake times and the fermentation rate stay within sensible limits, dates more than 6 days ahead show correctly, and menu titles and the Preheat row fit on smaller screens.",
-  "devices": 185,
-  "updates": 2
+  "changed": 1792473077000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 3
  },
  {
   "id": "e7c692f7-286b-4bfe-87a7-0fad4600b857",
@@ -400,7 +400,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "213",
   "icon": "assets/icons/axle.png",
   "shots": [
@@ -408,10 +408,10 @@
    "assets/shots/axle-2.jpg",
    "assets/shots/axle-3.jpg"
   ],
-  "changed": 1790693919000,
-  "whatsnew": "Faster and sturdier: a full log now calculates in the background without freezing, damaged or oversized logs are cleaned up on load, entries stay in order if the clock is set back, and the large numbers no longer touch the page titles on smaller screens.",
-  "devices": 185,
-  "updates": 2
+  "changed": 1792473162000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 3
  },
  {
   "id": "3108f7d9-8050-4719-bdfa-1dcd5e6166fe",
@@ -423,7 +423,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "213",
   "icon": "assets/icons/tenstop.png",
   "shots": [
@@ -431,10 +431,10 @@
    "assets/shots/tenstop-2.jpg",
    "assets/shots/tenstop-3.jpg"
   ],
-  "changed": 1790781334000,
-  "whatsnew": "The glance moves on to the next golden or blue hour by itself, and ND shows \"1 stop\".",
-  "devices": 185,
-  "updates": 3
+  "changed": 1792473247000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "4d987198-57f0-4d6f-8d00-cefde548c048",
@@ -469,7 +469,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "219",
   "icon": "assets/icons/rolla.png",
   "shots": [
@@ -477,10 +477,10 @@
    "assets/shots/rolla-2.jpg",
    "assets/shots/rolla-3.jpg"
   ],
-  "changed": 1791850919000,
-  "whatsnew": "Fixed a crash when starting a Sport or Handbike session on older watches such as the fenix 5.",
-  "devices": 185,
-  "updates": 4
+  "changed": 1792473335000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 5
  },
  {
   "id": "9578be2b-1305-4d8b-9ace-70cd90b3a8fd",
@@ -492,7 +492,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "212",
   "icon": "assets/icons/oxer.png",
   "shots": [
@@ -500,10 +500,10 @@
    "assets/shots/oxer-2.jpg",
    "assets/shots/oxer-3.jpg"
   ],
-  "changed": 1791889815000,
-  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
-  "devices": 185,
-  "updates": 4
+  "changed": 1792473444000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 5
  },
  {
   "id": "85acf954-7675-4fcb-b5bc-1c4d07e0864f",
@@ -524,8 +524,8 @@
    "assets/shots/pilgrim-3.jpg"
   ],
   "changed": 1790782125000,
-  "whatsnew": "The glance now adds today's steps to your journey without opening the app, is aligned like other glances, and shows \"1 day left\".",
-  "devices": 185,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
   "updates": 3
  },
  {
@@ -547,7 +547,7 @@
    "assets/shots/gunter-3.jpg"
   ],
   "changed": 1790782633000,
-  "whatsnew": "Closing a long walked outline no longer stalls on older watches, and material amounts now say \"1 roll\" and \"1 horse\".",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
   "updates": 3
  },
@@ -745,7 +745,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "252",
   "icon": "assets/icons/flipturn.png",
   "shots": [
@@ -753,10 +753,10 @@
    "assets/shots/flipturn-2.jpg",
    "assets/shots/flipturn-3.jpg"
   ],
-  "changed": 1791205184000,
-  "whatsnew": "More robust with many lengths, odd pool settings and full FIT field slots, lower memory use and cleaner small layouts.",
+  "changed": 1792473702000,
+  "whatsnew": "Adds support for Enduro 4 and MARQ (Gen 3).",
   "devices": 199,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "11a0d867-85c0-4e47-bf20-e675259ed175",
@@ -791,7 +791,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "208",
   "icon": "assets/icons/muhurta.png",
   "shots": [
@@ -799,10 +799,10 @@
    "assets/shots/muhurta-2.jpg",
    "assets/shots/muhurta-3.jpg"
   ],
-  "changed": 1791205865000,
-  "whatsnew": "The glance now stays current for about a week: upcoming tithis and Rahu Kalam without opening the app.",
+  "changed": 1792473901000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 186,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "07a9433a-d6a4-40e4-a57f-7b53154037d9",
@@ -823,7 +823,7 @@
    "assets/shots/mooncake-3.jpg"
   ],
   "changed": 1791205872000,
-  "whatsnew": "Fixed the converter losing the chosen day while a year loads and capped the calendar cache so storage no longer fills up.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 186,
   "updates": 4
  },
@@ -846,7 +846,7 @@
    "assets/shots/cull-3.jpg"
   ],
   "changed": 1791205875000,
-  "whatsnew": "Clearing records now also updates the records list, and saved catches load more safely.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 186,
   "updates": 4
  },
@@ -869,7 +869,7 @@
    "assets/shots/leapload-3.jpg"
   ],
   "changed": 1791889713000,
-  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
   "updates": 6
  },
@@ -892,7 +892,7 @@
    "assets/shots/sixball-3.jpg"
   ],
   "changed": 1791205882000,
-  "whatsnew": "Faster scoring in long matches and safer storage limits.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 186,
   "updates": 3
  },
@@ -938,7 +938,7 @@
    "assets/shots/propwash-3.jpg"
   ],
   "changed": 1792423905000,
-  "whatsnew": "Fixes a crash on some watches when loading the weather.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 170,
   "updates": 5
  },
