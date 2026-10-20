@@ -1964,7 +1964,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.4",
+  "version": "1.1.5",
   "category": "208",
   "icon": "assets/icons/pawcast.png",
   "shots": [
@@ -1972,10 +1972,10 @@
    "assets/shots/pawcast-2.jpg",
    "assets/shots/pawcast-3.jpg"
   ],
-  "changed": 1791209770000,
+  "changed": 1792476935000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 133,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
@@ -2007,8 +2007,8 @@
   "desc": "Cyra keeps your cycle on the watch and lets you correct every day of it right there: the first day, the last day, the flow, a period logged by mistake. Change it and the forecast recalculates at once. The next period is shown as a window, not a single date, worked out from the median and spread of your last twelve cycles, and it says how many cycles it rests on.\n\nPhases are counted back from the expected next period, the way the luteal phase actually works, not forward from day 14. Each morning Cyra reads your night heart rate, stress and Body Battery from the watch's own history, compares them with what is usual for you in this phase, and suggests in plain words where hard work tends to suit you and where recovery may deserve more attention. A sustained rise in night temperature is used afterwards as an indication that the estimated phase was right.\n\nWHAT IT DOES\n- Today: cycle day, phase, days to the expected window and a one-line suggestion\n- Log in two or three taps: period started, period ended, flow, and six symptoms\n- Correct any day from the calendar ring, including the first day of the current and previous cycles; the model recomputes\n- Forecast as an 80 % window with the number of cycles it is based on; no forecast until three cycles are logged\n- History: cycle lengths with median and spread, and bleeding days per cycle\n- Night numbers versus your usual for this phase, and a training suggestion based on your own history\n- Night temperature or heart rate chart with the sustained rise marked, as an indication only\n- Patterns: which symptoms return on which cycle days, and how night heart rate and Body Battery shift before a period\n- Reminder a few days before the window, luteal length learned from your own data or set by hand\n- Glance with cycle day and phase, five languages\n\nWHAT IT NEEDS\n- Everything stays on the watch: no phone, no account, no internet\n- Connect IQ apps cannot read or write the cycle data in Garmin Connect, so Cyra keeps its own log\n- Night data needs the watch worn overnight; Connect IQ exposes no heart rate variability, so Garmin's stress value is used in its place\n- Phases and windows are estimates from your own history. Not for contraception, not a diagnosis, not medical advice\n\nKeywords: period tracker, menstrual cycle, menstruation, ovulation, cycle tracking, PMS, women's health, period calendar, cycle phases",
   "nl": "Cyra houdt je cyclus bij op het horloge en laat je elke dag ervan ter plekke corrigeren: de eerste dag, de laatste dag, de sterkte, een per ongeluk gelogde menstruatie. Pas het aan en de voorspelling rekent meteen opnieuw. De volgende menstruatie staat er als een venster, niet als één datum, berekend uit de mediaan en de spreiding van je laatste twaalf cycli, en er staat bij op hoeveel cycli dat rust.\n\nFases worden teruggerekend vanaf de verwachte volgende menstruatie, zoals de luteale fase echt werkt, en niet vooruit vanaf dag 14. Elke ochtend leest Cyra je nachthartslag, stress en Body Battery uit de eigen historie van het horloge, zet ze naast wat voor jou gewoon is in deze fase, en stelt in gewone taal voor waar zwaar werk doorgaans past en waar herstel meer aandacht mag krijgen. Een aanhoudende stijging van de nachttemperatuur dient achteraf als indicatie dat de geschatte fase klopte.\n\nWAT HET DOET\n- Vandaag: cyclusdag, fase, dagen tot het verwachte venster en één regel advies\n- Loggen in twee of drie tikken: menstruatie begonnen, geëindigd, sterkte en zes klachten\n- Elke dag corrigeren vanuit de kalenderring, ook de eerste dag van de huidige en de vorige cyclus; het model rekent opnieuw\n- Voorspelling als 80 %-venster met het aantal cycli waarop het rust; geen voorspelling vóór drie gelogde cycli\n- Geschiedenis: cycluslengtes met mediaan en spreiding, en bloedingsdagen per cyclus\n- Nachtwaarden tegenover jouw gewone in deze fase, en een trainingssuggestie op basis van je eigen historie\n- Grafiek van nachttemperatuur of hartslag met de aanhoudende stijging gemarkeerd, alleen als indicatie\n- Patronen: welke klachten op welke cyclusdagen terugkomen, en hoe nachthartslag en Body Battery verschuiven vóór een menstruatie\n- Herinnering een paar dagen voor het venster, luteale lengte geleerd uit je eigen data of zelf ingesteld\n- Glance met cyclusdag en fase, vijf talen\n\nWAT HET NODIG HEEFT\n- Alles blijft op het horloge: geen telefoon, geen account, geen internet\n- Connect IQ-apps kunnen de cyclusdata in Garmin Connect niet lezen of schrijven, dus Cyra houdt een eigen log bij\n- Nachtdata vraagt dat je het horloge 's nachts draagt; Connect IQ geeft geen hartslagvariabiliteit, dus Garmins stresswaarde wordt daarvoor gebruikt\n- Fases en vensters zijn schattingen uit je eigen historie. Niet geschikt als anticonceptie, geen diagnose, geen medisch advies\n\nZoekwoorden: menstruatie tracker, menstruatiecyclus, period tracker, ovulatie, cyclus bijhouden, PMS, vrouwengezondheid, menstruatiekalender, cyclusfases",
   "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
+  "rating": 3.0,
+  "reviews": 2,
   "downloads": 100,
   "version": "1.0.4",
   "category": "219",
@@ -2021,7 +2021,7 @@
    "assets/shots/cyra-5.jpg"
   ],
   "changed": 1792466390000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "You can now pick the start day directly (today, yesterday, two days ago or any earlier day), and choosing a day on the calendar is clearer.",
   "devices": 174,
   "updates": 7
  },
@@ -2149,7 +2149,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.2",
+  "version": "1.1.3",
   "category": "247",
   "icon": "assets/icons/kedge.png",
   "shots": [
@@ -2157,10 +2157,10 @@
    "assets/shots/kedge-2.jpg",
    "assets/shots/kedge-3.jpg"
   ],
-  "changed": 1791209804000,
+  "changed": 1792477330000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 175,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "f9151c72-b578-40df-af86-a2b9830b4b71",
@@ -2197,7 +2197,7 @@
   "rating": 4.8,
   "reviews": 4,
   "downloads": 10,
-  "version": "2.0.2",
+  "version": "2.0.3",
   "category": "206",
   "icon": "assets/icons/coglet.png",
   "shots": [
@@ -2206,10 +2206,10 @@
    "assets/shots/coglet-3.jpg",
    "assets/shots/coglet-4.jpg"
   ],
-  "changed": 1791210228000,
+  "changed": 1792477422000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "c867b0b4-932e-427f-9f15-c803d3c61b5e",
@@ -2221,7 +2221,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "206",
   "icon": "assets/icons/verdix.png",
   "shots": [
@@ -2231,10 +2231,10 @@
    "assets/shots/verdix-4.jpg",
    "assets/shots/verdix-5.jpg"
   ],
-  "changed": 1791210236000,
+  "changed": 1792477512000,
   "whatsnew": "The how-to-play pages now fit small round screens.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "12a9c39d-9abb-427d-9b9d-c548d880811b",
@@ -2246,7 +2246,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "category": "206",
   "icon": "assets/icons/pixara.png",
   "shots": [
@@ -2256,10 +2256,10 @@
    "assets/shots/pixara-4.jpg",
    "assets/shots/pixara-5.jpg"
   ],
-  "changed": 1791210241000,
+  "changed": 1792477598000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "a163fbe8-c744-4840-81b6-f303c0a2830d",
@@ -2321,7 +2321,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "206",
   "icon": "assets/icons/spire.png",
   "shots": [
@@ -2331,10 +2331,10 @@
    "assets/shots/spire-4.jpg",
    "assets/shots/spire-5.jpg"
   ],
-  "changed": 1790897312000,
+  "changed": 1792477684000,
   "whatsnew": "Adds support for MARQ (Gen 3) and Approach S72.",
   "devices": 62,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8",
@@ -2421,7 +2421,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "212",
   "icon": "assets/icons/cue.png",
   "shots": [
@@ -2431,10 +2431,10 @@
    "assets/shots/cue-4.jpg",
    "assets/shots/cue-5.jpg"
   ],
-  "changed": 1791211439000,
+  "changed": 1792477769000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "82b01416-0980-4085-aa72-3e05ffae990b",
@@ -2471,7 +2471,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "208",
   "icon": "assets/icons/pitstop.png",
   "shots": [
@@ -2481,10 +2481,10 @@
    "assets/shots/pitstop-4.jpg",
    "assets/shots/pitstop-5.jpg"
   ],
-  "changed": 1791211713000,
+  "changed": 1792477858000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "2ad8b993-d09c-4624-b4bc-60e07e97145c",
@@ -2521,7 +2521,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "212",
   "icon": "assets/icons/strike.png",
   "shots": [
@@ -2531,10 +2531,10 @@
    "assets/shots/strike-4.jpg",
    "assets/shots/strike-5.jpg"
   ],
-  "changed": 1791212063000,
+  "changed": 1792477958000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 167,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "7b530ce0-2510-4669-b06e-abc0b2448567",
@@ -2546,7 +2546,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.8",
+  "version": "1.0.9",
   "category": "204",
   "icon": "assets/icons/spent.png",
   "shots": [
@@ -2556,10 +2556,10 @@
    "assets/shots/spent-4.jpg",
    "assets/shots/spent-5.jpg"
   ],
-  "changed": 1791612590000,
+  "changed": 1792478039000,
   "whatsnew": "Adds support for MARQ (Gen 3) and Approach S72.",
   "devices": 59,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "acf0e837-8f06-42c0-a1b7-62275ac792fc",
@@ -2596,7 +2596,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "206",
   "icon": "assets/icons/zeitnot.png",
   "shots": [
@@ -2606,10 +2606,10 @@
    "assets/shots/zeitnot-4.jpg",
    "assets/shots/zeitnot-5.jpg"
   ],
-  "changed": 1790879785000,
+  "changed": 1792478118000,
   "whatsnew": "Adds support for MARQ (Gen 3) and Approach S72.",
   "devices": 59,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "fafc6449-5b85-45fb-96f6-0ed5151663f2",
