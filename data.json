@@ -55,7 +55,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "219",
   "icon": "assets/icons/nappr.png",
   "shots": [
@@ -63,10 +63,10 @@
    "assets/shots/nappr-2.jpg",
    "assets/shots/nappr-3.jpg"
   ],
-  "changed": 1790777960000,
-  "whatsnew": "The glance now counts this week's naps correctly even when the app hasn't been opened.",
-  "devices": 185,
-  "updates": 3
+  "changed": 1792429283000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "2d0cc53e-6856-4a02-819b-399f9ac29fb5",
@@ -147,7 +147,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "277",
   "icon": "assets/icons/laddr.png",
   "shots": [
@@ -155,10 +155,10 @@
    "assets/shots/laddr-2.jpg",
    "assets/shots/laddr-3.jpg"
   ],
-  "changed": 1790778622000,
-  "whatsnew": "The glance now shows the right day (training or rest) and streak even when the app hasn't been opened.",
-  "devices": 185,
-  "updates": 3
+  "changed": 1792429586000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "887525cf-b0c0-42ea-85f9-1acb25b29120",
@@ -193,7 +193,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "212",
   "icon": "assets/icons/nockpoint.png",
   "shots": [
@@ -201,10 +201,10 @@
    "assets/shots/nockpoint-2.jpg",
    "assets/shots/nockpoint-3.jpg"
   ],
-  "changed": 1790778920000,
-  "whatsnew": "The pause menu now says \"1 arrow\" after a single arrow.",
-  "devices": 185,
-  "updates": 3
+  "changed": 1792429759000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "95f77174-4fa4-4dc9-8e83-c3dbeaf738a7",
@@ -239,7 +239,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "219",
   "icon": "assets/icons/oneira.png",
   "shots": [
@@ -247,10 +247,10 @@
    "assets/shots/oneira-2.jpg",
    "assets/shots/oneira-3.jpg"
   ],
-  "changed": 1791613627000,
-  "whatsnew": "More reliable heart rate during the night on newer watches.",
-  "devices": 185,
-  "updates": 4
+  "changed": 1792429906000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 5
  },
  {
   "id": "2a619a51-4b35-4758-ad6a-1ed2bfa3a518",
@@ -262,7 +262,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "219",
   "icon": "assets/icons/agewise.png",
   "shots": [
@@ -270,10 +270,10 @@
    "assets/shots/agewise-2.jpg",
    "assets/shots/agewise-3.jpg"
   ],
-  "changed": 1790779561000,
-  "whatsnew": "The glance keeps your age current after New Year, and the main screen now says \"1 yr\" and \"1 test\".",
-  "devices": 185,
-  "updates": 3
+  "changed": 1792430036000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "1362d0ac-78fb-4192-a1d4-e6f48a85b4cf",
@@ -331,7 +331,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "206",
   "icon": "assets/icons/fianchetto.png",
   "shots": [
@@ -339,10 +339,10 @@
    "assets/shots/fianchetto-2.jpg",
    "assets/shots/fianchetto-3.jpg"
   ],
-  "changed": 1790780883000,
-  "whatsnew": "The glance now drops a broken daily streak without opening the app.",
-  "devices": 185,
-  "updates": 3
+  "changed": 1792463891000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "62d65758-ee78-44b7-968f-2490455dead8",
@@ -455,7 +455,7 @@
    "assets/shots/vagal-3.jpg"
   ],
   "changed": 1791288951000,
-  "whatsnew": "Reads the same heart rate your watch face shows when beat data is missing, so newer watches like Venu 4 no longer show No heart rate.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 182,
   "updates": 6
  },
@@ -537,7 +537,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.2",
   "category": "213",
   "icon": "assets/icons/gunter.png",
@@ -570,7 +570,7 @@
    "assets/shots/lanedeck-3.jpg"
   ],
   "changed": 1792070538000,
-  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
+  "whatsnew": "Adds support for Enduro 4 and MARQ (Gen 3).",
   "devices": 196,
   "updates": 3
  },
@@ -593,7 +593,7 @@
    "assets/shots/paddledeck-3.jpg"
   ],
   "changed": 1792070669000,
-  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
+  "whatsnew": "Adds support for Enduro 4 and MARQ (Gen 3).",
   "devices": 206,
   "updates": 4
  },
@@ -616,7 +616,7 @@
    "assets/shots/trekdeck-3.jpg"
   ],
   "changed": 1792070411000,
-  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
+  "whatsnew": "Adds support for Enduro 4 and MARQ (Gen 3).",
   "devices": 228,
   "updates": 3
  },
@@ -639,7 +639,7 @@
    "assets/shots/pedaldeck-3.jpg"
   ],
   "changed": 1792070266000,
-  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
+  "whatsnew": "Adds support for Enduro 4 and MARQ (Gen 3).",
   "devices": 223,
   "updates": 3
  },
@@ -662,7 +662,7 @@
    "assets/shots/stridedeck-3.jpg"
   ],
   "changed": 1792070141000,
-  "whatsnew": "Fixes a crash on watches without a power field, such as the Venu 2 series.",
+  "whatsnew": "Adds support for Enduro 4 and MARQ (Gen 3).",
   "devices": 196,
   "updates": 5
  },
@@ -1157,7 +1157,7 @@
   "nl": "Stillpoint vertelt je of je rustig genoeg bent voor een bloeddrukmeting, en zo niet, hoeveel minuten je nog moet wachten en waarom. Het leest je recente hartslag van het horloge, vergelijkt niveau, verloop en stabiliteit met je eigen zit-basislijn en kijkt of je het afgelopen halfuur inspanning had. In plaats van een vaste \"wacht 40 minuten\" krijg je een getal dat kleiner wordt naarmate je pols tot rust komt, met de reden erbij: recente inspanning, pols stijgt nog, pols boven je zitniveau, of gewoon nog even zitten.\n\nEen begeleide rust van vijf minuten met een ademcirkel loopt direct door naar het invoeren van je metingen. Waarden beginnen bij je eigen laatste meting, niet bij 120/80, en verander je met een tik of een veeg. Tussen de metingen loopt een timer van één minuut, en een derde meting wordt voorgesteld als de eerste twee verschillen. Het zevendaagse thuisprotocol (ochtend en avond, dag 1 telt niet mee) vult zich vanzelf en geeft een gemiddelde met de categorie uit de ESH- of AHA-tabel, alleen ter referentie.\n\nWHAT IT DOES\n- Rustcheck: nu meten, of wacht X min met de reden, uit niveau, helling en spreiding van je hartslag\n- Leert je eigen zithartslag uit de sessies die je invoert\n- Begeleide rust van 3, 5 of 10 minuten met instelbaar ademtempo\n- Snelle invoer van boven-, onderdruk en pols, vanaf je laatste waarden\n- Timer van één minuut tussen metingen en een seintje voor een derde meting bij meer dan 10 verschil\n- Zevendaags thuisprotocol met een voortgangsraster van 14 vakjes en het gemiddelde van dag 2 tot en met 7\n- Categorie uit de ESH 2023- of AHA 2017-tabel, duidelijk als referentie\n- Trend van je laatste sessies, verschil met de week ervoor, en ochtend tegenover avond\n- Sessielog met wissen, vijf talen en een glance met protocolvoortgang\n\nWHAT IT NEEDS\n- Een bloeddrukmeter; Stillpoint meet zelf geen bloeddruk\n- Polshartslag aan\n- Stillpoint is geen medisch hulpmiddel en stelt geen diagnose; bespreek je waarden met je arts",
   "type": "2",
   "rating": 5.0,
-  "reviews": 2,
+  "reviews": 1,
   "downloads": 100,
   "version": "1.0.3",
   "category": "219",
@@ -1434,7 +1434,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.1.3",
   "category": "210",
   "icon": "assets/icons/coil.png",
@@ -2941,17 +2941,17 @@
   "rating": 4.6,
   "reviews": 9,
   "downloads": 100,
-  "version": "1.5.1",
+  "version": "1.5.2",
   "category": "271",
   "icon": "assets/icons/wordclock.png",
   "shots": [
    "assets/shots/wordclock-1.jpg",
    "assets/shots/wordclock-2.jpg"
   ],
-  "changed": 1791219193000,
+  "changed": 1792424224000,
   "whatsnew": "Cleaner letter spacing and the bottom text size setting works again.",
   "devices": 162,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "fa5c4134-fea5-4f57-b6ae-9c86facad9a2",
