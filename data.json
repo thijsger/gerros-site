@@ -1366,7 +1366,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.3",
+  "version": "1.1.4",
   "category": "208",
   "icon": "assets/icons/stand.png",
   "shots": [
@@ -1374,10 +1374,10 @@
    "assets/shots/stand-2.jpg",
    "assets/shots/stand-3.jpg"
   ],
-  "changed": 1791206788000,
+  "changed": 1792475503000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "9a0b092a-a668-4d54-8535-10f9693d6d43",
@@ -1573,7 +1573,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.3",
+  "version": "1.1.4",
   "category": "277",
   "icon": "assets/icons/plates.png",
   "shots": [
@@ -1581,10 +1581,10 @@
    "assets/shots/plates-2.jpg",
    "assets/shots/plates-3.jpg"
   ],
-  "changed": 1791207959000,
+  "changed": 1792475989000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "ae16ee36-8dde-4387-a461-3e4af1140b2c",
@@ -1711,7 +1711,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "256",
   "icon": "assets/icons/nocto.png",
   "shots": [
@@ -1719,10 +1719,10 @@
    "assets/shots/nocto-2.jpg",
    "assets/shots/nocto-3.jpg"
   ],
-  "changed": 1791208066000,
+  "changed": 1792476290000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "b43550ab-a12a-404d-a293-31643dc23f54",
@@ -1734,7 +1734,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.2.3",
+  "version": "1.2.4",
   "category": "213",
   "icon": "assets/icons/beam.png",
   "shots": [
@@ -1742,10 +1742,10 @@
    "assets/shots/beam-2.jpg",
    "assets/shots/beam-3.jpg"
   ],
-  "changed": 1791208073000,
+  "changed": 1792476378000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "acb6e144-0df2-4a0a-9860-80536e1359d2",
@@ -1766,7 +1766,7 @@
    "assets/shots/crimpa-3.jpg"
   ],
   "changed": 1791208724000,
-  "whatsnew": "Edge depth now works the right way round (a smaller edge gives a lighter target load), history counts days by calendar date, and the body weight row is no longer cut off.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 175,
   "updates": 6
  },
@@ -1826,7 +1826,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "219",
   "icon": "assets/icons/toca.png",
   "shots": [
@@ -1834,10 +1834,10 @@
    "assets/shots/toca-2.jpg",
    "assets/shots/toca-3.jpg"
   ],
-  "changed": 1791208731000,
-  "whatsnew": "The glance no longer shows a forgotten contraction as running forever.",
+  "changed": 1792476555000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 175,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "7de7bf20-ab54-4cab-ab64-7f2ba735c35a",
@@ -1849,7 +1849,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "208",
   "icon": "assets/icons/bitewell.png",
   "shots": [
@@ -1857,10 +1857,10 @@
    "assets/shots/bitewell-2.jpg",
    "assets/shots/bitewell-3.jpg"
   ],
-  "changed": 1791208736000,
-  "whatsnew": "The glance now counts down to the next major window all week, even with reminders off and without opening the app.",
+  "changed": 1792476642000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 175,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "b5ba81df-5b6d-4de8-b94f-3c26519b2730",
@@ -1918,7 +1918,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.3",
+  "version": "1.1.4",
   "category": "213",
   "icon": "assets/icons/cutwise.png",
   "shots": [
@@ -1926,10 +1926,10 @@
    "assets/shots/cutwise-2.jpg",
    "assets/shots/cutwise-3.jpg"
   ],
-  "changed": 1791209763000,
-  "whatsnew": "Large sheet plans now finish and save reliably on older watches.",
+  "changed": 1792476758000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
@@ -1941,7 +1941,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 1,
-  "version": "1.1.4",
+  "version": "1.1.5",
   "category": "205",
   "icon": "assets/icons/platewise.png",
   "shots": [
@@ -1949,10 +1949,10 @@
    "assets/shots/platewise-2.jpg",
    "assets/shots/platewise-3.jpg"
   ],
-  "changed": 1791209767000,
-  "whatsnew": "Steadier glance and reminders with large meals.",
+  "changed": 1792476846000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 167,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
@@ -1973,7 +1973,7 @@
    "assets/shots/pawcast-3.jpg"
   ],
   "changed": 1791209770000,
-  "whatsnew": "The glance now refreshes itself every 15 minutes with the latest weather, so it stays current without opening the app, and a walk with one break shows \"1 break\" instead of \"1 breaks\".",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 133,
   "updates": 7
  },
@@ -1996,7 +1996,7 @@
    "assets/shots/halflight-3.jpg"
   ],
   "changed": 1791209773000,
-  "whatsnew": "The glance now shows today's last light even when you haven't opened the app for days.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 168,
   "updates": 6
  },
@@ -2058,7 +2058,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.2.1",
+  "version": "1.2.2",
   "category": "219",
   "icon": "assets/icons/flexa.png",
   "shots": [
@@ -2066,10 +2066,10 @@
    "assets/shots/flexa-2.jpg",
    "assets/shots/flexa-3.jpg"
   ],
-  "changed": 1791209777000,
-  "whatsnew": "Measurements are now grouped by your local calendar day, and long setup instructions no longer overlap the side label.",
+  "changed": 1792477113000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1",
@@ -2081,17 +2081,17 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.3",
+  "version": "1.1.4",
   "category": "213",
   "icon": "assets/icons/cadenzo.png",
   "shots": [
    "assets/shots/cadenzo-1.jpg",
    "assets/shots/cadenzo-2.jpg"
   ],
-  "changed": 1791209780000,
-  "whatsnew": "The glance now shows which piece to start with today, even when the app has not been opened for days.",
+  "changed": 1792477201000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
@@ -2158,7 +2158,7 @@
    "assets/shots/kedge-3.jpg"
   ],
   "changed": 1791209804000,
-  "whatsnew": "The anchor watch keeps warning about lost GPS while a menu is open, remembers the widest swing even if the app stops, and the bottom line with radius and time no longer runs off the edge on smaller screens.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 175,
   "updates": 5
  },
