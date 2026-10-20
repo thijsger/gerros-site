@@ -515,7 +515,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "222",
   "icon": "assets/icons/pilgrim.png",
   "shots": [
@@ -523,10 +523,10 @@
    "assets/shots/pilgrim-2.jpg",
    "assets/shots/pilgrim-3.jpg"
   ],
-  "changed": 1790782125000,
+  "changed": 1792473529000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 189,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "ea4f394d-a16c-4eb5-89b8-22e459fffc02",
@@ -538,7 +538,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "213",
   "icon": "assets/icons/gunter.png",
   "shots": [
@@ -546,10 +546,10 @@
    "assets/shots/gunter-2.jpg",
    "assets/shots/gunter-3.jpg"
   ],
-  "changed": 1790782633000,
+  "changed": 1792473613000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
-  "devices": 185,
-  "updates": 3
+  "devices": 189,
+  "updates": 4
  },
  {
   "id": "e9c55f30-2b87-4b36-91c9-683436315e43",
@@ -768,7 +768,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "208",
   "icon": "assets/icons/trailmix.png",
   "shots": [
@@ -776,10 +776,10 @@
    "assets/shots/trailmix-2.jpg",
    "assets/shots/trailmix-3.jpg"
   ],
-  "changed": 1791205860000,
+  "changed": 1792473790000,
   "whatsnew": "Correcting your food no longer resets your position or pace, and the glance now counts down the days to your next resupply without opening the app.",
   "devices": 186,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "97598093-b2dc-46eb-9921-49c223ae648c",
@@ -814,7 +814,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "208",
   "icon": "assets/icons/mooncake.png",
   "shots": [
@@ -822,10 +822,10 @@
    "assets/shots/mooncake-2.jpg",
    "assets/shots/mooncake-3.jpg"
   ],
-  "changed": 1791205872000,
+  "changed": 1792473993000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 186,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "a46b792b-4814-4043-8eb4-063a5e17d00f",
@@ -837,7 +837,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "212",
   "icon": "assets/icons/cull.png",
   "shots": [
@@ -845,10 +845,10 @@
    "assets/shots/cull-2.jpg",
    "assets/shots/cull-3.jpg"
   ],
-  "changed": 1791205875000,
+  "changed": 1792474089000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 186,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "7d5ab78f-706c-4b69-92af-e09e7c6e8846",
@@ -860,7 +860,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "212",
   "icon": "assets/icons/leapload.png",
   "shots": [
@@ -868,10 +868,10 @@
    "assets/shots/leapload-2.jpg",
    "assets/shots/leapload-3.jpg"
   ],
-  "changed": 1791889713000,
+  "changed": 1792474184000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "a964a4a1-5f3c-4cf4-8a8a-d7da97c5b9ca",
@@ -883,7 +883,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "212",
   "icon": "assets/icons/sixball.png",
   "shots": [
@@ -891,10 +891,10 @@
    "assets/shots/sixball-2.jpg",
    "assets/shots/sixball-3.jpg"
   ],
-  "changed": 1791205882000,
+  "changed": 1792474273000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 186,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "f1441bd8-cc0f-44ce-9ae2-2295827405c0",
@@ -929,7 +929,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "213",
   "icon": "assets/icons/propwash.png",
   "shots": [
@@ -937,10 +937,10 @@
    "assets/shots/propwash-2.jpg",
    "assets/shots/propwash-3.jpg"
   ],
-  "changed": 1792423905000,
+  "changed": 1792474396000,
   "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 170,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "2bf457d8-1a2e-4cf0-8248-5d8e862d3da0",
@@ -952,7 +952,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "213",
   "icon": "assets/icons/meridia.png",
   "shots": [
@@ -960,10 +960,10 @@
    "assets/shots/meridia-2.jpg",
    "assets/shots/meridia-3.jpg"
   ],
-  "changed": 1791205889000,
+  "changed": 1792474491000,
   "whatsnew": "The menu icon on the last page shows where to open settings, and durations and clock-change hints read correctly in every language.",
   "devices": 161,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "f4c1c1f5-dc19-4546-9b17-726765b5367f",
@@ -1099,7 +1099,7 @@
    "assets/shots/driftline-3.jpg"
   ],
   "changed": 1791889454000,
-  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
   "updates": 6
  },
@@ -1113,7 +1113,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "212",
   "icon": "assets/icons/balk.png",
   "shots": [
@@ -1121,10 +1121,10 @@
    "assets/shots/balk-2.jpg",
    "assets/shots/balk-3.jpg"
   ],
-  "changed": 1791205896000,
-  "whatsnew": "Undo stays exact in long games, stored data is more robust and a full rest calendar no longer runs out of memory.",
+  "changed": 1792474682000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "302b820a-8d92-43da-a970-67e8a39ad759",
@@ -1182,7 +1182,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "219",
   "icon": "assets/icons/burnpoint.png",
   "shots": [
@@ -1190,10 +1190,10 @@
    "assets/shots/burnpoint-2.jpg",
    "assets/shots/burnpoint-3.jpg"
   ],
-  "changed": 1791889309000,
-  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
+  "changed": 1792474891000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "0b2a7a49-a924-4583-8e5e-62668829d6dc",
@@ -1205,7 +1205,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "213",
   "icon": "assets/icons/greyline.png",
   "shots": [
@@ -1213,10 +1213,10 @@
    "assets/shots/greyline-2.jpg",
    "assets/shots/greyline-3.jpg"
   ],
-  "changed": 1791205927000,
-  "whatsnew": "The glance QSO count now resets at 00:00 UTC, just like in the app.",
+  "changed": 1792474982000,
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "32407a88-858a-4e07-8025-2723e8850525",
@@ -1237,7 +1237,7 @@
    "assets/shots/ninety-3.jpg"
   ],
   "changed": 1791205931000,
-  "whatsnew": "The glance now stays accurate for 30 days without opening the app.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
   "updates": 4
  },
@@ -1260,7 +1260,7 @@
    "assets/shots/kickwax-3.jpg"
   ],
   "changed": 1791205935000,
-  "whatsnew": "The glance no longer shows yesterday's wax; weather-based advice expires after your race window.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
   "updates": 5
  },
@@ -1283,7 +1283,7 @@
    "assets/shots/swelt-3.jpg"
   ],
   "changed": 1791890139000,
-  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 178,
   "updates": 6
  },
@@ -1329,7 +1329,7 @@
    "assets/shots/marks-3.jpg"
   ],
   "changed": 1791206652000,
-  "whatsnew": "Saved bows and courses are now checked and repaired on load, so older data can no longer confuse the sight marks.",
+  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
   "devices": 185,
   "updates": 5
  },
