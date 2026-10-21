@@ -1605,7 +1605,7 @@
    "assets/shots/splitr-3.jpg"
   ],
   "changed": 1792466600000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Adds support for CARE rowing machines (e.g. Jet 600) using CARE's own Bluetooth protocol, with resistance set from the watch.",
   "devices": 178,
   "updates": 12
  },
