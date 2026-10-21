@@ -1596,7 +1596,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.6.2",
+  "version": "1.6.3",
   "category": "219",
   "icon": "assets/icons/splitr.png",
   "shots": [
@@ -1604,10 +1604,10 @@
    "assets/shots/splitr-2.jpg",
    "assets/shots/splitr-3.jpg"
   ],
-  "changed": 1792466600000,
+  "changed": 1792589938000,
   "whatsnew": "Adds support for CARE rowing machines (e.g. Jet 600) using CARE's own Bluetooth protocol, with resistance set from the watch.",
   "devices": 178,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "d5b404a4-cf14-40f6-a12f-e672e607f36c",
