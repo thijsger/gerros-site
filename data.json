@@ -2010,7 +2010,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "219",
   "icon": "assets/icons/cyra.png",
   "shots": [
@@ -2020,10 +2020,10 @@
    "assets/shots/cyra-4.jpg",
    "assets/shots/cyra-5.jpg"
   ],
-  "changed": 1792466390000,
+  "changed": 1792511059000,
   "whatsnew": "You can now pick the start day directly (today, yesterday, two days ago or any earlier day), and choosing a day on the calendar is clearer.",
   "devices": 174,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
