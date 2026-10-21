@@ -2973,7 +2973,7 @@
    "assets/shots/spotsave-4.jpg"
   ],
   "changed": 1792471811000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "More accurate saved spots: the app now uses all satellite systems, waits a few seconds for a good GPS fix before saving, and the arrow no longer jumps at walking pace.",
   "devices": 178,
   "updates": 15
  },
@@ -2997,7 +2997,7 @@
    "assets/shots/redline-4.jpg"
   ],
   "changed": 1792471861000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Sharper, correctly sized text on Instinct 3 AMOLED and other watches, plus a new setting to show the battery as a percentage.",
   "devices": 59,
   "updates": 10
  },
