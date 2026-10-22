@@ -259,7 +259,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 1,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "216",
   "icon": "assets/icons/spinroom.png",
   "shots": [
@@ -269,10 +269,10 @@
    "assets/shots/spinroom-4.jpg",
    "assets/shots/spinroom-5.jpg"
   ],
-  "changed": 1790965549000,
-  "whatsnew": "Spinroom now reads watts and cadence from a power meter or bike that is paired with your watch (ANT+ or Bluetooth), so you no longer have to type them in.",
+  "changed": 1792637740000,
+  "whatsnew": "New connect screen: choose \"Ride with power meter\", see the watts and cadence come in from your paired bike, then start when you are ready.",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "907a1718-bebc-42f4-abbc-5312c6c7a0b5",
