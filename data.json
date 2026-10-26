@@ -1636,7 +1636,7 @@
   "rating": 3.8,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.0.6",
+  "version": "1.1.0",
   "category": "219",
   "icon": "assets/icons/vagal.png",
   "shots": [
@@ -1644,10 +1644,10 @@
    "assets/shots/vagal-2.jpg",
    "assets/shots/vagal-3.jpg"
   ],
-  "changed": 1792464090000,
+  "changed": 1792982297000,
   "whatsnew": "Resonance test: choose descending, ascending or random order, a 60 s warm-up at 6.0, a close-call hint, and a new confirmation test that compares your best two rates in ABBA order and sets the winner as your breath rate.",
   "devices": 186,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "703a9bcc-7034-4447-9105-8ed408166a64",
@@ -2694,7 +2694,7 @@
   "rating": 3.5,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.1.4",
+  "version": "1.1.5",
   "category": "219",
   "icon": "assets/icons/baseline.png",
   "shots": [
@@ -2702,10 +2702,10 @@
    "assets/shots/baseline-2.jpg",
    "assets/shots/baseline-3.jpg"
   ],
-  "changed": 1792466291000,
+  "changed": 1792981935000,
   "whatsnew": "Each signal now shows its status: collecting, not on this watch, or a setting to turn on, and the sleep estimate no longer resets on short heart-rate spikes.",
   "devices": 185,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "0c2e5921-af6d-47e7-bf91-3a4899a2a752",
@@ -3884,7 +3884,7 @@
   "rating": 4.5,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.4.2",
+  "version": "1.5.0",
   "category": "213",
   "icon": "assets/icons/remindersplus.png",
   "shots": [
@@ -3893,10 +3893,10 @@
    "assets/shots/remindersplus-3.jpg",
    "assets/shots/remindersplus-4.jpg"
   ],
-  "changed": 1792468311000,
-  "whatsnew": "New Alerts settings: repeat until opened, an open-app alert that stays on screen until tapped, and short, long or extra long vibration.",
+  "changed": 1792982135000,
+  "whatsnew": "One tap on the reminder screen marks the reminder done; back means later.",
   "devices": 63,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "9f23b16c-4816-43e4-b467-8aac293d0d31",
