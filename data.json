@@ -215,7 +215,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "206",
   "icon": "assets/icons/dicewise.png",
@@ -238,7 +238,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "219",
   "icon": "assets/icons/ebbcast.png",
@@ -399,7 +399,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.2",
   "category": "206",
   "icon": "assets/icons/poker.png",
@@ -422,7 +422,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "2.0.2",
   "category": "206",
   "icon": "assets/icons/reelix.png",
@@ -445,7 +445,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.1",
   "category": "277",
   "icon": "assets/icons/anvil.png",
@@ -468,7 +468,7 @@
   "type": "1",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "172",
   "icon": "assets/icons/tickdown.png",
@@ -491,7 +491,7 @@
   "type": "1",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "272",
   "icon": "assets/icons/zonestack.png",
@@ -724,7 +724,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 1,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "213",
   "icon": "assets/icons/curetime.png",
   "shots": [
@@ -734,10 +734,10 @@
    "assets/shots/curetime-4.jpg",
    "assets/shots/curetime-5.jpg"
   ],
-  "changed": 1791033929000,
+  "changed": 1792861879000,
   "whatsnew": "New: a notification at the calculated moment for finishing, saw-cutting or stripping the formwork, even with the app closed (toggle in the menu).",
   "devices": 140,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "1697aae3-8aa7-4a80-8a93-66d0e00869b2",
@@ -849,7 +849,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 1,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "213",
   "icon": "assets/icons/nightcheck.png",
   "shots": [
@@ -859,10 +859,10 @@
    "assets/shots/nightcheck-4.jpg",
    "assets/shots/nightcheck-5.jpg"
   ],
-  "changed": 1790986839000,
+  "changed": 1792861794000,
   "whatsnew": "New: alerts at each birth-clock check moment while the app is closed, with up to 3 repeats (Alert when closed, on by default).",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "5ee83639-5bf8-4139-95f9-4474773fbdca",
@@ -873,8 +873,8 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
-  "version": "1.0.0",
+  "downloads": 10,
+  "version": "1.1.0",
   "category": "257",
   "icon": "assets/icons/recite.png",
   "shots": [
@@ -884,10 +884,10 @@
    "assets/shots/recite-4.jpg",
    "assets/shots/recite-5.jpg"
   ],
-  "changed": 1790985537000,
+  "changed": 1792862012000,
   "whatsnew": "New: an optional daily reminder to review your verses, at a time you choose (Daily reminder in the settings).",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "5130c288-b013-451b-bc83-dd37f1641ae2",
@@ -1074,7 +1074,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 1,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "212",
   "icon": "assets/icons/hookset.png",
   "shots": [
@@ -1084,10 +1084,10 @@
    "assets/shots/hookset-4.jpg",
    "assets/shots/hookset-5.jpg"
   ],
-  "changed": 1790959305000,
+  "changed": 1792861624000,
   "whatsnew": "New: a notification 20 minutes before the best 2-hour fishing window of the next 24 hours, even with the app closed (can be turned off in the menu).",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "1fe84173-cf88-41b3-97ac-2136243f5d8a",
@@ -1645,7 +1645,7 @@
    "assets/shots/vagal-3.jpg"
   ],
   "changed": 1792464090000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Resonance test: choose descending, ascending or random order, a 60 s warm-up at 6.0, a close-call hint, and a new confirmation test that compares your best two rates in ABBA order and sets the winner as your breath rate.",
   "devices": 186,
   "updates": 7
  },
@@ -2703,7 +2703,7 @@
    "assets/shots/baseline-3.jpg"
   ],
   "changed": 1792466291000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Each signal now shows its status: collecting, not on this watch, or a setting to turn on, and the sleep estimate no longer resets on short heart-rate spikes.",
   "devices": 185,
   "updates": 6
  },
@@ -3894,7 +3894,7 @@
    "assets/shots/remindersplus-4.jpg"
   ],
   "changed": 1792468311000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "New Alerts settings: repeat until opened, an open-app alert that stays on screen until tapped, and short, long or extra long vibration.",
   "devices": 63,
   "updates": 10
  },
@@ -3908,7 +3908,7 @@
   "rating": 4.3,
   "reviews": 8,
   "downloads": 100,
-  "version": "1.5.2",
+  "version": "1.5.3",
   "category": "213",
   "icon": "assets/icons/speedometer-pro.png",
   "shots": [
@@ -3918,10 +3918,10 @@
    "assets/shots/speedometer-pro-4.jpg",
    "assets/shots/speedometer-pro-5.jpg"
   ],
-  "changed": 1792468364000,
+  "changed": 1792861375000,
   "whatsnew": "Speedometer Pro now has a glance showing your last trip's best speed, so it's always easy to find in the glance loop.",
   "devices": 178,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "be12dc0d-65b0-46e8-be2e-7677289ca9fe",
