@@ -98,8 +98,8 @@
   "desc": "Lunette shows the Moon as it is right now. The phase is calculated on the watch from the positions of the Moon and the Sun, with a soft shadow line, the dark side faintly lit by earthshine and the seas drawn where they really are. In the sky setting the Moon is tilted the way you see it from where you stand, so in the southern hemisphere and near the equator it turns the way it does above you.\n\nAround the face runs a thin moon ring: the current lunar cycle from new moon at the top, clockwise to the next new moon, with the first quarter, full moon and last quarter marked at their actual times and a dot for now. Turn your wrist and the shadow line slides from yesterday's phase to today's. It works without a phone, a server or an account.\n\nWHAT IT DOES\n- Moon phase with illuminated fraction, calculated with published astronomical formulas (Meeus), with a soft terminator and earthshine on crescents\n- Sky orientation (tilt as seen from your location) or upright, with automatic northern or southern hemisphere\n- Moon ring with the lunar cycle and the four main phases at their real moments\n- Bottom line of your choice: phase name and percentage, next main phase with day and time, moonrise and moonset, day of the lunar cycle, or nothing\n- Silver, gold or ice moon; earthshine, ring and wrist-turn animation can each be switched off; 12 or 24 hour time\n- Its own look on MIP screens (fenix, Forerunner) with dithered shading, and a minimal always-on mode on AMOLED\n\nWHAT IT NEEDS\n- A supported Garmin watch; settings on the watch (long press on the watch face) or in the Connect app\n- For sky orientation and moonrise/moonset: a recent location from weather or an activity; without it the Moon is shown upright",
   "nl": "Lunette laat de maan zien zoals die nu staat. De fase wordt op het horloge berekend uit de stand van maan en zon, met een zachte schaduwgrens, de donkere kant zwak verlicht door aardschijn en de maria op hun echte plek. In de hemelstand staat de maan gekanteld zoals jij hem ziet vanaf waar je bent, dus op het zuidelijk halfrond en rond de evenaar draait hij zoals boven jou.\n\nRondom loopt een dunne maanring: de lopende maancyclus van nieuwe maan bovenaan, met de klok mee tot de volgende nieuwe maan, met eerste kwartier, volle maan en laatste kwartier op hun echte moment en een stip voor nu. Draai je pols en de schaduwgrens schuift van de stand van gisteren naar vandaag. Werkt zonder telefoon, server of account.\n\nWAT HIJ DOET\n- Maanfase met verlicht percentage, berekend met gepubliceerde astronomische formules (Meeus), met zachte schaduwgrens en aardschijn bij een sikkel\n- Hemelstand (kanteling zoals vanaf jouw plek) of rechtop, met automatisch noordelijk of zuidelijk halfrond\n- Maanring met de maancyclus en de vier hoofdfasen op hun echte moment\n- Onderregel naar keuze: fasenaam en percentage, volgende hoofdfase met dag en tijd, maan op en onder, dag in de cyclus, of niets\n- Zilveren, gouden of ijsblauwe maan; aardschijn, ring en polsdraai-animatie los uit te zetten; 12- of 24-uursklok\n- Eigen uitvoering op MIP-schermen (fenix, Forerunner) met geditherde schaduw, en een minimale always-on-stand op AMOLED\n\nWAT HIJ NODIG HEEFT\n- Een ondersteund Garmin-horloge; instellingen op het horloge (lang drukken op de wijzerplaat) of in de Connect-app\n- Voor de hemelstand en maan op/onder: een recente locatie uit het weer of een activiteit; zonder locatie staat de maan rechtop",
   "type": "1",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 10,
   "version": "1.0.0",
   "category": "270",
@@ -146,7 +146,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "220",
   "icon": "assets/icons/thresh.png",
@@ -178,10 +178,10 @@
    "assets/shots/hushwait-2.jpg",
    "assets/shots/hushwait-3.jpg"
   ],
-  "changed": 1791923711000,
+  "changed": 1793201839000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "4e941306-ac48-4555-adc7-eb088e04a1af",
@@ -192,7 +192,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "203",
   "icon": "assets/icons/loopday.png",
@@ -224,10 +224,10 @@
    "assets/shots/dicewise-2.jpg",
    "assets/shots/dicewise-3.jpg"
   ],
-  "changed": 1791922706000,
+  "changed": 1793116237000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "b3a0b5d5-b0b0-448e-923d-c419a5ca263d",
@@ -247,10 +247,10 @@
    "assets/shots/ebbcast-2.jpg",
    "assets/shots/ebbcast-3.jpg"
   ],
-  "changed": 1791916203000,
+  "changed": 1793117474000,
   "whatsnew": "",
-  "devices": 156,
-  "updates": 1
+  "devices": 157,
+  "updates": 2
  },
  {
   "id": "aa5df0a1-aa50-4117-b810-db6c08670588",
@@ -284,7 +284,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "222",
   "icon": "assets/icons/stepwise.png",
@@ -362,10 +362,10 @@
    "assets/shots/brickwise-2.jpg",
    "assets/shots/brickwise-3.jpg"
   ],
-  "changed": 1791906111000,
+  "changed": 1793105426000,
   "whatsnew": "",
-  "devices": 188,
-  "updates": 1
+  "devices": 189,
+  "updates": 2
  },
  {
   "id": "9c8073f2-9b2b-4d7d-8493-980a0182bc0a",
@@ -385,10 +385,10 @@
    "assets/shots/blackjack-2.jpg",
    "assets/shots/blackjack-3.jpg"
   ],
-  "changed": 1791731858000,
+  "changed": 1793104673000,
   "whatsnew": "Renamed to Blackjack, with larger, centred icons in the main menu.",
-  "devices": 153,
-  "updates": 2
+  "devices": 154,
+  "updates": 3
  },
  {
   "id": "30c8aa6f-9f36-4019-91e7-104f4bc1ce04",
@@ -523,10 +523,10 @@
    "assets/shots/flapline-2.jpg",
    "assets/shots/flapline-3.jpg"
   ],
-  "changed": 1791712373000,
+  "changed": 1793120063000,
   "whatsnew": "",
-  "devices": 111,
-  "updates": 1
+  "devices": 112,
+  "updates": 2
  },
  {
   "id": "82514cef-bcab-4e44-8527-1f040d90f35e",
@@ -592,10 +592,10 @@
    "assets/shots/coldhang-2.jpg",
    "assets/shots/coldhang-3.jpg"
   ],
-  "changed": 1791657004000,
+  "changed": 1793107899000,
   "whatsnew": "",
-  "devices": 169,
-  "updates": 1
+  "devices": 170,
+  "updates": 2
  },
  {
   "id": "a4553834-4614-4415-9514-019ef5cc276f",
@@ -615,10 +615,10 @@
    "assets/shots/aerate-2.jpg",
    "assets/shots/aerate-3.jpg"
   ],
-  "changed": 1791656375000,
+  "changed": 1793100108000,
   "whatsnew": "",
-  "devices": 169,
-  "updates": 1
+  "devices": 170,
+  "updates": 2
  },
  {
   "id": "6a804536-0b25-40a1-a0c9-06e2c661c851",
@@ -684,10 +684,10 @@
    "assets/shots/dustline-2.jpg",
    "assets/shots/dustline-3.jpg"
   ],
-  "changed": 1791646740000,
+  "changed": 1793117259000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "55e57328-7c11-4472-b372-f567af8799c0",
@@ -709,10 +709,10 @@
    "assets/shots/fixpoint-4.jpg",
    "assets/shots/fixpoint-5.jpg"
   ],
-  "changed": 1791034693000,
+  "changed": 1793120022000,
   "whatsnew": "",
   "devices": 182,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "2edddb99-2ff5-4837-b57f-fcf21e3271b8",
@@ -734,10 +734,10 @@
    "assets/shots/curetime-4.jpg",
    "assets/shots/curetime-5.jpg"
   ],
-  "changed": 1792861879000,
+  "changed": 1793109039000,
   "whatsnew": "New: a notification at the calculated moment for finishing, saw-cutting or stripping the formwork, even with the app closed (toggle in the menu).",
   "devices": 140,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "1697aae3-8aa7-4a80-8a93-66d0e00869b2",
@@ -759,10 +759,10 @@
    "assets/shots/chainline-4.jpg",
    "assets/shots/chainline-5.jpg"
   ],
-  "changed": 1791033195000,
+  "changed": 1793106567000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "e13ab4b1-5fdb-4994-88cb-d02b4f6f002e",
@@ -784,10 +784,10 @@
    "assets/shots/blueline-4.jpg",
    "assets/shots/blueline-5.jpg"
   ],
-  "changed": 1791890230000,
+  "changed": 1793104918000,
   "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "3505a472-7b3c-4db6-b511-a42f7b8a9692",
@@ -934,10 +934,10 @@
    "assets/shots/dryland-4.jpg",
    "assets/shots/dryland-5.jpg"
   ],
-  "changed": 1790966097000,
+  "changed": 1793117070000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "1b966b88-9933-4ac3-9789-72b632b95070",
@@ -984,10 +984,10 @@
    "assets/shots/berm-4.jpg",
    "assets/shots/berm-5.jpg"
   ],
-  "changed": 1790964304000,
+  "changed": 1793104136000,
   "whatsnew": "",
   "devices": 166,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "78236362-49af-4482-b721-3bdc2d3d394a",
@@ -1009,10 +1009,10 @@
    "assets/shots/darkroom-4.jpg",
    "assets/shots/darkroom-5.jpg"
   ],
-  "changed": 1790962829000,
+  "changed": 1793115456000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "c026a053-19c4-4976-9f03-1bb8f1bae0d4",
@@ -1034,10 +1034,10 @@
    "assets/shots/homing-4.jpg",
    "assets/shots/homing-5.jpg"
   ],
-  "changed": 1792861708000,
+  "changed": 1793201574000,
   "whatsnew": "New: a notification when the arrival window opens, even with the app closed (Arrival alert can be turned off in the menu).",
   "devices": 182,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "608af5cf-c26b-41f2-b89c-5a23c0fe4a76",
@@ -1084,10 +1084,10 @@
    "assets/shots/hookset-4.jpg",
    "assets/shots/hookset-5.jpg"
   ],
-  "changed": 1792861624000,
+  "changed": 1793201589000,
   "whatsnew": "New: a notification 20 minutes before the best 2-hour fishing window of the next 24 hours, even with the app closed (can be turned off in the menu).",
   "devices": 185,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "1fe84173-cf88-41b3-97ac-2136243f5d8a",
@@ -1098,7 +1098,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.0.0",
   "category": "213",
   "icon": "assets/icons/skylog.png",
@@ -1134,10 +1134,10 @@
    "assets/shots/flyweight-4.jpg",
    "assets/shots/flyweight-5.jpg"
   ],
-  "changed": 1790958929000,
+  "changed": 1793120377000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "a931f799-e323-41cb-88c0-26bff4bca149",
@@ -1243,9 +1243,9 @@
   "nl": "Nappr telt je dutje vanaf het moment dat je echt in slaap valt, niet vanaf het moment dat je gaat liggen. Het ziet je hartslag onder je rustniveau zakken en je pols stil worden, onthoudt de minuut waarop je wegzakte en wekt je na de gekozen duur — 10, 20, 26 of 90 minuten — met een zachte trilling die aanzwelt, met een harde bovengrens zodat een dutje nooit je hele middag opslokt.\n\nNa elk dutje zie je hoe lang inslapen duurde, hoe lang je sliep, hoeveel je hartslag daalde en of je waarschijnlijk suf wakker wordt, plus een strookje per minuut. De historie toont je gemiddelde inslaaptijd en je dutjes deze week, en het startscherm gebruikt dat gemiddelde om te zeggen hoe laat je ongeveer weer op bent.\n\nWAT HET DOET\n- Herkent inslapen aan hartslagdaling plus stilliggen, met een terugval op alleen beweging\n- Vier lengtes: kort 10, power 20, NASA 26 en een hele cyclus van 90 minuten\n- Slim wekken in cyclusmodus: bij de eerste beweging in de laatste 10 minuten\n- Een maximumtijd die het dutje altijd beëindigt, ook als je niet in slaap viel\n- Zachte wekker in drie aanzwellende trappen, instelbare sterkte, optionele toon, snooze van 5 minuten\n- Samenvatting van het laatste dutje met slaapstrook, sufheid-inschatting en hartslagdaling\n- Historie, gemiddelden, vijf talen en een glance met de wektijd\n\nWAT HET NODIG HEEFT\n- Een horloge met polshartslag voor de beste herkenning; zonder hartslag telt alleen stilliggen\n- Houd de app open tijdens het dutje: het horloge stopt app-timers als je hem verlaat",
   "type": "2",
   "rating": 5.0,
-  "reviews": 1,
+  "reviews": 2,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "219",
   "icon": "assets/icons/nappr.png",
   "shots": [
@@ -1253,10 +1253,10 @@
    "assets/shots/nappr-2.jpg",
    "assets/shots/nappr-3.jpg"
   ],
-  "changed": 1793074837000,
+  "changed": 1793087255000,
   "whatsnew": "Choose your own nap length, such as 15 minutes, and Test alarm now runs through all three alarm stages with a screen.",
   "devices": 189,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "2d0cc53e-6856-4a02-819b-399f9ac29fb5",
@@ -2647,7 +2647,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.1.6",
   "category": "219",
   "icon": "assets/icons/recruit.png",
@@ -2679,10 +2679,10 @@
    "assets/shots/gravid-2.jpg",
    "assets/shots/gravid-3.jpg"
   ],
-  "changed": 1791613929000,
+  "changed": 1793122731000,
   "whatsnew": "More reliable heart rate on newer watches.",
   "devices": 185,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "0e80d313-7f2b-4c2b-ad2b-c4fee937fc40",
@@ -2978,10 +2978,10 @@
    "assets/shots/intake-2.jpg",
    "assets/shots/intake-3.jpg"
   ],
-  "changed": 1791208727000,
+  "changed": 1793202554000,
   "whatsnew": "The start screen now says \"1 gel\" instead of \"1 gels\".",
   "devices": 175,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "7f20bc29-8650-421c-b0ee-4b83b9593ee6",
@@ -3015,7 +3015,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.5",
   "category": "219",
   "icon": "assets/icons/toca.png",
@@ -3496,10 +3496,10 @@
    "assets/shots/hounded-4.jpg",
    "assets/shots/hounded-5.jpg"
   ],
-  "changed": 1791210588000,
+  "changed": 1793201705000,
   "whatsnew": "Sturdier saving of your run history and a correct XP display at the top level.",
   "devices": 178,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "9a0f0939-945e-44e3-8085-d42ee659e150",
@@ -3808,8 +3808,8 @@
   "desc": "See exactly what your shift has paid you, updated every second.\n\nStart your shift with one tap and ShiftPay counts your earnings in real time, with a ring around the screen showing how far into the day you are and what the full shift will pay.\n\n• Live earnings, to the second\n• One tap for a break — unpaid time never counts\n• Overtime: choose when it starts and what it pays\n• Set your hourly rate and currency once\n• Progress ring against your planned shift length\n\nYour history, on your wrist:\n\n• A bar for every day of the last week\n• A calendar of the last five weeks — tap any day to see what it paid\n• Averages: days worked, per day, per shift, and what an hour really pays\n• 30-day totals and your best day\n\nA glance shows today's total without opening the app.\n\nShiftPay works from the clock, not from a timer, so your shift keeps running when you close the app or restart your watch.\n\nEverything stays on your watch. No phone, no account, no internet.",
   "nl": "Zie precies wat je dienst tot nu toe heeft opgeleverd, elke seconde bijgewerkt.\n\nStart je dienst met één tik en ShiftPay telt je verdiensten live mee, met een ring rond het scherm die laat zien hoe ver je bent en wat de hele dienst oplevert.\n\n• Live verdiensten, tot op de seconde\n• Eén tik voor pauze — onbetaalde tijd telt nooit mee\n• Overwerk: kies wanneer het ingaat en wat het betaalt\n• Uurtarief en valuta stel je één keer in\n• Voortgangsring tegen je geplande diensttijd\n\nJe historie, om je pols:\n\n• Een balk voor elke dag van de afgelopen week\n• Een kalender van vijf weken — tik een dag aan en zie wat die opbracht\n• Gemiddelden: gewerkte dagen, per dag, per dienst, en wat een uur écht oplevert\n• Totalen over 30 dagen en je beste dag\n\nIn de glance zie je het dagtotaal zonder de app te openen.\n\nShiftPay rekent met de klok, niet met een timer: je dienst loopt door als je de app sluit of je horloge herstart.\n\nAlles blijft op je horloge. Geen telefoon, geen account, geen internet.",
   "type": "2",
-  "rating": 4.3,
-  "reviews": 3,
+  "rating": 4.0,
+  "reviews": 4,
   "downloads": 100,
   "version": "1.5.3",
   "category": "204",
@@ -3821,7 +3821,7 @@
    "assets/shots/shiftpay-4.jpg"
   ],
   "changed": 1792468114000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Overtime can now count per week (for example after 40 h), the threshold goes up to 168 h, and typing 50 as the overtime rate now means time and a half (150%).",
   "devices": 205,
   "updates": 12
  },
@@ -4260,10 +4260,10 @@
    "assets/shots/caffi-4.jpg",
    "assets/shots/caffi-5.jpg"
   ],
-  "changed": 1792466038000,
+  "changed": 1793105842000,
   "whatsnew": "Drinks are now sorted by how often you pick them.",
   "devices": 178,
-  "updates": 23
+  "updates": 24
  },
  {
   "id": "173e9d71-48e0-4ded-8515-27c3011032da",
