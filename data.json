@@ -500,10 +500,10 @@
    "assets/shots/zonestack-2.jpg",
    "assets/shots/zonestack-3.jpg"
   ],
-  "changed": 1791713434000,
+  "changed": 1793241550000,
   "whatsnew": "",
-  "devices": 118,
-  "updates": 1
+  "devices": 119,
+  "updates": 2
  },
  {
   "id": "2e2124b5-9674-41bf-86e3-1ac5582a3f4f",
@@ -2602,7 +2602,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.7",
+  "version": "1.1.8",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -2610,10 +2610,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1793238193000,
+  "changed": 1793240878000,
   "whatsnew": "Button lock: during a swim you now hold START to pause or BACK to stop for a second; a short or double press from your wrist or the current does nothing.",
   "devices": 185,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
