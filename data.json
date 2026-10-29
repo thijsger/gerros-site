@@ -17,10 +17,10 @@
    "assets/shots/liftlap-2.jpg",
    "assets/shots/liftlap-3.jpg"
   ],
-  "changed": 1792068213000,
+  "changed": 1793216644000,
   "whatsnew": "",
-  "devices": 148,
-  "updates": 1
+  "devices": 149,
+  "updates": 2
  },
  {
   "id": "158f7d28-35bd-4684-841d-a60946a436da",
@@ -109,10 +109,10 @@
    "assets/shots/lunette-2.jpg",
    "assets/shots/lunette-3.jpg"
   ],
-  "changed": 1791997548000,
+  "changed": 1793217383000,
   "whatsnew": "",
-  "devices": 111,
-  "updates": 1
+  "devices": 112,
+  "updates": 2
  },
  {
   "id": "9c1bc8f9-4ff8-40d6-8e84-7201916eb161",
@@ -132,10 +132,10 @@
    "assets/shots/leaveby-2.jpg",
    "assets/shots/leaveby-3.jpg"
   ],
-  "changed": 1791996439000,
+  "changed": 1793216504000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "30c0be53-6216-4c89-8839-ad62d4830cb4",
@@ -201,10 +201,10 @@
    "assets/shots/loopday-2.jpg",
    "assets/shots/loopday-3.jpg"
   ],
-  "changed": 1791923212000,
+  "changed": 1793217044000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "0c61bd35-61a9-4179-916c-8489511c82a2",
@@ -546,10 +546,10 @@
    "assets/shots/kathode-2.jpg",
    "assets/shots/kathode-3.jpg"
   ],
-  "changed": 1791711365000,
+  "changed": 1793215887000,
   "whatsnew": "",
-  "devices": 106,
-  "updates": 1
+  "devices": 107,
+  "updates": 2
  },
  {
   "id": "cda36f22-7b53-4b14-bbfa-449b0263f6e2",
@@ -909,10 +909,10 @@
    "assets/shots/lastpage-4.jpg",
    "assets/shots/lastpage-5.jpg"
   ],
-  "changed": 1790984352000,
+  "changed": 1793216359000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "5ae53323-9c5b-48d6-8474-c04dc1492845",
@@ -1159,10 +1159,10 @@
    "assets/shots/mashday-4.jpg",
    "assets/shots/mashday-5.jpg"
   ],
-  "changed": 1790958809000,
+  "changed": 1793218696000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "e1c88a95-9c50-49f0-b814-68d406aecfa9",
@@ -1184,10 +1184,10 @@
    "assets/shots/liftoff-4.jpg",
    "assets/shots/liftoff-5.jpg"
   ],
-  "changed": 1790958645000,
+  "changed": 1793216648000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "bd8c9ce5-9444-49f6-babc-c8d3a04f73db",
@@ -3811,7 +3811,7 @@
   "rating": 4.0,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.5.3",
+  "version": "1.6.0",
   "category": "204",
   "icon": "assets/icons/shiftpay.png",
   "shots": [
@@ -3820,10 +3820,10 @@
    "assets/shots/shiftpay-3.jpg",
    "assets/shots/shiftpay-4.jpg"
   ],
-  "changed": 1792468114000,
+  "changed": 1793205406000,
   "whatsnew": "Overtime can now count per week (for example after 40 h), the threshold goes up to 168 h, and typing 50 as the overtime rate now means time and a half (150%).",
   "devices": 205,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "a1845d8e-d596-4d4a-9549-9ffa109926a2",
