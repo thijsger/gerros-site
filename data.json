@@ -40,10 +40,10 @@
    "assets/shots/tidewell-2.jpg",
    "assets/shots/tidewell-3.jpg"
   ],
-  "changed": 1792067545000,
+  "changed": 1793236605000,
   "whatsnew": "",
-  "devices": 111,
-  "updates": 1
+  "devices": 112,
+  "updates": 2
  },
  {
   "id": "fbee1c19-b416-4630-a52a-f5d8ab23a5da",
@@ -77,7 +77,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "206",
   "icon": "assets/icons/reizen.png",
@@ -155,10 +155,10 @@
    "assets/shots/thresh-2.jpg",
    "assets/shots/thresh-3.jpg"
   ],
-  "changed": 1791995297000,
+  "changed": 1793236449000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "d56ac55e-7c97-4c34-9553-580e9b41c820",
@@ -293,10 +293,10 @@
    "assets/shots/stepwise-2.jpg",
    "assets/shots/stepwise-3.jpg"
   ],
-  "changed": 1791914633000,
+  "changed": 1793233357000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "229de2c4-c1d4-406d-8689-3e605a9e298c",
@@ -316,10 +316,10 @@
    "assets/shots/thirds-2.jpg",
    "assets/shots/thirds-3.jpg"
   ],
-  "changed": 1791913974000,
+  "changed": 1793236382000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "bc9f7467-d2b9-47da-ae3c-8a9228c23eeb",
@@ -477,10 +477,10 @@
    "assets/shots/tickdown-2.jpg",
    "assets/shots/tickdown-3.jpg"
   ],
-  "changed": 1791714552000,
+  "changed": 1793236479000,
   "whatsnew": "",
-  "devices": 193,
-  "updates": 1
+  "devices": 194,
+  "updates": 2
  },
  {
   "id": "3fbe32ff-7691-4e08-b4f8-2cc1bb840d2c",
@@ -798,7 +798,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.0.0",
   "category": "205",
   "icon": "assets/icons/sapline.png",
@@ -834,10 +834,10 @@
    "assets/shots/sprayday-4.jpg",
    "assets/shots/sprayday-5.jpg"
   ],
-  "changed": 1790987984000,
+  "changed": 1793232601000,
   "whatsnew": "",
   "devices": 140,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "adbc88f5-4653-42a2-8c3a-dab13cf4f39a",
@@ -959,10 +959,10 @@
    "assets/shots/spinroom-4.jpg",
    "assets/shots/spinroom-5.jpg"
   ],
-  "changed": 1792638369000,
+  "changed": 1793232402000,
   "whatsnew": "New connect screen: choose \"Ride with power meter\", see the watts and cadence come in from your paired bike, then start when you are ready.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "907a1718-bebc-42f4-abbc-5312c6c7a0b5",
@@ -2371,7 +2371,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.4",
   "category": "219",
   "icon": "assets/icons/burnpoint.png",
@@ -2611,7 +2611,7 @@
    "assets/shots/flume-3.jpg"
   ],
   "changed": 1792635888000,
-  "whatsnew": "The distance now arrives correctly in Garmin Connect: swims are saved as a regular swim, so the watch no longer replaces Flume's distance with its own lap count.",
+  "whatsnew": "New button lock: in the water, pausing or stopping now needs a second press, so a wrist or the current can no longer pause your swim by accident.",
   "devices": 185,
   "updates": 9
  },
