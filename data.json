@@ -63,10 +63,10 @@
    "assets/shots/roem-2.jpg",
    "assets/shots/roem-3.jpg"
   ],
-  "changed": 1792063055000,
+  "changed": 1793228632000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "c697b25f-f83f-4b41-8761-8c485ebb86eb",
@@ -86,10 +86,10 @@
    "assets/shots/reizen-2.jpg",
    "assets/shots/reizen-3.jpg"
   ],
-  "changed": 1792062926000,
+  "changed": 1793228032000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "66683300-0f0e-4b17-b665-2fcae78aa319",
@@ -270,10 +270,10 @@
    "assets/shots/snowgun-2.jpg",
    "assets/shots/snowgun-3.jpg"
   ],
-  "changed": 1791915452000,
+  "changed": 1793231714000,
   "whatsnew": "",
-  "devices": 169,
-  "updates": 1
+  "devices": 170,
+  "updates": 2
  },
  {
   "id": "951a6602-dd32-4744-b968-e9b2ef092678",
@@ -339,10 +339,10 @@
    "assets/shots/skidpatch-2.jpg",
    "assets/shots/skidpatch-3.jpg"
   ],
-  "changed": 1791906292000,
+  "changed": 1793231092000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "58fe9da4-d0e0-420b-b663-d53ca10d2116",
@@ -408,10 +408,10 @@
    "assets/shots/poker-2.jpg",
    "assets/shots/poker-3.jpg"
   ],
-  "changed": 1791731698000,
+  "changed": 1793225752000,
   "whatsnew": "Renamed to Poker, with a new POKER logo.",
-  "devices": 102,
-  "updates": 3
+  "devices": 103,
+  "updates": 4
  },
  {
   "id": "353bb3db-96e4-4bb6-94b4-c013241f76f4",
@@ -431,10 +431,10 @@
    "assets/shots/reelix-2.jpg",
    "assets/shots/reelix-3.jpg"
   ],
-  "changed": 1791867344000,
+  "changed": 1793227967000,
   "whatsnew": "Bonus features trigger much more often on every bonus machine, and tapping the screen no longer stops autospin.",
-  "devices": 153,
-  "updates": 5
+  "devices": 154,
+  "updates": 6
  },
  {
   "id": "cbda12de-19df-467c-9e95-4a4aedf471b1",
@@ -569,10 +569,10 @@
    "assets/shots/rootline-2.jpg",
    "assets/shots/rootline-3.jpg"
   ],
-  "changed": 1791708714000,
+  "changed": 1793228768000,
   "whatsnew": "One page by default; the second page can be turned on in the settings.",
-  "devices": 118,
-  "updates": 2
+  "devices": 119,
+  "updates": 3
  },
  {
   "id": "47517023-be9f-4a3e-8f79-55b2ed23fa58",
@@ -638,10 +638,10 @@
    "assets/shots/natalis-2.jpg",
    "assets/shots/natalis-3.jpg"
   ],
-  "changed": 1791648174000,
+  "changed": 1793221137000,
   "whatsnew": "",
-  "devices": 160,
-  "updates": 1
+  "devices": 161,
+  "updates": 2
  },
  {
   "id": "8013c213-6769-4540-b268-29e80c5cb716",
@@ -661,10 +661,10 @@
    "assets/shots/roastline-2.jpg",
    "assets/shots/roastline-3.jpg"
   ],
-  "changed": 1791647338000,
+  "changed": 1793228565000,
   "whatsnew": "",
-  "devices": 185,
-  "updates": 1
+  "devices": 186,
+  "updates": 2
  },
  {
   "id": "16100fe9-218d-4e25-bf8a-31be1e20809b",
@@ -809,10 +809,10 @@
    "assets/shots/sapline-4.jpg",
    "assets/shots/sapline-5.jpg"
   ],
-  "changed": 1790989142000,
+  "changed": 1793229432000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "c119bcbe-3325-4b57-966f-f372213736a6",
@@ -859,10 +859,10 @@
    "assets/shots/nightcheck-4.jpg",
    "assets/shots/nightcheck-5.jpg"
   ],
-  "changed": 1792861794000,
+  "changed": 1793222117000,
   "whatsnew": "New: alerts at each birth-clock check moment while the app is closed, with up to 3 repeats (Alert when closed, on by default).",
   "devices": 185,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "5ee83639-5bf8-4139-95f9-4474773fbdca",
@@ -884,10 +884,10 @@
    "assets/shots/recite-4.jpg",
    "assets/shots/recite-5.jpg"
   ],
-  "changed": 1792862012000,
+  "changed": 1793227728000,
   "whatsnew": "New: an optional daily reminder to review your verses, at a time you choose (Daily reminder in the settings).",
   "devices": 185,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "5130c288-b013-451b-bc83-dd37f1641ae2",
@@ -1059,10 +1059,10 @@
    "assets/shots/sightline-4.jpg",
    "assets/shots/sightline-5.jpg"
   ],
-  "changed": 1790960660000,
+  "changed": 1793230484000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "56fdb2f2-dac3-4a28-a051-58b1f4156191",
@@ -1109,10 +1109,10 @@
    "assets/shots/skylog-4.jpg",
    "assets/shots/skylog-5.jpg"
   ],
-  "changed": 1790959165000,
+  "changed": 1793231324000,
   "whatsnew": "",
   "devices": 185,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "f03707ad-84e5-426e-b526-29cf54977a03",
@@ -4308,9 +4308,9 @@
    "assets/shots/rallypoint-3.jpg",
    "assets/shots/rallypoint-4.jpg"
   ],
-  "changed": 1791220659000,
+  "changed": 1793227542000,
   "whatsnew": "Undo now fully restores deuce and match stats, tiebreaks show side changes, switching sport mid-match asks for confirmation, match duration stops at match point, and the per-set page shows all five sets.",
   "devices": 178,
-  "updates": 31
+  "updates": 32
  }
 ]
