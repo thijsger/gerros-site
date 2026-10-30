@@ -8,7 +8,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "216",
   "icon": "assets/icons/liftlap.png",
@@ -100,7 +100,7 @@
   "type": "1",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.0",
   "category": "270",
   "icon": "assets/icons/lunette.png",
@@ -353,7 +353,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.0",
   "category": "220",
   "icon": "assets/icons/brickwise.png",
@@ -675,7 +675,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "208",
   "icon": "assets/icons/dustline.png",
@@ -2197,7 +2197,7 @@
    "assets/shots/karvonen-3.jpg"
   ],
   "changed": 1792464941000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Aerobic drift now reliably appears after about 25 minutes, also when power or pace arrives late; without pace or power the field shows -- instead of a countdown.",
   "devices": 228,
   "updates": 6
  },
@@ -2600,9 +2600,9 @@
   "nl": "Flume geeft je afstand in een bad waar geen einde aan zit. In een tegenstroombad, een swim spa of aan een elastiek zijn er geen muren om te keren en is er geen GPS-spoor, dus elk zwemhorloge laat je in de steek. Flume neemt de snelheid van de stroming en de tijd dat je werkelijk zwemt, en vermenigvuldigt die twee. Stop je met slagen, dan stoppen de meters met je mee.\n\nZet de stroming als tempo, als meter per seconde, of als pompstand. Standen kun je kalibreren: zwem een minuut en zeg daarna of je vooruit kwam, op je plek bleef of terugzakte, en die stand schuift vijf procent op. De polssensor telt je slagen, dus je krijgt ook slagfrequentie, afstand per slag en een SWOLF die zonder muren werkt. Bouw series op het horloge, voel een trilling bij elke wissel, en bewaar het geheel als zwemactiviteit.\n\nWAT HET DOET\n- Afstand zonder muren of GPS: stroomsnelheid maal de tijd dat je echt zwemt\n- Automatische pauze zodra je stopt met slagen, zodat rust geen meters oplevert\n- Stroming als tempo, als meter per seconde, of als gekalibreerde pompstand\n- Kalibreren op gevoel: een minuut, een antwoord, en de stand corrigeert zichzelf\n- Slagfrequentie, afstand per slag en SWOLF uit de polssensor\n- Series op tijd met in- en uitzwemmen en rust, elke wissel met een trilling\n- Weekring tegen je eigen doel, zeven dagstaafjes en een historie met trend\n- Opgeslagen als zwemactiviteit met ronden, hartslag en calorieën\n- Glance met de week tot nu toe en je laatste afstand per slag\n\nWAT HET NODIG HEEFT\n- Een tegenstroombad, swim spa, stromingsbad of een elastiek\n- De snelheid van je stroming, één keer per stand gezet\n- Een horloge met versnellingsmeter voor de slagtelling; hartslag is optioneel\n- Geen telefoon, geen account, geen internet",
   "type": "2",
   "rating": 5.0,
-  "reviews": 1,
+  "reviews": 2,
   "downloads": 100,
-  "version": "1.1.8",
+  "version": "1.1.9",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -2610,10 +2610,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1793240878000,
+  "changed": 1793274146000,
   "whatsnew": "Fix: holding a button opened the watch's own menus. Button lock now uses two different buttons: START then BACK pauses, BACK then START stops; while paused one press is enough.",
   "devices": 185,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
@@ -2818,7 +2818,7 @@
    "assets/shots/lineup-3.jpg"
   ],
   "changed": 1792466691000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "The live screen now shows the time of day at the top.",
   "devices": 178,
   "updates": 6
  },
@@ -3270,7 +3270,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.1.4",
   "category": "213",
   "icon": "assets/icons/cadenzo.png",
