@@ -354,7 +354,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "220",
   "icon": "assets/icons/brickwise.png",
   "shots": [
@@ -362,10 +362,10 @@
    "assets/shots/brickwise-2.jpg",
    "assets/shots/brickwise-3.jpg"
   ],
-  "changed": 1793105426000,
+  "changed": 1793452671000,
   "whatsnew": "Custom race can now be bike then run only (Sports / Bike · run), for example 25 km bike and 10 km run.",
-  "devices": 189,
-  "updates": 2
+  "devices": 188,
+  "updates": 3
  },
  {
   "id": "9c8073f2-9b2b-4d7d-8493-980a0182bc0a",
@@ -1185,7 +1185,7 @@
    "assets/shots/liftoff-5.jpg"
   ],
   "changed": 1793216648000,
-  "whatsnew": "",
+  "whatsnew": "The app now stays open during a routine, and an optional webhook (set in the phone app) sends each change to your own server as JSON.",
   "devices": 185,
   "updates": 2
  },
@@ -3085,7 +3085,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.5",
+  "version": "1.1.6",
   "category": "202",
   "icon": "assets/icons/studo.png",
   "shots": [
@@ -3093,10 +3093,10 @@
    "assets/shots/studo-2.jpg",
    "assets/shots/studo-3.jpg"
   ],
-  "changed": 1792467063000,
+  "changed": 1793452561000,
   "whatsnew": "Give a subject your own name, or rename an existing one (on watches with a keyboard).",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
