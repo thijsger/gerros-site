@@ -363,7 +363,7 @@
    "assets/shots/brickwise-3.jpg"
   ],
   "changed": 1793105426000,
-  "whatsnew": "",
+  "whatsnew": "Custom race can now be bike then run only (Sports / Bike · run), for example 25 km bike and 10 km run.",
   "devices": 189,
   "updates": 2
  },
@@ -1171,8 +1171,8 @@
   "desc": "Liftoff gets you out of the door on time. Build your routine from steps (shower, breakfast, bag, shoes) and set the time you have to leave for each weekday. Liftoff plans backwards from that leave time and tells you when to start, then walks you through the steps with a shrinking time disc for each one, in the style of a visual timer.\n\nEvery step learns how long it really takes you. After each morning the watch updates its estimate from your own times, so the plan gets more honest the more you use it, and one chaotic morning does not throw it off. While you are getting ready you always see whether you are ahead, on plan, eating into your buffer or late. When you are running late, Liftoff works out the smallest set of steps to shorten or skip to still leave on time, using only steps you marked as flexible. Works fully on the watch, no phone and no subscription.\n\nWHAT IT DOES\n- Routines of up to 12 steps, several routines (morning, evening, gym bag), steps added, renamed and reordered on the watch\n- Learned step durations from your own history, or a fixed duration per step\n- Leave time per weekday plus a one-off leave time for today, with a buffer you choose\n- Plans backwards: start time, and the clock time each step should begin\n- Start now, or start at the planned time with a countdown\n- Live time disc per step, ahead/behind in minutes, pause, skip and previous step\n- Vibration when a step's time is up and a warning a set number of minutes before\n- Suggests which steps to shorten or skip when you are late (smallest set that covers the gap)\n- On-time percentage, average lateness, slowest step and a trend of your last 14 mornings\n- Glance with the next routine and its start time, or the live step and status\n\nWHAT IT NEEDS\n- A Connect IQ watch; nothing else. No phone connection, no account, no sensors. The start-at countdown runs while the app is open; the glance always shows the next start time.",
   "nl": "Liftoff zorgt dat je op tijd de deur uit bent. Je bouwt je routine uit stappen (douchen, ontbijt, tas, schoenen) en stelt per weekdag in hoe laat je weg moet. Liftoff plant terug vanaf die vertrektijd en zegt wanneer je moet beginnen, en leidt je daarna door de stappen met per stap een krimpende tijdschijf, in de stijl van een visuele timer.\n\nElke stap leert hoe lang hij bij jou echt duurt. Na elke ochtend past het horloge de schatting aan op je eigen tijden, dus het plan wordt eerlijker naarmate je het vaker gebruikt, en één chaotische ochtend gooit het niet om. Tijdens het klaarmaken zie je steeds of je voorloopt, op schema zit, in je buffer zit of te laat bent. Loop je uit, dan rekent Liftoff de kleinste set stappen uit die je kunt inkorten of overslaan om toch op tijd weg te gaan, alleen uit stappen die je als flexibel hebt gemarkeerd. Werkt volledig op het horloge, zonder telefoon en zonder abonnement.\n\nWAT HET DOET\n- Routines tot 12 stappen, meerdere routines (ochtend, avond, sporttas), stappen toevoegen, hernoemen en ordenen op het horloge\n- Geleerde stapduur uit je eigen historie, of een vaste duur per stap\n- Vertrektijd per weekdag plus een eenmalige vertrektijd voor vandaag, met een buffer naar keuze\n- Plant terug: starttijd en de kloktijd waarop elke stap hoort te beginnen\n- Nu starten, of starten om de geplande tijd met aftellen\n- Tijdschijf per stap, voor/achter in minuten, pauze, stap overslaan en vorige stap\n- Trilt als de tijd van een stap om is en waarschuwt een instelbaar aantal minuten ervoor\n- Stelt voor welke stappen je inkort of overslaat als je te laat bent (kleinste set die het gat dekt)\n- Op-tijd-percentage, gemiddeld te laat, traagste stap en een trend van je laatste 14 ochtenden\n- Glance met de volgende routine en starttijd, of de lopende stap en status\n\nWAT HET NODIG HEEFT\n- Een Connect IQ-horloge, verder niets. Geen telefoonverbinding, geen account, geen sensoren. Het aftellen naar de starttijd loopt zolang de app open is; de glance toont altijd de volgende starttijd.",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 4.0,
+  "reviews": 1,
   "downloads": 10,
   "version": "1.0.0",
   "category": "208",
@@ -2188,7 +2188,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "185",
   "icon": "assets/icons/karvonen.png",
   "shots": [
@@ -2196,10 +2196,10 @@
    "assets/shots/karvonen-2.jpg",
    "assets/shots/karvonen-3.jpg"
   ],
-  "changed": 1792464941000,
+  "changed": 1793329145000,
   "whatsnew": "Aerobic drift now reliably appears after about 25 minutes, also when power or pace arrives late; without pace or power the field shows -- instead of a countdown.",
   "devices": 228,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "539abdd9-8c7a-4394-8355-94163ad3ed51",
@@ -2809,7 +2809,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "212",
   "icon": "assets/icons/lineup.png",
   "shots": [
@@ -2817,10 +2817,10 @@
    "assets/shots/lineup-2.jpg",
    "assets/shots/lineup-3.jpg"
   ],
-  "changed": 1792466691000,
+  "changed": 1793329263000,
   "whatsnew": "The live screen now shows the time of day at the top.",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "b23b1ead-1709-468b-9f17-4d43d0a30174",
@@ -3094,7 +3094,7 @@
    "assets/shots/studo-3.jpg"
   ],
   "changed": 1792467063000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Give a subject your own name, or rename an existing one (on watches with a keyboard).",
   "devices": 178,
   "updates": 6
  },
