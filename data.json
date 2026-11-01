@@ -18,7 +18,7 @@
    "assets/shots/liftlap-3.jpg"
   ],
   "changed": 1793216644000,
-  "whatsnew": "",
+  "whatsnew": "Now also on Instinct 3 Solar 45 mm, with its own black-and-white screens.",
   "devices": 149,
   "updates": 2
  },
@@ -2947,7 +2947,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "219",
   "icon": "assets/icons/crimpa.png",
   "shots": [
@@ -2955,10 +2955,10 @@
    "assets/shots/crimpa-2.jpg",
    "assets/shots/crimpa-3.jpg"
   ],
-  "changed": 1792476469000,
+  "changed": 1793505202000,
   "whatsnew": "You can now set your own rest between sets and between reps (Repeaters) in the menu.",
   "devices": 175,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "6b0dad0f-72c2-440e-b9dc-5cde79fba602",
