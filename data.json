@@ -9,7 +9,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "216",
   "icon": "assets/icons/liftlap.png",
   "shots": [
@@ -17,10 +17,10 @@
    "assets/shots/liftlap-2.jpg",
    "assets/shots/liftlap-3.jpg"
   ],
-  "changed": 1793216644000,
+  "changed": 1793518372000,
   "whatsnew": "Now also on Instinct 3 Solar 45 mm, with its own black-and-white screens.",
-  "devices": 149,
-  "updates": 2
+  "devices": 150,
+  "updates": 3
  },
  {
   "id": "158f7d28-35bd-4684-841d-a60946a436da",
@@ -31,7 +31,7 @@
   "type": "1",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.0",
   "category": "246",
   "icon": "assets/icons/tidewell.png",
@@ -89,29 +89,6 @@
   "changed": 1793228032000,
   "whatsnew": "",
   "devices": 186,
-  "updates": 2
- },
- {
-  "id": "66683300-0f0e-4b17-b665-2fcae78aa319",
-  "slug": "lunette",
-  "name": "Lunette - Moon Phase Watch Face",
-  "desc": "Lunette shows the Moon as it is right now. The phase is calculated on the watch from the positions of the Moon and the Sun, with a soft shadow line, the dark side faintly lit by earthshine and the seas drawn where they really are. In the sky setting the Moon is tilted the way you see it from where you stand, so in the southern hemisphere and near the equator it turns the way it does above you.\n\nAround the face runs a thin moon ring: the current lunar cycle from new moon at the top, clockwise to the next new moon, with the first quarter, full moon and last quarter marked at their actual times and a dot for now. Turn your wrist and the shadow line slides from yesterday's phase to today's. It works without a phone, a server or an account.\n\nWHAT IT DOES\n- Moon phase with illuminated fraction, calculated with published astronomical formulas (Meeus), with a soft terminator and earthshine on crescents\n- Sky orientation (tilt as seen from your location) or upright, with automatic northern or southern hemisphere\n- Moon ring with the lunar cycle and the four main phases at their real moments\n- Bottom line of your choice: phase name and percentage, next main phase with day and time, moonrise and moonset, day of the lunar cycle, or nothing\n- Silver, gold or ice moon; earthshine, ring and wrist-turn animation can each be switched off; 12 or 24 hour time\n- Its own look on MIP screens (fenix, Forerunner) with dithered shading, and a minimal always-on mode on AMOLED\n\nWHAT IT NEEDS\n- A supported Garmin watch; settings on the watch (long press on the watch face) or in the Connect app\n- For sky orientation and moonrise/moonset: a recent location from weather or an activity; without it the Moon is shown upright",
-  "nl": "Lunette laat de maan zien zoals die nu staat. De fase wordt op het horloge berekend uit de stand van maan en zon, met een zachte schaduwgrens, de donkere kant zwak verlicht door aardschijn en de maria op hun echte plek. In de hemelstand staat de maan gekanteld zoals jij hem ziet vanaf waar je bent, dus op het zuidelijk halfrond en rond de evenaar draait hij zoals boven jou.\n\nRondom loopt een dunne maanring: de lopende maancyclus van nieuwe maan bovenaan, met de klok mee tot de volgende nieuwe maan, met eerste kwartier, volle maan en laatste kwartier op hun echte moment en een stip voor nu. Draai je pols en de schaduwgrens schuift van de stand van gisteren naar vandaag. Werkt zonder telefoon, server of account.\n\nWAT HIJ DOET\n- Maanfase met verlicht percentage, berekend met gepubliceerde astronomische formules (Meeus), met zachte schaduwgrens en aardschijn bij een sikkel\n- Hemelstand (kanteling zoals vanaf jouw plek) of rechtop, met automatisch noordelijk of zuidelijk halfrond\n- Maanring met de maancyclus en de vier hoofdfasen op hun echte moment\n- Onderregel naar keuze: fasenaam en percentage, volgende hoofdfase met dag en tijd, maan op en onder, dag in de cyclus, of niets\n- Zilveren, gouden of ijsblauwe maan; aardschijn, ring en polsdraai-animatie los uit te zetten; 12- of 24-uursklok\n- Eigen uitvoering op MIP-schermen (fenix, Forerunner) met geditherde schaduw, en een minimale always-on-stand op AMOLED\n\nWAT HIJ NODIG HEEFT\n- Een ondersteund Garmin-horloge; instellingen op het horloge (lang drukken op de wijzerplaat) of in de Connect-app\n- Voor de hemelstand en maan op/onder: een recente locatie uit het weer of een activiteit; zonder locatie staat de maan rechtop",
-  "type": "1",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 100,
-  "version": "1.0.0",
-  "category": "270",
-  "icon": "assets/icons/lunette.png",
-  "shots": [
-   "assets/shots/lunette-1.jpg",
-   "assets/shots/lunette-2.jpg",
-   "assets/shots/lunette-3.jpg"
-  ],
-  "changed": 1793217383000,
-  "whatsnew": "",
-  "devices": 112,
   "updates": 2
  },
  {
@@ -345,29 +322,6 @@
   "updates": 2
  },
  {
-  "id": "58fe9da4-d0e0-420b-b663-d53ca10d2116",
-  "slug": "brickwise",
-  "name": "Brickwise - Triathlon and duathlon",
-  "desc": "Brickwise records a whole triathlon, duathlon or aquathlon as one activity on watches that have no multisport profile, such as the Venu, vivoactive and Forerunner 55 or 165. Every leg and both transitions get their own lap, so your swim, T1, bike, T2 and run splits are all in Garmin Connect.\n\nPick a format, set your swim pace, bike speed, run pace and transition times, and Brickwise shows the planned finish. During the race it notices transitions by itself: it buzzes, and you confirm with START or cancel with BACK. The START button always moves to the next leg straight away. One big number per leg, your expected finish and how far you are ahead of or behind your plan.\n\nWHAT IT DOES\n- Formats: super sprint, sprint, Olympic, 70.3, aquathlon, duathlon sprint and standard, plus custom distances and order\n- Race plan per leg from pace, speed and transition times, with the planned finish\n- Automatic transition detection from GPS speed and step rhythm, with a buzz and a confirm or cancel window\n- Manual lap button as override at any moment; the touchscreen is locked during the race by default\n- Open water GPS smoothing: jumps are filtered out and gaps are bridged, so the swim distance is not lost\n- Live expected finish time, ahead or behind your plan, and the clock time you will finish\n- Saved as one multisport activity with a lap per leg plus leg, distance and time fields, never as plain running\n- Results summary with transition times, the last ten races and a race-day countdown\n- Five languages, metric or imperial, and a glance with days to race day and your last result\n\nWHAT IT NEEDS\n- A watch with GPS; heart rate is recorded by the watch itself\n- Brickwise must stay open during the race\n- Detection suggests transitions; check the confirm buzz and use the lap button when needed",
-  "nl": "Brickwise neemt een hele triathlon, duathlon of aquathlon op als één activiteit op horloges zonder multisportprofiel, zoals de Venu, vivoactive en Forerunner 55 of 165. Elk onderdeel en beide wissels krijgen een eigen ronde, dus je zwem-, W1-, fiets-, W2- en looptijden staan allemaal in Garmin Connect.\n\nKies een formaat, stel je zwemtempo, fietssnelheid, looptempo en wisseltijden in, en Brickwise toont de geplande finish. Tijdens de race merkt de app wissels zelf op: hij trilt, jij bevestigt met START of annuleert met TERUG. De START-knop gaat altijd meteen naar het volgende onderdeel. Eén groot getal per onderdeel, je verwachte finish en hoeveel je voor of achter je plan ligt.\n\nWHAT IT DOES\n- Formaten: supersprint, sprint, olympisch, 70.3, aquathlon, duatlon sprint en standaard, plus eigen afstanden en volgorde\n- Raceplan per onderdeel uit tempo, snelheid en wisseltijden, met de geplande finish\n- Automatische wisseldetectie uit GPS-snelheid en stapritme, met trilling en een venster om te bevestigen of te annuleren\n- Handmatige rondeknop als override op elk moment; het aanraakscherm is tijdens de race standaard vergrendeld\n- GPS-effening in open water: sprongen worden gefilterd en gaten overbrugd, zodat de zwemafstand niet verdwijnt\n- Live verwachte eindtijd, voor of achter op je plan, en de kloktijd waarop je binnenkomt\n- Opgeslagen als één multisportactiviteit met een ronde per onderdeel plus velden voor onderdeel, afstand en tijd, nooit als gewoon hardlopen\n- Uitslag met wisseltijden, de laatste tien races en aftellen naar de racedag\n- Vijf talen, metrisch of imperiaal, en een glance met dagen tot de race en je vorige uitslag\n\nWHAT IT NEEDS\n- Een horloge met GPS; de hartslag neemt het horloge zelf op\n- Brickwise moet tijdens de race open blijven\n- De detectie stelt wissels voor; let op de bevestigingstrilling en gebruik de rondeknop als het nodig is",
-  "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
-  "downloads": 100,
-  "version": "1.0.1",
-  "category": "220",
-  "icon": "assets/icons/brickwise.png",
-  "shots": [
-   "assets/shots/brickwise-1.jpg",
-   "assets/shots/brickwise-2.jpg",
-   "assets/shots/brickwise-3.jpg"
-  ],
-  "changed": 1793452671000,
-  "whatsnew": "Custom race can now be bike then run only (Sports / Bike · run), for example 25 km bike and 10 km run.",
-  "devices": 188,
-  "updates": 3
- },
- {
   "id": "9c8073f2-9b2b-4d7d-8493-980a0182bc0a",
   "slug": "blackjack",
   "name": "Blackjack - Card counting trainer",
@@ -514,7 +468,7 @@
   "type": "1",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.0",
   "category": "268",
   "icon": "assets/icons/flapline.png",
@@ -526,29 +480,6 @@
   "changed": 1793120063000,
   "whatsnew": "",
   "devices": 112,
-  "updates": 2
- },
- {
-  "id": "82514cef-bcab-4e44-8527-1f040d90f35e",
-  "slug": "kathode",
-  "name": "Kathode - Nixie Tube Watch Face",
-  "desc": "Kathode shows the time on four glowing nixie tubes: a glass envelope with an anode mesh, the lit digit with its orange glow and the nine unlit cathodes faintly visible behind it. Above sits a small VFD strip with the date in your watch language, below a base plate with four data windows, and two more fields sit on the edges next to the tubes.\n\nEvery setting, every slot, on every size. You pick the tube color, the base plate, the tube shape, the clock format, the date format and what each of the six fields shows, on the watch itself or in the Connect app. The digits are drawn for each screen resolution separately, so they stay sharp and fill the face on every supported watch.\n\nWHAT IT DOES\n- Four large tubes for hours and minutes, optional two small seconds tubes in the base plate, neon colon that blinks while the watch is awake\n- Six tube colors: classic orange, amber, ice blue, green, red, purple; three base plates: black glass, walnut, brushed steel; narrow or wide tubes\n- Cathode cycle: on a wrist turn (or only on the hour) the digits roll through 0-9 and drop into place, and the tubes flicker briefly when the face wakes up\n- 28 field types for six slots: battery (% and days left), notifications, alarm, steps with goal bar, heart rate, Body Battery (current value), stress, weather (temperature, day/night icon, chance of rain), next sunrise or sunset, sunrise, sunset, altitude, barometer with 3-hour trend, wind with direction arrow, floors, calories, VO2 max, recovery time, sleep score, second time zone, week number, seconds, distance, intensity minutes, chance of rain, Pulse Ox, phone connection\n- Weather icon follows day and night at your location, so no bright sun at midnight; partly and mostly cloudy have their own icons\n- Units and 12/24 h follow the watch settings unless you choose otherwise\n- Tap a field to open the matching system widget (watches with API 4.2 or newer)\n- Always-on display on AMOLED: only the digit outlines, dimmed, under 10% of the pixels and shifted every minute; on MIP watches the full face stays on, with seconds tubes when the power budget allows\n- Free, no key, no trial, no account\n\nWHAT IT NEEDS\n- A round Garmin watch with Connect IQ 3.2 or newer (AMOLED 360-466 px or MIP 240-280 px)\n- Weather, sunrise/sunset and wind need a phone connection now and then; fields without data show \"--\"\n- Body Battery, stress, Pulse Ox, sleep score and recovery only on watches that measure them\n- Font: Terminus Font (SIL OFL 1.1)",
-  "nl": "Kathode toont de tijd op vier gloeiende nixiebuizen: een glazen buis met anodegaas, het oplichtende cijfer met zijn oranje gloed en de negen niet-actieve kathodes vaag erachter. Bovenaan een kleine VFD-strook met de datum in de taal van je horloge, onderaan een voetplaat met vier gegevensvensters, en naast de buizen zitten nog twee velden op de randen.\n\nElke instelling, elk veld, op elke schermmaat. Je kiest de buiskleur, de voetplaat, de buisvorm, de tijdnotatie, de datumnotatie en wat elk van de zes velden toont, op het horloge zelf of in de Connect-app. De cijfers zijn voor elke schermresolutie apart getekend, dus ze blijven scherp en vullen de wijzerplaat op elk ondersteund horloge.\n\nWAT HET DOET\n- Vier grote buizen voor uren en minuten, optioneel twee kleine secondebuizen in de voetplaat, neon-dubbele punt die knippert zolang het horloge wakker is\n- Zes buiskleuren: klassiek oranje, amber, ijsblauw, groen, rood, paars; drie voetplaten: zwart glas, walnoot, geborsteld staal; smalle of brede buizen\n- Kathodecyclus: bij een polsdraai (of alleen op het hele uur) rollen de cijfers door 0-9 en vallen ze op hun plek, en bij het aangaan flikkeren de buizen even\n- 28 veldsoorten voor zes plekken: batterij (% en dagen), meldingen, wekker, stappen met doelbalk, hartslag, Body Battery (huidige waarde), stress, weer (temperatuur, dag/nacht-icoon, regenkans), volgende zonsopkomst of -ondergang, zonsopkomst, zonsondergang, hoogte, barometer met trend over 3 uur, wind met richtingpijl, verdiepingen, calorieën, VO2 max, hersteltijd, slaapscore, tweede tijdzone, weeknummer, seconden, afstand, intensiteitsminuten, regenkans, Pulse Ox, telefoonverbinding\n- Het weericoon volgt dag en nacht op je locatie, dus geen felle zon om middernacht; licht en zwaar bewolkt hebben elk een eigen icoon\n- Eenheden en 12/24 uur volgen de horloge-instellingen, tenzij je zelf iets kiest\n- Tik op een veld om de bijbehorende systeemwidget te openen (horloges met API 4.2 of nieuwer)\n- Always-on op AMOLED: alleen de cijferomtrek, gedimd, onder 10% van de pixels en elke minuut verschoven; op MIP-horloges blijft de hele wijzerplaat aan, met secondebuizen zolang het energiebudget het toelaat\n- Gratis, geen sleutel, geen proefperiode, geen account\n\nWAT HET NODIG HEEFT\n- Een rond Garmin-horloge met Connect IQ 3.2 of nieuwer (AMOLED 360-466 px of MIP 240-280 px)\n- Weer, zonsopkomst/-ondergang en wind hebben af en toe een telefoonverbinding nodig; velden zonder gegevens tonen \"--\"\n- Body Battery, stress, Pulse Ox, slaapscore en herstel alleen op horloges die dat meten\n- Lettertype: Terminus Font (SIL OFL 1.1)",
-  "type": "1",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 100,
-  "version": "1.0.0",
-  "category": "268",
-  "icon": "assets/icons/kathode.png",
-  "shots": [
-   "assets/shots/kathode-1.jpg",
-   "assets/shots/kathode-2.jpg",
-   "assets/shots/kathode-3.jpg"
-  ],
-  "changed": 1793215887000,
-  "whatsnew": "",
-  "devices": 107,
   "updates": 2
  },
  {
@@ -606,7 +537,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.0.0",
   "category": "213",
   "icon": "assets/icons/aerate.png",
@@ -652,7 +583,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 0,
+  "downloads": 1,
   "version": "1.0.0",
   "category": "205",
   "icon": "assets/icons/roastline.png",
@@ -687,6 +618,144 @@
   "changed": 1793117259000,
   "whatsnew": "",
   "devices": 186,
+  "updates": 2
+ },
+ {
+  "id": "4f6e2b25-b01a-4262-ba29-185216f33430",
+  "slug": "ledgr",
+  "name": "Ledgr - Financial calculator",
+  "desc": "Ledgr puts a full financial calculator on your wrist: time value of money with all five keys, a loan and mortgage view with the full amortization schedule, net present value and internal rate of return for uneven cash flows, savings with inflation, and break-even. It uses the same cash-flow sign convention and equation as the classic business calculators, and its results match the worked examples in the HP 12C owner's handbook.\n\nEnter any four of N, I/YR, PV, PMT and FV and solve for the fifth; the interest rate is found by iteration. The loan view shows the payment per month, the total interest, the linear (straight-line principal) alternative and what an extra payment per month does: how much sooner the loan is paid off and how much interest it saves. Every number is entered on a large rotating keypad: aim, then confirm.\n\nWHAT IT DOES\n- TVM solver: N, I/YR, PV, PMT, FV, BEGIN/END, 1-52 payments per year\n- Loan: payment, total interest, linear first and last payment, linear total interest\n- Extra payment per period: months sooner, interest saved, new payoff time\n- Amortization schedule per year or per period: interest, principal, balance\n- NPV and IRR for up to 20 cash flow groups with repeat counts (Nj)\n- Savings: start amount plus deposits, future value, interest earned and value in today's money after inflation\n- Break-even units and revenue with a target profit\n- Save up to 12 TVM and loan scenarios and load them back\n- Currency symbol ($, €, £, ¥, kr, CHF or none), 0 or 2 decimals, number format follows the watch language\n- Glance: your last result\n\nWHAT IT NEEDS\n- Any Connect IQ watch; no phone connection, no sensors\n- Results are estimates for planning; check binding figures with your lender or adviser",
+  "nl": "Ledgr zet een complete financiële rekenmachine op je pols: tijdwaarde van geld met alle vijf de toetsen, een lening- en hypotheekweergave met volledig aflosschema, netto contante waarde en interne rentabiliteit voor ongelijke kasstromen, sparen met inflatie, en break-even. De app gebruikt dezelfde tekenconventie en vergelijking als de klassieke zakelijke rekenmachines, en de uitkomsten kloppen met de rekenvoorbeelden uit het handboek van de HP 12C.\n\nVul vier van N, I/YR, PV, PMT en FV in en reken de vijfde uit; de rente wordt iteratief gevonden. De leningweergave toont het bedrag per maand, de totale rente, het lineaire alternatief en wat extra aflossen per maand doet: hoeveel eerder de lening af is en hoeveel rente dat scheelt. Elk getal voer je in op een groot draaiend toetsenbord: richten, dan bevestigen.\n\nWHAT IT DOES\n- TVM-oplosser: N, I/YR, PV, PMT, FV, BEGIN/END, 1-52 termijnen per jaar\n- Lening: maandbedrag, totale rente, lineair eerste en laatste termijn, lineaire totale rente\n- Extra aflossen per termijn: maanden eerder, bespaarde rente, nieuwe looptijd\n- Aflosschema per jaar of per termijn: rente, aflossing, restschuld\n- NCW en IRR voor maximaal 20 kasstroomgroepen met herhaling (Nj)\n- Sparen: startbedrag plus inleg, eindwaarde, rente en koopkracht van nu na inflatie\n- Break-even in stuks en omzet, met doelwinst\n- Tot 12 TVM- en leningscenario's opslaan en terugladen\n- Valutateken ($, €, £, ¥, kr, CHF of geen), 0 of 2 decimalen, getalnotatie volgt de taal van het horloge\n- Glance: je laatste uitkomst\n\nWHAT IT NEEDS\n- Elk Connect IQ-horloge; geen telefoonverbinding, geen sensoren\n- Uitkomsten zijn schattingen om mee te plannen; controleer bindende bedragen bij je geldverstrekker of adviseur",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.0",
+  "category": "204",
+  "icon": "assets/icons/ledgr.png",
+  "shots": [
+   "assets/shots/ledgr-1.jpg",
+   "assets/shots/ledgr-2.jpg",
+   "assets/shots/ledgr-3.jpg"
+  ],
+  "changed": 1793216526000,
+  "whatsnew": "",
+  "devices": 186,
+  "updates": 2
+ },
+ {
+  "id": "11ccce61-f444-4473-9428-9ab8c084b84b",
+  "slug": "turfcast",
+  "name": "Turfcast - Turf growth and PGR planner",
+  "desc": "Turfcast keeps a daily temperature and humidity log from your phone's weather on your watch and turns it into the numbers a greenkeeper works with: growing degree days since your last plant growth regulator application, the turfgrass growth potential, a dollar spot risk and a 7-day water balance. It is made for golf course greenkeepers, sports field managers and lawn enthusiasts who want the GDD timing without a desktop subscription.\n\nLog a PGR application and the watch counts growing degree days (base 0 °C) toward your reapplication interval, then predicts the date from the daily forecast and your recent weather. Growth potential suggests how often to mow and how much nitrogen the grass can use; the dollar spot page shows the Smith-Kerns probability against your threshold. Turfcast is a planning aid: always follow the product label and your local regulations.\n\nWHAT IT DOES\n- GDD counter since the last PGR application (base 0 °C, 200 GDD default for trinexapac-ethyl, adjustable 50-800)\n- Predicted reapplication date from the daily forecast, then your recent daily GDD\n- Growth potential (PACE Turf model) for cool-season or warm-season grass, with a 7-day bar chart\n- Suggested mows per week and nitrogen per week from growth potential and your monthly maximum N\n- Dollar spot probability (Smith-Kerns model) from 5-day mean temperature and humidity, with an adjustable threshold\n- 7-day water balance: turf evapotranspiration (Hargreaves, FAO-56 crop coefficient) against logged rain and irrigation\n- Log PGR, mowing, fertilizer, irrigation and rain; history with delete\n- Glance: days to the next PGR and today's growth potential\n- °C/°F, mm/in, g/m² or lb/1000 ft²\n\nWHAT IT NEEDS\n- A watch with Connect IQ 3.2 or newer and weather from the Garmin Connect app on your phone\n- Wear or open the watch at the course: the weather location follows the phone\n- Logs are kept on the watch for 60 days",
+  "nl": "Turfcast houdt op je horloge een dagelijks logboek van temperatuur en luchtvochtigheid bij uit het weer van je telefoon en maakt daar de getallen van waar een greenkeeper mee werkt: groeigraaddagen sinds je laatste groeiremmer, de groeipotentie van het gras, het risico op dollar spot en een waterbalans over 7 dagen. Gemaakt voor greenkeepers, beheerders van sportvelden en gazonliefhebbers die GDD-timing willen zonder een dure abonnementsdienst.\n\nLog een PGR-bespuiting en het horloge telt groeigraaddagen (basis 0 °C) naar je herhaalinterval en voorspelt de datum uit de dagverwachting en het recente weer. De groeipotentie geeft aan hoe vaak je maait en hoeveel stikstof het gras kan gebruiken; de dollar-spot-pagina toont de Smith-Kerns-kans tegen je drempel. Turfcast is een hulpmiddel bij het plannen: volg altijd het etiket en de lokale regels.\n\nWHAT IT DOES\n- GDD-teller sinds de laatste PGR-bespuiting (basis 0 °C, standaard 200 GDD voor trinexapac-ethyl, instelbaar 50-800)\n- Voorspelde herhaaldatum uit de dagverwachting en daarna je recente GDD per dag\n- Groeipotentie (PACE Turf-model) voor koelseizoen- of warmseizoengras, met staafjes over 7 dagen\n- Maaibeurten per week en stikstof per week uit de groeipotentie en je maximale N per maand\n- Kans op dollar spot (Smith-Kerns-model) uit de 5-daagse gemiddelde temperatuur en luchtvochtigheid, met instelbare drempel\n- Waterbalans over 7 dagen: verdamping van de grasmat (Hargreaves, FAO-56 gewasfactor) tegen gelogde regen en beregening\n- Log PGR, maaien, bemesten, beregenen en regen; geschiedenis met verwijderen\n- Glance: dagen tot de volgende PGR en de groeipotentie van vandaag\n- °C/°F, mm/in, g/m² of lb/1000 ft²\n\nWHAT IT NEEDS\n- Een horloge met Connect IQ 3.2 of nieuwer en weer uit de Garmin Connect-app op je telefoon\n- Draag of open het horloge op de baan: de weerlocatie volgt de telefoon\n- Logboek blijft 60 dagen op het horloge",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 1,
+  "version": "1.0.0",
+  "category": "213",
+  "icon": "assets/icons/turfcast.png",
+  "shots": [
+   "assets/shots/turfcast-1.jpg",
+   "assets/shots/turfcast-2.jpg",
+   "assets/shots/turfcast-3.jpg"
+  ],
+  "changed": 1793237726000,
+  "whatsnew": "",
+  "devices": 170,
+  "updates": 2
+ },
+ {
+  "id": "54bb13a3-8f60-4352-9fe3-58ea17ad623a",
+  "slug": "fivefold",
+  "name": "Fivefold - 5x5 strength program",
+  "desc": "Fivefold runs a classic 5x5 barbell program on your wrist. It knows whether today is workout A or B, what each lift weighs, which warm-up sets come first and which plates go on each side of the bar. Log every set with a swipe and a tap, and the rest timer buzzes when it is time to lift again.\n\nThe progression works out itself: complete all sets and the weight goes up next time, miss and you repeat it, miss three times in a row and it drops 10 %. After a week or more away it offers a lighter restart that you choose. Free, no account, no trial, no phone needed.\n\nWHAT IT DOES\n- 5x5 (squat, bench, row / squat, overhead press, deadlift) or a 3x5 variant, alternating A and B\n- Linear progression per lift with your own increments (2.5 kg, 5 kg on deadlift by default), deload after three misses\n- Automatic warm-up sets from the empty bar to your working weight\n- Plates per side for your bar and the plates your gym has, in kg or lb\n- Rest timer per set, longer after a missed set, with vibration\n- Estimated 1RM per lift (Epley), personal records and a trend chart\n- Goal per lift with a date when you will reach it at your current pace\n- History of up to 160 workouts, resume an interrupted workout, saves as a strength activity in Garmin Connect\n- Glance with your next workout and squat weight\n\nWHAT IT NEEDS\n- A barbell, plates and a rack; enter your own starting weights or begin with the empty bar\n- Works on touch and button watches",
+  "nl": "Fivefold draait een klassiek 5x5-halterprogramma op je pols. Hij weet of het vandaag workout A of B is, wat elke oefening weegt, welke opwarmsets eerst komen en welke schijven er aan elke kant van de stang moeten. Je logt elke set met een veeg en een tik, en de rusttimer trilt als je weer mag.\n\nDe progressie regelt zichzelf: alle sets gehaald en het gewicht gaat de volgende keer omhoog, gemist en je doet het opnieuw, drie keer op rij gemist en het gaat 10 % omlaag. Na een week of langer weg biedt hij een lichtere herstart aan die je zelf kiest. Gratis, zonder account, zonder proefperiode, zonder telefoon.\n\nWAT HET DOET\n- 5x5 (squat, bankdrukken, roeien / squat, overhead press, deadlift) of een 3x5-variant, om en om A en B\n- Lineaire progressie per oefening met eigen stappen (standaard 2,5 kg, deadlift 5 kg), deload na drie keer missen\n- Automatische opwarmsets van de lege stang naar je werkgewicht\n- Schijven per kant voor jouw stang en de schijven van jouw gym, in kg of lb\n- Rusttimer per set, langer na een gemiste set, met trillen\n- Geschatte 1RM per oefening (Epley), persoonlijke records en een trendgrafiek\n- Doel per oefening met de datum waarop je het haalt in je huidige tempo\n- Historie van maximaal 160 workouts, onderbroken workout hervatten, opslaan als krachttraining in Garmin Connect\n- Glance met je volgende workout en squatgewicht\n\nWAT HET NODIG HEEFT\n- Een halterstang, schijven en een rek; vul je eigen startgewichten in of begin met de lege stang\n- Werkt op horloges met touchscreen en met knoppen",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "277",
+  "icon": "assets/icons/fivefold.png",
+  "shots": [
+   "assets/shots/fivefold-1.jpg",
+   "assets/shots/fivefold-2.jpg",
+   "assets/shots/fivefold-3.jpg"
+  ],
+  "changed": 1793120015000,
+  "whatsnew": "Fixes a crash on older watches such as the fenix 5, Forerunner 935 and vivoactive 3.",
+  "devices": 186,
+  "updates": 3
+ },
+ {
+  "id": "66683300-0f0e-4b17-b665-2fcae78aa319",
+  "slug": "lunette",
+  "name": "Lunette - Moon Phase Watch Face",
+  "desc": "Lunette shows the Moon as it is right now. The phase is calculated on the watch from the positions of the Moon and the Sun, with a soft shadow line, the dark side faintly lit by earthshine and the seas drawn where they really are. In the sky setting the Moon is tilted the way you see it from where you stand, so in the southern hemisphere and near the equator it turns the way it does above you.\n\nAround the face runs a thin moon ring: the current lunar cycle from new moon at the top, clockwise to the next new moon, with the first quarter, full moon and last quarter marked at their actual times and a dot for now. Turn your wrist and the shadow line slides from yesterday's phase to today's. It works without a phone, a server or an account.\n\nWHAT IT DOES\n- Moon phase with illuminated fraction, calculated with published astronomical formulas (Meeus), with a soft terminator and earthshine on crescents\n- Sky orientation (tilt as seen from your location) or upright, with automatic northern or southern hemisphere\n- Moon ring with the lunar cycle and the four main phases at their real moments\n- Bottom line of your choice: phase name and percentage, next main phase with day and time, moonrise and moonset, day of the lunar cycle, or nothing\n- Silver, gold or ice moon; earthshine, ring and wrist-turn animation can each be switched off; 12 or 24 hour time\n- Its own look on MIP screens (fenix, Forerunner) with dithered shading, and a minimal always-on mode on AMOLED\n\nWHAT IT NEEDS\n- A supported Garmin watch; settings on the watch (long press on the watch face) or in the Connect app\n- For sky orientation and moonrise/moonset: a recent location from weather or an activity; without it the Moon is shown upright",
+  "nl": "Lunette laat de maan zien zoals die nu staat. De fase wordt op het horloge berekend uit de stand van maan en zon, met een zachte schaduwgrens, de donkere kant zwak verlicht door aardschijn en de maria op hun echte plek. In de hemelstand staat de maan gekanteld zoals jij hem ziet vanaf waar je bent, dus op het zuidelijk halfrond en rond de evenaar draait hij zoals boven jou.\n\nRondom loopt een dunne maanring: de lopende maancyclus van nieuwe maan bovenaan, met de klok mee tot de volgende nieuwe maan, met eerste kwartier, volle maan en laatste kwartier op hun echte moment en een stip voor nu. Draai je pols en de schaduwgrens schuift van de stand van gisteren naar vandaag. Werkt zonder telefoon, server of account.\n\nWAT HIJ DOET\n- Maanfase met verlicht percentage, berekend met gepubliceerde astronomische formules (Meeus), met zachte schaduwgrens en aardschijn bij een sikkel\n- Hemelstand (kanteling zoals vanaf jouw plek) of rechtop, met automatisch noordelijk of zuidelijk halfrond\n- Maanring met de maancyclus en de vier hoofdfasen op hun echte moment\n- Onderregel naar keuze: fasenaam en percentage, volgende hoofdfase met dag en tijd, maan op en onder, dag in de cyclus, of niets\n- Zilveren, gouden of ijsblauwe maan; aardschijn, ring en polsdraai-animatie los uit te zetten; 12- of 24-uursklok\n- Eigen uitvoering op MIP-schermen (fenix, Forerunner) met geditherde schaduw, en een minimale always-on-stand op AMOLED\n\nWAT HIJ NODIG HEEFT\n- Een ondersteund Garmin-horloge; instellingen op het horloge (lang drukken op de wijzerplaat) of in de Connect-app\n- Voor de hemelstand en maan op/onder: een recente locatie uit het weer of een activiteit; zonder locatie staat de maan rechtop",
+  "type": "1",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.0",
+  "category": "270",
+  "icon": "assets/icons/lunette.png",
+  "shots": [
+   "assets/shots/lunette-1.jpg",
+   "assets/shots/lunette-2.jpg",
+   "assets/shots/lunette-3.jpg"
+  ],
+  "changed": 1793217383000,
+  "whatsnew": "",
+  "devices": 112,
+  "updates": 2
+ },
+ {
+  "id": "58fe9da4-d0e0-420b-b663-d53ca10d2116",
+  "slug": "brickwise",
+  "name": "Brickwise - Triathlon and duathlon",
+  "desc": "Brickwise records a whole triathlon, duathlon or aquathlon as one activity on watches that have no multisport profile, such as the Venu, vivoactive and Forerunner 55 or 165. Every leg and both transitions get their own lap, so your swim, T1, bike, T2 and run splits are all in Garmin Connect.\n\nPick a format, set your swim pace, bike speed, run pace and transition times, and Brickwise shows the planned finish. During the race it notices transitions by itself: it buzzes, and you confirm with START or cancel with BACK. The START button always moves to the next leg straight away. One big number per leg, your expected finish and how far you are ahead of or behind your plan.\n\nWHAT IT DOES\n- Formats: super sprint, sprint, Olympic, 70.3, aquathlon, duathlon sprint and standard, plus custom distances and order\n- Race plan per leg from pace, speed and transition times, with the planned finish\n- Automatic transition detection from GPS speed and step rhythm, with a buzz and a confirm or cancel window\n- Manual lap button as override at any moment; the touchscreen is locked during the race by default\n- Open water GPS smoothing: jumps are filtered out and gaps are bridged, so the swim distance is not lost\n- Live expected finish time, ahead or behind your plan, and the clock time you will finish\n- Saved as one multisport activity with a lap per leg plus leg, distance and time fields, never as plain running\n- Results summary with transition times, the last ten races and a race-day countdown\n- Five languages, metric or imperial, and a glance with days to race day and your last result\n\nWHAT IT NEEDS\n- A watch with GPS; heart rate is recorded by the watch itself\n- Brickwise must stay open during the race\n- Detection suggests transitions; check the confirm buzz and use the lap button when needed",
+  "nl": "Brickwise neemt een hele triathlon, duathlon of aquathlon op als één activiteit op horloges zonder multisportprofiel, zoals de Venu, vivoactive en Forerunner 55 of 165. Elk onderdeel en beide wissels krijgen een eigen ronde, dus je zwem-, W1-, fiets-, W2- en looptijden staan allemaal in Garmin Connect.\n\nKies een formaat, stel je zwemtempo, fietssnelheid, looptempo en wisseltijden in, en Brickwise toont de geplande finish. Tijdens de race merkt de app wissels zelf op: hij trilt, jij bevestigt met START of annuleert met TERUG. De START-knop gaat altijd meteen naar het volgende onderdeel. Eén groot getal per onderdeel, je verwachte finish en hoeveel je voor of achter je plan ligt.\n\nWHAT IT DOES\n- Formaten: supersprint, sprint, olympisch, 70.3, aquathlon, duatlon sprint en standaard, plus eigen afstanden en volgorde\n- Raceplan per onderdeel uit tempo, snelheid en wisseltijden, met de geplande finish\n- Automatische wisseldetectie uit GPS-snelheid en stapritme, met trilling en een venster om te bevestigen of te annuleren\n- Handmatige rondeknop als override op elk moment; het aanraakscherm is tijdens de race standaard vergrendeld\n- GPS-effening in open water: sprongen worden gefilterd en gaten overbrugd, zodat de zwemafstand niet verdwijnt\n- Live verwachte eindtijd, voor of achter op je plan, en de kloktijd waarop je binnenkomt\n- Opgeslagen als één multisportactiviteit met een ronde per onderdeel plus velden voor onderdeel, afstand en tijd, nooit als gewoon hardlopen\n- Uitslag met wisseltijden, de laatste tien races en aftellen naar de racedag\n- Vijf talen, metrisch of imperiaal, en een glance met dagen tot de race en je vorige uitslag\n\nWHAT IT NEEDS\n- Een horloge met GPS; de hartslag neemt het horloge zelf op\n- Brickwise moet tijdens de race open blijven\n- De detectie stelt wissels voor; let op de bevestigingstrilling en gebruik de rondeknop als het nodig is",
+  "type": "2",
+  "rating": 5.0,
+  "reviews": 1,
+  "downloads": 100,
+  "version": "1.0.1",
+  "category": "220",
+  "icon": "assets/icons/brickwise.png",
+  "shots": [
+   "assets/shots/brickwise-1.jpg",
+   "assets/shots/brickwise-2.jpg",
+   "assets/shots/brickwise-3.jpg"
+  ],
+  "changed": 1793452671000,
+  "whatsnew": "Custom race can now be bike then run only (Sports / Bike · run), for example 25 km bike and 10 km run.",
+  "devices": 188,
+  "updates": 3
+ },
+ {
+  "id": "82514cef-bcab-4e44-8527-1f040d90f35e",
+  "slug": "kathode",
+  "name": "Kathode - Nixie Tube Watch Face",
+  "desc": "Kathode shows the time on four glowing nixie tubes: a glass envelope with an anode mesh, the lit digit with its orange glow and the nine unlit cathodes faintly visible behind it. Above sits a small VFD strip with the date in your watch language, below a base plate with four data windows, and two more fields sit on the edges next to the tubes.\n\nEvery setting, every slot, on every size. You pick the tube color, the base plate, the tube shape, the clock format, the date format and what each of the six fields shows, on the watch itself or in the Connect app. The digits are drawn for each screen resolution separately, so they stay sharp and fill the face on every supported watch.\n\nWHAT IT DOES\n- Four large tubes for hours and minutes, optional two small seconds tubes in the base plate, neon colon that blinks while the watch is awake\n- Six tube colors: classic orange, amber, ice blue, green, red, purple; three base plates: black glass, walnut, brushed steel; narrow or wide tubes\n- Cathode cycle: on a wrist turn (or only on the hour) the digits roll through 0-9 and drop into place, and the tubes flicker briefly when the face wakes up\n- 28 field types for six slots: battery (% and days left), notifications, alarm, steps with goal bar, heart rate, Body Battery (current value), stress, weather (temperature, day/night icon, chance of rain), next sunrise or sunset, sunrise, sunset, altitude, barometer with 3-hour trend, wind with direction arrow, floors, calories, VO2 max, recovery time, sleep score, second time zone, week number, seconds, distance, intensity minutes, chance of rain, Pulse Ox, phone connection\n- Weather icon follows day and night at your location, so no bright sun at midnight; partly and mostly cloudy have their own icons\n- Units and 12/24 h follow the watch settings unless you choose otherwise\n- Tap a field to open the matching system widget (watches with API 4.2 or newer)\n- Always-on display on AMOLED: only the digit outlines, dimmed, under 10% of the pixels and shifted every minute; on MIP watches the full face stays on, with seconds tubes when the power budget allows\n- Free, no key, no trial, no account\n\nWHAT IT NEEDS\n- A round Garmin watch with Connect IQ 3.2 or newer (AMOLED 360-466 px or MIP 240-280 px)\n- Weather, sunrise/sunset and wind need a phone connection now and then; fields without data show \"--\"\n- Body Battery, stress, Pulse Ox, sleep score and recovery only on watches that measure them\n- Font: Terminus Font (SIL OFL 1.1)",
+  "nl": "Kathode toont de tijd op vier gloeiende nixiebuizen: een glazen buis met anodegaas, het oplichtende cijfer met zijn oranje gloed en de negen niet-actieve kathodes vaag erachter. Bovenaan een kleine VFD-strook met de datum in de taal van je horloge, onderaan een voetplaat met vier gegevensvensters, en naast de buizen zitten nog twee velden op de randen.\n\nElke instelling, elk veld, op elke schermmaat. Je kiest de buiskleur, de voetplaat, de buisvorm, de tijdnotatie, de datumnotatie en wat elk van de zes velden toont, op het horloge zelf of in de Connect-app. De cijfers zijn voor elke schermresolutie apart getekend, dus ze blijven scherp en vullen de wijzerplaat op elk ondersteund horloge.\n\nWAT HET DOET\n- Vier grote buizen voor uren en minuten, optioneel twee kleine secondebuizen in de voetplaat, neon-dubbele punt die knippert zolang het horloge wakker is\n- Zes buiskleuren: klassiek oranje, amber, ijsblauw, groen, rood, paars; drie voetplaten: zwart glas, walnoot, geborsteld staal; smalle of brede buizen\n- Kathodecyclus: bij een polsdraai (of alleen op het hele uur) rollen de cijfers door 0-9 en vallen ze op hun plek, en bij het aangaan flikkeren de buizen even\n- 28 veldsoorten voor zes plekken: batterij (% en dagen), meldingen, wekker, stappen met doelbalk, hartslag, Body Battery (huidige waarde), stress, weer (temperatuur, dag/nacht-icoon, regenkans), volgende zonsopkomst of -ondergang, zonsopkomst, zonsondergang, hoogte, barometer met trend over 3 uur, wind met richtingpijl, verdiepingen, calorieën, VO2 max, hersteltijd, slaapscore, tweede tijdzone, weeknummer, seconden, afstand, intensiteitsminuten, regenkans, Pulse Ox, telefoonverbinding\n- Het weericoon volgt dag en nacht op je locatie, dus geen felle zon om middernacht; licht en zwaar bewolkt hebben elk een eigen icoon\n- Eenheden en 12/24 uur volgen de horloge-instellingen, tenzij je zelf iets kiest\n- Tik op een veld om de bijbehorende systeemwidget te openen (horloges met API 4.2 of nieuwer)\n- Always-on op AMOLED: alleen de cijferomtrek, gedimd, onder 10% van de pixels en elke minuut verschoven; op MIP-horloges blijft de hele wijzerplaat aan, met secondebuizen zolang het energiebudget het toelaat\n- Gratis, geen sleutel, geen proefperiode, geen account\n\nWAT HET NODIG HEEFT\n- Een rond Garmin-horloge met Connect IQ 3.2 of nieuwer (AMOLED 360-466 px of MIP 240-280 px)\n- Weer, zonsopkomst/-ondergang en wind hebben af en toe een telefoonverbinding nodig; velden zonder gegevens tonen \"--\"\n- Body Battery, stress, Pulse Ox, slaapscore en herstel alleen op horloges die dat meten\n- Lettertype: Terminus Font (SIL OFL 1.1)",
+  "type": "1",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 100,
+  "version": "1.0.0",
+  "category": "268",
+  "icon": "assets/icons/kathode.png",
+  "shots": [
+   "assets/shots/kathode-1.jpg",
+   "assets/shots/kathode-2.jpg",
+   "assets/shots/kathode-3.jpg"
+  ],
+  "changed": 1793215887000,
+  "whatsnew": "",
+  "devices": 107,
   "updates": 2
  },
  {
@@ -1048,7 +1117,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.0",
   "category": "221",
   "icon": "assets/icons/sightline.png",
