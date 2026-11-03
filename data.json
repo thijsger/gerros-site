@@ -1338,7 +1338,7 @@
    "assets/shots/hookset-5.jpg"
   ],
   "changed": 1793201589000,
-  "whatsnew": "New: a notification 20 minutes before the best 2-hour fishing window of the next 24 hours, even with the app closed (can be turned off in the menu).",
+  "whatsnew": "Now also on the Instinct 3 Solar, with a layout that keeps clear of the round subscreen.",
   "devices": 185,
   "updates": 3
  },
@@ -2602,7 +2602,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "219",
   "icon": "assets/icons/stillpoint.png",
   "shots": [
@@ -2610,10 +2610,10 @@
    "assets/shots/stillpoint-2.jpg",
    "assets/shots/stillpoint-3.jpg"
   ],
-  "changed": 1792465809000,
+  "changed": 1793707873000,
   "whatsnew": "Added Traditional Chinese.",
   "devices": 178,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "c2e849fc-b763-4f82-a5f6-6d4b47e204bf",
@@ -3478,7 +3478,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.6",
   "category": "254",
   "icon": "assets/icons/circada.png",
   "shots": [
@@ -3486,10 +3486,10 @@
    "assets/shots/circada-2.jpg",
    "assets/shots/circada-3.jpg"
   ],
-  "changed": 1792467172000,
-  "whatsnew": "Added Traditional Chinese.",
+  "changed": 1793720334000,
+  "whatsnew": "More shift start times: early shifts up to 10:00, late shifts up to 18:00 and night shifts starting at 00:00.",
   "devices": 167,
-  "updates": 7
+  "updates": 9
  },
  {
   "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf",
