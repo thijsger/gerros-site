@@ -1127,7 +1127,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.2.0",
   "category": "257",
   "icon": "assets/icons/recite.png",
   "shots": [
@@ -1137,10 +1137,10 @@
    "assets/shots/recite-4.jpg",
    "assets/shots/recite-5.jpg"
   ],
-  "changed": 1793227728000,
+  "changed": 1793704878000,
   "whatsnew": "Add up to 10 of your own verses, any passage in any translation, in the app settings in Garmin Connect. They appear first under My verses.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "5130c288-b013-451b-bc83-dd37f1641ae2",
@@ -1452,7 +1452,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "213",
   "icon": "assets/icons/topup.png",
   "shots": [
@@ -1460,10 +1460,10 @@
    "assets/shots/topup-2.jpg",
    "assets/shots/topup-3.jpg"
   ],
-  "changed": 1792472149000,
+  "changed": 1793704675000,
   "whatsnew": "Added the BYD Seal AWD as a car preset.",
   "devices": 189,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "09c7f7a8-50ff-44b7-ab12-e9acb549af28",
@@ -2611,7 +2611,7 @@
    "assets/shots/stillpoint-3.jpg"
   ],
   "changed": 1792465809000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Added Traditional Chinese.",
   "devices": 178,
   "updates": 5
  },
@@ -3487,7 +3487,7 @@
    "assets/shots/circada-3.jpg"
   ],
   "changed": 1792467172000,
-  "whatsnew": "Adds support for Enduro 4, MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "Added Traditional Chinese.",
   "devices": 167,
   "updates": 7
  },
