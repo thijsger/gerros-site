@@ -4370,7 +4370,7 @@
    "assets/shots/cardvault-5.jpg"
   ],
   "changed": 1792471714000,
-  "whatsnew": "Adds support for MARQ (Gen 3) and Approach S72.",
+  "whatsnew": "New menu item \"New pairing code\": get a fresh code for the web app at any time, also after Disconnect in the web app.",
   "devices": 64,
   "updates": 9
  },
