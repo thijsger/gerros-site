@@ -1351,7 +1351,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "213",
   "icon": "assets/icons/skylog.png",
@@ -4359,7 +4359,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.3.3",
+  "version": "1.3.5",
   "category": "213",
   "icon": "assets/icons/cardvault.png",
   "shots": [
@@ -4369,10 +4369,10 @@
    "assets/shots/cardvault-4.jpg",
    "assets/shots/cardvault-5.jpg"
   ],
-  "changed": 1792471714000,
-  "whatsnew": "New menu item \"New pairing code\": get a fresh code for the web app at any time, also after Disconnect in the web app.",
+  "changed": 1793929023000,
+  "whatsnew": "SYNC tile: if nothing is found, tap or press START again for a new pairing code - no menu needed. Larger menu button.",
   "devices": 64,
-  "updates": 9
+  "updates": 11
  },
  {
   "id": "2f0cb757-209f-4c24-bf73-c5ec56863d70",
