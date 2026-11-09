@@ -1587,8 +1587,8 @@
   "desc": "Laddr turns one max test into a daily plan for pull-ups, push-ups or dips. Choose Grease the Groove (small sets of 40-50% of your max spread through the day), ladders (1-2-3…), the Armstrong pull-up week or the 30-day Fighter pull-up table, and the watch tells you what to do today and when your next set is due.\n\nDuring a set the accelerometer counts your reps and closes the set when you stop; you can correct the count with one tap, and Laddr learns from your corrections. Rest timers follow the program, the plan moves forward on its own, and a weekly retest shows a forecast of your next max from your test trend and how well you kept to the plan.\n\nWHAT IT DOES\n- Max test and a plan for today from Grease the Groove, ladders, Armstrong or Fighter\n- Automatic rep counting with the watch sensors, plus quick manual correction\n- Next Grease the Groove set time spread across your chosen time window\n- Rest timers per program: 90 s, 60 s, 10 s per rep or count-up\n- Program progression: ladder rungs, Armstrong training set, Fighter day\n- Max history, trend per week and a forecast for the next retest\n- Daily goal, streak and the last seven days at a glance\n- Pull-ups, push-ups and dips kept separately, five languages, and a glance with today's sets\n\nWHAT IT NEEDS\n- A pull-up bar or dip station for pull-ups and dips; nothing for push-ups\n- One max test to start, or type in your current max\n- No phone, no account, no internet — everything is worked out on the watch",
   "nl": "Laddr maakt van één maximaaltest een dagplan voor optrekken, opdrukken of dips. Kies Grease the Groove (kleine sets van 40-50 % van je max, verspreid over de dag), ladders (1-2-3…), de Armstrong-optrekweek of de 30-daagse Fighter-tabel, en het horloge zegt wat je vandaag doet en wanneer je volgende set komt.\n\nTijdens een set telt de versnellingsmeter je herhalingen en sluit hij de set als je stopt; met één tik stel je de telling bij, en Laddr leert van die correcties. De rusttimers volgen het programma, het plan schuift vanzelf door, en een wekelijkse hertest toont een voorspelling van je volgende max uit je testtrend en hoe trouw je het plan volgde.\n\nWAT HET DOET\n- Maximaaltest en een plan voor vandaag uit Grease the Groove, ladders, Armstrong of Fighter\n- Herhalingen automatisch tellen met de sensoren van het horloge, snel handmatig bij te stellen\n- Tijdstip van de volgende Grease the Groove-set, verdeeld over je eigen tijdvak\n- Rusttimers per programma: 90 s, 60 s, 10 s per herhaling of oplopend\n- Het programma groeit mee: ladders, Armstrong-trainingsset, Fighter-dag\n- Max-historie, trend per week en een voorspelling voor de volgende hertest\n- Dagdoel, reeks en de laatste zeven dagen in één oogopslag\n- Optrekken, opdrukken en dips apart bijgehouden, vijf talen, en een glance met de sets van vandaag\n\nWAT HET NODIG HEEFT\n- Een optrekstang of dipstation voor optrekken en dips; niets voor opdrukken\n- Eén maximaaltest om te starten, of vul je huidige max in\n- Geen telefoon, geen account, geen internet — alles wordt op het horloge berekend",
   "type": "2",
-  "rating": 5.0,
-  "reviews": 1,
+  "rating": 3.0,
+  "reviews": 2,
   "downloads": 100,
   "version": "1.0.4",
   "category": "277",
@@ -1599,7 +1599,7 @@
    "assets/shots/laddr-3.jpg"
   ],
   "changed": 1793959437000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "Exercise choice (pull-ups, push-ups, dips) is now easy to find: you pick it at first start, and a new Menu page gives access to exercise, plan and settings on every watch.",
   "devices": 189,
   "updates": 5
  },
@@ -2059,7 +2059,7 @@
    "assets/shots/trekdeck-3.jpg"
   ],
   "changed": 1794175663000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "Fixed a crash that stopped the data field from loading on Venu 2, Venu 2 Plus and Venu 2S.",
   "devices": 230,
   "updates": 5
  },
@@ -3336,7 +3336,7 @@
   "nl": "De meeste studietimers tellen vijfentwintig minuten af en laten de rest aan jou over. Studo rekent er ook uit wat je vandaag moet leren en hoe lang je je echt kunt concentreren, en hij loopt door als je de app verlaat.\n\nJe zet je vakken erin met hun tentamendatum en hoeveel er nog te doen is, plus de minuten die je per weekdag hebt. Daar maakt Studo het plan van vandaag van: welk vak krijgt welk blok, afgewisseld in plaats van één vak de hele middag. Na elk blok geef je met één tik een oordeel, en een vergeetcurve per vak bepaalt wanneer oude stof terug moet komen zodat hij op de tentamendag nog vastzit. Ook de bloklengte loopt met je mee: drie blokken uitgezeten en hij wordt langer, één blok afgebroken en hij wordt korter. Op horloges met Body Battery kort hij het blok in als je tank leeg is.\n\nWAT HET DOET\n- Leerblokken en pauzes op de wandklok, zodat een sessie het verlaten, afsluiten of herstarten van de app overleeft\n- Het plan van vandaag: welk vak, hoeveel blokken, in welke volgorde\n- Een vergeetcurve per vak, zodat week één er in week zes nog is\n- Bloklengte die zich aan jou aanpast, met Body Battery en stress waar het horloge die heeft\n- Tentamenlijst met dagen te gaan en hoe paraat je op de dag zelf bent\n- Veertien dagen statistiek: minuten per dag, blokken uitgezeten tegenover afgebroken, je eigen bloklengte, streak\n- Een afleidingsteller, één tik per keer\n- Elke paar blokken een lange pauze, alle lengtes instelbaar op het horloge zelf\n- Vier trilpatronen met een testknop\n- Een kale 25/5-stand als je liever helemaal geen vakken invoert\n- Vijf talen en een glance\n\nWAT HET NODIG HEEFT\n- Niets. Alles wordt op het horloge gerekend: geen telefoon, geen account, geen internet\n- Body Battery en stress worden gebruikt waar het horloge ze heeft; zonder die sensoren volgt de bloklengte gewoon hoe je blokken gaan",
   "type": "2",
   "rating": 5.0,
-  "reviews": 1,
+  "reviews": 2,
   "downloads": 100,
   "version": "1.1.7",
   "category": "202",
