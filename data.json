@@ -4222,7 +4222,7 @@
    "assets/shots/fasted-5.jpg"
   ],
   "changed": 1793951542000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New look: a ring round the edge with your end time, a new typeface, and menus, history and settings as clear pages with large buttons. Times are set with - and +, and discarding a fast now asks first.",
   "devices": 108,
   "updates": 22
  },
@@ -4478,7 +4478,7 @@
   "rating": 5.0,
   "reviews": 5,
   "downloads": 100,
-  "version": "3.0.0",
+  "version": "3.0.1",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -4488,10 +4488,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1794312444000,
+  "changed": 1794313903000,
   "whatsnew": "The glance now uses the new colours of the app and its bottom line no longer overlaps.",
   "devices": 178,
-  "updates": 21
+  "updates": 22
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
