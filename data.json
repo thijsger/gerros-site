@@ -3453,7 +3453,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.6",
+  "version": "2.0.0",
   "category": "219",
   "icon": "assets/icons/cyra.png",
   "shots": [
@@ -3463,10 +3463,10 @@
    "assets/shots/cyra-4.jpg",
    "assets/shots/cyra-5.jpg"
   ],
-  "changed": 1793948839000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794332881000,
+  "whatsnew": "New look: a new typeface, the cycle ring round the edge with a Log button, last night's values as cards, and every menu as a clear page with large buttons. Symptoms switch on and off with one tap and settings use - and +.",
   "devices": 174,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
@@ -4211,7 +4211,7 @@
   "rating": 4.1,
   "reviews": 9,
   "downloads": 100,
-  "version": "2.3.3",
+  "version": "3.0.0",
   "category": "219",
   "icon": "assets/icons/fasted.png",
   "shots": [
@@ -4221,10 +4221,10 @@
    "assets/shots/fasted-4.jpg",
    "assets/shots/fasted-5.jpg"
   ],
-  "changed": 1793951542000,
+  "changed": 1794327208000,
   "whatsnew": "New look: a ring round the edge with your end time, a new typeface, and menus, history and settings as clear pages with large buttons. Times are set with - and +, and discarding a fast now asks first.",
   "devices": 108,
-  "updates": 22
+  "updates": 23
  },
  {
   "id": "b3c49541-6aba-49c8-a271-ee0a4967ee79",
