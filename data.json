@@ -1590,7 +1590,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "277",
   "icon": "assets/icons/laddr.png",
   "shots": [
@@ -1598,10 +1598,10 @@
    "assets/shots/laddr-2.jpg",
    "assets/shots/laddr-3.jpg"
   ],
-  "changed": 1793959437000,
+  "changed": 1794241524000,
   "whatsnew": "Exercise choice (pull-ups, push-ups, dips) is now easy to find: you pick it at first start, and a new Menu page gives access to exercise, plan and settings on every watch.",
   "devices": 189,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "887525cf-b0c0-42ea-85f9-1acb25b29120",
@@ -1612,7 +1612,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.5",
   "category": "212",
   "icon": "assets/icons/southpaw.png",
@@ -2050,7 +2050,7 @@
   "rating": 2.3,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "180",
   "icon": "assets/icons/trekdeck.png",
   "shots": [
@@ -2058,10 +2058,10 @@
    "assets/shots/trekdeck-2.jpg",
    "assets/shots/trekdeck-3.jpg"
   ],
-  "changed": 1794175663000,
+  "changed": 1794241677000,
   "whatsnew": "Fixed a crash that stopped the data field from loading on Venu 2, Venu 2 Plus and Venu 2S.",
   "devices": 230,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "81bc7aef-ea3a-4959-b2ae-7577fc14ee18",
@@ -4497,8 +4497,8 @@
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
   "slug": "caffi",
   "name": "Caffi – Caffeine Tracker",
-  "desc": "Caffi — Know your caffeine, protect your sleep.\n\nMost caffeine apps just count down from your last cup. Caffi does it properly: it models the caffeine actually in your body with a real pharmacokinetic curve — both the absorption (the rise after you drink) and the elimination (the slow decay) — so the peak and the timing are realistic, not guessed.\n\nAt a glance you see how much caffeine is in your system right now, exactly when you'll be able to sleep again, and whether you're still under your daily limit. Perfect for protecting your sleep, timing a pre-workout boost, and keeping your intake in check.\n\nFeatures\n• Live caffeine level (mg/L) on a clean color gauge\n• \"Sleep-safe\" time — the moment your level drops below your personal sleep threshold, with a bedtime marker\n• Daily total vs. your limit, color-coded green / orange / red\n• Detailed curve graph with stimulation & sleep thresholds, bedtime line and your intake points\n• Daily and 7-day statistics with bar charts\n• One-tap logging from quick presets (espresso, coffee, energy drink…) — or create your own custom drinks\n• Glance widget so you can check your level without opening the app\n• Works on touch and button watches\n• Available in English, Dutch, German, French and Spanish\n\nMake it yours\nSet your body weight, caffeine half-life, sleep & stimulation thresholds, daily limit and bedtime — Caffi recalculates your personal curve instantly.\n\nDrink smart. Sleep better. Caffi.",
-  "nl": "Caffi — ken je cafeïne, bescherm je slaap.\n\nDe meeste cafeïne-apps tellen simpelweg af vanaf je laatste kopje. Caffi doet het écht goed: het berekent hoeveel cafeïne er op dit moment in je lichaam zit met een echte farmacokinetische curve — zowel de opname (de stijging na het drinken) als de afbraak (het langzame verval) — zodat de piek en de timing kloppen in plaats van een gok zijn.\n\nIn één oogopslag zie je hoeveel cafeïne er nu in je systeem zit, wanneer je weer kunt slapen, en of je nog onder je daglimiet blijft. Ideaal om je slaap te beschermen, een pre-workout-boost te timen en je inname in de hand te houden.\n\nFuncties\n• Actueel cafeïneniveau (mg/L) op een strakke kleurenmeter\n• \"Slaapveilige\" tijd — het moment waarop je onder je persoonlijke slaapdrempel zakt, met bedtijd-markering\n• Dagtotaal vs. je limiet, met kleurcodering groen / oranje / rood\n• Uitgebreide grafiek met stimulatie- en slaapdrempel, bedtijd-lijn en je innamemomenten\n• Dag- en 7-dagen statistieken met staafgrafieken\n• Snel loggen met presets (espresso, koffie, energydrink…) — of maak je eigen drankjes aan\n• Glance-widget om je niveau te checken zonder de app te openen\n• Werkt op touch- én knop-horloges\n• Beschikbaar in het Engels, Nederlands, Duits, Frans en Spaans\n\nMaak 'm van jou\nStel je gewicht, cafeïne-halfwaardetijd, slaap- en stimulatiedrempel, daglimiet en bedtijd in — Caffi herberekent meteen je persoonlijke curve.\n\nDrink slim. Slaap beter. Caffi.",
+  "desc": "Caffi — Know your caffeine, protect your sleep.\n\nMost caffeine apps just count down from your last cup. Caffi models the caffeine actually in your body with a real pharmacokinetic curve — both the absorption (the rise after you drink) and the elimination (the slow decay) — so the peak and the timing are realistic, not guessed.\n\nAt a glance you see how much caffeine is in your body right now, when you can sleep again, until what time you can still have a coffee, and whether you are under your daily limit.\n\nFEATURES\n• Caffeine in your body (mg) on a ring with green, orange and red zones\n• Sleep time: the moment your level drops below your sleep threshold\n• \"Coffee by\": the latest time for another cup that still lets you sleep, also shown per drink\n• Curve with sleep and stimulation thresholds, bedtime line and your planned drinks\n• Timing: when and how much to take for a peak at a chosen time\n• Day planner: set your focus moments and get a drink schedule, with optional reminders\n• Taper plan: cut down step by step with a weekly budget\n• Daily limit with alerts at 80 % and 100 %\n• Trends: 14 days, 90 days, by hour of day and per month\n• Half-life test: a few questions suggest your personal half-life\n• More than 130 drinks, including coffee chains and energy drinks, plus your own shortcuts\n• Edit or delete logged drinks\n• Glance and watch face complications\n• Works on touch and button watches, in 16 languages\n\nOn older watches with little memory (fenix 5 and 6, Forerunner 245, 645 and 935, vívoactive 3, Venu Sq, Enduro) the planner, taper plan, half-life test, drinks database and the new look are not available.\n\nMAKE IT YOURS\nSet your body weight, half-life, sleep and stimulation thresholds, daily limit and bedtime. Caffi recalculates your curve right away.\n\nCaffi suggests timings based on a general model. It is not medical advice.",
+  "nl": "Caffi — ken je cafeïne, bescherm je slaap.\n\nDe meeste cafeïne-apps tellen alleen af vanaf je laatste kopje. Caffi berekent de cafeïne die echt in je lichaam zit met een echte farmacokinetische curve — zowel de opname (de stijging na het drinken) als de afbraak (de langzame daling) — zodat de piek en het tijdstip kloppen en geen gok zijn.\n\nIn één oogopslag zie je hoeveel cafeïne er nu in je lichaam zit, wanneer je weer kunt slapen, tot hoe laat je nog koffie kunt drinken en of je onder je daglimiet zit.\n\nFUNCTIES\n• Cafeïne in je lichaam (mg) op een ring met groene, oranje en rode zones\n• Slaaptijd: het moment waarop je niveau onder je slaapdrempel zakt\n• \"Koffie tot\": het laatste tijdstip voor nog een kopje waarbij je nog kunt slapen, ook per drankje te zien\n• Curve met slaap- en stimulatiedrempel, bedtijdlijn en je geplande drankjes\n• Juiste moment: wanneer en hoeveel je neemt voor een piek op een gekozen tijdstip\n• Dagplanner: stel je focusmomenten in en krijg een drinkschema, met optionele herinneringen\n• Afbouwplan: stap voor stap minderen met een weekbudget\n• Daglimiet met meldingen bij 80 % en 100 %\n• Trends: 14 dagen, 90 dagen, per uur van de dag en per maand\n• Halfwaardetijdtest: een paar vragen leveren een voorstel op voor je persoonlijke halfwaardetijd\n• Meer dan 130 drankjes, waaronder koffieketens en energiedrankjes, plus je eigen shortcuts\n• Ingevoerde drankjes aanpassen of verwijderen\n• Glance en complicaties voor wijzerplaten\n• Werkt op horloges met aanraakscherm en met knoppen, in 16 talen\n\nOp oudere horloges met weinig geheugen (fenix 5 en 6, Forerunner 245, 645 en 935, vívoactive 3, Venu Sq, Enduro) zijn de planner, het afbouwplan, de halfwaardetijdtest, de drankendatabase en het nieuwe uiterlijk niet beschikbaar.\n\nMAAK HEM VAN JOU\nStel je lichaamsgewicht, halfwaardetijd, slaap- en stimulatiedrempel, daglimiet en bedtijd in. Caffi rekent je curve meteen opnieuw uit.\n\nCaffi stelt tijdstippen voor op basis van een algemeen model. Het is geen medisch advies.",
   "type": "2",
   "rating": 4.8,
   "reviews": 9,
@@ -4514,7 +4514,7 @@
    "assets/shots/caffi-5.jpg"
   ],
   "changed": 1793949146000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New look and much more: zone ring, \"coffee by\" time, day planner, taper plan, half-life test, daily-limit alerts, 14 and 90 day trends, 130+ drinks and editing of logged drinks.",
   "devices": 178,
   "updates": 25
  },
