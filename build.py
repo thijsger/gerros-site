@@ -52,6 +52,8 @@ UPDATES = sum(a['updates'] for a in apps)
 COUNT = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six', 7: 'Seven', 8: 'Eight', 9: 'Nine', 10: 'Ten', 11: 'Eleven', 12: 'Twelve'}.get(len(apps), str(len(apps)))
 
 E = html.escape
+import hashlib
+CSSV = hashlib.md5(open('style.css', 'rb').read()).hexdigest()[:8]   # phones must not keep an old stylesheet
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400..800&display=swap">'
 # the GerrOS mark: a ring with a gap, like the ring round the edge of every app
 MARK = '<svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="22" fill="none" stroke="#131518" stroke-width="7"/><path d="M32 6a26 26 0 0 1 26 26" fill="none" stroke="#3EDC96" stroke-width="7" stroke-linecap="round"/></svg>'
@@ -498,7 +500,7 @@ def document(title, desc, body, active='', depth=0, path='', image=None, ld=(), 
 <meta name="twitter:image" content="{image}">
 <link rel="icon" href="{pre}assets/favicon.svg" type="image/svg+xml">
 {FONTS}
-<link rel="stylesheet" href="{pre}style.css">
+<link rel="stylesheet" href="{pre}style.css?v={CSSV}">
 {jsonld(ORG, *ld)}</head>
 <body>'''
     doc = head + nav(active) + body + FOOTER + f'\n<script src="{pre}site.js"></script>\n</body></html>'
