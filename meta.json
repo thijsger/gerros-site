@@ -37,27 +37,142 @@
   "smokeless": {
    "title": "Smokeless",
    "tag": "Quit-smoking tracker with cravings and savings",
-   "cat": "health"
+   "cat": "health",
+   "accent": "#3FE07C",
+   "screens": [
+    [
+     "Days smoke-free",
+     "Money saved and your next milestone"
+    ],
+    [
+     "Your body recovering",
+     "Sixteen health milestones"
+    ],
+    [
+     "Cravings of the last 7 days",
+     "Resisted in green, slips in red"
+    ],
+    [
+     "Breathe through a craving",
+     "Guided breathing with your heart rate"
+    ],
+    [
+     "Money saved",
+     "A savings goal with the days to go"
+    ]
+   ]
   },
   "fasted": {
    "title": "Fasted",
    "tag": "Intermittent fasting timer, from 16:8 to Ramadan",
-   "cat": "health"
+   "cat": "health",
+   "accent": "#4CC4F7",
+   "screens": [
+    [
+     "Fasting timer with your end time",
+     "The ring fills toward your goal"
+    ],
+    [
+     "Ten fasting phases",
+     "What your body is doing right now"
+    ],
+    [
+     "Your last seven days",
+     "Green bars reached the target"
+    ],
+    [
+     "Today, fasting and eating",
+     "When your fast ends and the window closes"
+    ],
+    [
+     "Streaks and records",
+     "Total fasts, hours and a weekly goal"
+    ]
+   ]
   },
   "breathgym": {
    "title": "BreathGym",
    "tag": "Breath-hold training with CO₂ and O₂ tables",
-   "cat": "health"
+   "cat": "health",
+   "accent": "#4C81FB",
+   "screens": [
+    [
+     "Breath-hold timer",
+     "A ring that fills as you hold"
+    ],
+    [
+     "Your record, your streak",
+     "Train, CO2 and O2 tables, custom sets"
+    ],
+    [
+     "Guided breathing",
+     "Paced inhale and exhale between holds"
+    ],
+    [
+     "Hold per session",
+     "Your longest hold, charted over time"
+    ],
+    [
+     "Session summary",
+     "Longest hold, total time and max heart rate"
+    ]
+   ]
   },
   "caffi": {
    "title": "Caffi",
    "tag": "Caffeine in your body, hour by hour",
-   "cat": "health"
+   "cat": "health",
+   "accent": "#F8A858",
+   "screens": [
+    [
+     "Caffeine in your body",
+     "See when you can sleep again"
+    ],
+    [
+     "Day planner",
+     "A drink schedule for your focus moments"
+    ],
+    [
+     "14 and 90 day trends",
+     "Daily totals against your limit"
+    ],
+    [
+     "130+ drinks",
+     "With the latest time for each one"
+    ],
+    [
+     "Daily limit with alerts",
+     "At 80 % and 100 % of your limit"
+    ]
+   ]
   },
   "sobr": {
    "title": "Sobr",
-   "tag": "Blood-alcohol estimate on your wrist",
-   "cat": "health"
+   "tag": "Blood-alcohol estimate with the time you drop under your limit",
+   "cat": "health",
+   "accent": "#F27E4B",
+   "screens": [
+    [
+     "See when you are under your threshold",
+     "Estimated blood alcohol, live"
+    ],
+    [
+     "Your evening as a curve",
+     "Past drinks and the hours ahead"
+    ],
+    [
+     "Log a drink in one tap",
+     "Beer, wine, spirits or your own"
+    ],
+    [
+     "Today against your own limit",
+     "Drinks, peak and 7-day average"
+    ],
+    [
+     "14 and 30 day trends",
+     "Days over your limit stand out"
+    ]
+   ]
   },
   "jetshift": {
    "title": "JetShift",
@@ -318,7 +433,29 @@
    "tag": "Menstrual cycle and period tracker with training suggestions",
    "cat": "health",
    "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
-   "pending": true
+   "accent": "#9C8CEC",
+   "screens": [
+    [
+     "Cycle day and phase",
+     "Period forecast from your own history"
+    ],
+    [
+     "Last night against your usual",
+     "Heart rate, stress and Body Battery per phase"
+    ],
+    [
+     "Next period as a window",
+     "From the lengths of your own cycles"
+    ],
+    [
+     "Log flow and symptoms",
+     "Correct any day on the watch"
+    ],
+    [
+     "Your cycle lengths",
+     "Median, spread and days of bleeding"
+    ]
+   ]
   }
  },
  "wearos": [

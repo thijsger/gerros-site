@@ -23,8 +23,11 @@ for slug, (src, cx, cy, r) in MANUAL.items():
         im = Image.open(src).convert('RGB')
         im.crop((cx - r, cy - r, cx + r, cy + r)).resize((454, 454), Image.LANCZOS).save(dst)
         print('manual crop ->', dst)
+LOCAL = json.load(open('assets/local.json')) if os.path.exists('assets/local.json') else {}   # beelden via tools_assets.py: afblijven
 for app in json.load(open('data.json')):
     s = app['slug']; src = f'assets/dials-src/{s}.png'
+    if s in LOCAL:
+        continue
     if not os.path.exists(src):
         print('GEEN dials-src voor', s, '(refresh.py-fallback blijft staan)'); continue
     im = Image.open(src).convert('RGB')

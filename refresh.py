@@ -68,8 +68,13 @@ for slug, a in old.items():
         new.append(a)
 json.dump(new, open('data.json', 'w'), indent=1, ensure_ascii=False)
 # web-varianten voor wat nieuw is
+# Apps in assets/local.json hebben hun beelden uit de lokale storemap (tools_assets.py, zie ADDING_AN_APP.md);
+# daar maakt refresh geen cover, dial of screens voor, ook niet als de store meer beelden heeft dan lokaal.
+LOCAL = json.load(open('assets/local.json')) if os.path.exists('assets/local.json') else {}
 for a in new:
     s = a['slug']
+    if s in LOCAL:
+        continue
     if not os.path.exists(f'assets/covers/{s}.jpg'):
         im = Image.open(a['icon']).convert('RGB')
         im.save(f'assets/covers/{s}.jpg', quality=92, optimize=True)
