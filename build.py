@@ -454,6 +454,7 @@ def page_privacy():
   <h2>Apps that use the internet</h2>
   <ul>
     <li><b>Convertr</b> fetches current exchange rates from a public rates service. The request contains no personal data.</li>
+    <li><b>Domora</b> connects your watch to your own Home Assistant. Your address and an access token are stored on the watch and are sent only to your own Home Assistant, through the Garmin Connect app on your phone. If you pair with the QR code, the pairing page on gerros.app creates that token in your Home Assistant and hands it to the watch encrypted: the key is made on the watch, travels only inside the QR code to your phone and never reaches a server. A relay server holds the encrypted message for at most 10 minutes and deletes it as soon as the watch has fetched it. The pairing page remembers the address of your Home Assistant in your phone's browser so you do not have to type it again. You can remove the token at any time in your Home Assistant profile.</li>
     <li><b>RallyPoint</b> can show a live scoreboard on a web page if you switch that on. Only the scores and player names you entered are sent, to a page identified by a code you choose. Leave the feature off and nothing is sent.</li>
   </ul>
   <h2>Purchases</h2>
