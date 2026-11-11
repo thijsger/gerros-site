@@ -19,24 +19,25 @@
   .pair .brand { margin-bottom: 36px; }
   .pair h1 { font-size: clamp(2rem, 8.4vw, 2.75rem); line-height: 1.05; letter-spacing: -0.035em; }
   .pair .lede { margin-top: 14px; font-size: 1.0625rem; }
-  .steps { list-style: none; padding: 0; margin: 28px 0 0; display: flex; gap: 8px; }
-  .steps li { flex: 1; display: grid; gap: 8px; font-size: .8125rem; font-weight: 700; color: var(--muted); }
-  .steps li::before { content: ""; height: 5px; border-radius: 999px; background: var(--line); }
-  .steps li.on { color: var(--ink); }
-  .steps li.on::before { background: var(--ink); }
-  .steps li.ok { color: var(--ink); }
-  .steps li.ok::before { background: #3EDC96; }
-  .panel { margin-top: 20px; background: var(--card); border: 1px solid var(--line); border-radius: 28px; padding: 26px 22px; display: grid; gap: 16px; }
-  .panel[hidden] { display: none; }
-  .panel h2 { font-size: 1.375rem; }
-  .panel p { color: var(--ink-2); }
-  .panel ol { margin: 0; padding-left: 22px; display: grid; gap: .5em; color: var(--ink-2); }
-  .panel label { display: grid; gap: 8px; font-weight: 700; font-size: .9375rem; }
-  .panel input { width: 100%; font: 500 1.0625rem/1.4 var(--font); color: var(--ink); background: var(--paper); border: 1.5px solid var(--line-2); border-radius: 14px; padding: 14px; }
-  .panel input:focus { outline: 0; border-color: var(--ink); box-shadow: 0 0 0 3px rgba(18, 19, 22, .12); }
-  .panel input::placeholder { color: #8B8F96; }
-  .panel .btn { width: 100%; padding: 17px 24px; font-size: 1rem; }
-  .panel .btn[disabled] { opacity: .55; cursor: default; transform: none; }
+  .pstep { list-style: none; padding: 0; margin: 28px 0 0; display: flex; gap: 8px; }
+  .pstep li { flex: 1; display: grid; gap: 8px; font-size: .8125rem; font-weight: 700; color: var(--muted); }
+  .pstep li::before { content: ""; height: 5px; border-radius: 999px; background: var(--line); }
+  .pstep li.on { color: var(--ink); }
+  .pstep li.on::before { background: var(--ink); }
+  .pstep li.ok { color: var(--ink); }
+  .pstep li.ok::before { background: #3EDC96; }
+  .pcard { margin-top: 20px; background: var(--card); border: 1px solid var(--line); border-radius: 28px; padding: 26px 22px; display: grid; gap: 16px; }
+  .pcard[hidden] { display: none; }
+  .pcard h2 { font-size: 1.375rem; }
+  .pcard p { color: var(--ink-2); }
+  .pcard ol { margin: 0; padding-left: 22px; display: grid; gap: .5em; color: var(--ink-2); }
+  .pcard label { display: grid; gap: 8px; font-weight: 700; font-size: .9375rem; }
+  .pcard input { width: 100%; font: 500 1.0625rem/1.4 var(--font); color: var(--ink); background: var(--paper); border: 1.5px solid var(--line-2); border-radius: 14px; padding: 14px; }
+  .pcard input:focus { outline: 0; border-color: var(--ink); box-shadow: 0 0 0 3px rgba(18, 19, 22, .12); }
+  .pcard input::placeholder { color: #8B8F96; }
+  .pcard .btn { width: 100%; padding: 17px 24px; font-size: 1rem; }
+  .pcard .btn[hidden] { display: none; }
+  .pcard .btn[disabled] { opacity: .55; cursor: default; transform: none; }
   .hint { font-size: .875rem; color: var(--muted); }
   .alert { background: #FDEDEA; border: 1px solid #F3C9C1; color: #7A1F12; border-radius: 14px; padding: 12px 14px; font-size: .9375rem; font-weight: 600; line-height: 1.45; }
   .alert[hidden] { display: none; }
@@ -55,12 +56,12 @@
   <h1>Connect Domora to Home Assistant</h1>
   <p class="lede" id="lede">Log in once here and your watch is set up. No typing on the watch.</p>
 
-  <ol class="steps" id="steps" aria-label="Progress">
+  <ol class="pstep" id="steps" aria-label="Progress">
     <li>Address</li><li>Log in</li><li>Send to watch</li>
   </ol>
 
   <!-- opened without a QR code -->
-  <section class="panel" id="v-nocode" hidden>
+  <section class="pcard" id="v-nocode" hidden>
     <h2>Start on your watch</h2>
     <p>This page only works when you open it from the QR code that Domora shows.</p>
     <ol>
@@ -71,7 +72,7 @@
   </section>
 
   <!-- step 1: address -->
-  <form class="panel" id="v-form" hidden novalidate>
+  <form class="pcard" id="v-form" hidden novalidate>
     <div class="alert" id="form-alert" role="alert" hidden></div>
     <label for="ha">Your Home Assistant address
       <input id="ha" name="ha" type="url" inputmode="url" autocomplete="url" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="https://example.ui.nabu.casa" required>
@@ -81,13 +82,13 @@
   </form>
 
   <!-- steps 2 and 3: working -->
-  <section class="panel" id="v-work" hidden>
+  <section class="pcard" id="v-work" hidden>
     <div class="busy"><span class="spin" aria-hidden="true"></span><span id="work-text" role="status" aria-live="polite">Working…</span></div>
     <p class="hint" id="work-hint" hidden></p>
   </section>
 
   <!-- done -->
-  <section class="panel" id="v-done" hidden>
+  <section class="pcard" id="v-done" hidden>
     <svg class="tick" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="28" fill="#3EDC96"/><path d="M19 33l9 9 17-19" fill="none" stroke="#121316" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg>
     <h2 role="status">Done. Look at your watch.</h2>
     <p>Domora picks up the connection within a few seconds. You can close this page.</p>
@@ -95,7 +96,7 @@
   </section>
 
   <!-- something went wrong -->
-  <section class="panel" id="v-error" hidden>
+  <section class="pcard" id="v-error" hidden>
     <h2 id="err-title">That did not work</h2>
     <p id="err-text" role="alert"></p>
     <button class="btn" id="retry" type="button">Try again</button>
@@ -179,6 +180,7 @@
   function normalise(raw) {
     var s = (raw || '').trim();
     if (!s) { throw new Error('empty'); }
+    if (/\s/.test(s)) { throw new Error('bad'); }
     if (!/^[a-z][a-z0-9+.-]*:\/\//i.test(s)) { s = 'https://' + s; }
     var u;
     try { u = new URL(s); } catch (e) { throw new Error('bad'); }

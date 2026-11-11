@@ -563,6 +563,7 @@ open('robots.txt', 'w').write('''# gerros.app — everyone welcome, including AI
 User-agent: *
 Allow: /
 Disallow: /thanks.html
+Disallow: /pair.html
 Disallow: /dist/
 
 User-agent: GPTBot
