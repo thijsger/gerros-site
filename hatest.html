@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Home Assistant app test · GerrOS</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<style>
+  body { margin: 0; background: #FAF6F3; color: #131518; font: 17px/1.5 -apple-system, "Plus Jakarta Sans", system-ui, sans-serif; }
+  main { max-width: 520px; margin: 0 auto; padding: 28px 20px 60px; }
+  h1 { font-size: 1.6rem; letter-spacing: -0.02em; margin: 0 0 6px; }
+  p { margin: 10px 0; }
+  .muted { color: #6b6660; font-size: .95rem; }
+  input { width: 100%; box-sizing: border-box; font: inherit; padding: 13px 16px; border-radius: 14px; border: 1.5px solid #d9d2cb; background: #fff; margin: 6px 0 14px; }
+  a.btn { display: block; text-align: center; text-decoration: none; font-weight: 700; padding: 15px 18px; border-radius: 999px; margin: 10px 0; }
+  a.a { background: #131518; color: #fff; }
+  a.b { background: #EFE9E3; color: #131518; }
+  .box { background: #fff; border-radius: 18px; padding: 16px 18px; margin: 18px 0; border: 1.5px solid #e6dfd8; }
+  .ok { border-color: #3EDC96; }
+  code { font-size: .9rem; word-break: break-all; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Home Assistant app test</h1>
+  <p class="muted">A one-off test for Domora: can the Home Assistant app take over the login? Nothing is saved and no token is made.</p>
+
+  <div class="box ok" id="result" hidden>
+    <b id="r-title"></b>
+    <p id="r-text"></p>
+    <p class="muted" id="r-where"></p>
+  </div>
+
+  <div id="form">
+    <label for="ha">Address of your Home Assistant</label>
+    <input id="ha" type="url" inputmode="url" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="https://…">
+    <a class="btn a" id="app" href="#">A · Open the login in the Home Assistant app</a>
+    <a class="btn b" id="web" href="#">B · Open the login in the browser (as it works now)</a>
+    <p class="muted">Try A first. Tell Claude what you saw: did the app open, did it ask for your password, and did you land back on this page with a green box?</p>
+  </div>
+</main>
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var here = location.origin + location.pathname;
+  var client = location.origin + '/';
+  var q = new URLSearchParams(location.search);
+  var inApp = /Home ?Assistant/i.test(navigator.userAgent);
+  if (q.get('code') || q.get('error')) {
+    $('result').hidden = false;
+    $('r-title').textContent = q.get('code') ? 'Came back with a login code (' + (q.get('state') || '?') + ')' : 'Came back with an error: ' + q.get('error');
+    $('r-text').textContent = q.get('code') ? 'The login step worked this way. The code is not used and expires by itself.' : 'The login was refused or cancelled.';
+    $('r-where').textContent = 'This page is now open in: ' + (inApp ? 'the Home Assistant app' : 'a browser') + ' · ' + navigator.userAgent.slice(0, 90);
+    history.replaceState(null, '', location.pathname);
+  }
+  try { $('ha').value = localStorage.getItem('hatest-ha') || ''; } catch (e) {}
+  function params(state) {
+    return 'client_id=' + encodeURIComponent(client) + '&redirect_uri=' + encodeURIComponent(here) + '&state=' + state + '&response_type=code';
+  }
+  function ha() {
+    var v = $('ha').value.trim().replace(/\/+$/, '');
+    try { localStorage.setItem('hatest-ha', v); } catch (e) {}
+    return v;
+  }
+  $('app').addEventListener('click', function (ev) {
+    ev.preventDefault();
+    ha();
+    // the app opens this path inside the instance it is already logged in to
+    location.href = 'homeassistant://navigate/auth/authorize?' + params('A-app');
+  });
+  $('web').addEventListener('click', function (ev) {
+    ev.preventDefault();
+    var v = ha();
+    if (!/^https:\/\//.test(v)) { alert('Fill in the https address first.'); return; }
+    location.href = v + '/auth/authorize?' + params('B-browser');
+  });
+})();
+</script>
+</body>
+</html>
