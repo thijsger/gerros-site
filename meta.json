@@ -479,6 +479,36 @@
      "Median, spread and days of bleeding"
     ]
    ]
+  },
+  "hydrosmart": {
+   "title": "HydroSmart",
+   "tag": "Water tracker with a daily goal worked out from weight, activity and heat",
+   "cat": "health",
+   "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
+   "pending": true,
+   "accent": "#3DA9FF",
+   "screens": [
+    [
+     "Water tracker with a daily goal",
+     "The ring is your goal, the mark is your pace"
+    ],
+    [
+     "A goal worked out for today",
+     "Body weight, activity and heat"
+    ],
+    [
+     "Log a drink in two taps",
+     "Three glass sizes of your own"
+    ],
+    [
+     "Your day, hour by hour",
+     "Each drink against an even pace"
+    ],
+    [
+     "Seven days, each against its own goal",
+     "Your average and your streak"
+    ]
+   ]
   }
  },
  "wearos": [
@@ -494,6 +524,7 @@
   "cyra",
   "smokeless",
   "breathgym",
-  "convertr"
+  "convertr",
+  "hydrosmart"
  ]
 }

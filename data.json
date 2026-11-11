@@ -4565,5 +4565,30 @@
   "whatsnew": "Undo now fully restores deuce and match stats, tiebreaks show side changes, switching sport mid-match asks for confirmation, match duration stops at match point, and the per-set page shows all five sets.",
   "devices": 178,
   "updates": 32
+ },
+ {
+  "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
+  "slug": "hydrosmart",
+  "name": "HydroSmart - Water Tracker with a Daily Goal",
+  "desc": "HydroSmart is a water tracker that works out how much you need today and tells you whether you are on pace.\n\nYOUR GOAL, EVERY DAY\nMost trackers ask you to pick a number once. HydroSmart builds the goal from your body weight, adds what you sweated out during today's active minutes and adds more when the weather is hot and humid. A second page shows exactly how the number is built. Prefer a fixed amount? Switch it to one.\n\nON PACE OR BEHIND\nThe goal is spread from the moment you wake up until 90 minutes before bedtime, so the last glass is not the one that wakes you at night. The ring fills as you drink, a white mark on it shows where you should be by now, and one line says what to do: \"Next: 250 ml by 15:30\".\n\nLOG IN TWO TAPS\nThree glass sizes of your own, any other amount with - and +, and nine kinds of drink. Undo the last one or delete any drink from today's list.\n\nREMINDERS THAT STAY QUIET\nNo hourly beeping. HydroSmart only nudges you when you are awake, clearly behind the pace, and have not had a drink or a nudge in the interval you chose.\n\nSWEAT AND SODIUM\nSet your sweat rate and how salty your sweat is. After a long session the app compares the sodium you lost with what sports drinks, electrolyte mixes or salt capsules brought in, and suggests electrolytes when you fall behind. It also warns when you drink more than a litre in an hour.\n\nTHE REST\n- Day view: every hour as a bar, with the even pace as a line.\n- Week view: seven days against each day's own goal, your average and your streak.\n- Glance: amount, goal and pace without opening the app.\n- Millilitres or fluid ounces.\n- 16 languages. Everything stays on the watch: no account, no phone app.\n\nHydroSmart gives general hydration guidance and is not medical advice. If you have a heart or kidney condition, follow your doctor's fluid limits.",
+  "nl": "HydroSmart is een watertracker die uitrekent hoeveel je vandaag nodig hebt en laat zien of je op schema ligt.\n\nJE DOEL, ELKE DAG OPNIEUW\nDe meeste trackers laten je één keer een getal kiezen. HydroSmart bouwt het doel op uit je lichaamsgewicht, telt erbij wat je vandaag in je actieve minuten hebt uitgezweet en telt meer als het warm en vochtig is. Een tweede pagina laat precies zien hoe het getal is opgebouwd. Liever een vaste hoeveelheid? Dat kan ook.\n\nOP SCHEMA OF ACHTER\nHet doel wordt verdeeld van het moment dat je opstaat tot 90 minuten voor bedtijd, zodat het laatste glas je 's nachts niet wakker maakt. De ring vult zich terwijl je drinkt, een wit streepje erop laat zien waar je nu zou moeten zijn, en één regel zegt wat je doet: \"Volgende: 250 ml vóór 15:30\".\n\nLOGGEN IN TWEE TIKKEN\nDrie eigen glasmaten, elke andere hoeveelheid met - en +, en negen soorten drank. Maak de laatste ongedaan of verwijder een drankje uit de lijst van vandaag.\n\nHERINNERINGEN DIE STIL BLIJVEN\nGeen gepiep elk uur. HydroSmart geeft alleen een seintje als je wakker bent, duidelijk achterloopt en binnen de gekozen tussentijd niets hebt gedronken en geen seintje hebt gehad.\n\nZWEET EN NATRIUM\nStel in hoeveel je zweet en hoe zout je zweet is. Na een lange training vergelijkt de app het natrium dat je verloor met wat sportdrank, elektrolyten of zoutcapsules aanvulden, en stelt elektrolyten voor als je achterloopt. De app waarschuwt ook als je meer dan een liter in een uur drinkt.\n\nVERDER\n- Dagoverzicht: elk uur als staaf, met het gelijkmatige tempo als lijn.\n- Weekoverzicht: zeven dagen tegen het doel van die dag, je gemiddelde en je reeks.\n- Glance: hoeveelheid, doel en tempo zonder de app te openen.\n- Milliliter of fluid ounce.\n- 16 talen. Alles blijft op het horloge: geen account, geen telefoon-app.\n\nHydroSmart geeft algemene richtlijnen voor vochtinname en is geen medisch advies. Heb je een hart- of nieraandoening, volg dan de vochtbeperking van je arts.",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/hydrosmart.png",
+  "shots": [
+   "assets/shots/hydrosmart-1.jpg",
+   "assets/shots/hydrosmart-2.jpg",
+   "assets/shots/hydrosmart-3.jpg",
+   "assets/shots/hydrosmart-4.jpg",
+   "assets/shots/hydrosmart-5.jpg"
+  ],
+  "changed": 1794428398935,
+  "whatsnew": "",
+  "devices": 164,
+  "updates": 1
  }
 ]
