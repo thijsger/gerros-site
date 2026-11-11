@@ -21,6 +21,9 @@ for slug, m in meta['apps'].items():
     a = by_slug.get(slug)
     if not a:
         continue
+    # meta['show']: only the apps in the new look are on the site
+    if meta.get('show') and slug not in meta['show']:
+        continue
     apps.append({
         'slug': slug, 'title': m['title'], 'tag': m['tag'], 'cat': m['cat'],
         'pending': bool(m.get('pending')), 'id': m.get('id') or a['id'],
@@ -155,10 +158,10 @@ def page_home():
   <div class="hero-copy">
     <p class="eyebrow">GerrOS · independent watch-app studio</p>
     <h1>Apps that earn their place on your <em>wrist</em>.</h1>
-    <p class="lede">Small, focused tools for Garmin watches: a budget that knows what you can still spend today, a shift that pays out per second, a race predictor, a chess clock. Everything runs on the watch itself. No phone, no account, no subscription.</p>
+    <p class="lede">Small, focused tools for Garmin watches: the caffeine in your body hour by hour, a blood-alcohol estimate, a fasting clock, a cycle tracker, breath-hold training and a quit-smoking coach. Everything runs on the watch itself. No phone, no account, no subscription.</p>
     <div class="hero-actions"><a class="btn" href="apps.html">Browse the apps</a><a class="btn ghost" href="custom.html">Built to order →</a></div>
   </div>
-  <div class="dials" aria-hidden="true">{dials}<span class="dial-tag">Six of the {len(apps)} apps</span></div>
+  <div class="dials" aria-hidden="true">{dials}<span class="dial-tag">{'The six apps' if len(apps) <= 6 else f'Six of the {len(apps)} apps'}</span></div>
 </div></section>
 
 <section class="stats"><div class="wrap">
@@ -371,7 +374,7 @@ def page_studio():
   <p class="eyebrow">Studio</p>
   <h1 class="h2">A one-person studio in the Netherlands.</h1>
   <p class="lede" style="margin-top:16px">GerrOS is run by Thijs Gerritsen from Den Dolder. Every app starts as something he wanted on his own watch, gets built end to end, and is then kept alive: reviews are answered, bugs are fixed and features land in updates.</p>
-  <p class="lede" style="margin-top:14px">It began with RallyPoint, a score tracker for padel that grew a live web scoreboard. Since then the catalogue has grown to {len(apps)} apps, from a chess clock to a race predictor, all in five languages, all working without a phone nearby.</p>
+  <p class="lede" style="margin-top:14px">It began with a score tracker for padel. The {len(apps)} apps on this site are the ones rebuilt in the current design: one typeface, large clear numbers and every menu as a page with big buttons, all working without a phone nearby.</p>
   </div>
   <div class="contact-card">
     <h3>Get in touch</h3>
@@ -391,7 +394,7 @@ def page_studio():
   <p class="eyebrow">How they are made</p><h2>One screen, one number, no noise.</h2>
   <div class="principles">
     <div class="principle"><h3>Built for a glance</h3><p>A watch is read in half a second. Each app leads with the one number that matters and keeps the rest a swipe away. The glance strip on the watch shows something useful before you even open the app.</p></div>
-    <div class="principle"><h3>Real arithmetic inside</h3><p>Budgets that pace themselves, a fasting clock that knows your window, a race predictor with three models, a caffeine curve. Not just trackers: apps that plan, predict and advise.</p></div>
+    <div class="principle"><h3>Real arithmetic inside</h3><p>A caffeine curve, a blood-alcohol estimate that knows when you are sober, a fasting clock that knows your window, a cycle forecast. Not just trackers: apps that plan, predict and advise.</p></div>
     <div class="principle"><h3>Yours stays on the watch</h3><p>No accounts, no cloud, no tracking. Your data lives on the device, and every app works without a phone nearby.</p></div>
     <div class="principle"><h3>Buttons and touch</h3><p>Every app works on a touch screen and with the five buttons alone, on round AMOLED screens and on the older memory-in-pixel displays.</p></div>
     <div class="principle"><h3>Five languages, always</h3><p>English, Dutch, German, French and Spanish in every app, in the store text and on the screen.</p></div>

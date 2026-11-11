@@ -26,12 +26,12 @@
   ]
  ],
  "hero": [
-  "redline",
-  "spent",
-  "racecast",
-  "listo",
-  "wordclock",
-  "podium"
+  "caffi",
+  "sobr",
+  "fasted",
+  "cyra",
+  "smokeless",
+  "breathgym"
  ],
  "apps": {
   "smokeless": {
@@ -326,5 +326,13 @@
   "Sobr",
   "BreathGym",
   "Convertr"
+ ],
+ "show": [
+  "caffi",
+  "sobr",
+  "fasted",
+  "cyra",
+  "smokeless",
+  "breathgym"
  ]
 }
