@@ -4186,7 +4186,7 @@
   "rating": 3.4,
   "reviews": 5,
   "downloads": 100,
-  "version": "1.7.3",
+  "version": "2.0.0",
   "category": "254",
   "icon": "assets/icons/smokeless.png",
   "shots": [
@@ -4196,10 +4196,10 @@
    "assets/shots/smokeless-4.jpg",
    "assets/shots/smokeless-5.jpg"
   ],
-  "changed": 1794172581000,
+  "changed": 1794361644000,
   "whatsnew": "New look: a ring round the edge toward your next milestone with the money saved under it, a new typeface, rounded charts, and every menu as a clear page with large buttons. The quit date and your usage are set with - and +.",
   "devices": 153,
-  "updates": 14
+  "updates": 15
  },
  {
   "id": "cec46a63-db0b-4506-b046-2a59e120d2d0",
@@ -4211,7 +4211,7 @@
   "rating": 4.1,
   "reviews": 9,
   "downloads": 100,
-  "version": "3.0.0",
+  "version": "3.0.1",
   "category": "219",
   "icon": "assets/icons/fasted.png",
   "shots": [
@@ -4221,10 +4221,10 @@
    "assets/shots/fasted-4.jpg",
    "assets/shots/fasted-5.jpg"
   ],
-  "changed": 1794327208000,
-  "whatsnew": "New look: a ring round the edge with your end time, a new typeface, and menus, history and settings as clear pages with large buttons. Times are set with - and +, and discarding a fast now asks first.",
+  "changed": 1794362161000,
+  "whatsnew": "Page titles now use correct capitalisation in every language.",
   "devices": 108,
-  "updates": 23
+  "updates": 24
  },
  {
   "id": "b3c49541-6aba-49c8-a271-ee0a4967ee79",
@@ -4296,7 +4296,7 @@
    "assets/shots/breathgym-5.jpg"
   ],
   "changed": 1793943460000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New look: a new typeface with large clear digits, your record at the top of the home page, rounded charts, and every menu as a clear page with large buttons. Rounds, hold and rest times are set with - and +.",
   "devices": 178,
   "updates": 13
  },
