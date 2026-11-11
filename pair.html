@@ -215,6 +215,8 @@
       else { formAlert('That does not look like a web address. It should look like https://example.ui.nabu.casa'); }
       return;
     }
+    // remember the address on this phone: pairing again needs no typing
+    try { localStorage.setItem('domora-ha', ha); } catch (e) {}
     $('go').disabled = true;
     $('go').textContent = 'Checking address…';
     // Home Assistant answers other websites only on /auth/token. A grant type it does not
@@ -349,6 +351,7 @@
   function showForm(sess, notice) {
     step(0);
     if (sess.ha && !$('ha').value) { $('ha').value = sess.ha; }
+    if (!$('ha').value) { try { $('ha').value = localStorage.getItem('domora-ha') || ''; } catch (e) {} }
     $('go').disabled = false;
     $('go').textContent = 'Log in';
     formAlert(notice || '');
