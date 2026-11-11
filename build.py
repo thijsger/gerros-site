@@ -54,7 +54,7 @@ COUNT = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six', 7: 'Sev
 E = html.escape
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400..800&display=swap">'
 # the GerrOS mark: a ring with a gap, like the ring round the edge of every app
-MARK = '<svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="11.5" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" pathLength="360" stroke-dasharray="285 75" transform="rotate(-50 16 16)"/></svg>'
+MARK = '<svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="22" fill="none" stroke="#131518" stroke-width="7"/><path d="M32 6a26 26 0 0 1 26 26" fill="none" stroke="#3EDC96" stroke-width="7" stroke-linecap="round"/></svg>'
 ARROW = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5 3.5 12.5"/></svg>'
 
 NAV_ITEMS = [('apps.html', 'Apps'), ('whatsnew.html', "What's new"), ('wearos.html', 'Wear OS'), ('studio.html', 'Studio'), ('support.html', 'Support')]
@@ -616,7 +616,7 @@ for a in apps:
 llms += ['', '## Pages', '', '- [Home](%s)' % SITE, '- [All apps](%sapps.html)' % SITE, '- [Custom apps](%scustom.html)' % SITE, '- [What\'s new](%swhatsnew.html)' % SITE, '- [Wear OS](%swearos.html)' % SITE, '- [Studio](%sstudio.html)' % SITE, '- [Support](%ssupport.html)' % SITE, '- [Privacy](%sprivacy.html)' % SITE, '']
 open('llms.txt', 'w').write('\n'.join(llms))
 
-open('assets/favicon.svg', 'w').write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="32" fill="#000"/><circle cx="32" cy="32" r="19" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" pathLength="360" stroke-dasharray="285 75" transform="rotate(-50 32 32)"/></svg>')
+open('assets/favicon.svg', 'w').write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="22" fill="none" stroke="#131518" stroke-width="7"/><path d="M32 6a26 26 0 0 1 26 26" fill="none" stroke="#3EDC96" stroke-width="7" stroke-linecap="round"/></svg>')
 
 # ------------------------------------------------------------------ single-file preview with hash routing
 def route_of(fn):
