@@ -21,14 +21,15 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 **How is the price built up?** From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.
 **Do you do NDAs and invoices?** Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.
 
-## Apps (6, all run on the watch without a phone, account or subscription)
+## Apps (7, all run on the watch without a phone, account or subscription)
 
 - [Caffi](https://gerros.app/apps/caffi.html): Caffeine in your body, hour by hour. Health & habits, version 3.0.0, store: https://apps.garmin.com/apps/67e8316b-2d74-46fe-abda-86ba4e7a4188. Rating 4.8/5 from 9 reviews.
 - [Sobr](https://gerros.app/apps/sobr.html): Blood-alcohol estimate with the time you drop under your limit. Health & habits, version 3.0.1, store: https://apps.garmin.com/apps/b20b6df0-5943-48bb-be5e-73b3441253d7. Rating 5.0/5 from 5 reviews.
 - [Fasted](https://gerros.app/apps/fasted.html): Intermittent fasting timer, from 16:8 to Ramadan. Health & habits, version 3.0.1, store: https://apps.garmin.com/apps/cec46a63-db0b-4506-b046-2a59e120d2d0. Rating 4.1/5 from 9 reviews.
 - [Cyra](https://gerros.app/apps/cyra.html): Menstrual cycle and period tracker with training suggestions. Health & habits, version 2.0.0, store: https://apps.garmin.com/apps/bb58d388-2f00-4ad2-a768-f665f372e436. Rating 3.0/5 from 2 reviews.
 - [Smokeless](https://gerros.app/apps/smokeless.html): Quit-smoking tracker with cravings and savings. Health & habits, version 2.0.0, store: https://apps.garmin.com/apps/be12dc0d-65b0-46e8-be2e-7677289ca9fe. Rating 3.4/5 from 5 reviews.
-- [BreathGym](https://gerros.app/apps/breathgym.html): Breath-hold training with CO₂ and O₂ tables. Health & habits, version 1.5.1, store: https://apps.garmin.com/apps/ea0410c6-e80e-49a2-b567-7da49fde3814. Rating 4.4/5 from 7 reviews.
+- [BreathGym](https://gerros.app/apps/breathgym.html): Breath-hold training with CO₂ and O₂ tables. Health & habits, version 2.0.0, store: https://apps.garmin.com/apps/ea0410c6-e80e-49a2-b567-7da49fde3814. Rating 4.4/5 from 7 reviews.
+- [Convertr](https://gerros.app/apps/convertr.html): Units and live currencies in 18 categories. Everyday tools, version 2.0.5, store: https://apps.garmin.com/apps/173e9d71-48e0-4ded-8515-27c3011032da. Rating 4.5/5 from 8 reviews.
 
 ## Pages
 

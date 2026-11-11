@@ -259,7 +259,30 @@
   "convertr": {
    "title": "Convertr",
    "tag": "Units and live currencies in 18 categories",
-   "cat": "tools"
+   "cat": "tools",
+   "accent": "#1E88FF",
+   "screens": [
+    [
+     "Unit converter",
+     "Type a value, read the result"
+    ],
+    [
+     "18 categories",
+     "Length, temperature, weight, currency and more"
+    ],
+    [
+     "Number keypad",
+     "Decimals and negative values"
+    ],
+    [
+     "71 currencies",
+     "Live exchange rates through your phone"
+    ],
+    [
+     "Favorites on top",
+     "Pin the conversions you use most"
+    ]
+   ]
   },
   "cardvault": {
    "title": "CardVault",
@@ -470,6 +493,7 @@
   "fasted",
   "cyra",
   "smokeless",
-  "breathgym"
+  "breathgym",
+  "convertr"
  ]
 }
