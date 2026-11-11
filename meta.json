@@ -509,6 +509,36 @@
      "Your average and your streak"
     ]
    ]
+  },
+  "domora": {
+   "title": "Domora",
+   "tag": "Remote for Home Assistant, set up on the watch",
+   "cat": "tools",
+   "id": "cbe853f7-e460-4480-bc96-fa18a695acc3",
+   "pending": true,
+   "accent": "#FFC23A",
+   "screens": [
+    [
+     "Remote for Home Assistant",
+     "Your favorite devices, one tap away"
+    ],
+    [
+     "Dim a light",
+     "Brightness with - and +"
+    ],
+    [
+     "Set the thermostat",
+     "Target and measured temperature"
+    ],
+    [
+     "Pick favorites on the watch",
+     "No config file to write"
+    ],
+    [
+     "Connect with a QR code",
+     "Scan it with your phone and log in"
+    ]
+   ]
   }
  },
  "wearos": [
@@ -525,6 +555,7 @@
   "smokeless",
   "breathgym",
   "convertr",
-  "hydrosmart"
+  "hydrosmart",
+  "domora"
  ]
 }
