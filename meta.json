@@ -539,6 +539,34 @@
      "Scan it with your phone and log in"
     ]
    ]
+  },
+  "splitr": {
+   "title": "Rowcast",
+   "tag": "Rowing with PM5 and FTMS rowing machines",
+   "cat": "sport",
+   "accent": "#22D3EE",
+   "screens": [
+    [
+     "Your split, live from the rower",
+     "Metres to go and how far ahead or behind"
+    ],
+    [
+     "Interval workouts",
+     "Work and rest switch by themselves"
+    ],
+    [
+     "Every 500 m as a bar",
+     "Faster or slower than the split before"
+    ],
+    [
+     "Saved, with your records",
+     "Time, split and stroke rate after every row"
+    ],
+    [
+     "Your rows, kept on the watch",
+     "The last 30 with date, time and split"
+    ]
+   ]
   }
  },
  "wearos": [
@@ -555,6 +583,7 @@
   "smokeless",
   "breathgym",
   "convertr",
+  "splitr",
   "hydrosmart",
   "domora"
  ]
