@@ -8,7 +8,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "255",
   "icon": "assets/icons/domora.png",
@@ -33,7 +33,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.0",
   "category": "219",
   "icon": "assets/icons/hydrosmart.png",
@@ -70,6 +70,29 @@
   "changed": 1793949795000,
   "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
   "devices": 144,
+  "updates": 2
+ },
+ {
+  "id": "d5c08143-9a4f-4f72-a678-0adc2d603ed1",
+  "slug": "graded",
+  "name": "Graded - Incline treadmill walking coach",
+  "desc": "Graded is a coach for incline walking on the treadmill. Pick 12-3-30, your own grade and speed, a grade pyramid, hill intervals or the build-up program, and set the grade and speed on the watch with the buttons as you change them on the treadmill. Calories come from the ACSM walking equation, which counts the incline, using the weight from your Garmin profile.\n\nDuring the session you see the grade large, the speed below it, the time left in the block and your heart rate against your zone. When your heart rate stays above the zone, Graded suggests one percent less grade; when it stays below, one percent more. The build-up program looks at last week's sessions and suggests the next step: half a percent or a full percent more grade, or two extra minutes, as long as your heart rate stayed steady in the zone.\n\nWHAT IT DOES\n- Programs: 12-3-30, steady (own grade, speed and time), grade pyramid, hill intervals and a weekly build-up\n- Grade and speed set with the buttons or by tapping during the session\n- Calories, MET and MET-minutes from the ACSM walking or running equation, with incline\n- Metres climbed (distance × grade) and flat-equivalent distance\n- Heart-rate steering: suggests a higher or lower grade to stay in your zone\n- Build-up program with a weekly suggestion based on time in zone\n- Summary with calories, climb, flat-equivalent, average grade, average heart rate and time in zone\n- Saved as an indoor walk in Garmin Connect with grade, set speed, MET, climb and calories as extra fields\n- Week page with MET-minutes against your goal, eight-week trend, goal streak and history\n- Glance with this week's MET-minutes and climb, five languages\n\nWHAT IT NEEDS\n- A treadmill with a grade display; the watch cannot measure the incline itself\n- Wrist heart rate for the zone and the steering\n- Weight and heart-rate zones from your Garmin profile, or set them in the app",
+  "nl": "Graded is een coach voor hellingwandelen op de loopband. Kies 12-3-30, je eigen helling en snelheid, een hellingpiramide, hellingintervallen of het opbouwprogramma, en zet helling en snelheid met de knoppen op het horloge zodra je ze op de loopband verandert. De calorieën komen uit de ACSM-loopvergelijking, die de helling meetelt, met het gewicht uit je Garmin-profiel.\n\nTijdens de sessie zie je de helling groot, de snelheid eronder, de resttijd van het blok en je hartslag tegen je zone. Blijft je hartslag boven de zone, dan stelt Graded een procent minder helling voor; blijft hij eronder, een procent meer. Het opbouwprogramma kijkt naar de sessies van vorige week en stelt de volgende stap voor: een halve of hele procent meer helling, of twee minuten langer, zolang je hartslag stabiel in de zone bleef.\n\nWHAT IT DOES\n- Programma's: 12-3-30, vast tempo (eigen helling, snelheid en duur), hellingpiramide, hellingintervallen en een wekelijkse opbouw\n- Helling en snelheid instellen met de knoppen of door te tikken tijdens de sessie\n- Calorieën, MET en MET-minuten uit de ACSM-loop- of hardloopvergelijking, met helling\n- Geklommen meters (afstand × helling) en vlak-equivalente afstand\n- Hartslagsturing: stelt een hogere of lagere helling voor om in je zone te blijven\n- Opbouwprogramma met een wekelijks voorstel op basis van tijd in de zone\n- Samenvatting met calorieën, klim, vlak-equivalent, gemiddelde helling, gemiddelde hartslag en tijd in de zone\n- Opgeslagen als indoor wandeling in Garmin Connect met helling, ingestelde snelheid, MET, klim en calorieën als extra velden\n- Weekpagina met MET-minuten tegen je doel, trend over acht weken, doelreeks en geschiedenis\n- Glance met de MET-minuten en klim van deze week, vijf talen\n\nWHAT IT NEEDS\n- Een loopband met hellingweergave; het horloge kan de helling zelf niet meten\n- Polshartslag voor de zone en de sturing\n- Gewicht en hartslagzones uit je Garmin-profiel, of zelf in te stellen in de app",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 100,
+  "version": "1.0.1",
+  "category": "222",
+  "icon": "assets/icons/graded.png",
+  "shots": [
+   "assets/shots/graded-1.jpg",
+   "assets/shots/graded-2.jpg",
+   "assets/shots/graded-3.jpg"
+  ],
+  "changed": 1793953066000,
+  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "devices": 185,
   "updates": 2
  },
  {
@@ -232,6 +255,29 @@
   "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
   "devices": 150,
   "updates": 4
+ },
+ {
+  "id": "158f7d28-35bd-4684-841d-a60946a436da",
+  "slug": "tidewell",
+  "name": "Tidewell - Tide clock watch face",
+  "desc": "Tidewell turns your watch face into a tide clock. One hand runs around the dial with high water at the top and low water at the bottom: on the right it counts down the hours to low tide, on the left the hours to high tide. Below the time sits the tide curve for the next 12 or 24 hours, with the times of high and low water and the height right now.\n\nIt needs no API key, no account and no internet. You enter one high water you know from a tide table (date, time, height and the range that day) and the face works out the tide from there with the same harmonic maths tide tables are built on. Spring and neap come from the moon, so the band around the dial grows thicker at springs and thinner at neaps. If you have the harmonic constants for your harbour, you can enter those instead for a closer fit. Tidewell is a planning aid and not for navigation; always check the official tide table.\n\nWHAT IT DOES\n- Tide clock dial: one hand on the real tide, hours to high and low water on both sides\n- Tide curve for the next 12 or 24 hours with high and low water times and the height now\n- Water band on the dial that fills as the tide comes in and thickens at spring tide\n- Spring/neap countdown, tidal range, tidal coefficient or next tide as a field\n- Second field for date, battery, steps or heart rate\n- Five colours, metres or feet, 12 or 24 hour, always-on mode on AMOLED\n- Settings in the Connect IQ app or on the watch itself\n\nWHAT IT NEEDS\n- One known high water (date, time, height and range) or harmonic constants for your spot\n- No phone connection, no account, no internet: everything is worked out on the watch",
+  "nl": "Tidewell maakt van je wijzerplaat een getijdenklok. Eén wijzer loopt rond met hoogwater boven en laagwater onder: rechts telt hij de uren af tot laagwater, links de uren tot hoogwater. Onder de tijd staat de getijcurve van de komende 12 of 24 uur, met de tijden van hoog- en laagwater en de hoogte van dit moment.\n\nEr is geen API-sleutel, geen account en geen internet nodig. Je voert één hoogwater in dat je uit een getijtafel kent (datum, tijd, hoogte en het verschil die dag) en de wijzerplaat rekent het getij vanaf daar door met dezelfde harmonische rekenwijze waarop getijtafels gebouwd zijn. Springtij en doodtij volgen uit de maan, dus de band om de wijzerplaat wordt dikker bij springtij en dunner bij doodtij. Heb je de harmonische constanten van je haven, dan kun je die invoeren voor een nauwkeuriger resultaat. Tidewell is een hulpmiddel bij het plannen en niet bedoeld voor navigatie; controleer altijd de officiële getijtafel.\n\nWHAT IT DOES\n- Getijdenklok: één wijzer op het echte getij, uren tot hoog- en laagwater aan beide kanten\n- Getijcurve voor de komende 12 of 24 uur met tijden van hoog- en laagwater en de hoogte nu\n- Waterband op de ring die volloopt met de vloed en dikker wordt bij springtij\n- Springtij/doodtij-aftelling, getijverschil, getijcoëfficiënt of volgend getij als veld\n- Tweede veld voor datum, batterij, stappen of hartslag\n- Vijf kleuren, meter of voet, 12 of 24 uur, always-on op AMOLED\n- Instellingen in de Connect IQ-app of op het horloge zelf\n\nWHAT IT NEEDS\n- Eén bekend hoogwater (datum, tijd, hoogte en verschil) of harmonische constanten van je plek\n- Geen telefoonverbinding, geen account, geen internet: alles wordt op het horloge berekend",
+  "type": "1",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 100,
+  "version": "1.0.1",
+  "category": "246",
+  "icon": "assets/icons/tidewell.png",
+  "shots": [
+   "assets/shots/tidewell-1.jpg",
+   "assets/shots/tidewell-2.jpg",
+   "assets/shots/tidewell-3.jpg"
+  ],
+  "changed": 1794176112000,
+  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "devices": 111,
+  "updates": 3
  },
  {
   "id": "fbee1c19-b416-4630-a52a-f5d8ab23a5da",
@@ -679,7 +725,7 @@
   "type": "1",
   "rating": 5.0,
   "reviews": 3,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.1",
   "category": "272",
   "icon": "assets/icons/zonestack.png",
@@ -691,52 +737,6 @@
   "changed": 1794176753000,
   "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
   "devices": 118,
-  "updates": 3
- },
- {
-  "id": "d5c08143-9a4f-4f72-a678-0adc2d603ed1",
-  "slug": "graded",
-  "name": "Graded - Incline treadmill walking coach",
-  "desc": "Graded is a coach for incline walking on the treadmill. Pick 12-3-30, your own grade and speed, a grade pyramid, hill intervals or the build-up program, and set the grade and speed on the watch with the buttons as you change them on the treadmill. Calories come from the ACSM walking equation, which counts the incline, using the weight from your Garmin profile.\n\nDuring the session you see the grade large, the speed below it, the time left in the block and your heart rate against your zone. When your heart rate stays above the zone, Graded suggests one percent less grade; when it stays below, one percent more. The build-up program looks at last week's sessions and suggests the next step: half a percent or a full percent more grade, or two extra minutes, as long as your heart rate stayed steady in the zone.\n\nWHAT IT DOES\n- Programs: 12-3-30, steady (own grade, speed and time), grade pyramid, hill intervals and a weekly build-up\n- Grade and speed set with the buttons or by tapping during the session\n- Calories, MET and MET-minutes from the ACSM walking or running equation, with incline\n- Metres climbed (distance × grade) and flat-equivalent distance\n- Heart-rate steering: suggests a higher or lower grade to stay in your zone\n- Build-up program with a weekly suggestion based on time in zone\n- Summary with calories, climb, flat-equivalent, average grade, average heart rate and time in zone\n- Saved as an indoor walk in Garmin Connect with grade, set speed, MET, climb and calories as extra fields\n- Week page with MET-minutes against your goal, eight-week trend, goal streak and history\n- Glance with this week's MET-minutes and climb, five languages\n\nWHAT IT NEEDS\n- A treadmill with a grade display; the watch cannot measure the incline itself\n- Wrist heart rate for the zone and the steering\n- Weight and heart-rate zones from your Garmin profile, or set them in the app",
-  "nl": "Graded is een coach voor hellingwandelen op de loopband. Kies 12-3-30, je eigen helling en snelheid, een hellingpiramide, hellingintervallen of het opbouwprogramma, en zet helling en snelheid met de knoppen op het horloge zodra je ze op de loopband verandert. De calorieën komen uit de ACSM-loopvergelijking, die de helling meetelt, met het gewicht uit je Garmin-profiel.\n\nTijdens de sessie zie je de helling groot, de snelheid eronder, de resttijd van het blok en je hartslag tegen je zone. Blijft je hartslag boven de zone, dan stelt Graded een procent minder helling voor; blijft hij eronder, een procent meer. Het opbouwprogramma kijkt naar de sessies van vorige week en stelt de volgende stap voor: een halve of hele procent meer helling, of twee minuten langer, zolang je hartslag stabiel in de zone bleef.\n\nWHAT IT DOES\n- Programma's: 12-3-30, vast tempo (eigen helling, snelheid en duur), hellingpiramide, hellingintervallen en een wekelijkse opbouw\n- Helling en snelheid instellen met de knoppen of door te tikken tijdens de sessie\n- Calorieën, MET en MET-minuten uit de ACSM-loop- of hardloopvergelijking, met helling\n- Geklommen meters (afstand × helling) en vlak-equivalente afstand\n- Hartslagsturing: stelt een hogere of lagere helling voor om in je zone te blijven\n- Opbouwprogramma met een wekelijks voorstel op basis van tijd in de zone\n- Samenvatting met calorieën, klim, vlak-equivalent, gemiddelde helling, gemiddelde hartslag en tijd in de zone\n- Opgeslagen als indoor wandeling in Garmin Connect met helling, ingestelde snelheid, MET, klim en calorieën als extra velden\n- Weekpagina met MET-minuten tegen je doel, trend over acht weken, doelreeks en geschiedenis\n- Glance met de MET-minuten en klim van deze week, vijf talen\n\nWHAT IT NEEDS\n- Een loopband met hellingweergave; het horloge kan de helling zelf niet meten\n- Polshartslag voor de zone en de sturing\n- Gewicht en hartslagzones uit je Garmin-profiel, of zelf in te stellen in de app",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 100,
-  "version": "1.0.1",
-  "category": "222",
-  "icon": "assets/icons/graded.png",
-  "shots": [
-   "assets/shots/graded-1.jpg",
-   "assets/shots/graded-2.jpg",
-   "assets/shots/graded-3.jpg"
-  ],
-  "changed": 1793953066000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
-  "devices": 185,
-  "updates": 2
- },
- {
-  "id": "158f7d28-35bd-4684-841d-a60946a436da",
-  "slug": "tidewell",
-  "name": "Tidewell - Tide clock watch face",
-  "desc": "Tidewell turns your watch face into a tide clock. One hand runs around the dial with high water at the top and low water at the bottom: on the right it counts down the hours to low tide, on the left the hours to high tide. Below the time sits the tide curve for the next 12 or 24 hours, with the times of high and low water and the height right now.\n\nIt needs no API key, no account and no internet. You enter one high water you know from a tide table (date, time, height and the range that day) and the face works out the tide from there with the same harmonic maths tide tables are built on. Spring and neap come from the moon, so the band around the dial grows thicker at springs and thinner at neaps. If you have the harmonic constants for your harbour, you can enter those instead for a closer fit. Tidewell is a planning aid and not for navigation; always check the official tide table.\n\nWHAT IT DOES\n- Tide clock dial: one hand on the real tide, hours to high and low water on both sides\n- Tide curve for the next 12 or 24 hours with high and low water times and the height now\n- Water band on the dial that fills as the tide comes in and thickens at spring tide\n- Spring/neap countdown, tidal range, tidal coefficient or next tide as a field\n- Second field for date, battery, steps or heart rate\n- Five colours, metres or feet, 12 or 24 hour, always-on mode on AMOLED\n- Settings in the Connect IQ app or on the watch itself\n\nWHAT IT NEEDS\n- One known high water (date, time, height and range) or harmonic constants for your spot\n- No phone connection, no account, no internet: everything is worked out on the watch",
-  "nl": "Tidewell maakt van je wijzerplaat een getijdenklok. Eén wijzer loopt rond met hoogwater boven en laagwater onder: rechts telt hij de uren af tot laagwater, links de uren tot hoogwater. Onder de tijd staat de getijcurve van de komende 12 of 24 uur, met de tijden van hoog- en laagwater en de hoogte van dit moment.\n\nEr is geen API-sleutel, geen account en geen internet nodig. Je voert één hoogwater in dat je uit een getijtafel kent (datum, tijd, hoogte en het verschil die dag) en de wijzerplaat rekent het getij vanaf daar door met dezelfde harmonische rekenwijze waarop getijtafels gebouwd zijn. Springtij en doodtij volgen uit de maan, dus de band om de wijzerplaat wordt dikker bij springtij en dunner bij doodtij. Heb je de harmonische constanten van je haven, dan kun je die invoeren voor een nauwkeuriger resultaat. Tidewell is een hulpmiddel bij het plannen en niet bedoeld voor navigatie; controleer altijd de officiële getijtafel.\n\nWHAT IT DOES\n- Getijdenklok: één wijzer op het echte getij, uren tot hoog- en laagwater aan beide kanten\n- Getijcurve voor de komende 12 of 24 uur met tijden van hoog- en laagwater en de hoogte nu\n- Waterband op de ring die volloopt met de vloed en dikker wordt bij springtij\n- Springtij/doodtij-aftelling, getijverschil, getijcoëfficiënt of volgend getij als veld\n- Tweede veld voor datum, batterij, stappen of hartslag\n- Vijf kleuren, meter of voet, 12 of 24 uur, always-on op AMOLED\n- Instellingen in de Connect IQ-app of op het horloge zelf\n\nWHAT IT NEEDS\n- Eén bekend hoogwater (datum, tijd, hoogte en verschil) of harmonische constanten van je plek\n- Geen telefoonverbinding, geen account, geen internet: alles wordt op het horloge berekend",
-  "type": "1",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 100,
-  "version": "1.0.1",
-  "category": "246",
-  "icon": "assets/icons/tidewell.png",
-  "shots": [
-   "assets/shots/tidewell-1.jpg",
-   "assets/shots/tidewell-2.jpg",
-   "assets/shots/tidewell-3.jpg"
-  ],
-  "changed": 1794176112000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
-  "devices": 111,
   "updates": 3
  },
  {
@@ -772,7 +772,7 @@
   "rating": 4.5,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "267",
   "icon": "assets/icons/rootline.png",
   "shots": [
@@ -780,10 +780,10 @@
    "assets/shots/rootline-2.jpg",
    "assets/shots/rootline-3.jpg"
   ],
-  "changed": 1794178020000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794552875000,
+  "whatsnew": "Fixed a crash on vívoactive 5 and other watches without a barometer. Sensors the watch does not have now show \"--\".",
   "devices": 119,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "47517023-be9f-4a3e-8f79-55b2ed23fa58",
@@ -2077,7 +2077,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "category": "183",
   "icon": "assets/icons/paddledeck.png",
   "shots": [
@@ -2085,10 +2085,10 @@
    "assets/shots/paddledeck-2.jpg",
    "assets/shots/paddledeck-3.jpg"
   ],
-  "changed": 1794171435000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794555207000,
+  "whatsnew": "The field now tells you why a value is missing: \"NO GPS\" while waiting for a GPS fix and \"NO SR\" when the watch reports no stroke rate in this activity profile.",
   "devices": 208,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "ae2a50e2-93a6-4288-9638-338a439adbe8",
@@ -2674,7 +2674,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.5",
   "category": "219",
   "icon": "assets/icons/burnpoint.png",
@@ -3135,7 +3135,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.1.4",
+  "version": "1.1.5",
   "category": "219",
   "icon": "assets/icons/strain.png",
   "shots": [
@@ -3143,10 +3143,10 @@
    "assets/shots/strain-2.jpg",
    "assets/shots/strain-3.jpg"
   ],
-  "changed": 1794174327000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794560082000,
+  "whatsnew": "Clearer wording: a detected session now asks \"Log 42 min?\" and shows how to confirm it, and the labels on the Today and Balance pages are easier to understand (\"Load left\", \"Load done\", \"rising too fast\").",
   "devices": 178,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "9515da43-3860-4968-8123-b7498ab7227d",
@@ -4038,7 +4038,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.10",
   "category": "204",
   "icon": "assets/icons/spent.png",
@@ -4064,7 +4064,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.2.5",
+  "version": "2.2.6",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -4074,10 +4074,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1793959947000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794554905000,
+  "whatsnew": "Two new sections, Garage & DIY and Garden, with 40 products. You can now type your own products straight into any section, or move them to another section.",
   "devices": 54,
-  "updates": 15
+  "updates": 16
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
@@ -4578,7 +4578,7 @@
   "rating": 4.5,
   "reviews": 8,
   "downloads": 100,
-  "version": "2.1.0",
+  "version": "2.1.1",
   "category": "213",
   "icon": "assets/icons/convertr.png",
   "shots": [
@@ -4587,10 +4587,10 @@
    "assets/shots/convertr-3.jpg",
    "assets/shots/convertr-4.jpg"
   ],
-  "changed": 1794405139000,
-  "whatsnew": "A completely new look: larger, cleaner screens with big result digits, one color per category, big-button lists for categories, units and favorites, and a redesigned round keypad. Saved exchange rates are now kept between sessions.",
+  "changed": 1794563361000,
+  "whatsnew": "Added the Eastern Caribbean dollar (XCD), Barbadian dollar (BBD) and Bahamian dollar (BSD) to the currency converter.",
   "devices": 205,
-  "updates": 20
+  "updates": 21
  },
  {
   "id": "ba8e2555-cf31-45fe-8876-68a4f3b2cbb6",
