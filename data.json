@@ -9,7 +9,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "255",
   "icon": "assets/icons/domora.png",
   "shots": [
@@ -19,10 +19,10 @@
    "assets/shots/domora-4.jpg",
    "assets/shots/domora-5.jpg"
   ],
-  "changed": 1794414409000,
-  "whatsnew": "",
+  "changed": 1794647872000,
+  "whatsnew": "Lists now use your watch's native scrolling. Switches and scenes toggle right from the list; lights and fans open their ring screen. Devices, entities or areas with the label \"garmin\" in Home Assistant appear in Favorites automatically.",
   "devices": 164,
-  "updates": 1
+  "updates": 2
  },
  {
   "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
@@ -104,7 +104,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.1",
   "category": "213",
   "icon": "assets/icons/quits.png",
@@ -127,7 +127,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.1",
   "category": "208",
   "icon": "assets/icons/pupcast.png",
@@ -441,29 +441,6 @@
   "updates": 3
  },
  {
-  "id": "0c61bd35-61a9-4179-916c-8489511c82a2",
-  "slug": "dicewise",
-  "name": "Dicewise - Yatzy and Farkle dice games",
-  "desc": "Dicewise puts three dice games on your watch: Scandinavian Yatzy, American-style Yatzy US and Farkle, alone or with up to four players passing the watch around, against computer players on three levels. Every throw comes from one seeded generator that serves all players in turn order, the seed is on screen, and the same seed replays the same dice, so you can check that nobody gets better luck. The computer players see exactly what you see and only differ in how well they choose.\n\nBehind each roll sits an expected-value engine. In both Yatzy variants it works out, over the rolls you have left, which dice are worth holding; in Farkle it weighs banking against rolling on with the dice that remain. Ask for a hint and it marks the dice and names the box. After the game the analysis shows how many points each of your choices cost compared to the best one, and which moves were the most expensive.\n\nWHAT IT DOES\n- Yatzy (15 boxes, 50 bonus at 63), Yatzy US (13 boxes, 35 bonus, Yatzy bonus and Joker rules) and Farkle (to 10,000 or 5,000, hot dice, final round)\n- 1 to 4 players on one watch, each seat a player or a computer opponent (easy, normal, hard)\n- Hold dice by tapping, or move a ring with UP/DOWN and confirm with START on button watches\n- Hint button and optional automatic hints with the best hold, box or bank decision\n- Post-game analysis: points lost, best moves, the costliest decisions\n- Fair dice: visible seed, roll log and \"same seed again\"\n- Highscores and statistics per game, resume after closing, five languages, glance with your best score\n\nWHAT IT NEEDS\nNothing extra: no phone connection, no sensors. Works on touch and button watches.",
-  "nl": "Dicewise zet drie dobbelspellen op je horloge: Scandinavische Yatzy, Amerikaanse Yatzy US en Farkle, alleen of met maximaal vier spelers die het horloge doorgeven, tegen computerspelers op drie niveaus. Elke worp komt uit één generator met een seed die alle spelers in beurtvolgorde bedient; de seed staat op het scherm en dezelfde seed geeft dezelfde stenen, zodat je kunt nagaan dat niemand meer geluk krijgt. De computerspelers zien precies wat jij ziet en verschillen alleen in hoe goed ze kiezen.\n\nAchter elke worp zit een rekenhart met verwachte waarden. Bij beide Yatzy-varianten rekent het over je resterende worpen uit welke stenen het houden waard zijn; bij Farkle weegt het banken af tegen doorgooien met de stenen die over zijn. Vraag een hint en het markeert de stenen en noemt het vak. Na het spel laat de analyse zien hoeveel punten elke keuze kostte ten opzichte van de beste, en welke zetten het duurst waren.\n\nWHAT IT DOES\n- Yatzy (15 vakken, bonus 50 bij 63), Yatzy US (13 vakken, bonus 35, Yatzy-bonus en jokerregels) en Farkle (tot 10.000 of 5.000, hete stenen, laatste ronde)\n- 1 tot 4 spelers op één horloge, elke plaats een speler of een computertegenstander (makkelijk, normaal, moeilijk)\n- Stenen houden met een tik, of op knophorloges een ring verplaatsen met OMHOOG/OMLAAG en bevestigen met START\n- Hintknop en optionele automatische hints met de beste houdkeuze, het beste vak of de bankbeslissing\n- Analyse na het spel: verloren punten, beste zetten, de duurste keuzes\n- Eerlijke stenen: zichtbare seed, worpenlogboek en \"zelfde seed opnieuw\"\n- Topscores en statistiek per spel, verder na afsluiten, vijf talen, glance met je beste score\n\nWHAT IT NEEDS\nNiets extra: geen telefoonverbinding, geen sensoren. Werkt op touch- en knophorloges.",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 10,
-  "version": "1.0.1",
-  "category": "206",
-  "icon": "assets/icons/dicewise.png",
-  "shots": [
-   "assets/shots/dicewise-1.jpg",
-   "assets/shots/dicewise-2.jpg",
-   "assets/shots/dicewise-3.jpg"
-  ],
-  "changed": 1793952508000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
-  "devices": 185,
-  "updates": 3
- },
- {
   "id": "b3a0b5d5-b0b0-448e-923d-c419a5ca263d",
   "slug": "ebbcast",
   "name": "Ebbcast - Body Battery forecast and alerts",
@@ -679,7 +656,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.1",
   "category": "277",
   "icon": "assets/icons/anvil.png",
@@ -714,6 +691,29 @@
   "changed": 1794209589000,
   "whatsnew": "Larger text on big screens (tactix, epix Pro, fenix 8) and all 16 languages. Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
   "devices": 193,
+  "updates": 3
+ },
+ {
+  "id": "0c61bd35-61a9-4179-916c-8489511c82a2",
+  "slug": "dicewise",
+  "name": "Dicewise - Yatzy and Farkle dice games",
+  "desc": "Dicewise puts three dice games on your watch: Scandinavian Yatzy, American-style Yatzy US and Farkle, alone or with up to four players passing the watch around, against computer players on three levels. Every throw comes from one seeded generator that serves all players in turn order, the seed is on screen, and the same seed replays the same dice, so you can check that nobody gets better luck. The computer players see exactly what you see and only differ in how well they choose.\n\nBehind each roll sits an expected-value engine. In both Yatzy variants it works out, over the rolls you have left, which dice are worth holding; in Farkle it weighs banking against rolling on with the dice that remain. Ask for a hint and it marks the dice and names the box. After the game the analysis shows how many points each of your choices cost compared to the best one, and which moves were the most expensive.\n\nWHAT IT DOES\n- Yatzy (15 boxes, 50 bonus at 63), Yatzy US (13 boxes, 35 bonus, Yatzy bonus and Joker rules) and Farkle (to 10,000 or 5,000, hot dice, final round)\n- 1 to 4 players on one watch, each seat a player or a computer opponent (easy, normal, hard)\n- Hold dice by tapping, or move a ring with UP/DOWN and confirm with START on button watches\n- Hint button and optional automatic hints with the best hold, box or bank decision\n- Post-game analysis: points lost, best moves, the costliest decisions\n- Fair dice: visible seed, roll log and \"same seed again\"\n- Highscores and statistics per game, resume after closing, five languages, glance with your best score\n\nWHAT IT NEEDS\nNothing extra: no phone connection, no sensors. Works on touch and button watches.",
+  "nl": "Dicewise zet drie dobbelspellen op je horloge: Scandinavische Yatzy, Amerikaanse Yatzy US en Farkle, alleen of met maximaal vier spelers die het horloge doorgeven, tegen computerspelers op drie niveaus. Elke worp komt uit één generator met een seed die alle spelers in beurtvolgorde bedient; de seed staat op het scherm en dezelfde seed geeft dezelfde stenen, zodat je kunt nagaan dat niemand meer geluk krijgt. De computerspelers zien precies wat jij ziet en verschillen alleen in hoe goed ze kiezen.\n\nAchter elke worp zit een rekenhart met verwachte waarden. Bij beide Yatzy-varianten rekent het over je resterende worpen uit welke stenen het houden waard zijn; bij Farkle weegt het banken af tegen doorgooien met de stenen die over zijn. Vraag een hint en het markeert de stenen en noemt het vak. Na het spel laat de analyse zien hoeveel punten elke keuze kostte ten opzichte van de beste, en welke zetten het duurst waren.\n\nWHAT IT DOES\n- Yatzy (15 vakken, bonus 50 bij 63), Yatzy US (13 vakken, bonus 35, Yatzy-bonus en jokerregels) en Farkle (tot 10.000 of 5.000, hete stenen, laatste ronde)\n- 1 tot 4 spelers op één horloge, elke plaats een speler of een computertegenstander (makkelijk, normaal, moeilijk)\n- Stenen houden met een tik, of op knophorloges een ring verplaatsen met OMHOOG/OMLAAG en bevestigen met START\n- Hintknop en optionele automatische hints met de beste houdkeuze, het beste vak of de bankbeslissing\n- Analyse na het spel: verloren punten, beste zetten, de duurste keuzes\n- Eerlijke stenen: zichtbare seed, worpenlogboek en \"zelfde seed opnieuw\"\n- Topscores en statistiek per spel, verder na afsluiten, vijf talen, glance met je beste score\n\nWHAT IT NEEDS\nNiets extra: geen telefoonverbinding, geen sensoren. Werkt op touch- en knophorloges.",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 10,
+  "version": "1.0.1",
+  "category": "206",
+  "icon": "assets/icons/dicewise.png",
+  "shots": [
+   "assets/shots/dicewise-1.jpg",
+   "assets/shots/dicewise-2.jpg",
+   "assets/shots/dicewise-3.jpg"
+  ],
+  "changed": 1793952508000,
+  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "devices": 185,
   "updates": 3
  },
  {
@@ -838,8 +838,8 @@
   "desc": "Natalis calculates your birth chart on the watch from your birth date, time and place, and shows which planets touch it today. Planet positions come from published astronomical series (VSOP87 and Meeus), accurate to about one arcminute, so the sky part is real astronomy. The short meanings are neutral themes for entertainment, not forecasts.\n\nNo phone, no account and no subscription: everything runs on the watch. Up to four charts (you, partner, child, friend), switch between them in the menu.\n\nWHAT IT DOES\n- Birth chart with Sun to Pluto, Ascendant and Midheaven, houses in Placidus, whole sign or equal (Placidus falls back to whole sign above 66° latitude)\n- Chart wheel with sign glyphs, house lines, your natal planets inside and today's planets outside, with coloured aspect lines\n- Transits now: conjunction, sextile, square, trine and opposition within your orb (1-8°), sorted by orb, applying or separating\n- Exact time of each transit in the coming week, and a list of everything that goes exact\n- Short neutral meaning per transit, built from the themes of both points and the tone of the aspect\n- Moon page: phase, sign, next sign change and the void-of-course window (classic or modern)\n- Retrograde page: which planets are retrograde and until when, and the next retrograde start\n- Birth time unknown: chart without houses or Ascendant\n- Glance with the Moon's sign, void-of-course and the strongest transit right now\n- English, Dutch, German, French and Spanish\n\nWHAT IT NEEDS\n- Your birth date, time (if known), UTC offset at birth and place as latitude/longitude; the last GPS position can fill in the place\n- Birth years 1902 and later",
   "nl": "Natalis berekent je geboortehoroscoop op het horloge uit je geboortedatum, -tijd en -plaats, en laat zien welke planeten hem vandaag raken. De planeetposities komen uit gepubliceerde sterrenkundige reeksen (VSOP87 en Meeus), op ongeveer een boogminuut nauwkeurig, dus het hemeldeel is echte sterrenkunde. De korte duidingen zijn neutrale thema's voor de lol, geen voorspellingen.\n\nGeen telefoon, geen account en geen abonnement: alles draait op het horloge. Tot vier horoscopen (jij, partner, kind, vriend), wisselen in het menu.\n\nWHAT IT DOES\n- Geboortehoroscoop met Zon tot Pluto, Ascendant en Medium Coeli, huizen in Placidus, hele tekens of gelijk (Placidus valt boven 66° breedte terug op hele tekens)\n- Horoscoopwiel met tekenglyphs, huislijnen, je natale planeten binnen en de planeten van vandaag buiten, met gekleurde aspectlijnen\n- Transits nu: conjunctie, sextiel, vierkant, driehoek en oppositie binnen je orb (1-8°), op orb gesorteerd, naderend of wijkend\n- Exact tijdstip van elke transit in de komende week, en een lijst van alles wat exact wordt\n- Korte neutrale duiding per transit, uit de thema's van beide punten en de toon van het aspect\n- Maanpagina: fase, teken, volgende tekenwissel en het void-of-course-venster (klassiek of modern)\n- Retrogradepagina: welke planeten retrograde zijn en tot wanneer, en de volgende retrograde start\n- Geboortetijd onbekend: horoscoop zonder huizen of Ascendant\n- Glance met het maanteken, void-of-course en de sterkste transit van dit moment\n- Engels, Nederlands, Duits, Frans en Spaans\n\nWHAT IT NEEDS\n- Je geboortedatum, -tijd (als je die weet), UTC-afwijking bij de geboorte en plaats als breedte/lengte; de laatste GPS-positie kan de plaats invullen\n- Geboortejaar 1902 of later",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 10,
   "version": "1.0.1",
   "category": "203",
@@ -1477,7 +1477,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.0.2",
+  "version": "1.1.0",
   "category": "208",
   "icon": "assets/icons/liftoff.png",
   "shots": [
@@ -1487,10 +1487,10 @@
    "assets/shots/liftoff-4.jpg",
    "assets/shots/liftoff-5.jpg"
   ],
-  "changed": 1793957473000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794723618000,
+  "whatsnew": "Webhook: the current run is sent first, one state per routine per day, any 2xx reply counts (also JSON replies such as ntfy), and states older than 3 days are dropped. New per-routine \"Target point\". Swipe left or right to switch routines.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "bd8c9ce5-9444-49f6-babc-c8d3a04f73db",
@@ -1729,8 +1729,8 @@
   "desc": "Oneira stays open on your wrist through the night and estimates when you are likely in REM sleep, from your heart rate, how irregular it is and how still you lie, weighed against the 90-minute sleep cycle. From the second half of the night it sends a soft vibration pattern when REM looks likely for a few minutes in a row, so the cue can reach you inside a dream without waking you. During the day you practise reality checks with the very same pattern, so that at night it means one thing: am I dreaming?\n\nEach morning you log what you remember in two taps. Oneira learns from it: if a cue woke you, it goes one step softer; if you never noticed it, one step stronger. It stops for the night after three wake-ups. Your journal shows lucid dreams, how often you remember a dream, your streak and today's reality checks, and the last night page shows the REM estimate, the cue moments and how much battery the night used.\n\nWHAT IT DOES\n- Night mode with a live REM estimate from heart rate, beat-to-beat variability, stillness and the sleep cycle\n- Gentle cues in three patterns and five strengths, only after a set time asleep, with a pause between cues\n- Backs off after a cue wakes you and stops after three wake-ups\n- Morning log in two taps; the cue strength adjusts itself from your answers\n- Reality-check reminders and a 10-minute pre-sleep training with the same pattern\n- Dream journal: lucid dreams, recall rate, streak, and a 14-night overview\n- Last-night view with REM estimate, cue moments and battery use per hour\n- Five languages and a glance with your lucid count and recall\n\nWHAT IT NEEDS\n- A watch with an optical heart rate sensor, worn snugly overnight\n- Leave the app open when you go to sleep; it uses a low sensor rate to save battery\n- Staying open all night costs extra battery; the last-night page shows how much per hour, so charge before bed\n- The REM estimate is a guess from wrist signals, not a sleep test",
   "nl": "Oneira blijft 's nachts open op je pols en schat wanneer je waarschijnlijk in REM-slaap bent, uit je hartslag, hoe onregelmatig die is en hoe stil je ligt, afgewogen tegen de slaapcyclus van 90 minuten. Vanaf de tweede helft van de nacht geeft hij een zacht trilpatroon als REM een paar minuten op rij waarschijnlijk is, zodat de cue je in een droom kan bereiken zonder je te wekken. Overdag oefen je realiteitschecks met precies hetzelfde patroon, zodat het 's nachts maar één ding betekent: droom ik?\n\nElke ochtend log je in twee tikken wat je je herinnert. Oneira leert ervan: wekte een cue je, dan gaat hij een stap zachter; merkte je hem niet, dan een stap sterker. Na drie keer wakker worden stopt hij voor die nacht. Je dagboek toont lucide dromen, hoe vaak je een droom onthoudt, je reeks en de realiteitschecks van vandaag, en de pagina van afgelopen nacht toont de REM-schatting, de cue-momenten en hoeveel accu de nacht kostte.\n\nWAT HET DOET\n- Nachtmodus met een live REM-schatting uit hartslag, slag-tot-slagvariatie, stilliggen en de slaapcyclus\n- Zachte cues in drie patronen en vijf sterktes, pas na een ingestelde slaaptijd, met een pauze ertussen\n- Wordt zachter als een cue je wekt en stopt na drie keer wakker worden\n- Ochtendlog in twee tikken; de cue-sterkte stelt zichzelf bij op je antwoorden\n- Realiteitscheck-herinneringen en een training van 10 minuten voor het slapen, met hetzelfde patroon\n- Droomdagboek: lucide dromen, herinneringspercentage, reeks en een overzicht van 14 nachten\n- Afgelopen nacht met REM-schatting, cue-momenten en accuverbruik per uur\n- Vijf talen en een glance met je lucide dromen en herinnering\n\nWAT HET NODIG HEEFT\n- Een horloge met optische hartslagmeter, 's nachts goed aansluitend gedragen\n- Laat de app open als je gaat slapen; hij gebruikt een lage sensorfrequentie om accu te sparen\n- De hele nacht open blijven kost extra accu; de pagina van afgelopen nacht toont hoeveel per uur, dus laad op voor het slapen\n- De REM-schatting is een inschatting uit polssignalen, geen slaaponderzoek",
   "type": "2",
-  "rating": 3.0,
-  "reviews": 2,
+  "rating": 2.3,
+  "reviews": 3,
   "downloads": 100,
   "version": "1.0.5",
   "category": "219",
@@ -2996,7 +2996,7 @@
   "type": "2",
   "rating": 3.5,
   "reviews": 2,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.1.6",
   "category": "219",
   "icon": "assets/icons/baseline.png",
@@ -3135,7 +3135,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.1.5",
+  "version": "1.1.6",
   "category": "219",
   "icon": "assets/icons/strain.png",
   "shots": [
@@ -3143,10 +3143,10 @@
    "assets/shots/strain-2.jpg",
    "assets/shots/strain-3.jpg"
   ],
-  "changed": 1794560082000,
-  "whatsnew": "Clearer wording: a detected session now asks \"Log 42 min?\" and shows how to confirm it, and the labels on the Today and Balance pages are easier to understand (\"Load left\", \"Load done\", \"rising too fast\").",
+  "changed": 1794642052000,
+  "whatsnew": "Fixed the load ratio reading too high for new users: the averages are now corrected for a short history, and the first two weeks show \"building base\" with day progress. Clearer labels (7-day avg / 42-day avg) and glance wording that matches the app.",
   "devices": 178,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "9515da43-3860-4968-8123-b7498ab7227d",
@@ -4114,7 +4114,7 @@
   "rating": 4.0,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.6.1",
+  "version": "1.7.0",
   "category": "204",
   "icon": "assets/icons/shiftpay.png",
   "shots": [
@@ -4123,10 +4123,10 @@
    "assets/shots/shiftpay-3.jpg",
    "assets/shots/shiftpay-4.jpg"
   ],
-  "changed": 1794173500000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794634578000,
+  "whatsnew": "Now available on Forerunner 245 and 245 Music. Eleven new languages, a short press on DOWN opens the menu, and a tidier calendar and keypad on 240 px screens.",
   "devices": 205,
-  "updates": 14
+  "updates": 15
  },
  {
   "id": "a1845d8e-d596-4d4a-9549-9ffa109926a2",
