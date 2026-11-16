@@ -378,78 +378,67 @@
    "title": "Kedge",
    "tag": "Anchor watch with a drag alarm",
    "cat": "sport",
-   "id": "d66900af-a149-4309-a7f1-3bdb70eced57",
-   "pending": true
+   "id": "d66900af-a149-4309-a7f1-3bdb70eced57"
   },
   "skyfix": {
    "title": "Skyfix",
    "tag": "Point at the sky and read what it is",
    "cat": "sport",
-   "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
-   "pending": true
+   "id": "dfa4cd28-4856-45a2-a668-b796285fca77"
   },
   "barocast": {
    "title": "Barocast",
    "tag": "Weather forecast from your barometer",
    "cat": "sport",
-   "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
-   "pending": true
+   "id": "faae6372-9d31-43dd-bcac-969628e7dc89"
   },
   "cadenzo": {
    "title": "Cadenzo",
    "tag": "Metronome and practice planner for musicians",
    "cat": "tools",
-   "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1",
-   "pending": true
+   "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1"
   },
   "flexa": {
    "title": "Flexa",
    "tag": "Range-of-motion tests and a stretch timer",
    "cat": "health",
-   "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf",
-   "pending": true
+   "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf"
   },
   "halflight": {
    "title": "Halflight",
    "tag": "Turnaround time for a hike before dark",
    "cat": "sport",
-   "id": "09bde219-f38e-412f-aefc-4e2741fd08d0",
-   "pending": true
+   "id": "09bde219-f38e-412f-aefc-4e2741fd08d0"
   },
   "pawcast": {
    "title": "Pawcast",
    "tag": "When it is safe to walk the dog",
    "cat": "tools",
-   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600",
-   "pending": true
+   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600"
   },
   "platewise": {
    "title": "Platewise",
    "tag": "Cooking timeline for a whole meal",
    "cat": "tools",
-   "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166",
-   "pending": true
+   "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166"
   },
   "cutwise": {
    "title": "Cutwise",
    "tag": "Cut plan and sheet count for sawing",
    "cat": "tools",
-   "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5",
-   "pending": true
+   "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5"
   },
   "circada": {
    "title": "Circada",
    "tag": "Sleep, light and caffeine planner for shift work",
    "cat": "health",
-   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
-   "pending": true
+   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69"
   },
   "studo": {
    "title": "Studo",
    "tag": "Study blocks planned around your exams",
    "cat": "tools",
-   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7",
-   "pending": true
+   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7"
   },
   "cyra": {
    "title": "Cyra",
@@ -485,7 +474,6 @@
    "tag": "Water tracker with a daily goal worked out from weight, activity and heat",
    "cat": "health",
    "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
-   "pending": true,
    "accent": "#3DA9FF",
    "screens": [
     [
@@ -515,12 +503,11 @@
    "tag": "Remote for Home Assistant, set up on the watch",
    "cat": "tools",
    "id": "cbe853f7-e460-4480-bc96-fa18a695acc3",
-   "pending": true,
    "accent": "#FFC23A",
    "screens": [
     [
      "Remote for Home Assistant",
-     "Your favorite devices, one tap away"
+     "Your favorite devices in one list"
     ],
     [
      "Dim a light",
@@ -531,8 +518,8 @@
      "Target and measured temperature"
     ],
     [
-     "Pick favorites on the watch",
-     "No config file to write"
+     "Automatic favorites",
+     "Give a device the label garmin in Home Assistant"
     ],
     [
      "Connect with a QR code",
