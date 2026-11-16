@@ -1,5 +1,30 @@
 [
  {
+  "id": "9b1574d2-b81e-49e1-ac91-42d8aa3321ab",
+  "slug": "habitless",
+  "name": "Habitless - Bad habit tracker",
+  "desc": "Habitless tracks up to four habits you want to drop at the same time. Pick from a set list (sugar, late-night snacking, junk food, soda, late caffeine, nail biting, skin picking, screen time, social media, online shopping, gambling, porn, procrastinating, swearing) or type up to two of your own.\n\nEvery habit has a live streak in days, hours, minutes and seconds, a ring toward the next milestone (1 day, 3 days, 1 week, 2 weeks, 1 month, 3 months, 6 months, 1 year) and the time still to go. Stopped earlier? Set the start date back by days or months.\n\nLog an urge you resisted or a slip in two taps. A slip does not wipe your progress: your clean days, slip count and success rate stay. You choose whether a slip restarts the current streak.\n\nYour own log is turned into numbers: urges per day over the last 7 and 30 days with the trend against the week before, the hours of the day and the weekdays when urges and slips come (24-hour and 7-day bar charts), the average time between slips and whether that gap is growing, your best streak, and a \"risk now\" reading from your own history (time of day, weekday and time since the last slip).\n\nWhen an urge hits: a guided breathing exercise (4-6 or box breathing, 1 to 3 minutes, with a ring and vibration cues) or a 10-minute timer to ride it out. Finishing either logs the urge as resisted.\n\nOptional per habit: money or minutes saved per day, shown as a running total. Optional daily check-in reminder and milestone notifications on watches that support them. The glance shows your longest running streak and the way to the next milestone, always current.\n\nWorks with buttons and touch; everything is reachable without holding a button. 16 languages. Habitless keeps a personal log and shows numbers from it; it is not a medical app and gives no medical advice.",
+  "nl": "Habitless volgt tot vier gewoontes tegelijk waar je vanaf wilt. Kies uit een vaste lijst (suiker, laat snacken, junkfood, frisdrank, late cafeïne, nagelbijten, huidpulken, schermtijd, sociale media, online shoppen, gokken, porno, uitstellen, vloeken) of typ er zelf maximaal twee.\n\nElke gewoonte heeft een live reeks in dagen, uren, minuten en seconden, een ring naar de volgende mijlpaal (1 dag tot 1 jaar) en de tijd die nog rest. Eerder gestopt? Zet de startdatum dagen of maanden terug.\n\nLog in twee tikken een drang die je weerstond of een uitglijder. Een uitglijder wist niet alles: je dagen zonder, het aantal uitglijders en je succespercentage blijven staan. Jij kiest of een uitglijder de huidige reeks herstart.\n\nJe eigen log wordt cijfers: drang per dag over 7 en 30 dagen met de trend tegen de week ervoor, de uren en weekdagen waarop drang en uitglijders komen (staafdiagrammen), de gemiddelde tijd tussen uitglijders en of die groeit, je beste reeks, en een \"risico nu\" uit je eigen geschiedenis.\n\nBij drang: een ademoefening (4-6 of box, 1 tot 3 minuten, met ring en trillingen) of een timer van 10 minuten om het uit te zitten. Afmaken logt de drang als weerstaan.\n\nOptioneel per gewoonte: geld of minuten bespaard per dag als lopend totaal. Optioneel een dagelijkse check-in en mijlpaalmeldingen op horloges die dat ondersteunen. De glance toont je langste lopende reeks, altijd actueel. Werkt met knoppen en touch. 16 talen. Geen medische app.",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/habitless.png",
+  "shots": [
+   "assets/shots/habitless-1.jpg",
+   "assets/shots/habitless-2.jpg",
+   "assets/shots/habitless-3.jpg",
+   "assets/shots/habitless-4.jpg",
+   "assets/shots/habitless-5.jpg"
+  ],
+  "changed": 1794640898000,
+  "whatsnew": "Added \"Binge eating\" and \"Emotional eating\" to the list of habits.",
+  "devices": 164,
+  "updates": 1
+ },
+ {
   "id": "cbe853f7-e460-4480-bc96-fa18a695acc3",
   "slug": "domora",
   "name": "Domora - Remote for Home Assistant",
@@ -23,31 +48,6 @@
   "whatsnew": "Lists now use your watch's native scrolling. Switches and scenes toggle right from the list; lights and fans open their ring screen. Devices, entities or areas with the label \"garmin\" in Home Assistant appear in Favorites automatically.",
   "devices": 164,
   "updates": 2
- },
- {
-  "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
-  "slug": "hydrosmart",
-  "name": "HydroSmart - Water Tracker with a Daily Goal",
-  "desc": "HydroSmart is a water tracker that works out how much you need today and tells you whether you are on pace.\n\nYOUR GOAL, EVERY DAY\nMost trackers ask you to pick a number once. HydroSmart builds the goal from your body weight, adds what you sweated out during today's active minutes and adds more when the weather is hot and humid. A second page shows exactly how the number is built. Prefer a fixed amount? Switch it to one.\n\nON PACE OR BEHIND\nThe goal is spread from the moment you wake up until 90 minutes before bedtime, so the last glass is not the one that wakes you at night. The ring fills as you drink, a white mark on it shows where you should be by now, and one line says what to do: \"Next: 250 ml by 15:30\".\n\nLOG IN TWO TAPS\nThree glass sizes of your own, any other amount with - and +, and nine kinds of drink. Undo the last one or delete any drink from today's list.\n\nREMINDERS THAT STAY QUIET\nNo hourly beeping. HydroSmart only nudges you when you are awake, clearly behind the pace, and have not had a drink or a nudge in the interval you chose.\n\nSWEAT AND SODIUM\nSet your sweat rate and how salty your sweat is. After a long session the app compares the sodium you lost with what sports drinks, electrolyte mixes or salt capsules brought in, and suggests electrolytes when you fall behind. It also warns when you drink more than a litre in an hour.\n\nTHE REST\n- Day view: every hour as a bar, with the even pace as a line.\n- Week view: seven days against each day's own goal, your average and your streak.\n- Glance: amount, goal and pace without opening the app.\n- Millilitres or fluid ounces.\n- 16 languages. Everything stays on the watch: no account, no phone app.\n\nHydroSmart gives general hydration guidance and is not medical advice. If you have a heart or kidney condition, follow your doctor's fluid limits.",
-  "nl": "HydroSmart is een watertracker die uitrekent hoeveel je vandaag nodig hebt en laat zien of je op schema ligt.\n\nJE DOEL, ELKE DAG OPNIEUW\nDe meeste trackers laten je één keer een getal kiezen. HydroSmart bouwt het doel op uit je lichaamsgewicht, telt erbij wat je vandaag in je actieve minuten hebt uitgezweet en telt meer als het warm en vochtig is. Een tweede pagina laat precies zien hoe het getal is opgebouwd. Liever een vaste hoeveelheid? Dat kan ook.\n\nOP SCHEMA OF ACHTER\nHet doel wordt verdeeld van het moment dat je opstaat tot 90 minuten voor bedtijd, zodat het laatste glas je 's nachts niet wakker maakt. De ring vult zich terwijl je drinkt, een wit streepje erop laat zien waar je nu zou moeten zijn, en één regel zegt wat je doet: \"Volgende: 250 ml vóór 15:30\".\n\nLOGGEN IN TWEE TIKKEN\nDrie eigen glasmaten, elke andere hoeveelheid met - en +, en negen soorten drank. Maak de laatste ongedaan of verwijder een drankje uit de lijst van vandaag.\n\nHERINNERINGEN DIE STIL BLIJVEN\nGeen gepiep elk uur. HydroSmart geeft alleen een seintje als je wakker bent, duidelijk achterloopt en binnen de gekozen tussentijd niets hebt gedronken en geen seintje hebt gehad.\n\nZWEET EN NATRIUM\nStel in hoeveel je zweet en hoe zout je zweet is. Na een lange training vergelijkt de app het natrium dat je verloor met wat sportdrank, elektrolyten of zoutcapsules aanvulden, en stelt elektrolyten voor als je achterloopt. De app waarschuwt ook als je meer dan een liter in een uur drinkt.\n\nVERDER\n- Dagoverzicht: elk uur als staaf, met het gelijkmatige tempo als lijn.\n- Weekoverzicht: zeven dagen tegen het doel van die dag, je gemiddelde en je reeks.\n- Glance: hoeveelheid, doel en tempo zonder de app te openen.\n- Milliliter of fluid ounce.\n- 16 talen. Alles blijft op het horloge: geen account, geen telefoon-app.\n\nHydroSmart geeft algemene richtlijnen voor vochtinname en is geen medisch advies. Heb je een hart- of nieraandoening, volg dan de vochtbeperking van je arts.",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 100,
-  "version": "1.0.0",
-  "category": "219",
-  "icon": "assets/icons/hydrosmart.png",
-  "shots": [
-   "assets/shots/hydrosmart-1.jpg",
-   "assets/shots/hydrosmart-2.jpg",
-   "assets/shots/hydrosmart-3.jpg",
-   "assets/shots/hydrosmart-4.jpg",
-   "assets/shots/hydrosmart-5.jpg"
-  ],
-  "changed": 1794406781000,
-  "whatsnew": "",
-  "devices": 164,
-  "updates": 1
  },
  {
   "id": "7b9987dd-9357-44b0-b4f8-aea6be0c2439",
@@ -79,10 +79,10 @@
   "desc": "Graded is a coach for incline walking on the treadmill. Pick 12-3-30, your own grade and speed, a grade pyramid, hill intervals or the build-up program, and set the grade and speed on the watch with the buttons as you change them on the treadmill. Calories come from the ACSM walking equation, which counts the incline, using the weight from your Garmin profile.\n\nDuring the session you see the grade large, the speed below it, the time left in the block and your heart rate against your zone. When your heart rate stays above the zone, Graded suggests one percent less grade; when it stays below, one percent more. The build-up program looks at last week's sessions and suggests the next step: half a percent or a full percent more grade, or two extra minutes, as long as your heart rate stayed steady in the zone.\n\nWHAT IT DOES\n- Programs: 12-3-30, steady (own grade, speed and time), grade pyramid, hill intervals and a weekly build-up\n- Grade and speed set with the buttons or by tapping during the session\n- Calories, MET and MET-minutes from the ACSM walking or running equation, with incline\n- Metres climbed (distance × grade) and flat-equivalent distance\n- Heart-rate steering: suggests a higher or lower grade to stay in your zone\n- Build-up program with a weekly suggestion based on time in zone\n- Summary with calories, climb, flat-equivalent, average grade, average heart rate and time in zone\n- Saved as an indoor walk in Garmin Connect with grade, set speed, MET, climb and calories as extra fields\n- Week page with MET-minutes against your goal, eight-week trend, goal streak and history\n- Glance with this week's MET-minutes and climb, five languages\n\nWHAT IT NEEDS\n- A treadmill with a grade display; the watch cannot measure the incline itself\n- Wrist heart rate for the zone and the steering\n- Weight and heart-rate zones from your Garmin profile, or set them in the app",
   "nl": "Graded is een coach voor hellingwandelen op de loopband. Kies 12-3-30, je eigen helling en snelheid, een hellingpiramide, hellingintervallen of het opbouwprogramma, en zet helling en snelheid met de knoppen op het horloge zodra je ze op de loopband verandert. De calorieën komen uit de ACSM-loopvergelijking, die de helling meetelt, met het gewicht uit je Garmin-profiel.\n\nTijdens de sessie zie je de helling groot, de snelheid eronder, de resttijd van het blok en je hartslag tegen je zone. Blijft je hartslag boven de zone, dan stelt Graded een procent minder helling voor; blijft hij eronder, een procent meer. Het opbouwprogramma kijkt naar de sessies van vorige week en stelt de volgende stap voor: een halve of hele procent meer helling, of twee minuten langer, zolang je hartslag stabiel in de zone bleef.\n\nWHAT IT DOES\n- Programma's: 12-3-30, vast tempo (eigen helling, snelheid en duur), hellingpiramide, hellingintervallen en een wekelijkse opbouw\n- Helling en snelheid instellen met de knoppen of door te tikken tijdens de sessie\n- Calorieën, MET en MET-minuten uit de ACSM-loop- of hardloopvergelijking, met helling\n- Geklommen meters (afstand × helling) en vlak-equivalente afstand\n- Hartslagsturing: stelt een hogere of lagere helling voor om in je zone te blijven\n- Opbouwprogramma met een wekelijks voorstel op basis van tijd in de zone\n- Samenvatting met calorieën, klim, vlak-equivalent, gemiddelde helling, gemiddelde hartslag en tijd in de zone\n- Opgeslagen als indoor wandeling in Garmin Connect met helling, ingestelde snelheid, MET, klim en calorieën als extra velden\n- Weekpagina met MET-minuten tegen je doel, trend over acht weken, doelreeks en geschiedenis\n- Glance met de MET-minuten en klim van deze week, vijf talen\n\nWHAT IT NEEDS\n- Een loopband met hellingweergave; het horloge kan de helling zelf niet meten\n- Polshartslag voor de zone en de sturing\n- Gewicht en hartslagzones uit je Garmin-profiel, of zelf in te stellen in de app",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 1.0,
+  "reviews": 1,
   "downloads": 100,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "222",
   "icon": "assets/icons/graded.png",
   "shots": [
@@ -90,10 +90,10 @@
    "assets/shots/graded-2.jpg",
    "assets/shots/graded-3.jpg"
   ],
-  "changed": 1793953066000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794833583000,
+  "whatsnew": "Total ascent is now saved to your activity, so it shows on the watch and in Garmin Connect, with a climb chart and ascent per lap.",
   "devices": 185,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "f8f78c95-5682-4594-a6f9-248b4e551ff0",
@@ -602,29 +602,6 @@
   "updates": 4
  },
  {
-  "id": "30c8aa6f-9f36-4019-91e7-104f4bc1ce04",
-  "slug": "poker",
-  "name": "Poker - Texas Hold'em with AI coach",
-  "desc": "Play money only. No real-money gambling, no purchases, no prizes. Poker is No-Limit Texas Hold'em on your wrist against one to five computer players, each with a style of its own: the patient Rock, the tight-aggressive regular, the loose-aggressive player, the calling station who never lets go and the maniac who raises everything. They don't see your cards. Before every decision after the flop they deal out the unknown cards hundreds of times against the hands you are likely to hold, weigh the pot odds and decide; on scary boards and in late position they bluff more often, against tight players they give up sooner.\n\nA built-in coach shows your equity and the pot odds while you play, colours the line green when a call is profitable, and after the hand tells you plainly when you folded or called against the numbers. Choose an action by scrolling through Fold, Check or Call and the raise sizes (min, half pot, three quarters, pot, all-in) and confirm, so nothing has to be tapped precisely. Side pots, split pots and the odd chip are handled the way a card room does it.\n\nWHAT IT DOES\n- Cash table with 1 to 5 opponents and blinds from 5/10 to 50/100, buy-in 100 big blinds\n- Six-player Sit & Go with 1,500 chips, blinds rising every 8 hands up to an ante level, 65/35 payout\n- Ladder of ten named opponents, heads-up, each one stronger; beating one unlocks the next\n- Daily puzzle: the same spot for everyone that day, scored on expected value with the numbers explained\n- Equity coach with pot odds and a review of your biggest mistake after each hand\n- Three AI strengths, five AI styles, history of your last 20 hands\n- Statistics: VPIP, PFR, bb/100, showdowns won, biggest pot, Sit & Go results and your result per AI style\n- Four-colour deck, four table colours, deal speed, all-in confirmation, five languages and a glance with your chip balance\n\nWHAT IT NEEDS\n- Nothing else — no phone, no account, no internet; everything runs on the watch with play chips",
-  "nl": "Alleen speelgeld. Geen gokken om echt geld, geen aankopen, geen prijzen. Poker is No-Limit Texas Hold'em om je pols tegen één tot vijf computerspelers, elk met een eigen stijl: de geduldige Rots, de strakke agressieve vaste speler, de losse agressieve speler, de calling station die nooit loslaat en de maniak die alles verhoogt. Ze zien jouw kaarten niet. Voor elke beslissing na de flop delen ze de onbekende kaarten honderden keren uit tegen de handen die jij waarschijnlijk hebt, wegen de pot odds en beslissen; op enge borden en in late positie bluffen ze vaker, tegen strakke spelers geven ze eerder op.\n\nEen ingebouwde coach toont tijdens het spel je equity en de pot odds, kleurt de regel groen als een call winstgevend is en zegt na de hand eerlijk wanneer je tegen de cijfers in foldde of callde. Je kiest een actie door langs Fold, Check of Call en de raise-groottes (min, halve pot, driekwart, pot, all-in) te scrollen en te bevestigen, dus niets hoeft precies aangetikt te worden. Side pots, gedeelde potten en de oneven fiche gaan zoals in een cardroom.\n\nWHAT IT DOES\n- Cashtafel met 1 tot 5 tegenstanders en blinds van 5/10 tot 50/100, inleg 100 big blinds\n- Sit & Go met zes spelers en 1.500 fiches, blinds die elke 8 handen stijgen tot een niveau met ante, uitbetaling 65/35\n- Ladder met tien tegenstanders met een naam, heads-up, steeds sterker; wie je verslaat ontgrendelt de volgende\n- Dagpuzzel: voor iedereen dezelfde situatie die dag, gescoord op verwachte waarde met uitleg van de cijfers\n- Equity-coach met pot odds en een terugblik op je grootste fout na elke hand\n- Drie AI-sterktes, vijf AI-stijlen, historie van je laatste 20 handen\n- Statistiek: VPIP, PFR, bb/100, gewonnen showdowns, grootste pot, Sit & Go-uitslagen en je resultaat per AI-stijl\n- Vierkleurendek, vier tafelkleuren, deelsnelheid, all-in-bevestiging, vijf talen en een glance met je fichesaldo\n\nWHAT IT NEEDS\n- Verder niets — geen telefoon, geen account, geen internet; alles draait op het horloge met speelfiches",
-  "type": "2",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 100,
-  "version": "1.0.3",
-  "category": "206",
-  "icon": "assets/icons/poker.png",
-  "shots": [
-   "assets/shots/poker-1.jpg",
-   "assets/shots/poker-2.jpg",
-   "assets/shots/poker-3.jpg"
-  ],
-  "changed": 1794171963000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
-  "devices": 102,
-  "updates": 5
- },
- {
   "id": "353bb3db-96e4-4bb6-94b4-c013241f76f4",
   "slug": "reelix",
   "name": "Reelix - 12 Slot Machines",
@@ -694,6 +671,77 @@
   "updates": 3
  },
  {
+  "id": "2e2124b5-9674-41bf-86e3-1ac5582a3f4f",
+  "slug": "flapline",
+  "name": "Flapline - Split-Flap Watch Face",
+  "desc": "Flapline is a split-flap clock that actually flips. Raise your wrist and the top half of each card falls over the hinge, the back of the flap comes down with the new digits, and the departure board below rattles letter by letter to its next line. When the minute changes while you are looking, only the card that changes flips.\n\nThe departure board tells you what is coming: SUNSET 18:42, RAIN 15H 70%, GOAL 17:40, BATT 3D 4H, NEXT 10:30, MESSAGES 2. Rain within three hours, a battery under 15 % and an appointment within the hour go first. Above the cards sit date flaps, in the corners four fields you choose yourself. Free, no trial, no key.\n\nWHAT IT DOES\n- Two large flap cards for hours and minutes with a real flip animation (three frames, about a quarter of a second), small seconds flaps while the watch is awake\n- Departure board with 12 to 14 flap cells and a queue that moves on every time you look: next sunrise or sunset (own solar calculation from your last known location), first hour with a rain chance of 50 % or more within 12 hours (or \"dry to 22H\"), step goal ETA from your last hour of walking, battery time left from your own discharge curve, next calendar appointment, unread notifications\n- Four corner fields, each chosen from 24: heart rate, steps, step goal %, calories, floors, intensity minutes, distance, battery %, battery time left, Body Battery, stress, notifications, weather, high/low, rain chance, wind, next sunrise/sunset, altitude, pressure, respiration, Pulse Ox, recovery time, next appointment, active minutes\n- Weather icons for every condition the watch reports, with night versions between sunset and sunrise and a proper partly cloudy icon\n- Body Battery keeps the last known value instead of showing \"not found\"\n- 12/24 h and °C/°F follow your watch settings, with a 12/24 h override\n- Six themes: Classic, White, Airport, Retro cream, Red, Olive\n- Flip on every glance, only when the time changes, or not at all\n- Tap a corner field to open the matching widget, tap the board for the next line (API 4.2 watches)\n- Settings on the watch itself (long press on the watch face, then Customize) or in the Connect app\n- Always-on (AMOLED): card outlines and dimmed digits, nothing filled, shifted every minute against burn-in. MIP watches keep the full face, never a separate power-saving screen; seconds can stay on there as well\n\nWHAT IT NEEDS\n- A round Garmin watch with a MIP (240-280 px) or AMOLED (360-466 px) screen\n- For weather and rain: the Garmin Connect app with weather enabled. The sunrise and sunset times use your last known location from the weather or an activity\n- The appointment line needs a watch with calendar support (API 4.2) and calendar sync in Garmin Connect\n- Font: Barlow Condensed by The Barlow Project Authors, SIL Open Font License 1.1",
+  "nl": "Flapline is een klapcijferklok die echt klapt. Draai je pols en de bovenste helft van elke kaart valt over het scharnier, de achterkant van de flap komt met de nieuwe cijfers naar beneden en het vertrekbord eronder ratelt letter voor letter naar zijn volgende regel. Verandert de minuut terwijl je kijkt, dan klapt alleen de kaart die verandert.\n\nHet vertrekbord zegt wat er aankomt: ZON ONDER 18:42, REGEN 15H 70%, DOEL 17:40, ACCU 3D 4H, AGENDA 10:30, BERICHTEN 2. Regen binnen drie uur, een accu onder 15 % en een afspraak binnen het uur gaan voor. Boven de kaarten staan datumflaps, in de hoeken vier velden die je zelf kiest. Gratis, zonder proefperiode en zonder sleutel.\n\nWAT HET DOET\n- Twee grote klapkaarten voor uren en minuten met een echte klapanimatie (drie frames, ongeveer een kwart seconde), kleine secondeflaps zolang het horloge actief is\n- Vertrekbord met 12 tot 14 flapcellen en een wachtrij die bij elke blik doorschuift: volgende zonsopkomst of -ondergang (eigen zonberekening op je laatst bekende locatie), eerste uur met minstens 50 % regenkans binnen 12 uur (of \"droog tot 22H\"), verwachte tijd voor je stappendoel uit je laatste uur lopen, accu-resttijd uit je eigen ontlaadcurve, volgende afspraak, ongelezen meldingen\n- Vier hoekvelden, elk te kiezen uit 24: hartslag, stappen, stappendoel %, calorieën, verdiepingen, intensiteitsminuten, afstand, accu %, accu-resttijd, Body Battery, stress, meldingen, weer, max/min, regenkans, wind, volgende zon op/onder, hoogte, luchtdruk, ademhaling, Pulse Ox, hersteltijd, volgende afspraak, actieve minuten\n- Weer-iconen voor elke toestand die het horloge meldt, met nachtversies tussen zonsondergang en -opkomst en een echt half-bewolkt-icoon\n- Body Battery houdt de laatst bekende waarde vast in plaats van \"niet gevonden\"\n- 12/24 uur en °C/°F volgen de instellingen van je horloge, met een 12/24-uur-keuze\n- Zes thema's: Klassiek, Wit, Luchthaven, Retro crème, Rood, Olijf\n- Klappen bij elke blik, alleen als de tijd verandert, of helemaal niet\n- Tik op een hoekveld om de bijbehorende widget te openen, tik op het bord voor de volgende regel (API 4.2-horloges)\n- Instellingen op het horloge zelf (lang drukken op de wijzerplaat, dan Aanpassen) of in de Connect-app\n- Always-on (AMOLED): kaartomtrek en gedimde cijfers, geen vlakken, elke minuut verschoven tegen inbranden. MIP-horloges houden de volledige wijzerplaat, nooit een apart energiescherm; de seconden kunnen daar ook blijven staan\n\nWAT HET NODIG HEEFT\n- Een rond Garmin-horloge met MIP- (240-280 px) of AMOLED-scherm (360-466 px)\n- Voor weer en regen: de Garmin Connect-app met weer aan. De zontijden gebruiken je laatst bekende locatie uit het weer of een activiteit\n- De afspraakregel vraagt een horloge met agenda-ondersteuning (API 4.2) en agendasynchronisatie in Garmin Connect\n- Lettertype: Barlow Condensed van The Barlow Project Authors, SIL Open Font License 1.1",
+  "type": "1",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 100,
+  "version": "1.0.1",
+  "category": "268",
+  "icon": "assets/icons/flapline.png",
+  "shots": [
+   "assets/shots/flapline-1.jpg",
+   "assets/shots/flapline-2.jpg",
+   "assets/shots/flapline-3.jpg"
+  ],
+  "changed": 1793953579000,
+  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "devices": 111,
+  "updates": 3
+ },
+ {
+  "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
+  "slug": "hydrosmart",
+  "name": "HydroSmart - Water Tracker with a Daily Goal",
+  "desc": "HydroSmart is a water tracker that works out how much you need today and tells you whether you are on pace.\n\nYOUR GOAL, EVERY DAY\nMost trackers ask you to pick a number once. HydroSmart builds the goal from your body weight, adds what you sweated out during today's active minutes and adds more when the weather is hot and humid. A second page shows exactly how the number is built. Prefer a fixed amount? Switch it to one.\n\nON PACE OR BEHIND\nThe goal is spread from the moment you wake up until 90 minutes before bedtime, so the last glass is not the one that wakes you at night. The ring fills as you drink, a white mark on it shows where you should be by now, and one line says what to do: \"Next: 250 ml by 15:30\".\n\nLOG IN TWO TAPS\nThree glass sizes of your own, any other amount with - and +, and nine kinds of drink. Undo the last one or delete any drink from today's list.\n\nREMINDERS THAT STAY QUIET\nNo hourly beeping. HydroSmart only nudges you when you are awake, clearly behind the pace, and have not had a drink or a nudge in the interval you chose.\n\nSWEAT AND SODIUM\nSet your sweat rate and how salty your sweat is. After a long session the app compares the sodium you lost with what sports drinks, electrolyte mixes or salt capsules brought in, and suggests electrolytes when you fall behind. It also warns when you drink more than a litre in an hour.\n\nTHE REST\n- Day view: every hour as a bar, with the even pace as a line.\n- Week view: seven days against each day's own goal, your average and your streak.\n- Glance: amount, goal and pace without opening the app.\n- Millilitres or fluid ounces.\n- 16 languages. Everything stays on the watch: no account, no phone app.\n\nHydroSmart gives general hydration guidance and is not medical advice. If you have a heart or kidney condition, follow your doctor's fluid limits.",
+  "nl": "HydroSmart is een watertracker die uitrekent hoeveel je vandaag nodig hebt en laat zien of je op schema ligt.\n\nJE DOEL, ELKE DAG OPNIEUW\nDe meeste trackers laten je één keer een getal kiezen. HydroSmart bouwt het doel op uit je lichaamsgewicht, telt erbij wat je vandaag in je actieve minuten hebt uitgezweet en telt meer als het warm en vochtig is. Een tweede pagina laat precies zien hoe het getal is opgebouwd. Liever een vaste hoeveelheid? Dat kan ook.\n\nOP SCHEMA OF ACHTER\nHet doel wordt verdeeld van het moment dat je opstaat tot 90 minuten voor bedtijd, zodat het laatste glas je 's nachts niet wakker maakt. De ring vult zich terwijl je drinkt, een wit streepje erop laat zien waar je nu zou moeten zijn, en één regel zegt wat je doet: \"Volgende: 250 ml vóór 15:30\".\n\nLOGGEN IN TWEE TIKKEN\nDrie eigen glasmaten, elke andere hoeveelheid met - en +, en negen soorten drank. Maak de laatste ongedaan of verwijder een drankje uit de lijst van vandaag.\n\nHERINNERINGEN DIE STIL BLIJVEN\nGeen gepiep elk uur. HydroSmart geeft alleen een seintje als je wakker bent, duidelijk achterloopt en binnen de gekozen tussentijd niets hebt gedronken en geen seintje hebt gehad.\n\nZWEET EN NATRIUM\nStel in hoeveel je zweet en hoe zout je zweet is. Na een lange training vergelijkt de app het natrium dat je verloor met wat sportdrank, elektrolyten of zoutcapsules aanvulden, en stelt elektrolyten voor als je achterloopt. De app waarschuwt ook als je meer dan een liter in een uur drinkt.\n\nVERDER\n- Dagoverzicht: elk uur als staaf, met het gelijkmatige tempo als lijn.\n- Weekoverzicht: zeven dagen tegen het doel van die dag, je gemiddelde en je reeks.\n- Glance: hoeveelheid, doel en tempo zonder de app te openen.\n- Milliliter of fluid ounce.\n- 16 talen. Alles blijft op het horloge: geen account, geen telefoon-app.\n\nHydroSmart geeft algemene richtlijnen voor vochtinname en is geen medisch advies. Heb je een hart- of nieraandoening, volg dan de vochtbeperking van je arts.",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 100,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/hydrosmart.png",
+  "shots": [
+   "assets/shots/hydrosmart-1.jpg",
+   "assets/shots/hydrosmart-2.jpg",
+   "assets/shots/hydrosmart-3.jpg",
+   "assets/shots/hydrosmart-4.jpg",
+   "assets/shots/hydrosmart-5.jpg"
+  ],
+  "changed": 1794406781000,
+  "whatsnew": "",
+  "devices": 164,
+  "updates": 1
+ },
+ {
+  "id": "30c8aa6f-9f36-4019-91e7-104f4bc1ce04",
+  "slug": "poker",
+  "name": "Poker - Texas Hold'em with AI coach",
+  "desc": "Play money only. No real-money gambling, no purchases, no prizes. Poker is No-Limit Texas Hold'em on your wrist against one to five computer players, each with a style of its own: the patient Rock, the tight-aggressive regular, the loose-aggressive player, the calling station who never lets go and the maniac who raises everything. They don't see your cards. Before every decision after the flop they deal out the unknown cards hundreds of times against the hands you are likely to hold, weigh the pot odds and decide; on scary boards and in late position they bluff more often, against tight players they give up sooner.\n\nA built-in coach shows your equity and the pot odds while you play, colours the line green when a call is profitable, and after the hand tells you plainly when you folded or called against the numbers. Choose an action by scrolling through Fold, Check or Call and the raise sizes (min, half pot, three quarters, pot, all-in) and confirm, so nothing has to be tapped precisely. Side pots, split pots and the odd chip are handled the way a card room does it.\n\nWHAT IT DOES\n- Cash table with 1 to 5 opponents and blinds from 5/10 to 50/100, buy-in 100 big blinds\n- Six-player Sit & Go with 1,500 chips, blinds rising every 8 hands up to an ante level, 65/35 payout\n- Ladder of ten named opponents, heads-up, each one stronger; beating one unlocks the next\n- Daily puzzle: the same spot for everyone that day, scored on expected value with the numbers explained\n- Equity coach with pot odds and a review of your biggest mistake after each hand\n- Three AI strengths, five AI styles, history of your last 20 hands\n- Statistics: VPIP, PFR, bb/100, showdowns won, biggest pot, Sit & Go results and your result per AI style\n- Four-colour deck, four table colours, deal speed, all-in confirmation, five languages and a glance with your chip balance\n\nWHAT IT NEEDS\n- Nothing else — no phone, no account, no internet; everything runs on the watch with play chips",
+  "nl": "Alleen speelgeld. Geen gokken om echt geld, geen aankopen, geen prijzen. Poker is No-Limit Texas Hold'em om je pols tegen één tot vijf computerspelers, elk met een eigen stijl: de geduldige Rots, de strakke agressieve vaste speler, de losse agressieve speler, de calling station die nooit loslaat en de maniak die alles verhoogt. Ze zien jouw kaarten niet. Voor elke beslissing na de flop delen ze de onbekende kaarten honderden keren uit tegen de handen die jij waarschijnlijk hebt, wegen de pot odds en beslissen; op enge borden en in late positie bluffen ze vaker, tegen strakke spelers geven ze eerder op.\n\nEen ingebouwde coach toont tijdens het spel je equity en de pot odds, kleurt de regel groen als een call winstgevend is en zegt na de hand eerlijk wanneer je tegen de cijfers in foldde of callde. Je kiest een actie door langs Fold, Check of Call en de raise-groottes (min, halve pot, driekwart, pot, all-in) te scrollen en te bevestigen, dus niets hoeft precies aangetikt te worden. Side pots, gedeelde potten en de oneven fiche gaan zoals in een cardroom.\n\nWHAT IT DOES\n- Cashtafel met 1 tot 5 tegenstanders en blinds van 5/10 tot 50/100, inleg 100 big blinds\n- Sit & Go met zes spelers en 1.500 fiches, blinds die elke 8 handen stijgen tot een niveau met ante, uitbetaling 65/35\n- Ladder met tien tegenstanders met een naam, heads-up, steeds sterker; wie je verslaat ontgrendelt de volgende\n- Dagpuzzel: voor iedereen dezelfde situatie die dag, gescoord op verwachte waarde met uitleg van de cijfers\n- Equity-coach met pot odds en een terugblik op je grootste fout na elke hand\n- Drie AI-sterktes, vijf AI-stijlen, historie van je laatste 20 handen\n- Statistiek: VPIP, PFR, bb/100, gewonnen showdowns, grootste pot, Sit & Go-uitslagen en je resultaat per AI-stijl\n- Vierkleurendek, vier tafelkleuren, deelsnelheid, all-in-bevestiging, vijf talen en een glance met je fichesaldo\n\nWHAT IT NEEDS\n- Verder niets — geen telefoon, geen account, geen internet; alles draait op het horloge met speelfiches",
+  "type": "2",
+  "rating": 0,
+  "reviews": 0,
+  "downloads": 100,
+  "version": "1.0.3",
+  "category": "206",
+  "icon": "assets/icons/poker.png",
+  "shots": [
+   "assets/shots/poker-1.jpg",
+   "assets/shots/poker-2.jpg",
+   "assets/shots/poker-3.jpg"
+  ],
+  "changed": 1794171963000,
+  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "devices": 102,
+  "updates": 5
+ },
+ {
   "id": "0c61bd35-61a9-4179-916c-8489511c82a2",
   "slug": "dicewise",
   "name": "Dicewise - Yatzy and Farkle dice games",
@@ -737,29 +785,6 @@
   "changed": 1794176753000,
   "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
   "devices": 118,
-  "updates": 3
- },
- {
-  "id": "2e2124b5-9674-41bf-86e3-1ac5582a3f4f",
-  "slug": "flapline",
-  "name": "Flapline - Split-Flap Watch Face",
-  "desc": "Flapline is a split-flap clock that actually flips. Raise your wrist and the top half of each card falls over the hinge, the back of the flap comes down with the new digits, and the departure board below rattles letter by letter to its next line. When the minute changes while you are looking, only the card that changes flips.\n\nThe departure board tells you what is coming: SUNSET 18:42, RAIN 15H 70%, GOAL 17:40, BATT 3D 4H, NEXT 10:30, MESSAGES 2. Rain within three hours, a battery under 15 % and an appointment within the hour go first. Above the cards sit date flaps, in the corners four fields you choose yourself. Free, no trial, no key.\n\nWHAT IT DOES\n- Two large flap cards for hours and minutes with a real flip animation (three frames, about a quarter of a second), small seconds flaps while the watch is awake\n- Departure board with 12 to 14 flap cells and a queue that moves on every time you look: next sunrise or sunset (own solar calculation from your last known location), first hour with a rain chance of 50 % or more within 12 hours (or \"dry to 22H\"), step goal ETA from your last hour of walking, battery time left from your own discharge curve, next calendar appointment, unread notifications\n- Four corner fields, each chosen from 24: heart rate, steps, step goal %, calories, floors, intensity minutes, distance, battery %, battery time left, Body Battery, stress, notifications, weather, high/low, rain chance, wind, next sunrise/sunset, altitude, pressure, respiration, Pulse Ox, recovery time, next appointment, active minutes\n- Weather icons for every condition the watch reports, with night versions between sunset and sunrise and a proper partly cloudy icon\n- Body Battery keeps the last known value instead of showing \"not found\"\n- 12/24 h and °C/°F follow your watch settings, with a 12/24 h override\n- Six themes: Classic, White, Airport, Retro cream, Red, Olive\n- Flip on every glance, only when the time changes, or not at all\n- Tap a corner field to open the matching widget, tap the board for the next line (API 4.2 watches)\n- Settings on the watch itself (long press on the watch face, then Customize) or in the Connect app\n- Always-on (AMOLED): card outlines and dimmed digits, nothing filled, shifted every minute against burn-in. MIP watches keep the full face, never a separate power-saving screen; seconds can stay on there as well\n\nWHAT IT NEEDS\n- A round Garmin watch with a MIP (240-280 px) or AMOLED (360-466 px) screen\n- For weather and rain: the Garmin Connect app with weather enabled. The sunrise and sunset times use your last known location from the weather or an activity\n- The appointment line needs a watch with calendar support (API 4.2) and calendar sync in Garmin Connect\n- Font: Barlow Condensed by The Barlow Project Authors, SIL Open Font License 1.1",
-  "nl": "Flapline is een klapcijferklok die echt klapt. Draai je pols en de bovenste helft van elke kaart valt over het scharnier, de achterkant van de flap komt met de nieuwe cijfers naar beneden en het vertrekbord eronder ratelt letter voor letter naar zijn volgende regel. Verandert de minuut terwijl je kijkt, dan klapt alleen de kaart die verandert.\n\nHet vertrekbord zegt wat er aankomt: ZON ONDER 18:42, REGEN 15H 70%, DOEL 17:40, ACCU 3D 4H, AGENDA 10:30, BERICHTEN 2. Regen binnen drie uur, een accu onder 15 % en een afspraak binnen het uur gaan voor. Boven de kaarten staan datumflaps, in de hoeken vier velden die je zelf kiest. Gratis, zonder proefperiode en zonder sleutel.\n\nWAT HET DOET\n- Twee grote klapkaarten voor uren en minuten met een echte klapanimatie (drie frames, ongeveer een kwart seconde), kleine secondeflaps zolang het horloge actief is\n- Vertrekbord met 12 tot 14 flapcellen en een wachtrij die bij elke blik doorschuift: volgende zonsopkomst of -ondergang (eigen zonberekening op je laatst bekende locatie), eerste uur met minstens 50 % regenkans binnen 12 uur (of \"droog tot 22H\"), verwachte tijd voor je stappendoel uit je laatste uur lopen, accu-resttijd uit je eigen ontlaadcurve, volgende afspraak, ongelezen meldingen\n- Vier hoekvelden, elk te kiezen uit 24: hartslag, stappen, stappendoel %, calorieën, verdiepingen, intensiteitsminuten, afstand, accu %, accu-resttijd, Body Battery, stress, meldingen, weer, max/min, regenkans, wind, volgende zon op/onder, hoogte, luchtdruk, ademhaling, Pulse Ox, hersteltijd, volgende afspraak, actieve minuten\n- Weer-iconen voor elke toestand die het horloge meldt, met nachtversies tussen zonsondergang en -opkomst en een echt half-bewolkt-icoon\n- Body Battery houdt de laatst bekende waarde vast in plaats van \"niet gevonden\"\n- 12/24 uur en °C/°F volgen de instellingen van je horloge, met een 12/24-uur-keuze\n- Zes thema's: Klassiek, Wit, Luchthaven, Retro crème, Rood, Olijf\n- Klappen bij elke blik, alleen als de tijd verandert, of helemaal niet\n- Tik op een hoekveld om de bijbehorende widget te openen, tik op het bord voor de volgende regel (API 4.2-horloges)\n- Instellingen op het horloge zelf (lang drukken op de wijzerplaat, dan Aanpassen) of in de Connect-app\n- Always-on (AMOLED): kaartomtrek en gedimde cijfers, geen vlakken, elke minuut verschoven tegen inbranden. MIP-horloges houden de volledige wijzerplaat, nooit een apart energiescherm; de seconden kunnen daar ook blijven staan\n\nWAT HET NODIG HEEFT\n- Een rond Garmin-horloge met MIP- (240-280 px) of AMOLED-scherm (360-466 px)\n- Voor weer en regen: de Garmin Connect-app met weer aan. De zontijden gebruiken je laatst bekende locatie uit het weer of een activiteit\n- De afspraakregel vraagt een horloge met agenda-ondersteuning (API 4.2) en agendasynchronisatie in Garmin Connect\n- Lettertype: Barlow Condensed van The Barlow Project Authors, SIL Open Font License 1.1",
-  "type": "1",
-  "rating": 0,
-  "reviews": 0,
-  "downloads": 100,
-  "version": "1.0.1",
-  "category": "268",
-  "icon": "assets/icons/flapline.png",
-  "shots": [
-   "assets/shots/flapline-1.jpg",
-   "assets/shots/flapline-2.jpg",
-   "assets/shots/flapline-3.jpg"
-  ],
-  "changed": 1793953579000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
-  "devices": 112,
   "updates": 3
  },
  {
@@ -999,8 +1024,8 @@
   "desc": "Fixpoint turns compass bearings into a position. Aim the 12 o'clock of your watch at two or three summits, towers or buoys you know, and it works out where you stand: the least-squares point closest to all bearing lines, with a 95% error ellipse and the size of the cocked hat. Turn it around to find where something is: take bearings on a smoke plume, a lost bag or a cairn from two or three spots along the trail and it places the target. Projection does the third classic task: from any point, walk a distance on a bearing.\n\nAiming is built for gloves and moving arms: one big button, the compass is averaged over two seconds and the spread is shown before you accept the line. Bearings from a hand compass or a map can be typed in degrees or mils, with your declination applied. All geodesy runs on the WGS84 ellipsoid (Vincenty), and every result shows distance and direction to it from where you are now. A navigation aid, not a replacement for map and compass skills.\n\nWHAT IT DOES\n- Where am I: resection from 2-5 bearings to points in your own list\n- Where is it: cross bearings to a target from 2-5 of your own GPS positions\n- Least-squares fix with 95% error ellipse, cocked-hat size, smallest crossing angle and a warning when lines cross behind you\n- Projection: distance and bearing from your position, the last fix or any saved point (Vincenty direct)\n- Aim and confirm: two-second averaged bearing with spread, or type it from a hand compass or map\n- Go to: arrow, distance, bearing and back bearing to any point or result\n- Point list of up to 40 points: save your position, a fix or typed coordinates, rename, edit\n- Degrees or NATO mils, coordinates in D.ddddd, D M.mmm or D M S, metric or imperial\n- Declination set by you, for typed bearings and for watches set to magnetic north\n- Glance with the last fix, its accuracy and age; five languages\n\nWHAT IT NEEDS\n- A watch with a compass for aiming; without one you type the bearings\n- GPS for cross bearings, projection from here and the go-to screen (resection works without GPS)\n- Your own reference points: Connect IQ apps cannot read the waypoints stored on the watch",
   "nl": "Fixpoint maakt van kompaspeilingen een positie. Richt 12 uur van je horloge op twee of drie toppen, torens of boeien die je kent, en de app rekent uit waar je staat: het punt dat met kleinste kwadraten het dichtst bij alle peillijnen ligt, met een foutellips van 95% en de grootte van de foutdriehoek. Andersom vind je waar iets is: peil een rookpluim, een verloren tas of een steenman vanaf twee of drie plekken langs het pad en de app legt het doel vast. Projectie doet de derde klassieke klus: vanaf elk punt een afstand op een koers uitzetten.\n\nRichten is gemaakt voor handschoenen en bewegende armen: één grote knop, het kompas wordt twee seconden gemiddeld en je ziet de spreiding voordat je de lijn gebruikt. Peilingen van een handkompas of kaart typ je in graden of mils, met jouw declinatie verrekend. Alle geodesie rekent op de WGS84-ellipsoïde (Vincenty), en bij elke uitkomst zie je afstand en richting vanaf waar je nu staat. Een hulpmiddel bij navigatie, geen vervanging voor kaart en kompas.\n\nWAT HET DOET\n- Waar ben ik: achterwaartse insnijding uit 2-5 peilingen naar punten uit je eigen lijst\n- Waar is het: kruispeiling naar een doel vanaf 2-5 eigen GPS-posities\n- Kleinste-kwadratenfix met foutellips (95%), foutdriehoek, kleinste snijhoek en een waarschuwing als lijnen achter je snijden\n- Projectie: afstand en koers vanaf je positie, de laatste fix of een opgeslagen punt (Vincenty direct)\n- Richten en bevestigen: koers twee seconden gemiddeld met spreiding, of typen vanaf handkompas of kaart\n- Ga naar: pijl, afstand, koers en terugkoers naar elk punt of elke uitkomst\n- Puntenlijst tot 40 punten: huidige plek, een fix of getypte coördinaten opslaan, hernoemen, wijzigen\n- Graden of NAVO-mils, coördinaten als D.ddddd, D M.mmm of D M S, metrisch of imperiaal\n- Declinatie zelf in te stellen, voor getypte koersen en voor horloges op magnetisch noorden\n- Glance met de laatste fix, nauwkeurigheid en leeftijd; vijf talen\n\nWAT HET NODIG HEEFT\n- Een horloge met kompas om te richten; zonder kompas typ je de koersen\n- GPS voor kruispeilingen, projectie vanaf hier en het ga-naar-scherm (insnijding werkt zonder GPS)\n- Eigen referentiepunten: Connect IQ-apps kunnen de waypoints op het horloge niet lezen",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 100,
   "version": "1.0.1",
   "category": "210",
@@ -1074,8 +1099,8 @@
   "desc": "Blueline sees for itself when you are on the ice and when you are on the bench. Start it at the puck drop and play: your wrist movement and skating rhythm, together with your heart rate, tell it when a shift starts and when you sit down. A face-off or a whistle is not mistaken for a line change — if play resumes before a real bench rest, the shift simply continues. It learns your own movement levels game by game, and a single tap fixes any change it got wrong.\n\nOn the bench it shows what no stopwatch can: how fast your heart rate is coming back. It fits your recovery curve live, shows the drop after 30 and 60 seconds, and estimates when you are back at the heart rate you usually start a shift with. After the game you see every shift, every period, and whether your recovery got slower as the game went on — and over the weeks, whether your conditioning is improving.\n\nWHAT IT DOES\n- Automatic shift detection from the accelerometer and heart rate, with hysteresis so stoppages and standing up on the bench do not count as changes\n- Live shift clock with a ring towards your target length, and one vibration when the shift reaches it (30–90 s or off)\n- Bench clock with heart rate, drop since the peak, percentage recovered and an estimate of when you are ready again\n- Recovery curve per bench rest: heart rate drop after 30 and 60 s and a recovery half-time from a fitted exponential curve\n- Fatigue per period: how much slower you recover in the last period than in the first\n- Periods (1–4) with intermissions, overtime, and a summary per period: shifts, ice time, average shift, recovery\n- Tap or press START to switch by hand at any time, and undo the last change if the detection got it wrong\n- Saves the game as a hockey activity in Garmin Connect, one lap per period, with on-ice time as a chart and shifts, ice time, average shift and recovery in the summary\n- History of your last 30 games with shift charts, a trend of ice time and recovery over the last ten games\n- Settings for minimum bench time, detection sensitivity, ice or inline rink, vibration, sound and backlight\n- A glance with your last game: ice time, shifts and how long ago, five languages\n\nWHAT IT NEEDS\n- A watch with wrist heart rate (or a paired strap) for the recovery figures; detection works on movement alone\n- Start the app at the puck drop; warm-up skating would otherwise count as shifts\n- Detection learns from your first games; set it to calm or sensitive if it switches too late or too early\n- Blueline is a training aid, not a medical device",
   "nl": "Blueline ziet zelf wanneer je op het ijs staat en wanneer je op de bank zit. Start bij de eerste face-off en speel: je polsbeweging en schaatsritme, samen met je hartslag, vertellen wanneer een shift begint en wanneer je gaat zitten. Een face-off of fluitsignaal wordt niet voor een wissel aangezien — gaat het spel verder voordat je echt op de bank rust, dan loopt de shift gewoon door. De app leert per wedstrijd jouw eigen bewegingsniveaus, en één tik herstelt een wissel die hij verkeerd zag.\n\nOp de bank laat hij zien wat geen stopwatch kan: hoe snel je hartslag terugkomt. Hij past je herstelcurve live, toont de daling na 30 en 60 seconden en schat wanneer je terug bent op de hartslag waarmee je normaal aan een shift begint. Na de wedstrijd zie je elke shift, elke periode en of je herstel trager werd naarmate de wedstrijd vorderde — en over de weken of je conditie vooruitgaat.\n\nWAT HET DOET\n- Automatische shiftherkenning uit versnellingsmeter en hartslag, met hysterese zodat onderbrekingen en opstaan op de bank niet als wissel tellen\n- Live shiftklok met een ring naar je doelduur, en één trilling als de shift die haalt (30–90 s of uit)\n- Bankklok met hartslag, daling sinds de piek, percentage hersteld en een schatting wanneer je weer klaar bent\n- Herstelcurve per bankbeurt: hartslagdaling na 30 en 60 s en een halfwaardetijd uit een gefitte exponentiële curve\n- Vermoeidheid per periode: hoeveel trager je herstelt in de laatste periode dan in de eerste\n- Periodes (1–4) met pauzes, verlenging en een samenvatting per periode: shifts, ijstijd, gemiddelde shift, herstel\n- Tik of druk op START om op elk moment zelf te wisselen, en draai de laatste wissel terug als de herkenning het mis had\n- Bewaart de wedstrijd als hockeyactiviteit in Garmin Connect, één ronde per periode, met ijstijd als grafiek en shifts, ijstijd, gemiddelde shift en herstel in de samenvatting\n- Geschiedenis van je laatste 30 wedstrijden met shiftgrafieken, en het verloop van ijstijd en herstel over de laatste tien\n- Instellingen voor minimale banktijd, gevoeligheid, ijs- of inlinebaan, trillen, geluid en verlichting\n- Een glance met je laatste wedstrijd: ijstijd, shifts en hoe lang geleden, vijf talen\n\nWAT HET NODIG HEEFT\n- Een horloge met polshartslag (of een gekoppelde band) voor de herstelcijfers; de herkenning werkt ook op beweging alleen\n- Start de app bij de eerste face-off; inschaatsen telt anders als shifts\n- De herkenning leert van je eerste wedstrijden; zet hem op rustig of gevoelig als hij te laat of te vroeg wisselt\n- Blueline is een trainingshulpmiddel, geen medisch apparaat",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 100,
   "version": "1.0.3",
   "category": "212",
@@ -1349,8 +1374,8 @@
   "desc": "Open water swim apps all promise the same thing and keep getting the same review: the distance is wrong. Swim the same loop three times and the watch gives you three different numbers. The reason is simple: your wrist is under water half of every stroke, the GPS loses its fix, and when it comes back it jumps. Sightline does not just add up those jumps. It filters every fix through a Kalman filter, throws out positions that would mean swimming faster than three metres per second, and fills the gaps by counting your strokes and multiplying them by your own distance per stroke.\n\nThat distance per stroke is learned from the first good minutes of each swim. Once you have turned around a buoy, Sightline also compares how far your strokes should have taken you with how far you actually moved, and the difference is the current: its speed and direction. From that it tells you how many degrees to aim upstream to swim a straight line back to the start, without a map.\n\nWHAT IT DOES\n- Distance from filtered GPS, with gaps bridged by strokes × your learned distance per stroke\n- Pace per 100 m or 100 yd, strokes per minute, distance per stroke and SWOLF over 25 m\n- Measures the current (speed and direction) once you have swum in more than one direction\n- Back-to-start pointer with distance, the angle to aim against the current and time to get there\n- Automatic loops when you pass the start buoy again, with the median loop and the spread between loops\n- Straightness: how much of your path went towards where you were heading, and a sketch of your track\n- Goal distance, intervals (presets or your own set) with rest countdown, and a CSS test that sets your threshold pace\n- Vibration every 100, 250, 500 or 1000 m and pace alerts against your CSS-based target\n- Records an open water swim activity in Garmin Connect, with the corrected distance, stroke rate and current as extra fields\n- After each swim: how sure the distance is (raw GPS against Sightline, share bridged by strokes)\n- The last thirty swims, five languages, metres or yards, and a glance with your last swim and this week against your weekly goal\n\nWHAT IT NEEDS\n- A watch with GPS and an accelerometer\n- A minute or two of steady swimming with GPS before the distance per stroke settles\n- Nothing else: no phone, no account, no internet\n\nTouch is switched off while swimming because water on the glass causes false taps; START opens the swim menu and BACK marks a lap. Sightline is a training aid, not a safety device: always swim with a buddy or a tow float.",
   "nl": "Openwaterzwem-apps beloven allemaal hetzelfde en krijgen steeds dezelfde review: de afstand klopt niet. Zwem drie keer hetzelfde rondje en het horloge geeft drie verschillende getallen. De reden is simpel: je pols is bij elke slag half onder water, de gps verliest zijn fix en springt als hij terugkomt. Sightline telt die sprongen niet zomaar op. Elke fix gaat door een Kalmanfilter, posities die zouden betekenen dat je sneller dan drie meter per seconde zwom gaan eruit, en de gaten worden gevuld door je slagen te tellen en te vermenigvuldigen met je eigen afstand per slag.\n\nDie afstand per slag leert de app in de eerste goede minuten van elke zwemtocht. Ben je eenmaal om een boei gedraaid, dan vergelijkt Sightline ook hoe ver je slagen je hadden moeten brengen met hoe ver je echt kwam, en het verschil is de stroming: snelheid en richting. Daarmee zegt hij hoeveel graden je tegen de stroming in moet mikken om in een rechte lijn terug te zwemmen naar de start, zonder kaart.\n\nWAT HET DOET\n- Afstand uit gefilterde gps, met gaten overbrugd door slagen × je geleerde afstand per slag\n- Tempo per 100 m of 100 yd, slagen per minuut, afstand per slag en SWOLF over 25 m\n- Meet de stroming (snelheid en richting) zodra je in meer dan één richting hebt gezwommen\n- Terugwijzer naar de start met afstand, de hoek om tegen de stroming in te mikken en de tijd tot je er bent\n- Automatische lussen als je weer langs de startboei komt, met de mediaan en de spreiding tussen lussen\n- Rechtheid: hoeveel van je pad richting je doel ging, en een schets van je spoor\n- Doelafstand, intervallen (vaste reeksen of je eigen reeks) met aftellende rust, en een CSS-test die je drempeltempo instelt\n- Trilling elke 100, 250, 500 of 1000 m en tempo-alarmen tegen je doeltempo op basis van CSS\n- Neemt een open-water-zwemactiviteit op in Garmin Connect, met de gecorrigeerde afstand, slagfrequentie en stroming als extra velden\n- Na elke zwemtocht: hoe zeker de afstand is (kale gps tegen Sightline, deel overbrugd met slagen)\n- De laatste dertig zwemtochten, vijf talen, meters of yards, en een glance met je laatste zwemtocht en deze week tegen je weekdoel\n\nWAT HET NODIG HEEFT\n- Een horloge met gps en versnellingsmeter\n- Een minuut of twee rustig zwemmen met gps voordat de afstand per slag vastligt\n- Verder niets: geen telefoon, geen account, geen internet\n\nTouch staat uit tijdens het zwemmen omdat water op het glas spooktikken geeft; START opent het zwemmenu en BACK zet een ronde. Sightline is een trainingshulpmiddel, geen veiligheidsmiddel: zwem altijd met een maatje of een zwemboei.",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 100,
   "version": "1.0.1",
   "category": "221",
@@ -1377,7 +1402,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.1.2",
+  "version": "1.2.0",
   "category": "212",
   "icon": "assets/icons/hookset.png",
   "shots": [
@@ -1387,10 +1412,10 @@
    "assets/shots/hookset-4.jpg",
    "assets/shots/hookset-5.jpg"
   ],
-  "changed": 1793956910000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794837974000,
+  "whatsnew": "Fishing sessions are now recorded as activities you can save to Garmin Connect, with catch count, biggest fish, species and a lap per catch.",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "1fe84173-cf88-41b3-97ac-2136243f5d8a",
@@ -1660,8 +1685,8 @@
   "desc": "Southpaw counts the punches thrown by your watch hand and runs your boxing rounds. The watch's accelerometer looks for the short, hard shape of a punch — a fast push forward followed by a sharp stop — so footwork and guard movement are left out. A 10-punch calibration tunes it to your own power.\n\nIt then shows what a round timer cannot: how your output holds up. Every round is compared with your first two, so you see the moment your punch rate starts to drop, the trend per round across the session, and how hard your punches still land. Combinations are counted too, and every round is saved as a lap in your activity.\n\nWHAT IT DOES\n- Round timer with countdown, 10-second warning and rest, fully adjustable (or open training without a clock)\n- Punches per round, punches per minute and your pace against rounds 1-2, live\n- Output change per round and the trend in % per round\n- Intensity: average and hardest punch in g, and how it changes over the rounds\n- Straight versus hooks and uppercuts after calibration\n- Combinations: count, longest series, 2/3/4+ breakdown\n- Heart rate during rounds and how far it drops in rest\n- Saves a boxing activity with punches, punch rate and one lap per round\n- History of your last 20 sessions, five languages, and a glance with your last session\n\nWHAT IT NEEDS\n- A watch with an accelerometer, worn on the wrist you punch with; only that hand is counted\n- No phone, no account, no internet",
   "nl": "Southpaw telt de stoten van je horlogehand en loopt je boksrondes. De versnellingsmeter zoekt de korte, harde vorm van een stoot — snel naar voren en dan abrupt stoppen — zodat voetenwerk en dekking niet meetellen. Een kalibratie van 10 stoten stemt hem af op jouw kracht.\n\nDaarna laat hij zien wat een rondeklok niet kan: hoe je output overeind blijft. Elke ronde wordt vergeleken met je eerste twee, zodat je ziet wanneer je tempo begint te zakken, wat de trend per ronde is en hoe hard je stoten nog aankomen. Series worden ook geteld en elke ronde wordt als ronde in je activiteit opgeslagen.\n\nWAT HET DOET\n- Rondeklok met aftellen, waarschuwing bij 10 seconden en rust, volledig instelbaar (of open training zonder klok)\n- Stoten per ronde, stoten per minuut en je tempo tegenover ronde 1-2, live\n- Output-verloop per ronde en de trend in % per ronde\n- Intensiteit: gemiddelde en hardste stoot in g, en hoe die verandert over de rondes\n- Recht tegenover hoeken en opstoten na kalibratie\n- Series: aantal, langste serie, verdeling 2/3/4+\n- Hartslag tijdens de rondes en hoe ver die zakt in de rust\n- Slaat een boksactiviteit op met stoten, stoottempo en één ronde per ronde\n- Historie van je laatste 20 trainingen, vijf talen en een glance met je laatste training\n\nWAT HET NODIG HEEFT\n- Een horloge met versnellingsmeter, gedragen om de pols waarmee je stoot; alleen die hand telt\n- Geen telefoon, geen account, geen internet",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 100,
   "version": "1.0.5",
   "category": "212",
@@ -1939,7 +1964,7 @@
   "rating": 3.8,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.1.1",
+  "version": "1.2.0",
   "category": "219",
   "icon": "assets/icons/vagal.png",
   "shots": [
@@ -1947,10 +1972,10 @@
    "assets/shots/vagal-2.jpg",
    "assets/shots/vagal-3.jpg"
   ],
-  "changed": 1794176537000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794834798000,
+  "whatsnew": "A fresh new look: cleaner screens, larger numbers and redesigned menus with smooth native scrolling.",
   "devices": 186,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "703a9bcc-7034-4447-9105-8ed408166a64",
@@ -2445,7 +2470,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "category": "213",
   "icon": "assets/icons/meridia.png",
   "shots": [
@@ -2453,10 +2478,10 @@
    "assets/shots/meridia-2.jpg",
    "assets/shots/meridia-3.jpg"
   ],
-  "changed": 1793960907000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794804690000,
+  "whatsnew": "New Caribbean region with 26 island capitals, including St. George's (Grenada), Kingston, Port of Spain, Bridgetown and Nassau. Havana now follows Cuba's decision to stay on daylight saving time through winter 2026-27.",
   "devices": 161,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "f4c1c1f5-dc19-4546-9b17-726765b5367f",
@@ -2905,7 +2930,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -2913,10 +2938,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1794750994000,
-  "whatsnew": "Swims now show distance, strokes and stroke rate in Garmin Connect. START stops the timer like Garmin's own apps, LAP marks a lap, and new lap alerts by distance or time. Bigger text, full-screen distance and time pages, a paged summary and pace in 1-second steps.",
+  "changed": 1794832836000,
+  "whatsnew": "Distance is now recorded from a single source, so every distance figure for a swim shows the same value.",
   "devices": 185,
-  "updates": 14
+  "updates": 15
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
@@ -3089,7 +3114,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.0.1",
+  "version": "2.0.3",
   "category": "219",
   "icon": "assets/icons/splitr.png",
   "shots": [
@@ -3097,10 +3122,10 @@
    "assets/shots/splitr-2.jpg",
    "assets/shots/splitr-3.jpg"
   ],
-  "changed": 1794465404000,
-  "whatsnew": "New app icon.",
+  "changed": 1794844744000,
+  "whatsnew": "Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
   "devices": 178,
-  "updates": 16
+  "updates": 18
  },
  {
   "id": "d5b404a4-cf14-40f6-a12f-e672e607f36c",
@@ -3503,7 +3528,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "219",
   "icon": "assets/icons/cyra.png",
   "shots": [
@@ -3513,10 +3538,10 @@
    "assets/shots/cyra-4.jpg",
    "assets/shots/cyra-5.jpg"
   ],
-  "changed": 1794332881000,
-  "whatsnew": "New look: a new typeface, the cycle ring round the edge with a Log button, last night's values as cards, and every menu as a clear page with large buttons. Symptoms switch on and off with one tap and settings use - and +.",
+  "changed": 1794835450000,
+  "whatsnew": "Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
   "devices": 174,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
@@ -3864,7 +3889,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.1.2",
+  "version": "1.2.0",
   "category": "219",
   "icon": "assets/icons/adapt.png",
   "shots": [
@@ -3874,10 +3899,10 @@
    "assets/shots/adapt-4.jpg",
    "assets/shots/adapt-5.jpg"
   ],
-  "changed": 1793942667000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794846178000,
+  "whatsnew": "Optional protein tracking (off by default): log grams with or after your calories, set an automatic (1.6 g/kg) or manual daily goal, and follow it with a second ring on the today screen and in the glance.",
   "devices": 178,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065",
@@ -3939,7 +3964,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.8",
+  "version": "1.1.0",
   "category": "220",
   "icon": "assets/icons/racecast.png",
   "shots": [
@@ -3949,10 +3974,10 @@
    "assets/shots/racecast-4.jpg",
    "assets/shots/racecast-5.jpg"
   ],
-  "changed": 1794172850000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794835082000,
+  "whatsnew": "A fresh new look: cleaner screens, larger numbers and redesigned menus with smooth native scrolling.",
   "devices": 178,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c",
@@ -4163,7 +4188,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.5.4",
+  "version": "1.6.0",
   "category": "254",
   "icon": "assets/icons/isobar.png",
   "shots": [
@@ -4172,10 +4197,10 @@
    "assets/shots/isobar-3.jpg",
    "assets/shots/isobar-4.jpg"
   ],
-  "changed": 1793943707000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794834918000,
+  "whatsnew": "A fresh new look: cleaner screens, larger numbers and redesigned menus with smooth native scrolling.",
   "devices": 178,
-  "updates": 13
+  "updates": 14
  },
  {
   "id": "c9641632-bf62-4fdb-8e28-e3a4c1c24bc5",
@@ -4236,7 +4261,7 @@
   "rating": 3.4,
   "reviews": 5,
   "downloads": 100,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "254",
   "icon": "assets/icons/smokeless.png",
   "shots": [
@@ -4246,10 +4271,10 @@
    "assets/shots/smokeless-4.jpg",
    "assets/shots/smokeless-5.jpg"
   ],
-  "changed": 1794361644000,
-  "whatsnew": "New look: a ring round the edge toward your next milestone with the money saved under it, a new typeface, rounded charts, and every menu as a clear page with large buttons. The quit date and your usage are set with - and +.",
+  "changed": 1794835363000,
+  "whatsnew": "Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
   "devices": 153,
-  "updates": 15
+  "updates": 16
  },
  {
   "id": "cec46a63-db0b-4506-b046-2a59e120d2d0",
@@ -4261,7 +4286,7 @@
   "rating": 4.1,
   "reviews": 9,
   "downloads": 100,
-  "version": "3.0.1",
+  "version": "3.0.3",
   "category": "219",
   "icon": "assets/icons/fasted.png",
   "shots": [
@@ -4271,10 +4296,10 @@
    "assets/shots/fasted-4.jpg",
    "assets/shots/fasted-5.jpg"
   ],
-  "changed": 1794362161000,
-  "whatsnew": "Page titles now use correct capitalisation in every language.",
+  "changed": 1794845986000,
+  "whatsnew": "Times now follow your watch's 12/24-hour setting (for example 3:20 PM). Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
   "devices": 108,
-  "updates": 24
+  "updates": 26
  },
  {
   "id": "b3c49541-6aba-49c8-a271-ee0a4967ee79",
@@ -4335,7 +4360,7 @@
   "rating": 4.4,
   "reviews": 7,
   "downloads": 100,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "219",
   "icon": "assets/icons/breathgym.png",
   "shots": [
@@ -4345,10 +4370,10 @@
    "assets/shots/breathgym-4.jpg",
    "assets/shots/breathgym-5.jpg"
   ],
-  "changed": 1794363326000,
-  "whatsnew": "New look: a new typeface with large clear digits, your record at the top of the home page, rounded charts, and every menu as a clear page with large buttons. Rounds, hold and rest times are set with - and +.",
+  "changed": 1794835172000,
+  "whatsnew": "Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
   "devices": 178,
-  "updates": 14
+  "updates": 15
  },
  {
   "id": "0d5c42f2-903c-4428-98c6-f7ffaf674555",
@@ -4409,7 +4434,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.3.6",
+  "version": "1.4.0",
   "category": "213",
   "icon": "assets/icons/cardvault.png",
   "shots": [
@@ -4419,10 +4444,10 @@
    "assets/shots/cardvault-4.jpg",
    "assets/shots/cardvault-5.jpg"
   ],
-  "changed": 1793949357000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794834994000,
+  "whatsnew": "A fresh new look: cleaner screens, larger numbers and redesigned menus with smooth native scrolling.",
   "devices": 64,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "2f0cb757-209f-4c24-bf73-c5ec56863d70",
@@ -4456,7 +4481,7 @@
   "rating": 3.3,
   "reviews": 7,
   "downloads": 100,
-  "version": "1.9.4",
+  "version": "1.9.5",
   "category": "210",
   "icon": "assets/icons/spotsave.png",
   "shots": [
@@ -4465,10 +4490,10 @@
    "assets/shots/spotsave-3.jpg",
    "assets/shots/spotsave-4.jpg"
   ],
-  "changed": 1794173745000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1794837722000,
+  "whatsnew": "Fixed the direction arrow on watches without a live compass (such as the Approach S72): it now follows your walking direction, and shows north with a \"Walk to set direction\" hint until a heading is available.",
   "devices": 178,
-  "updates": 17
+  "updates": 18
  },
  {
   "id": "f37b763c-584b-4b1e-b3d7-dfae12d1fae9",
@@ -4528,7 +4553,7 @@
   "rating": 5.0,
   "reviews": 5,
   "downloads": 100,
-  "version": "3.0.1",
+  "version": "3.0.3",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -4538,10 +4563,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1794313903000,
-  "whatsnew": "The glance now uses the new colours of the app and its bottom line no longer overlaps.",
+  "changed": 1794844831000,
+  "whatsnew": "Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
   "devices": 178,
-  "updates": 22
+  "updates": 24
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
@@ -4553,7 +4578,7 @@
   "rating": 4.8,
   "reviews": 9,
   "downloads": 100,
-  "version": "3.0.0",
+  "version": "3.0.2",
   "category": "219",
   "icon": "assets/icons/caffi.png",
   "shots": [
@@ -4563,10 +4588,10 @@
    "assets/shots/caffi-4.jpg",
    "assets/shots/caffi-5.jpg"
   ],
-  "changed": 1794305944000,
-  "whatsnew": "New look and much more: zone ring, \"coffee by\" time, day planner, taper plan, half-life test, daily-limit alerts, 14 and 90 day trends, 130+ drinks and editing of logged drinks.",
+  "changed": 1794845904000,
+  "whatsnew": "Times now follow your watch's 12/24-hour setting (for example 3:20 PM). Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
   "devices": 178,
-  "updates": 26
+  "updates": 28
  },
  {
   "id": "173e9d71-48e0-4ded-8515-27c3011032da",
@@ -4578,7 +4603,7 @@
   "rating": 4.5,
   "reviews": 8,
   "downloads": 100,
-  "version": "2.1.1",
+  "version": "2.1.2",
   "category": "213",
   "icon": "assets/icons/convertr.png",
   "shots": [
@@ -4587,10 +4612,10 @@
    "assets/shots/convertr-3.jpg",
    "assets/shots/convertr-4.jpg"
   ],
-  "changed": 1794563361000,
-  "whatsnew": "Added the Eastern Caribbean dollar (XCD), Barbadian dollar (BBD) and Bahamian dollar (BSD) to the currency converter.",
+  "changed": 1794835631000,
+  "whatsnew": "Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
   "devices": 205,
-  "updates": 21
+  "updates": 22
  },
  {
   "id": "ba8e2555-cf31-45fe-8876-68a4f3b2cbb6",
