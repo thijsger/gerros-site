@@ -554,6 +554,35 @@
      "The last 30 with date, time and split"
     ]
    ]
+  },
+  "habitless": {
+   "title": "Habitless",
+   "tag": "Bad habit tracker with urge statistics",
+   "cat": "health",
+   "id": "9b1574d2-b81e-49e1-ac91-42d8aa3321ab",
+   "accent": "#BEF264",
+   "screens": [
+    [
+     "Every habit has its own streak",
+     "Days, hours and the next milestone"
+    ],
+    [
+     "Up to four habits at once",
+     "Pick from the list or type your own"
+    ],
+    [
+     "See when urges come",
+     "Hours and weekdays from your own log"
+    ],
+    [
+     "Urges per day, with the trend",
+     "Resisted, slips and success rate"
+    ],
+    [
+     "Help when an urge hits",
+     "Breathe, or ride it out for 10 minutes"
+    ]
+   ]
   }
  },
  "wearos": [
@@ -572,6 +601,7 @@
   "convertr",
   "splitr",
   "hydrosmart",
-  "domora"
+  "domora",
+  "habitless"
  ]
 }
