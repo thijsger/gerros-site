@@ -223,7 +223,30 @@
    "title": "Racecast",
    "tag": "Race predictor: 5K to marathon from one result",
    "cat": "sport",
-   "id": "82b01416-0980-4085-aa72-3e05ffae990b"
+   "id": "82b01416-0980-4085-aa72-3e05ffae990b",
+   "accent": "#FC703E",
+   "screens": [
+    [
+     "Race time predictor",
+     "Predicted time for your goal race and the gap to your target"
+    ],
+    [
+     "Predictions from 5K to marathon",
+     "From any race result you enter"
+    ],
+    [
+     "Training paces",
+     "Easy to repetition pace from your VDOT"
+    ],
+    [
+     "Goal race countdown",
+     "Target, prediction and the gap to close"
+    ],
+    [
+     "Fitness over time",
+     "VDOT from each race result"
+    ]
+   ]
   },
   "shiftpay": {
    "title": "ShiftPay",
@@ -287,7 +310,30 @@
   "cardvault": {
    "title": "CardVault",
    "tag": "Loyalty cards, tickets and 2FA codes",
-   "cat": "tools"
+   "cat": "tools",
+   "accent": "#01B0FD",
+   "screens": [
+    [
+     "Loyalty cards, barcodes and 2FA codes",
+     "All your cards in one list"
+    ],
+    [
+     "Barcodes for the checkout",
+     "EAN-13 and Code 128 on a white screen"
+    ],
+    [
+     "QR codes",
+     "Gym passes, tickets and links"
+    ],
+    [
+     "Two-factor codes",
+     "TOTP codes with a countdown ring"
+    ],
+    [
+     "Add cards from your phone",
+     "Type the pairing code in the web app, then fetch"
+    ]
+   ]
   },
   "morsetap": {
    "title": "MorseTap",
@@ -336,7 +382,30 @@
   "isobar": {
    "title": "Isobar",
    "tag": "Migraine risk and attack log",
-   "cat": "health"
+   "cat": "health",
+   "accent": "#FB504C",
+   "screens": [
+    [
+     "Migraine risk from air pressure",
+     "Score from the pressure change over 12 hours"
+    ],
+    [
+     "Barometric pressure over 48 hours",
+     "Your attacks marked on the pressure curve"
+    ],
+    [
+     "Log an attack",
+     "Set the intensity from 1 to 10, then Start"
+    ],
+    [
+     "Attack days and medication days",
+     "This month compared with last month"
+    ],
+    [
+     "When attacks start",
+     "Attacks counted by time of day"
+    ]
+   ]
   },
   "hounded": {
    "title": "Hounded",
@@ -390,7 +459,30 @@
    "title": "Barocast",
    "tag": "Weather forecast from your barometer",
    "cat": "sport",
-   "id": "faae6372-9d31-43dd-bcac-969628e7dc89"
+   "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
+   "accent": "#55B1FA",
+   "screens": [
+    [
+     "Weather forecast from your barometer",
+     "Pressure, 3-hour trend and the weather it points to"
+    ],
+    [
+     "Forecast for the next 12 hours",
+     "Zambretti method with a confidence score"
+    ],
+    [
+     "Pressure over the last 24 hours",
+     "Daily tide removed, so only real changes show"
+    ],
+    [
+     "Trend over 1, 3, 6 and 12 hours",
+     "See at a glance how fast the pressure moves"
+    ],
+    [
+     "hPa, inHg or mmHg",
+     "Storm warning by vibration when pressure drops fast"
+    ]
+   ]
   },
   "cadenzo": {
    "title": "Cadenzo",
@@ -583,6 +675,34 @@
      "Breathe, or ride it out for 10 minutes"
     ]
    ]
+  },
+  "vagal": {
+   "title": "Vagal",
+   "tag": "HRV breathing coach with resonance rate test",
+   "cat": "health",
+   "accent": "#2CE66A",
+   "screens": [
+    [
+     "HRV breathing coach",
+     "Your breathing rate, day streak and weekly minutes"
+    ],
+    [
+     "Breathe with the circle",
+     "Live coherence from every heartbeat"
+    ],
+    [
+     "Session summary",
+     "Coherence, RMSSD before and after, heart rate"
+    ],
+    [
+     "Find your resonance rate",
+     "Five breathing rates tested, from 6.5 to 4.5 per minute"
+    ],
+    [
+     "Coherence trend",
+     "Average of your last seven sessions"
+    ]
+   ]
   }
  },
  "wearos": [
@@ -602,6 +722,11 @@
   "splitr",
   "hydrosmart",
   "domora",
-  "habitless"
+  "habitless",
+  "vagal",
+  "isobar",
+  "cardvault",
+  "racecast",
+  "barocast"
  ]
 }

@@ -682,7 +682,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "2.0.3",
+  "version": "2.0.4",
   "category": "206",
   "icon": "assets/icons/reelix.png",
   "shots": [
@@ -690,10 +690,10 @@
    "assets/shots/reelix-2.jpg",
    "assets/shots/reelix-3.jpg"
   ],
-  "changed": 1794178585000,
+  "changed": 1794918860000,
   "whatsnew": "Fixes a crash on start when the watch language is Japanese, Korean, Chinese, Polish, Italian, Portuguese, Czech, Swedish, Danish, Norwegian or Finnish.",
   "devices": 153,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "cbda12de-19df-467c-9e95-4a4aedf471b1",
@@ -1964,7 +1964,7 @@
   "rating": 3.8,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "category": "219",
   "icon": "assets/icons/vagal.png",
   "shots": [
@@ -1972,10 +1972,10 @@
    "assets/shots/vagal-2.jpg",
    "assets/shots/vagal-3.jpg"
   ],
-  "changed": 1794834798000,
+  "changed": 1794918721000,
   "whatsnew": "Fixed: tapping 'Tap to breathe' on the RMSSD and coherence pages now starts a session. Menus during a session respond faster; Discard is now the default when stopping a test.",
   "devices": 186,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "703a9bcc-7034-4447-9105-8ed408166a64",
