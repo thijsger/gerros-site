@@ -31,9 +31,9 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [BreathGym](https://gerros.app/apps/breathgym.html): Breath-hold training with CO₂ and O₂ tables. Health & habits, version 2.0.1, store: https://apps.garmin.com/apps/ea0410c6-e80e-49a2-b567-7da49fde3814. Rating 4.4/5 from 7 reviews.
 - [Convertr](https://gerros.app/apps/convertr.html): Units and live currencies in 18 categories. Everyday tools, version 2.1.2, store: https://apps.garmin.com/apps/173e9d71-48e0-4ded-8515-27c3011032da. Rating 4.5/5 from 8 reviews.
 - [Rowcast](https://gerros.app/apps/splitr.html): Rowing with PM5 and FTMS rowing machines. Sport & outdoors, version 2.0.3, store: https://apps.garmin.com/apps/ae16ee36-8dde-4387-a461-3e4af1140b2c. Rating 3.0/5 from 2 reviews.
-- [HydroSmart](https://gerros.app/apps/hydrosmart.html): Water tracker with a daily goal worked out from weight, activity and heat. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/d25b4bc0-bba5-4e74-964b-27aff0feb119. Rating in the Connect IQ Store.
+- [HydroSmart](https://gerros.app/apps/hydrosmart.html): Water tracker with a daily goal worked out from weight, activity and heat. Health & habits, version 1.0.2, store: https://apps.garmin.com/apps/d25b4bc0-bba5-4e74-964b-27aff0feb119. Rating 5.0/5 from 1 reviews.
 - [Domora](https://gerros.app/apps/domora.html): Remote for Home Assistant, set up on the watch. Everyday tools, version 1.1.0, store: https://apps.garmin.com/apps/cbe853f7-e460-4480-bc96-fa18a695acc3. Rating 5.0/5 from 1 reviews.
-- [Habitless](https://gerros.app/apps/habitless.html): Bad habit tracker with urge statistics. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/9b1574d2-b81e-49e1-ac91-42d8aa3321ab. Rating in the Connect IQ Store.
+- [Habitless](https://gerros.app/apps/habitless.html): Bad habit tracker with urge statistics. Health & habits, version 1.0.1, store: https://apps.garmin.com/apps/9b1574d2-b81e-49e1-ac91-42d8aa3321ab. Rating in the Connect IQ Store.
 
 ## Pages
 
