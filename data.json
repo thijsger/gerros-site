@@ -691,7 +691,7 @@
    "assets/shots/reelix-3.jpg"
   ],
   "changed": 1794178585000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "Fixes a crash on start when the watch language is Japanese, Korean, Chinese, Polish, Italian, Portuguese, Czech, Swedish, Danish, Norwegian or Finnish.",
   "devices": 153,
   "updates": 7
  },
@@ -1973,7 +1973,7 @@
    "assets/shots/vagal-3.jpg"
   ],
   "changed": 1794834798000,
-  "whatsnew": "A fresh new look: cleaner screens, larger numbers and redesigned menus with smooth native scrolling.",
+  "whatsnew": "Fixed: tapping 'Tap to breathe' on the RMSSD and coherence pages now starts a session. Menus during a session respond faster; Discard is now the default when stopping a test.",
   "devices": 186,
   "updates": 10
  },
@@ -3621,7 +3621,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.7",
+  "version": "2.0.0",
   "category": "215",
   "icon": "assets/icons/barocast.png",
   "shots": [
@@ -3629,10 +3629,10 @@
    "assets/shots/barocast-2.jpg",
    "assets/shots/barocast-3.jpg"
   ],
-  "changed": 1793941904000,
+  "changed": 1794917496000,
   "whatsnew": "New look, a trend page for 1 to 12 hours, a storm warning and a How it works page.",
   "devices": 165,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "dfa4cd28-4856-45a2-a668-b796285fca77",
