@@ -34,7 +34,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 10,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "255",
   "icon": "assets/icons/domora.png",
   "shots": [
@@ -44,10 +44,10 @@
    "assets/shots/domora-4.jpg",
    "assets/shots/domora-5.jpg"
   ],
-  "changed": 1794647872000,
+  "changed": 1794992002000,
   "whatsnew": "Now also on the Approach S62.",
-  "devices": 164,
-  "updates": 2
+  "devices": 167,
+  "updates": 3
  },
  {
   "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
@@ -4346,7 +4346,7 @@
    "assets/shots/jetshift-4.jpg"
   ],
   "changed": 1793955829000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New look: a 24-hour ring with light, sleep and coffee times, a body clock page, day details, reminders on or off, and a glance.",
   "devices": 64,
   "updates": 11
  },

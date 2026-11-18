@@ -1,732 +1,752 @@
 {
- "categories": [
-  [
-   "health",
-   "Health & habits"
+  "categories": [
+    [
+      "health",
+      "Health & habits"
+    ],
+    [
+      "sport",
+      "Sport & outdoors"
+    ],
+    [
+      "money",
+      "Money & work"
+    ],
+    [
+      "tools",
+      "Everyday tools"
+    ],
+    [
+      "games",
+      "Games & puzzles"
+    ],
+    [
+      "faces",
+      "Watch faces"
+    ]
   ],
-  [
-   "sport",
-   "Sport & outdoors"
+  "hero": [
+    "caffi",
+    "sobr",
+    "fasted",
+    "cyra",
+    "smokeless",
+    "breathgym"
   ],
-  [
-   "money",
-   "Money & work"
+  "apps": {
+    "smokeless": {
+      "title": "Smokeless",
+      "tag": "Quit-smoking tracker with cravings and savings",
+      "cat": "health",
+      "accent": "#3FE07C",
+      "screens": [
+        [
+          "Days smoke-free",
+          "Money saved and your next milestone"
+        ],
+        [
+          "Your body recovering",
+          "Sixteen health milestones"
+        ],
+        [
+          "Cravings of the last 7 days",
+          "Resisted in green, slips in red"
+        ],
+        [
+          "Breathe through a craving",
+          "Guided breathing with your heart rate"
+        ],
+        [
+          "Money saved",
+          "A savings goal with the days to go"
+        ]
+      ]
+    },
+    "fasted": {
+      "title": "Fasted",
+      "tag": "Intermittent fasting timer, from 16:8 to Ramadan",
+      "cat": "health",
+      "accent": "#4CC4F7",
+      "screens": [
+        [
+          "Fasting timer with your end time",
+          "The ring fills toward your goal"
+        ],
+        [
+          "Ten fasting phases",
+          "What your body is doing right now"
+        ],
+        [
+          "Your last seven days",
+          "Green bars reached the target"
+        ],
+        [
+          "Today, fasting and eating",
+          "When your fast ends and the window closes"
+        ],
+        [
+          "Streaks and records",
+          "Total fasts, hours and a weekly goal"
+        ]
+      ]
+    },
+    "breathgym": {
+      "title": "BreathGym",
+      "tag": "Breath-hold training with CO₂ and O₂ tables",
+      "cat": "health",
+      "accent": "#4C81FB",
+      "screens": [
+        [
+          "Breath-hold timer",
+          "A ring that fills as you hold"
+        ],
+        [
+          "Your record, your streak",
+          "Train, CO2 and O2 tables, custom sets"
+        ],
+        [
+          "Guided breathing",
+          "Paced inhale and exhale between holds"
+        ],
+        [
+          "Hold per session",
+          "Your longest hold, charted over time"
+        ],
+        [
+          "Session summary",
+          "Longest hold, total time and max heart rate"
+        ]
+      ]
+    },
+    "caffi": {
+      "title": "Caffi",
+      "tag": "Caffeine in your body, hour by hour",
+      "cat": "health",
+      "accent": "#F8A858",
+      "screens": [
+        [
+          "Caffeine in your body",
+          "See when you can sleep again"
+        ],
+        [
+          "Day planner",
+          "A drink schedule for your focus moments"
+        ],
+        [
+          "14 and 90 day trends",
+          "Daily totals against your limit"
+        ],
+        [
+          "130+ drinks",
+          "With the latest time for each one"
+        ],
+        [
+          "Daily limit with alerts",
+          "At 80 % and 100 % of your limit"
+        ]
+      ]
+    },
+    "sobr": {
+      "title": "Sobr",
+      "tag": "Blood-alcohol estimate with the time you drop under your limit",
+      "cat": "health",
+      "accent": "#F27E4B",
+      "screens": [
+        [
+          "See when you are under your threshold",
+          "Estimated blood alcohol, live"
+        ],
+        [
+          "Your evening as a curve",
+          "Past drinks and the hours ahead"
+        ],
+        [
+          "Log a drink in one tap",
+          "Beer, wine, spirits or your own"
+        ],
+        [
+          "Today against your own limit",
+          "Drinks, peak and 7-day average"
+        ],
+        [
+          "14 and 30 day trends",
+          "Days over your limit stand out"
+        ]
+      ]
+    },
+    "jetshift": {
+      "title": "JetShift",
+      "tag": "Jet lag plan with light, sleep and caffeine",
+      "cat": "health",
+      "accent": "#FFB000",
+      "screens": [
+        [
+          "Seek light, avoid light",
+          "A jet lag plan by the hour"
+        ],
+        [
+          "Your body clock, home and there",
+          "See how far it has shifted each day"
+        ],
+        [
+          "Today, hour by hour",
+          "Light, melatonin, coffee and sleep times"
+        ],
+        [
+          "In sync",
+          "Day by day until your body clock arrives"
+        ]
+      ]
+    },
+    "earned": {
+      "title": "Earned",
+      "tag": "Burned calories as portions of food",
+      "cat": "health"
+    },
+    "rallypoint": {
+      "title": "RallyPoint",
+      "tag": "Score tracker for padel, tennis, pickleball and more",
+      "cat": "sport"
+    },
+    "strike": {
+      "title": "Strike",
+      "tag": "Bowling scoreboard with splits and six players",
+      "cat": "sport"
+    },
+    "zeitnot": {
+      "title": "Zeitnot",
+      "tag": "Chess clock with Fischer, Bronstein and delay",
+      "cat": "sport"
+    },
+    "speedometer-pro": {
+      "title": "Speedometer Pro",
+      "tag": "GPS speedometer with ten instrument faces",
+      "cat": "sport"
+    },
+    "altizone": {
+      "title": "AltiZone",
+      "tag": "Barometric altimeter with colour zones and alarms",
+      "cat": "sport"
+    },
+    "spotsave": {
+      "title": "SpotSave",
+      "tag": "Save a spot and find your way back",
+      "cat": "sport"
+    },
+    "reactr": {
+      "title": "Reactr",
+      "tag": "Reaction-time trainer with a world ranking",
+      "cat": "sport"
+    },
+    "racecast": {
+      "title": "Racecast",
+      "tag": "Race predictor: 5K to marathon from one result",
+      "cat": "sport",
+      "id": "82b01416-0980-4085-aa72-3e05ffae990b",
+      "accent": "#FC703E",
+      "screens": [
+        [
+          "Race time predictor",
+          "Predicted time for your goal race and the gap to your target"
+        ],
+        [
+          "Predictions from 5K to marathon",
+          "From any race result you enter"
+        ],
+        [
+          "Training paces",
+          "Easy to repetition pace from your VDOT"
+        ],
+        [
+          "Goal race countdown",
+          "Target, prediction and the gap to close"
+        ],
+        [
+          "Fitness over time",
+          "VDOT from each race result"
+        ]
+      ]
+    },
+    "shiftpay": {
+      "title": "ShiftPay",
+      "tag": "Live earnings counter for your shift",
+      "cat": "money"
+    },
+    "spent": {
+      "title": "Spent",
+      "tag": "Daily spending budget",
+      "cat": "money"
+    },
+    "pitstop": {
+      "title": "PitStop",
+      "tag": "Fuel log with fill-up predictions and trip costs",
+      "cat": "money",
+      "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c"
+    },
+    "podium": {
+      "title": "Podium",
+      "tag": "Speaker timer with chapters and cues",
+      "cat": "money"
+    },
+    "listo": {
+      "title": "Listo",
+      "tag": "Grocery list in colour, sorted by aisle",
+      "cat": "tools"
+    },
+    "remindersplus": {
+      "title": "Reminders+",
+      "tag": "Everything that repeats, from minutes to years",
+      "cat": "tools"
+    },
+    "convertr": {
+      "title": "Convertr",
+      "tag": "Units and live currencies in 18 categories",
+      "cat": "tools",
+      "accent": "#1E88FF",
+      "screens": [
+        [
+          "Unit converter",
+          "Type a value, read the result"
+        ],
+        [
+          "18 categories",
+          "Length, temperature, weight, currency and more"
+        ],
+        [
+          "Number keypad",
+          "Decimals and negative values"
+        ],
+        [
+          "71 currencies",
+          "Live exchange rates through your phone"
+        ],
+        [
+          "Favorites on top",
+          "Pin the conversions you use most"
+        ]
+      ]
+    },
+    "cardvault": {
+      "title": "CardVault",
+      "tag": "Loyalty cards, tickets and 2FA codes",
+      "cat": "tools",
+      "accent": "#01B0FD",
+      "screens": [
+        [
+          "Loyalty cards, barcodes and 2FA codes",
+          "All your cards in one list"
+        ],
+        [
+          "Barcodes for the checkout",
+          "EAN-13 and Code 128 on a white screen"
+        ],
+        [
+          "QR codes",
+          "Gym passes, tickets and links"
+        ],
+        [
+          "Two-factor codes",
+          "TOTP codes with a countdown ring"
+        ],
+        [
+          "Add cards from your phone",
+          "Type the pairing code in the web app, then fetch"
+        ]
+      ]
+    },
+    "morsetap": {
+      "title": "MorseTap",
+      "tag": "Learn, practise and translate Morse code",
+      "cat": "tools"
+    },
+    "wordclock": {
+      "title": "WordClock",
+      "tag": "The time in words, in ten languages",
+      "cat": "faces"
+    },
+    "redline": {
+      "title": "Redline",
+      "tag": "Racing dashboard with heart-rate zones",
+      "cat": "faces"
+    },
+    "triptych": {
+      "title": "Triptych",
+      "tag": "Cockpit HUD with everything in one glance",
+      "cat": "faces"
+    },
+    "cue": {
+      "title": "Cue",
+      "tag": "Snooker and pool scoring on your watch",
+      "cat": "sport",
+      "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce"
+    },
+    "recover": {
+      "title": "Recover",
+      "tag": "Rest timer driven by your heart rate",
+      "cat": "health",
+      "id": "cbbd7d39-09f9-4172-94c6-a981894fe065"
+    },
+    "adapt": {
+      "title": "Adapt",
+      "tag": "Calorie target that follows your weight",
+      "cat": "health",
+      "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8"
+    },
+    "radar": {
+      "title": "Radar",
+      "tag": "GPS treasure hunt game",
+      "cat": "sport",
+      "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8"
+    },
+    "isobar": {
+      "title": "Isobar",
+      "tag": "Migraine risk and attack log",
+      "cat": "health",
+      "accent": "#FB504C",
+      "screens": [
+        [
+          "Migraine risk from air pressure",
+          "Score from the pressure change over 12 hours"
+        ],
+        [
+          "Barometric pressure over 48 hours",
+          "Your attacks marked on the pressure curve"
+        ],
+        [
+          "Log an attack",
+          "Set the intensity from 1 to 10, then Start"
+        ],
+        [
+          "Attack days and medication days",
+          "This month compared with last month"
+        ],
+        [
+          "When attacks start",
+          "Attacks counted by time of day"
+        ]
+      ]
+    },
+    "hounded": {
+      "title": "Hounded",
+      "tag": "A running game with a hound on your heels",
+      "cat": "sport",
+      "id": "8eb91174-006f-419b-9992-fcf86c90aaa2"
+    },
+    "sweepr": {
+      "title": "Sweepr",
+      "tag": "Minesweeper on your watch",
+      "cat": "games"
+    },
+    "pixara": {
+      "title": "Pixara",
+      "tag": "A picture cross puzzle, new every day",
+      "cat": "games"
+    },
+    "verdix": {
+      "title": "Verdix",
+      "tag": "A logic case to solve, new every day",
+      "cat": "games"
+    },
+    "coglet": {
+      "title": "Coglet",
+      "tag": "An idle factory on your wrist",
+      "cat": "games"
+    },
+    "lexil": {
+      "title": "Lexil",
+      "tag": "A word puzzle on seven letters",
+      "cat": "games"
+    },
+    "spire": {
+      "title": "Spire",
+      "tag": "A deckbuilding roguelike climb",
+      "cat": "games"
+    },
+    "kedge": {
+      "title": "Kedge",
+      "tag": "Anchor watch with a drag alarm",
+      "cat": "sport",
+      "id": "d66900af-a149-4309-a7f1-3bdb70eced57"
+    },
+    "skyfix": {
+      "title": "Skyfix",
+      "tag": "Point at the sky and read what it is",
+      "cat": "sport",
+      "id": "dfa4cd28-4856-45a2-a668-b796285fca77"
+    },
+    "barocast": {
+      "title": "Barocast",
+      "tag": "Weather forecast from your barometer",
+      "cat": "sport",
+      "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
+      "accent": "#55B1FA",
+      "screens": [
+        [
+          "Weather forecast from your barometer",
+          "Pressure, 3-hour trend and the weather it points to"
+        ],
+        [
+          "Forecast for the next 12 hours",
+          "Zambretti method with a confidence score"
+        ],
+        [
+          "Pressure over the last 24 hours",
+          "Daily tide removed, so only real changes show"
+        ],
+        [
+          "Trend over 1, 3, 6 and 12 hours",
+          "See at a glance how fast the pressure moves"
+        ],
+        [
+          "hPa, inHg or mmHg",
+          "Storm warning by vibration when pressure drops fast"
+        ]
+      ]
+    },
+    "cadenzo": {
+      "title": "Cadenzo",
+      "tag": "Metronome and practice planner for musicians",
+      "cat": "tools",
+      "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1"
+    },
+    "flexa": {
+      "title": "Flexa",
+      "tag": "Range-of-motion tests and a stretch timer",
+      "cat": "health",
+      "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf"
+    },
+    "halflight": {
+      "title": "Halflight",
+      "tag": "Turnaround time for a hike before dark",
+      "cat": "sport",
+      "id": "09bde219-f38e-412f-aefc-4e2741fd08d0"
+    },
+    "pawcast": {
+      "title": "Pawcast",
+      "tag": "When it is safe to walk the dog",
+      "cat": "tools",
+      "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600"
+    },
+    "platewise": {
+      "title": "Platewise",
+      "tag": "Cooking timeline for a whole meal",
+      "cat": "tools",
+      "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166"
+    },
+    "cutwise": {
+      "title": "Cutwise",
+      "tag": "Cut plan and sheet count for sawing",
+      "cat": "tools",
+      "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5"
+    },
+    "circada": {
+      "title": "Circada",
+      "tag": "Sleep, light and caffeine planner for shift work",
+      "cat": "health",
+      "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69"
+    },
+    "studo": {
+      "title": "Studo",
+      "tag": "Study blocks planned around your exams",
+      "cat": "tools",
+      "id": "7d7974bd-7735-4268-9440-7c7b6433aad7"
+    },
+    "cyra": {
+      "title": "Cyra",
+      "tag": "Menstrual cycle and period tracker with training suggestions",
+      "cat": "health",
+      "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
+      "accent": "#9C8CEC",
+      "screens": [
+        [
+          "Cycle day and phase",
+          "Period forecast from your own history"
+        ],
+        [
+          "Last night against your usual",
+          "Heart rate, stress and Body Battery per phase"
+        ],
+        [
+          "Next period as a window",
+          "From the lengths of your own cycles"
+        ],
+        [
+          "Log flow and symptoms",
+          "Correct any day on the watch"
+        ],
+        [
+          "Your cycle lengths",
+          "Median, spread and days of bleeding"
+        ]
+      ]
+    },
+    "hydrosmart": {
+      "title": "HydroSmart",
+      "tag": "Water tracker with a daily goal worked out from weight, activity and heat",
+      "cat": "health",
+      "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
+      "accent": "#3DA9FF",
+      "screens": [
+        [
+          "Water tracker with a daily goal",
+          "The ring is your goal, the mark is your pace"
+        ],
+        [
+          "A goal worked out for today",
+          "Body weight, activity and heat"
+        ],
+        [
+          "Log a drink in two taps",
+          "Three glass sizes of your own"
+        ],
+        [
+          "Your day, hour by hour",
+          "Each drink against an even pace"
+        ],
+        [
+          "Seven days, each against its own goal",
+          "Your average and your streak"
+        ]
+      ]
+    },
+    "domora": {
+      "title": "Domora",
+      "tag": "Remote for Home Assistant, set up on the watch",
+      "cat": "tools",
+      "id": "cbe853f7-e460-4480-bc96-fa18a695acc3",
+      "accent": "#FFC23A",
+      "screens": [
+        [
+          "Remote for Home Assistant",
+          "Your favorite devices in one list"
+        ],
+        [
+          "Dim a light",
+          "Brightness with - and +"
+        ],
+        [
+          "Set the thermostat",
+          "Target and measured temperature"
+        ],
+        [
+          "Automatic favorites",
+          "Give a device the label garmin in Home Assistant"
+        ],
+        [
+          "Connect with a QR code",
+          "Scan it with your phone and log in"
+        ]
+      ]
+    },
+    "splitr": {
+      "title": "Rowcast",
+      "tag": "Rowing with PM5 and FTMS rowing machines",
+      "cat": "sport",
+      "accent": "#22D3EE",
+      "screens": [
+        [
+          "Your split, live from the rower",
+          "Metres to go and how far ahead or behind"
+        ],
+        [
+          "Interval workouts",
+          "Work and rest switch by themselves"
+        ],
+        [
+          "Every 500 m as a bar",
+          "Faster or slower than the split before"
+        ],
+        [
+          "Saved, with your records",
+          "Time, split and stroke rate after every row"
+        ],
+        [
+          "Your rows, kept on the watch",
+          "The last 30 with date, time and split"
+        ]
+      ]
+    },
+    "habitless": {
+      "title": "Habitless",
+      "tag": "Bad habit tracker with urge statistics",
+      "cat": "health",
+      "id": "9b1574d2-b81e-49e1-ac91-42d8aa3321ab",
+      "accent": "#BEF264",
+      "screens": [
+        [
+          "Every habit has its own streak",
+          "Days, hours and the next milestone"
+        ],
+        [
+          "Up to four habits at once",
+          "Pick from the list or type your own"
+        ],
+        [
+          "See when urges come",
+          "Hours and weekdays from your own log"
+        ],
+        [
+          "Urges per day, with the trend",
+          "Resisted, slips and success rate"
+        ],
+        [
+          "Help when an urge hits",
+          "Breathe, or ride it out for 10 minutes"
+        ]
+      ]
+    },
+    "vagal": {
+      "title": "Vagal",
+      "tag": "HRV breathing coach with resonance rate test",
+      "cat": "health",
+      "accent": "#2CE66A",
+      "screens": [
+        [
+          "HRV breathing coach",
+          "Your breathing rate, day streak and weekly minutes"
+        ],
+        [
+          "Breathe with the circle",
+          "Live coherence from every heartbeat"
+        ],
+        [
+          "Session summary",
+          "Coherence, RMSSD before and after, heart rate"
+        ],
+        [
+          "Find your resonance rate",
+          "Five breathing rates tested, from 6.5 to 4.5 per minute"
+        ],
+        [
+          "Coherence trend",
+          "Average of your last seven sessions"
+        ]
+      ]
+    }
+  },
+  "wearos": [
+    "Caffi",
+    "Sobr",
+    "BreathGym",
+    "Convertr"
   ],
-  [
-   "tools",
-   "Everyday tools"
-  ],
-  [
-   "games",
-   "Games & puzzles"
-  ],
-  [
-   "faces",
-   "Watch faces"
+  "show": [
+    "caffi",
+    "sobr",
+    "fasted",
+    "cyra",
+    "smokeless",
+    "breathgym",
+    "convertr",
+    "splitr",
+    "hydrosmart",
+    "domora",
+    "habitless",
+    "vagal",
+    "isobar",
+    "cardvault",
+    "racecast",
+    "barocast",
+    "jetshift"
   ]
- ],
- "hero": [
-  "caffi",
-  "sobr",
-  "fasted",
-  "cyra",
-  "smokeless",
-  "breathgym"
- ],
- "apps": {
-  "smokeless": {
-   "title": "Smokeless",
-   "tag": "Quit-smoking tracker with cravings and savings",
-   "cat": "health",
-   "accent": "#3FE07C",
-   "screens": [
-    [
-     "Days smoke-free",
-     "Money saved and your next milestone"
-    ],
-    [
-     "Your body recovering",
-     "Sixteen health milestones"
-    ],
-    [
-     "Cravings of the last 7 days",
-     "Resisted in green, slips in red"
-    ],
-    [
-     "Breathe through a craving",
-     "Guided breathing with your heart rate"
-    ],
-    [
-     "Money saved",
-     "A savings goal with the days to go"
-    ]
-   ]
-  },
-  "fasted": {
-   "title": "Fasted",
-   "tag": "Intermittent fasting timer, from 16:8 to Ramadan",
-   "cat": "health",
-   "accent": "#4CC4F7",
-   "screens": [
-    [
-     "Fasting timer with your end time",
-     "The ring fills toward your goal"
-    ],
-    [
-     "Ten fasting phases",
-     "What your body is doing right now"
-    ],
-    [
-     "Your last seven days",
-     "Green bars reached the target"
-    ],
-    [
-     "Today, fasting and eating",
-     "When your fast ends and the window closes"
-    ],
-    [
-     "Streaks and records",
-     "Total fasts, hours and a weekly goal"
-    ]
-   ]
-  },
-  "breathgym": {
-   "title": "BreathGym",
-   "tag": "Breath-hold training with CO₂ and O₂ tables",
-   "cat": "health",
-   "accent": "#4C81FB",
-   "screens": [
-    [
-     "Breath-hold timer",
-     "A ring that fills as you hold"
-    ],
-    [
-     "Your record, your streak",
-     "Train, CO2 and O2 tables, custom sets"
-    ],
-    [
-     "Guided breathing",
-     "Paced inhale and exhale between holds"
-    ],
-    [
-     "Hold per session",
-     "Your longest hold, charted over time"
-    ],
-    [
-     "Session summary",
-     "Longest hold, total time and max heart rate"
-    ]
-   ]
-  },
-  "caffi": {
-   "title": "Caffi",
-   "tag": "Caffeine in your body, hour by hour",
-   "cat": "health",
-   "accent": "#F8A858",
-   "screens": [
-    [
-     "Caffeine in your body",
-     "See when you can sleep again"
-    ],
-    [
-     "Day planner",
-     "A drink schedule for your focus moments"
-    ],
-    [
-     "14 and 90 day trends",
-     "Daily totals against your limit"
-    ],
-    [
-     "130+ drinks",
-     "With the latest time for each one"
-    ],
-    [
-     "Daily limit with alerts",
-     "At 80 % and 100 % of your limit"
-    ]
-   ]
-  },
-  "sobr": {
-   "title": "Sobr",
-   "tag": "Blood-alcohol estimate with the time you drop under your limit",
-   "cat": "health",
-   "accent": "#F27E4B",
-   "screens": [
-    [
-     "See when you are under your threshold",
-     "Estimated blood alcohol, live"
-    ],
-    [
-     "Your evening as a curve",
-     "Past drinks and the hours ahead"
-    ],
-    [
-     "Log a drink in one tap",
-     "Beer, wine, spirits or your own"
-    ],
-    [
-     "Today against your own limit",
-     "Drinks, peak and 7-day average"
-    ],
-    [
-     "14 and 30 day trends",
-     "Days over your limit stand out"
-    ]
-   ]
-  },
-  "jetshift": {
-   "title": "JetShift",
-   "tag": "Jet lag plan with light and sleep times",
-   "cat": "health"
-  },
-  "earned": {
-   "title": "Earned",
-   "tag": "Burned calories as portions of food",
-   "cat": "health"
-  },
-  "rallypoint": {
-   "title": "RallyPoint",
-   "tag": "Score tracker for padel, tennis, pickleball and more",
-   "cat": "sport"
-  },
-  "strike": {
-   "title": "Strike",
-   "tag": "Bowling scoreboard with splits and six players",
-   "cat": "sport"
-  },
-  "zeitnot": {
-   "title": "Zeitnot",
-   "tag": "Chess clock with Fischer, Bronstein and delay",
-   "cat": "sport"
-  },
-  "speedometer-pro": {
-   "title": "Speedometer Pro",
-   "tag": "GPS speedometer with ten instrument faces",
-   "cat": "sport"
-  },
-  "altizone": {
-   "title": "AltiZone",
-   "tag": "Barometric altimeter with colour zones and alarms",
-   "cat": "sport"
-  },
-  "spotsave": {
-   "title": "SpotSave",
-   "tag": "Save a spot and find your way back",
-   "cat": "sport"
-  },
-  "reactr": {
-   "title": "Reactr",
-   "tag": "Reaction-time trainer with a world ranking",
-   "cat": "sport"
-  },
-  "racecast": {
-   "title": "Racecast",
-   "tag": "Race predictor: 5K to marathon from one result",
-   "cat": "sport",
-   "id": "82b01416-0980-4085-aa72-3e05ffae990b",
-   "accent": "#FC703E",
-   "screens": [
-    [
-     "Race time predictor",
-     "Predicted time for your goal race and the gap to your target"
-    ],
-    [
-     "Predictions from 5K to marathon",
-     "From any race result you enter"
-    ],
-    [
-     "Training paces",
-     "Easy to repetition pace from your VDOT"
-    ],
-    [
-     "Goal race countdown",
-     "Target, prediction and the gap to close"
-    ],
-    [
-     "Fitness over time",
-     "VDOT from each race result"
-    ]
-   ]
-  },
-  "shiftpay": {
-   "title": "ShiftPay",
-   "tag": "Live earnings counter for your shift",
-   "cat": "money"
-  },
-  "spent": {
-   "title": "Spent",
-   "tag": "Daily spending budget",
-   "cat": "money"
-  },
-  "pitstop": {
-   "title": "PitStop",
-   "tag": "Fuel log with fill-up predictions and trip costs",
-   "cat": "money",
-   "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c"
-  },
-  "podium": {
-   "title": "Podium",
-   "tag": "Speaker timer with chapters and cues",
-   "cat": "money"
-  },
-  "listo": {
-   "title": "Listo",
-   "tag": "Grocery list in colour, sorted by aisle",
-   "cat": "tools"
-  },
-  "remindersplus": {
-   "title": "Reminders+",
-   "tag": "Everything that repeats, from minutes to years",
-   "cat": "tools"
-  },
-  "convertr": {
-   "title": "Convertr",
-   "tag": "Units and live currencies in 18 categories",
-   "cat": "tools",
-   "accent": "#1E88FF",
-   "screens": [
-    [
-     "Unit converter",
-     "Type a value, read the result"
-    ],
-    [
-     "18 categories",
-     "Length, temperature, weight, currency and more"
-    ],
-    [
-     "Number keypad",
-     "Decimals and negative values"
-    ],
-    [
-     "71 currencies",
-     "Live exchange rates through your phone"
-    ],
-    [
-     "Favorites on top",
-     "Pin the conversions you use most"
-    ]
-   ]
-  },
-  "cardvault": {
-   "title": "CardVault",
-   "tag": "Loyalty cards, tickets and 2FA codes",
-   "cat": "tools",
-   "accent": "#01B0FD",
-   "screens": [
-    [
-     "Loyalty cards, barcodes and 2FA codes",
-     "All your cards in one list"
-    ],
-    [
-     "Barcodes for the checkout",
-     "EAN-13 and Code 128 on a white screen"
-    ],
-    [
-     "QR codes",
-     "Gym passes, tickets and links"
-    ],
-    [
-     "Two-factor codes",
-     "TOTP codes with a countdown ring"
-    ],
-    [
-     "Add cards from your phone",
-     "Type the pairing code in the web app, then fetch"
-    ]
-   ]
-  },
-  "morsetap": {
-   "title": "MorseTap",
-   "tag": "Learn, practise and translate Morse code",
-   "cat": "tools"
-  },
-  "wordclock": {
-   "title": "WordClock",
-   "tag": "The time in words, in ten languages",
-   "cat": "faces"
-  },
-  "redline": {
-   "title": "Redline",
-   "tag": "Racing dashboard with heart-rate zones",
-   "cat": "faces"
-  },
-  "triptych": {
-   "title": "Triptych",
-   "tag": "Cockpit HUD with everything in one glance",
-   "cat": "faces"
-  },
-  "cue": {
-   "title": "Cue",
-   "tag": "Snooker and pool scoring on your watch",
-   "cat": "sport",
-   "id": "504cf3ad-0514-466a-b3e6-2ab43af9c5ce"
-  },
-  "recover": {
-   "title": "Recover",
-   "tag": "Rest timer driven by your heart rate",
-   "cat": "health",
-   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065"
-  },
-  "adapt": {
-   "title": "Adapt",
-   "tag": "Calorie target that follows your weight",
-   "cat": "health",
-   "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8"
-  },
-  "radar": {
-   "title": "Radar",
-   "tag": "GPS treasure hunt game",
-   "cat": "sport",
-   "id": "557dcc34-ceb5-4bff-9b02-b601c5c96bf8"
-  },
-  "isobar": {
-   "title": "Isobar",
-   "tag": "Migraine risk and attack log",
-   "cat": "health",
-   "accent": "#FB504C",
-   "screens": [
-    [
-     "Migraine risk from air pressure",
-     "Score from the pressure change over 12 hours"
-    ],
-    [
-     "Barometric pressure over 48 hours",
-     "Your attacks marked on the pressure curve"
-    ],
-    [
-     "Log an attack",
-     "Set the intensity from 1 to 10, then Start"
-    ],
-    [
-     "Attack days and medication days",
-     "This month compared with last month"
-    ],
-    [
-     "When attacks start",
-     "Attacks counted by time of day"
-    ]
-   ]
-  },
-  "hounded": {
-   "title": "Hounded",
-   "tag": "A running game with a hound on your heels",
-   "cat": "sport",
-   "id": "8eb91174-006f-419b-9992-fcf86c90aaa2"
-  },
-  "sweepr": {
-   "title": "Sweepr",
-   "tag": "Minesweeper on your watch",
-   "cat": "games"
-  },
-  "pixara": {
-   "title": "Pixara",
-   "tag": "A picture cross puzzle, new every day",
-   "cat": "games"
-  },
-  "verdix": {
-   "title": "Verdix",
-   "tag": "A logic case to solve, new every day",
-   "cat": "games"
-  },
-  "coglet": {
-   "title": "Coglet",
-   "tag": "An idle factory on your wrist",
-   "cat": "games"
-  },
-  "lexil": {
-   "title": "Lexil",
-   "tag": "A word puzzle on seven letters",
-   "cat": "games"
-  },
-  "spire": {
-   "title": "Spire",
-   "tag": "A deckbuilding roguelike climb",
-   "cat": "games"
-  },
-  "kedge": {
-   "title": "Kedge",
-   "tag": "Anchor watch with a drag alarm",
-   "cat": "sport",
-   "id": "d66900af-a149-4309-a7f1-3bdb70eced57"
-  },
-  "skyfix": {
-   "title": "Skyfix",
-   "tag": "Point at the sky and read what it is",
-   "cat": "sport",
-   "id": "dfa4cd28-4856-45a2-a668-b796285fca77"
-  },
-  "barocast": {
-   "title": "Barocast",
-   "tag": "Weather forecast from your barometer",
-   "cat": "sport",
-   "id": "faae6372-9d31-43dd-bcac-969628e7dc89",
-   "accent": "#55B1FA",
-   "screens": [
-    [
-     "Weather forecast from your barometer",
-     "Pressure, 3-hour trend and the weather it points to"
-    ],
-    [
-     "Forecast for the next 12 hours",
-     "Zambretti method with a confidence score"
-    ],
-    [
-     "Pressure over the last 24 hours",
-     "Daily tide removed, so only real changes show"
-    ],
-    [
-     "Trend over 1, 3, 6 and 12 hours",
-     "See at a glance how fast the pressure moves"
-    ],
-    [
-     "hPa, inHg or mmHg",
-     "Storm warning by vibration when pressure drops fast"
-    ]
-   ]
-  },
-  "cadenzo": {
-   "title": "Cadenzo",
-   "tag": "Metronome and practice planner for musicians",
-   "cat": "tools",
-   "id": "ef6a726e-860f-453d-aa52-0fc1fa4fc9b1"
-  },
-  "flexa": {
-   "title": "Flexa",
-   "tag": "Range-of-motion tests and a stretch timer",
-   "cat": "health",
-   "id": "c970f138-0014-4ef2-b479-8a1bfcb9bfbf"
-  },
-  "halflight": {
-   "title": "Halflight",
-   "tag": "Turnaround time for a hike before dark",
-   "cat": "sport",
-   "id": "09bde219-f38e-412f-aefc-4e2741fd08d0"
-  },
-  "pawcast": {
-   "title": "Pawcast",
-   "tag": "When it is safe to walk the dog",
-   "cat": "tools",
-   "id": "8fafb594-95ab-4bbd-ad61-2a4f35d14600"
-  },
-  "platewise": {
-   "title": "Platewise",
-   "tag": "Cooking timeline for a whole meal",
-   "cat": "tools",
-   "id": "6afee8c0-a56b-43e2-9cbf-9737fc1cb166"
-  },
-  "cutwise": {
-   "title": "Cutwise",
-   "tag": "Cut plan and sheet count for sawing",
-   "cat": "tools",
-   "id": "987e9b3a-8f50-4020-9ec0-2d9c086cbed5"
-  },
-  "circada": {
-   "title": "Circada",
-   "tag": "Sleep, light and caffeine planner for shift work",
-   "cat": "health",
-   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69"
-  },
-  "studo": {
-   "title": "Studo",
-   "tag": "Study blocks planned around your exams",
-   "cat": "tools",
-   "id": "7d7974bd-7735-4268-9440-7c7b6433aad7"
-  },
-  "cyra": {
-   "title": "Cyra",
-   "tag": "Menstrual cycle and period tracker with training suggestions",
-   "cat": "health",
-   "id": "bb58d388-2f00-4ad2-a768-f665f372e436",
-   "accent": "#9C8CEC",
-   "screens": [
-    [
-     "Cycle day and phase",
-     "Period forecast from your own history"
-    ],
-    [
-     "Last night against your usual",
-     "Heart rate, stress and Body Battery per phase"
-    ],
-    [
-     "Next period as a window",
-     "From the lengths of your own cycles"
-    ],
-    [
-     "Log flow and symptoms",
-     "Correct any day on the watch"
-    ],
-    [
-     "Your cycle lengths",
-     "Median, spread and days of bleeding"
-    ]
-   ]
-  },
-  "hydrosmart": {
-   "title": "HydroSmart",
-   "tag": "Water tracker with a daily goal worked out from weight, activity and heat",
-   "cat": "health",
-   "id": "d25b4bc0-bba5-4e74-964b-27aff0feb119",
-   "accent": "#3DA9FF",
-   "screens": [
-    [
-     "Water tracker with a daily goal",
-     "The ring is your goal, the mark is your pace"
-    ],
-    [
-     "A goal worked out for today",
-     "Body weight, activity and heat"
-    ],
-    [
-     "Log a drink in two taps",
-     "Three glass sizes of your own"
-    ],
-    [
-     "Your day, hour by hour",
-     "Each drink against an even pace"
-    ],
-    [
-     "Seven days, each against its own goal",
-     "Your average and your streak"
-    ]
-   ]
-  },
-  "domora": {
-   "title": "Domora",
-   "tag": "Remote for Home Assistant, set up on the watch",
-   "cat": "tools",
-   "id": "cbe853f7-e460-4480-bc96-fa18a695acc3",
-   "accent": "#FFC23A",
-   "screens": [
-    [
-     "Remote for Home Assistant",
-     "Your favorite devices in one list"
-    ],
-    [
-     "Dim a light",
-     "Brightness with - and +"
-    ],
-    [
-     "Set the thermostat",
-     "Target and measured temperature"
-    ],
-    [
-     "Automatic favorites",
-     "Give a device the label garmin in Home Assistant"
-    ],
-    [
-     "Connect with a QR code",
-     "Scan it with your phone and log in"
-    ]
-   ]
-  },
-  "splitr": {
-   "title": "Rowcast",
-   "tag": "Rowing with PM5 and FTMS rowing machines",
-   "cat": "sport",
-   "accent": "#22D3EE",
-   "screens": [
-    [
-     "Your split, live from the rower",
-     "Metres to go and how far ahead or behind"
-    ],
-    [
-     "Interval workouts",
-     "Work and rest switch by themselves"
-    ],
-    [
-     "Every 500 m as a bar",
-     "Faster or slower than the split before"
-    ],
-    [
-     "Saved, with your records",
-     "Time, split and stroke rate after every row"
-    ],
-    [
-     "Your rows, kept on the watch",
-     "The last 30 with date, time and split"
-    ]
-   ]
-  },
-  "habitless": {
-   "title": "Habitless",
-   "tag": "Bad habit tracker with urge statistics",
-   "cat": "health",
-   "id": "9b1574d2-b81e-49e1-ac91-42d8aa3321ab",
-   "accent": "#BEF264",
-   "screens": [
-    [
-     "Every habit has its own streak",
-     "Days, hours and the next milestone"
-    ],
-    [
-     "Up to four habits at once",
-     "Pick from the list or type your own"
-    ],
-    [
-     "See when urges come",
-     "Hours and weekdays from your own log"
-    ],
-    [
-     "Urges per day, with the trend",
-     "Resisted, slips and success rate"
-    ],
-    [
-     "Help when an urge hits",
-     "Breathe, or ride it out for 10 minutes"
-    ]
-   ]
-  },
-  "vagal": {
-   "title": "Vagal",
-   "tag": "HRV breathing coach with resonance rate test",
-   "cat": "health",
-   "accent": "#2CE66A",
-   "screens": [
-    [
-     "HRV breathing coach",
-     "Your breathing rate, day streak and weekly minutes"
-    ],
-    [
-     "Breathe with the circle",
-     "Live coherence from every heartbeat"
-    ],
-    [
-     "Session summary",
-     "Coherence, RMSSD before and after, heart rate"
-    ],
-    [
-     "Find your resonance rate",
-     "Five breathing rates tested, from 6.5 to 4.5 per minute"
-    ],
-    [
-     "Coherence trend",
-     "Average of your last seven sessions"
-    ]
-   ]
-  }
- },
- "wearos": [
-  "Caffi",
-  "Sobr",
-  "BreathGym",
-  "Convertr"
- ],
- "show": [
-  "caffi",
-  "sobr",
-  "fasted",
-  "cyra",
-  "smokeless",
-  "breathgym",
-  "convertr",
-  "splitr",
-  "hydrosmart",
-  "domora",
-  "habitless",
-  "vagal",
-  "isobar",
-  "cardvault",
-  "racecast",
-  "barocast"
- ]
 }
