@@ -231,7 +231,26 @@
     "spotsave": {
       "title": "SpotSave",
       "tag": "Save a spot and find your way back",
-      "cat": "sport"
+      "cat": "sport",
+      "accent": "#48DC7C",
+      "screens": [
+        [
+          "Find your way back",
+          "Distance and direction to your saved spot"
+        ],
+        [
+          "Follow the arrow",
+          "It points to your spot as you walk"
+        ],
+        [
+          "Saved on a sharp fix",
+          "It waits for good GPS before saving"
+        ],
+        [
+          "You've arrived",
+          "A buzz when you reach your spot"
+        ]
+      ]
     },
     "reactr": {
       "title": "Reactr",
@@ -787,6 +806,7 @@
     "barocast",
     "jetshift",
     "shiftpay",
-    "remindersplus"
+    "remindersplus",
+    "spotsave"
   ]
 }
