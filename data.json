@@ -8,7 +8,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.1",
   "category": "219",
   "icon": "assets/icons/habitless.png",
@@ -3123,7 +3123,7 @@
    "assets/shots/splitr-3.jpg"
   ],
   "changed": 1794844744000,
-  "whatsnew": "Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
+  "whatsnew": "Distance, split, power and stroke rate now show up in Garmin Connect after you save a row.",
   "devices": 178,
   "updates": 18
  },
