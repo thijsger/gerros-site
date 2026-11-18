@@ -45,7 +45,7 @@
    "assets/shots/domora-5.jpg"
   ],
   "changed": 1794647872000,
-  "whatsnew": "Lists now use your watch's native scrolling. Switches and scenes toggle right from the list; lights and fans open their ring screen. Devices, entities or areas with the label \"garmin\" in Home Assistant appear in Favorites automatically.",
+  "whatsnew": "Now also on the Approach S62.",
   "devices": 164,
   "updates": 2
  },
@@ -3114,7 +3114,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.0.3",
+  "version": "2.0.4",
   "category": "219",
   "icon": "assets/icons/splitr.png",
   "shots": [
@@ -3122,10 +3122,10 @@
    "assets/shots/splitr-2.jpg",
    "assets/shots/splitr-3.jpg"
   ],
-  "changed": 1794844744000,
+  "changed": 1794977760000,
   "whatsnew": "Distance, split, power and stroke rate now show up in Garmin Connect after you save a row.",
   "devices": 178,
-  "updates": 18
+  "updates": 19
  },
  {
   "id": "d5b404a4-cf14-40f6-a12f-e672e607f36c",
