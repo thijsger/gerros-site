@@ -4420,7 +4420,7 @@
    "assets/shots/altizone-5.jpg"
   ],
   "changed": 1793947137000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New look: a colour zone ring with your altitude, a big climb rate view, a cleaner calibrate keypad, simpler menus and a new glance.",
   "devices": 180,
   "updates": 15
  },
@@ -4481,7 +4481,7 @@
   "rating": 3.3,
   "reviews": 7,
   "downloads": 100,
-  "version": "1.9.5",
+  "version": "2.0.0",
   "category": "210",
   "icon": "assets/icons/spotsave.png",
   "shots": [
@@ -4490,10 +4490,10 @@
    "assets/shots/spotsave-3.jpg",
    "assets/shots/spotsave-4.jpg"
   ],
-  "changed": 1794837722000,
+  "changed": 1795005828000,
   "whatsnew": "New look: a distance ring on the start screen, a clearer arrow that also works while walking slowly, a list of all your spots and an arrival screen.",
   "devices": 178,
-  "updates": 18
+  "updates": 19
  },
  {
   "id": "f37b763c-584b-4b1e-b3d7-dfae12d1fae9",

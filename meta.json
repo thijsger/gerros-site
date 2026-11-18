@@ -225,8 +225,27 @@
     },
     "altizone": {
       "title": "AltiZone",
-      "tag": "Barometric altimeter with colour zones and alarms",
-      "cat": "sport"
+      "tag": "Barometric altimeter with colour zones and alerts",
+      "cat": "sport",
+      "accent": "#FF9500",
+      "screens": [
+        [
+          "Altitude in colour zones",
+          "See your height against zones you set"
+        ],
+        [
+          "Climb and descent rate",
+          "Record your route with live vertical speed"
+        ],
+        [
+          "Metres or feet",
+          "Total ascent and your highest point"
+        ],
+        [
+          "Calibrate to a known height",
+          "Type the altitude from a map or a sign"
+        ]
+      ]
     },
     "spotsave": {
       "title": "SpotSave",
@@ -807,6 +826,7 @@
     "jetshift",
     "shiftpay",
     "remindersplus",
-    "spotsave"
+    "spotsave",
+    "altizone"
   ]
 }
