@@ -552,6 +552,43 @@
   "main": "1",
   "screens": 5
  },
+ "remindersplus": {
+  "circles": {
+   "1": [
+    353.9,
+    491.9,
+    240.9,
+    "GESCHAT"
+   ],
+   "2": [
+    1141.8,
+    499.5,
+    250.4,
+    "GESCHAT"
+   ],
+   "3": [
+    366.5,
+    503.8,
+    238.5,
+    "GESCHAT"
+   ],
+   "4": [
+    1165.6,
+    501.5,
+    247.7,
+    "GESCHAT"
+   ],
+   "cover": [
+    248.3,
+    237.7,
+    116.0,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 4
+ },
  "shiftpay": {
   "circles": {
    "1": [

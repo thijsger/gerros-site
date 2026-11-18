@@ -4139,7 +4139,7 @@
   "rating": 4.0,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.7.0",
+  "version": "2.0.0",
   "category": "204",
   "icon": "assets/icons/shiftpay.png",
   "shots": [
@@ -4148,10 +4148,10 @@
    "assets/shots/shiftpay-3.jpg",
    "assets/shots/shiftpay-4.jpg"
   ],
-  "changed": 1794634578000,
+  "changed": 1794998311000,
   "whatsnew": "New look: a live pay ring with your shift, plus pages for the last 7 days, a work calendar and the last 30 days.",
   "devices": 205,
-  "updates": 15
+  "updates": 16
  },
  {
   "id": "a1845d8e-d596-4d4a-9549-9ffa109926a2",
@@ -4222,7 +4222,7 @@
    "assets/shots/remindersplus-4.jpg"
   ],
   "changed": 1794175975000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New look: what's due first in a ring, a coming-up list and an overview, custom intervals, and cleaner alerts.",
   "devices": 63,
   "updates": 13
  },

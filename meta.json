@@ -314,8 +314,27 @@
     },
     "remindersplus": {
       "title": "Reminders+",
-      "tag": "Everything that repeats, from minutes to years",
-      "cat": "tools"
+      "tag": "Reminders from minutes to years",
+      "cat": "tools",
+      "accent": "#9B7CF7",
+      "screens": [
+        [
+          "See what's due",
+          "Reminders from minutes to years"
+        ],
+        [
+          "Coming up",
+          "Everything in the order it is due"
+        ],
+        [
+          "All reminders at a glance",
+          "Due, soon and on track"
+        ],
+        [
+          "Any interval you need",
+          "Minutes, hours, days, weeks or years"
+        ]
+      ]
     },
     "convertr": {
       "title": "Convertr",
@@ -767,6 +786,7 @@
     "racecast",
     "barocast",
     "jetshift",
-    "shiftpay"
+    "shiftpay",
+    "remindersplus"
   ]
 }
