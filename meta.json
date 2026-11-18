@@ -269,8 +269,27 @@
     },
     "shiftpay": {
       "title": "ShiftPay",
-      "tag": "Live earnings counter for your shift",
-      "cat": "money"
+      "tag": "Live earnings for your shift",
+      "cat": "money",
+      "accent": "#2EE07A",
+      "screens": [
+        [
+          "Earnings as you work",
+          "Live pay for your shift, with breaks and overtime"
+        ],
+        [
+          "Your last 7 days",
+          "Hours and pay per day at a glance"
+        ],
+        [
+          "Every day you worked",
+          "A calendar of your shifts"
+        ],
+        [
+          "Last 30 days",
+          "Earned, hours worked and your best day"
+        ]
+      ]
     },
     "spent": {
       "title": "Spent",
@@ -747,6 +766,7 @@
     "cardvault",
     "racecast",
     "barocast",
-    "jetshift"
+    "jetshift",
+    "shiftpay"
   ]
 }
