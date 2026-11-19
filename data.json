@@ -4075,7 +4075,7 @@
    "assets/shots/spent-5.jpg"
   ],
   "changed": 1794723368000,
-  "whatsnew": "Added 14 currencies including IDR, VND, COP and CLP. Larger budgets for currencies without cents, thousands separators, and correct totals and projections for big amounts.",
+  "whatsnew": "A completely new look: a cleaner today screen with a ring and big amount, a new keypad, rounded charts and smoother scrolling lists, with all your expenses and budgets kept.",
   "devices": 59,
   "updates": 12
  },
@@ -4553,7 +4553,7 @@
   "rating": 5.0,
   "reviews": 6,
   "downloads": 100,
-  "version": "3.0.3",
+  "version": "3.1.0",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -4563,10 +4563,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1794844831000,
+  "changed": 1795065813000,
   "whatsnew": "Edit your own shortcuts in the phone app settings (Garmin Connect) and choose the drink order: most picked or your own order, with Move up/down on the watch.",
   "devices": 178,
-  "updates": 24
+  "updates": 25
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
