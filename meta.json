@@ -817,6 +817,58 @@
           "Average of your last seven sessions"
         ]
       ]
+    },
+    "stepwise": {
+      "title": "Stepwise",
+      "tag": "Everyday steps without the workouts",
+      "cat": "health",
+      "accent": "#33EB8F",
+      "screens": [
+        [
+          "Steps without the workout",
+          "Your everyday steps, with workouts counted apart"
+        ],
+        [
+          "Steps by the hour",
+          "Everyday walking and workouts side by side"
+        ],
+        [
+          "Your week",
+          "Every day against your step goal"
+        ],
+        [
+          "A goal that adapts",
+          "Set from your own last 14 days"
+        ]
+      ]
+    },
+    "anvil": {
+      "title": "Anvil",
+      "tag": "Gym tracker with muscle recovery",
+      "cat": "sport",
+      "accent": "#D0F541",
+      "screens": [
+        [
+          "Your training week",
+          "Workouts this week and what comes next"
+        ],
+        [
+          "Muscle recovery",
+          "See which muscles are ready to train"
+        ],
+        [
+          "Today's workout",
+          "Exercises, sets and weights planned for you"
+        ],
+        [
+          "Log every set",
+          "Weight, reps and how hard it felt"
+        ],
+        [
+          "Your strength level",
+          "Each lift compared to your body weight"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -847,6 +899,8 @@
     "remindersplus",
     "spotsave",
     "altizone",
-    "spent"
+    "spent",
+    "stepwise",
+    "anvil"
   ]
 }

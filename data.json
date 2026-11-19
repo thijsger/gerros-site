@@ -544,7 +544,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "2.0.0",
   "category": "222",
   "icon": "assets/icons/stepwise.png",
   "shots": [
@@ -552,10 +552,10 @@
    "assets/shots/stepwise-2.jpg",
    "assets/shots/stepwise-3.jpg"
   ],
-  "changed": 1794174470000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1795097814000,
+  "whatsnew": "New look: a ring for today's life steps, cleaner forecast, hour, week, month and goal pages, and easier settings with a confirmation before erasing data.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "229de2c4-c1d4-406d-8689-3e605a9e298c",
@@ -714,7 +714,7 @@
    "assets/shots/anvil-3.jpg"
   ],
   "changed": 1791736617000,
-  "whatsnew": "Silent by default: no more lap beep after every set (turn \"Lap per set\" on in the settings if you want laps in Garmin Connect).",
+  "whatsnew": "New look: a redesigned home screen with a weekly ring, new fonts, and clearer lists, number pages and confirmations; your workouts, records and recovery data stay exactly as they were.",
   "devices": 153,
   "updates": 2
  },
@@ -4064,7 +4064,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.0",
+  "version": "2.0.0",
   "category": "204",
   "icon": "assets/icons/spent.png",
   "shots": [
@@ -4074,10 +4074,10 @@
    "assets/shots/spent-4.jpg",
    "assets/shots/spent-5.jpg"
   ],
-  "changed": 1794723368000,
+  "changed": 1795093991000,
   "whatsnew": "A completely new look: a cleaner today screen with a ring and big amount, a new keypad, rounded charts and smoother scrolling lists, with all your expenses and budgets kept.",
   "devices": 59,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "acf0e837-8f06-42c0-a1b7-62275ac792fc",
