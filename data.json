@@ -104,8 +104,8 @@
   "desc": "Graded is a coach for incline walking on the treadmill. Pick 12-3-30, your own grade and speed, a grade pyramid, hill intervals or the build-up program, and set the grade and speed on the watch with the buttons as you change them on the treadmill. Calories come from the ACSM walking equation, which counts the incline, using the weight from your Garmin profile.\n\nDuring the session you see the grade large, the speed below it, the time left in the block and your heart rate against your zone. When your heart rate stays above the zone, Graded suggests one percent less grade; when it stays below, one percent more. The build-up program looks at last week's sessions and suggests the next step: half a percent or a full percent more grade, or two extra minutes, as long as your heart rate stayed steady in the zone.\n\nWHAT IT DOES\n- Programs: 12-3-30, steady (own grade, speed and time), grade pyramid, hill intervals and a weekly build-up\n- Grade and speed set with the buttons or by tapping during the session\n- Calories, MET and MET-minutes from the ACSM walking or running equation, with incline\n- Metres climbed (distance × grade) and flat-equivalent distance\n- Heart-rate steering: suggests a higher or lower grade to stay in your zone\n- Build-up program with a weekly suggestion based on time in zone\n- Summary with calories, climb, flat-equivalent, average grade, average heart rate and time in zone\n- Saved as an indoor walk in Garmin Connect with grade, set speed, MET, climb and calories as extra fields\n- Week page with MET-minutes against your goal, eight-week trend, goal streak and history\n- Glance with this week's MET-minutes and climb, five languages\n\nWHAT IT NEEDS\n- A treadmill with a grade display; the watch cannot measure the incline itself\n- Wrist heart rate for the zone and the steering\n- Weight and heart-rate zones from your Garmin profile, or set them in the app",
   "nl": "Graded is een coach voor hellingwandelen op de loopband. Kies 12-3-30, je eigen helling en snelheid, een hellingpiramide, hellingintervallen of het opbouwprogramma, en zet helling en snelheid met de knoppen op het horloge zodra je ze op de loopband verandert. De calorieën komen uit de ACSM-loopvergelijking, die de helling meetelt, met het gewicht uit je Garmin-profiel.\n\nTijdens de sessie zie je de helling groot, de snelheid eronder, de resttijd van het blok en je hartslag tegen je zone. Blijft je hartslag boven de zone, dan stelt Graded een procent minder helling voor; blijft hij eronder, een procent meer. Het opbouwprogramma kijkt naar de sessies van vorige week en stelt de volgende stap voor: een halve of hele procent meer helling, of twee minuten langer, zolang je hartslag stabiel in de zone bleef.\n\nWHAT IT DOES\n- Programma's: 12-3-30, vast tempo (eigen helling, snelheid en duur), hellingpiramide, hellingintervallen en een wekelijkse opbouw\n- Helling en snelheid instellen met de knoppen of door te tikken tijdens de sessie\n- Calorieën, MET en MET-minuten uit de ACSM-loop- of hardloopvergelijking, met helling\n- Geklommen meters (afstand × helling) en vlak-equivalente afstand\n- Hartslagsturing: stelt een hogere of lagere helling voor om in je zone te blijven\n- Opbouwprogramma met een wekelijks voorstel op basis van tijd in de zone\n- Samenvatting met calorieën, klim, vlak-equivalent, gemiddelde helling, gemiddelde hartslag en tijd in de zone\n- Opgeslagen als indoor wandeling in Garmin Connect met helling, ingestelde snelheid, MET, klim en calorieën als extra velden\n- Weekpagina met MET-minuten tegen je doel, trend over acht weken, doelreeks en geschiedenis\n- Glance met de MET-minuten en klim van deze week, vijf talen\n\nWHAT IT NEEDS\n- Een loopband met hellingweergave; het horloge kan de helling zelf niet meten\n- Polshartslag voor de zone en de sturing\n- Gewicht en hartslagzones uit je Garmin-profiel, of zelf in te stellen in de app",
   "type": "2",
-  "rating": 1.0,
-  "reviews": 1,
+  "rating": 3.0,
+  "reviews": 2,
   "downloads": 100,
   "version": "1.0.2",
   "category": "222",
@@ -2939,7 +2939,7 @@
    "assets/shots/flume-3.jpg"
   ],
   "changed": 1794832836000,
-  "whatsnew": "Distance is now recorded from a single source, so every distance figure for a swim shows the same value.",
+  "whatsnew": "Yards now apply everywhere: swim screens, summary, lap alerts and the data in Garmin Connect, and the main swim numbers are bigger.",
   "devices": 185,
   "updates": 15
  },
@@ -3762,7 +3762,7 @@
   "nl": "De meeste Japanse puzzels worden gegenereerd en niet geschreven, en in een gegenereerde zit meestal een gat: een plek waar twee indelingen allebei bij de getallen passen en je er een moet kiezen. Een half uur zorgvuldig tellen, en dan alsnog een munt opgooien.\n\nPixara laat pas een plaat zien als een lijnsolver hem vanaf een leeg raster heeft uitgerekend. Die solver doet alleen wat een mens doet met een rij vakjes en een lijst bloklengtes: elke indeling uitrekenen die de getallen nog toelaten, de vakjes bewaren die in allemaal gevuld zijn, de vakjes doorstrepen die in allemaal leeg zijn, en zo langs rijen en kolommen tot er niets meer verandert. Loopt hij vast, dan gaat die plaat weg en komt er een andere. Een solver die klaarkomt bewijst tegelijk dat het antwoord het enige is dat bij de getallen past.\n\nWAT HET DOET\n- Van elke plaat is vooraf bewezen dat pure logica genoeg is\n- Drie maten: vijf bij vijf, acht bij acht, en een tien bij tien die echt tijd kost\n- De aanwijzing van de gerichte rij en die van de gerichte kolom staan altijd voluit en vergroot in beeld, want een papieren cijferstrook past niet op een rond scherm\n- Richten, dan tikken: de eerste tik zet een kader om een vakje, breder dan het vakje, zodat je het naast je vingertop nog ziet; de tweede vult het, vasthouden streept door\n- Werkt precies zo met knoppen op horloges zonder touchscreen\n- Een vakje vullen dat niet in de plaat zit kost dertig seconden op de klok\n- Een hint die de rij of de kolom noemt die het volgende vakje bewijst, en het invult\n- Een dagplaat uit de kalenderdatum, op elk horloge dezelfde, die langs de drie maten rouleert\n- Het raster wordt na elke zet opgeschreven, dus de app verlaten kost je niets\n- Beste tijd per maat, platen af tegen platen begonnen, en een reeks dagplaten\n- Vijf talen, instellingen op het horloge, er gaat niets naar buiten\n\nWAT HET NODIG HEEFT\nAlleen het horloge. Geen telefoon, geen bereik, geen account.",
   "type": "2",
   "rating": 5.0,
-  "reviews": 1,
+  "reviews": 2,
   "downloads": 10,
   "version": "1.0.8",
   "category": "206",
@@ -4409,7 +4409,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.7.4",
+  "version": "2.0.0",
   "category": "210",
   "icon": "assets/icons/altizone.png",
   "shots": [
@@ -4419,10 +4419,10 @@
    "assets/shots/altizone-4.jpg",
    "assets/shots/altizone-5.jpg"
   ],
-  "changed": 1793947137000,
+  "changed": 1795009539000,
   "whatsnew": "New look: a colour zone ring with your altitude, a big climb rate view, a cleaner calibrate keypad, simpler menus and a new glance.",
   "devices": 180,
-  "updates": 15
+  "updates": 16
  },
  {
   "id": "63ee0ca3-120e-4399-8a4d-310d8a00a418",
@@ -4551,7 +4551,7 @@
   "nl": "Sobr is een promillage-tracker voor je Garmin-horloge. Log een drankje met één tik en Sobr toont realtime je geschatte promillage, wanneer het weer onder je eigen persoonlijke drempel zakt en wanneer je volledig nuchter bent — berekend met een echt farmacokinetisch model, geen simpele drankjesteller.\n\nZO WERKT HET\nSobr modelleert hoe alcohol echt door je lichaam beweegt: opname na elk drankje en een constante afbraaksnelheid, gepersonaliseerd met je gewicht, lengte en geslacht (Widmark-methode). Het resultaat is een live curve die stijgt terwijl je drinkt en daalt terwijl je lichaam de alcohol afbreekt — inclusief drankjes die nog niet volledig zijn aangekomen.\n\nLOGGEN MET ÉÉN TIK\n• Kant-en-klare presets: bier, wijn, sterke drank, cocktails, champagne en meer\n• Herhaal je laatste drankje met één tik, en je meest gekozen drankjes staan bovenaan\n• Vergeten te loggen? Stel in hoeveel minuten geleden je het dronk\n• Maak je eigen shortcuts op het horloge zelf (naam, inhoud, percentage)\n• Alles kan: stel gewoon ml en % in\n\nKEN JE AVOND\n• Statusring met je live promillage in ‰ en groene, oranje en rode zones\n• Het tijdstip waarop je weer onder je drempel zakt, direct op het hoofdscherm, met daaronder wanneer je nuchter bent\n• Volledige grafiek: je avond tot nu toe plus de uren vooruit, met je persoonlijke drempel en het exacte moment dat je er weer onder zakt\n• Glance: check je niveau zonder de app te openen\n\nHIJ KOMT NAAR JOU\n• Automatische melding: je horloge trilt zodra je geschatte promillage onder je eigen drempel zakt — ook met de app dicht\n• Ochtend-recap: open Sobr de dag erna en zie het hele verhaal — aantal drankjes, je piek en wanneer je weer nuchter was\n\nJOUW DREMPEL, JOUW REGELS\nDe drempel is volledig instelbaar en helemaal persoonlijk. Zet hem op wat voor jou belangrijk is — een grens voor nog een rondje, een niveau waaronder je morgen weer wilt sporten, of gewoon nul. Sobr zegt nooit wat een niveau betekent; hij zegt alleen wanneer je eronder zit.\n\nVOLG JE GEWOONTES\n• Daglog: tik op een drankje om de tijd of inhoud aan te passen, of om het te verwijderen\n• Stel je eigen daglimiet in en zie hem op elk scherm\n• Grafieken van 14 en 30 dagen tegen je daglimiet, en je hele jaar maand voor maand\n\nVAN JOU, PRIVÉ\n• Werkt volledig offline — geen account, geen telefoon-app, geen data van je horloge af\n• Beschikbaar in 16 talen\n\nOp oudere horloges met weinig geheugen (fenix 5 en 6, Forerunner 245, 645 en 935, vívoactive 3, Venu Sq, Enduro) houdt Sobr zijn vorige uiterlijk.\n\nBELANGRIJK\nSobr geeft alleen schattingen. Het werkelijke promillage verschilt per persoon en per drankje. Geen enkele hoeveelheid alcohol is veilig om mee te rijden. Gebruik deze app nooit om te beslissen of je kunt rijden of machines kunt bedienen — heb je gedronken, rijd dan niet. Geen medisch hulpmiddel.",
   "type": "2",
   "rating": 5.0,
-  "reviews": 5,
+  "reviews": 6,
   "downloads": 100,
   "version": "3.0.3",
   "category": "205",
