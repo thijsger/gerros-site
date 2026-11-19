@@ -1585,7 +1585,7 @@
    "assets/shots/nappr-3.jpg"
   ],
   "changed": 1793964691000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "The alarm is now stronger and more reliable: tone on by default, vibration and tone no longer cancel each other, it keeps going until you stop it, and the app warns you when Do Not Disturb or the watch's vibration or tone settings could silence it.",
   "devices": 189,
   "updates": 7
  },
@@ -4556,7 +4556,7 @@
   "rating": 5.0,
   "reviews": 6,
   "downloads": 100,
-  "version": "3.1.0",
+  "version": "3.2.0",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -4566,10 +4566,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1795065813000,
+  "changed": 1795105631000,
   "whatsnew": "Edit your shortcuts on the phone with separate fields for name, ml and %, show or hide standard drinks, set their order, and reach Shortcuts directly from Today and the add list.",
   "devices": 178,
-  "updates": 25
+  "updates": 26
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
