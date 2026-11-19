@@ -47,7 +47,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Spent](https://gerros.app/apps/spent.html): Daily budget and spending tracker. Money & work, version 2.0.0, store: https://apps.garmin.com/apps/7b530ce0-2510-4669-b06e-abc0b2448567. Rating 5.0/5 from 1 reviews.
 - [Stepwise](https://gerros.app/apps/stepwise.html): Everyday steps without the workouts. Health & habits, version 2.0.0, store: https://apps.garmin.com/apps/951a6602-dd32-4744-b968-e9b2ef092678. Rating in the Connect IQ Store.
 - [Anvil](https://gerros.app/apps/anvil.html): Gym tracker with muscle recovery. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/cbda12de-19df-467c-9e95-4a4aedf471b1. Rating in the Connect IQ Store.
-- [Coolhour](https://gerros.app/apps/coolhour.html): The best hour to run in the heat. Sport & outdoors, version 1.0.1, store: https://apps.garmin.com/apps/7b9987dd-9357-44b0-b4f8-aea6be0c2439. Rating in the Connect IQ Store.
+- [Coolhour](https://gerros.app/apps/coolhour.html): The best hour to run in the heat. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/7b9987dd-9357-44b0-b4f8-aea6be0c2439. Rating in the Connect IQ Store.
 
 ## Pages
 

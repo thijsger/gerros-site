@@ -84,18 +84,20 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "2.0.0",
   "category": "220",
   "icon": "assets/icons/coolhour.png",
   "shots": [
    "assets/shots/coolhour-1.jpg",
    "assets/shots/coolhour-2.jpg",
-   "assets/shots/coolhour-3.jpg"
+   "assets/shots/coolhour-3.jpg",
+   "assets/shots/coolhour-4.jpg",
+   "assets/shots/coolhour-5.jpg"
   ],
-  "changed": 1793949795000,
+  "changed": 1795104526000,
   "whatsnew": "New look: a ring with every start time in its heat colour, rounded hourly bars, clearer paces and rankings, and settings in easy lists with large buttons.",
   "devices": 144,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "d5c08143-9a4f-4f72-a678-0adc2d603ed1",
@@ -4565,7 +4567,7 @@
    "assets/shots/sobr-5.jpg"
   ],
   "changed": 1795065813000,
-  "whatsnew": "Edit your own shortcuts in the phone app settings (Garmin Connect) and choose the drink order: most picked or your own order, with Move up/down on the watch.",
+  "whatsnew": "Edit your shortcuts on the phone with separate fields for name, ml and %, show or hide standard drinks, set their order, and reach Shortcuts directly from Today and the add list.",
   "devices": 178,
   "updates": 25
  },
