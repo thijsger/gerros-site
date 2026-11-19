@@ -2930,7 +2930,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.2.1",
+  "version": "1.3.0",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -2938,10 +2938,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1794832836000,
+  "changed": 1795053563000,
   "whatsnew": "Yards now apply everywhere: swim screens, summary, lap alerts and the data in Garmin Connect, and the main swim numbers are bigger.",
   "devices": 185,
-  "updates": 15
+  "updates": 16
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
@@ -4382,8 +4382,8 @@
   "desc": "MorseTap — learn, practice & translate Morse code, right on your wrist.\n\nMorse code is over 180 years old and still going strong — in ham radio, aviation, the military, accessibility tools, and as a fun mental workout. MorseTap makes learning it genuinely easy, turning spare moments on your watch into real practice. No phone, no account, no internet connection — everything runs on your Garmin.\n\nWhether you're starting from zero or brushing up for your amateur-radio licence, MorseTap grows with you: from your very first dot and dash to sending and reading whole words at speed.\n\nWhat you can do\n\n· Learn — Structured, bite-size lessons take you from your first letter all the way through the full alphabet, numbers and symbols. Each new character is introduced clearly with its sound, its rhythm and its dot-and-dash pattern, so it sticks.\n\n· Koch method — Train the way the pros do. You hear a character and name it, building instant recognition at real speed. MorseTap's adaptive engine keeps track of how you do and automatically serves up the characters you struggle with most, so you spend your time where it counts.\n\n· Listen — Feel Morse through your watch. Each character plays back as vibration (and tone), and you tap it right back. Perfect for silent practice on the train, in a meeting, or in bed — no sound required.\n\n· Blitz — A fast, addictive 60-second challenge. Answer as many characters as you can before the clock runs out and chase a new personal best every round.\n\n· Spell — Move from single letters to real words. Tap out whole words in Morse, letter by letter, at your own pace, and build the muscle memory for actual sending.\n\n· Keyboard — Free-form Morse input: short tap for a dot, hold for a dash. Compose any message you like and watch it decode in real time.\n\n· Translate — Type any text on the built-in keypad and instantly see it converted to Morse code, ready to read or study.\n\n· Chart — A complete, always-available reference of every letter, number and punctuation mark with its Morse pattern — handy the moment you get stuck.\n\n· Progress — See how far you've come. A colour-coded mastery grid shows your accuracy for every character at a glance, a weekly activity chart tracks how often you practise, and you can watch your day-streak and best scores climb.\n\nMade to fit your training\n\n· Adjustable sending speed, so you can start slow and ramp up to real WPM\n· Sound and vibration toggles — practise out loud or completely silently\n· Adaptive difficulty that follows your strengths and weaknesses automatically\n· Clean, high-contrast design built for round AMOLED Garmin watches\n\nWho it's for\n\n· Complete beginners who want a friendly, structured way in\n· Ham-radio and CW operators keeping their recognition sharp\n· Preppers, scouts, sailors and aviators learning a timeless skill\n· Anyone who wants a genuinely useful brain-training habit on their wrist\n\nLearn it in minutes a day, keep it for life.\n\nTap · learn · master Morse.",
   "nl": "Morsecode is meer dan 180 jaar oud en nog altijd springlevend — in de zendamateurwereld, luchtvaart, bij het leger, in toegankelijkheidshulpmiddelen én als leuke hersentraining. MorseTap maakt het écht makkelijk om het te leren en verandert losse momentjes op je horloge in echte oefening. Geen telefoon, geen account, geen internet — alles draait op je Garmin.\n\nOf je nu vanaf nul begint of opfrist voor je zendamateurexamen: MorseTap groeit met je mee, van je allereerste punt en streep tot hele woorden lezen en seinen op snelheid.\n\nWat je kunt doen\n\n· Leren — Gestructureerde, hapklare lessen nemen je mee van je eerste letter tot het volledige alfabet, cijfers en symbolen. Elk nieuw teken komt duidelijk langs met klank, ritme en het punt-streeppatroon.\n· Koch-methode — Train zoals de profs: je hoort een teken en benoemt het, voor directe herkenning op snelheid. De adaptieve engine richt zich automatisch op de tekens waar jij moeite mee hebt.\n· Luisteren — Voel morse via je horloge. Elk teken speelt als trilling (en toon) en jij tikt het terug. Ideaal om stil te oefenen.\n· Blitz — Een snelle, verslavende uitdaging van 60 seconden. Hoeveel tekens haal je vóór de tijd om is?\n· Spellen — Tik hele woorden in morse, letter voor letter, op je eigen tempo.\n· Toetsenbord — Vrije morse-invoer: korte tik = punt, vasthouden = streep. Stel elk bericht samen.\n· Vertalen — Typ tekst op het toetsenbord en zie het meteen omgezet naar morsecode.\n· Overzicht — Een complete referentie van elke letter, elk cijfer en leesteken met bijbehorend patroon.\n· Voortgang — Een kleurgecodeerd meesterschapsraster, een weekgrafiek van je oefeningen, dagstreaks en records.\n\nAfgestemd op jouw training\n\n· Instelbare seinsnelheid, van langzaam tot echte WPM\n· Geluid en trilling apart aan/uit — hardop of volledig stil oefenen\n· Adaptieve moeilijkheid die je sterke en zwakke punten volgt\n· Strak, contrastrijk ontwerp voor ronde AMOLED-Garmins\n\nVoor wie\n\n· Complete beginners die een vriendelijke, gestructureerde start willen\n· Zendamateurs en CW-operators die scherp blijven\n· Preppers, scouts, zeilers en piloten die een tijdloze vaardigheid leren\n· Iedereen die een nuttige hersentraining op de pols wil\n\nLeer het in een paar minuten per dag, hou het voor het leven.\n\nTik · leer · beheers morse.",
   "type": "2",
-  "rating": 4.3,
-  "reviews": 6,
+  "rating": 4.0,
+  "reviews": 7,
   "downloads": 10,
   "version": "1.2.5",
   "category": "202",
@@ -4564,7 +4564,7 @@
    "assets/shots/sobr-5.jpg"
   ],
   "changed": 1794844831000,
-  "whatsnew": "Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
+  "whatsnew": "Edit your own shortcuts in the phone app settings (Garmin Connect) and choose the drink order: most picked or your own order, with Move up/down on the watch.",
   "devices": 178,
   "updates": 24
  },
