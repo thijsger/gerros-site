@@ -869,6 +869,34 @@
           "Each lift compared to your body weight"
         ]
       ]
+    },
+    "coolhour": {
+      "title": "Coolhour",
+      "tag": "The best hour to run in the heat",
+      "cat": "sport",
+      "accent": "#44C0D9",
+      "screens": [
+        [
+          "The coolest time to run",
+          "The best start in the next hours, with your easy pace"
+        ],
+        [
+          "Heat hour by hour",
+          "How hot it gets and how much it slows you"
+        ],
+        [
+          "Paces adjusted for heat",
+          "Easy, tempo and race pace now and later"
+        ],
+        [
+          "Best starts, ranked",
+          "Every start time with its temperature and slowdown"
+        ],
+        [
+          "The weather behind it",
+          "Humidity, wind, sun and WBGT for each hour"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -901,6 +929,7 @@
     "altizone",
     "spent",
     "stepwise",
-    "anvil"
+    "anvil",
+    "coolhour"
   ]
 }

@@ -93,7 +93,7 @@
    "assets/shots/coolhour-3.jpg"
   ],
   "changed": 1793949795000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New look: a ring with every start time in its heat colour, rounded hourly bars, clearer paces and rankings, and settings in easy lists with large buttons.",
   "devices": 144,
   "updates": 2
  },
@@ -550,7 +550,8 @@
   "shots": [
    "assets/shots/stepwise-1.jpg",
    "assets/shots/stepwise-2.jpg",
-   "assets/shots/stepwise-3.jpg"
+   "assets/shots/stepwise-3.jpg",
+   "assets/shots/stepwise-4.jpg"
   ],
   "changed": 1795097814000,
   "whatsnew": "New look: a ring for today's life steps, cleaner forecast, hour, week, month and goal pages, and easier settings with a confirmation before erasing data.",
@@ -705,7 +706,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 100,
-  "version": "1.0.1",
+  "version": "2.0.0",
   "category": "277",
   "icon": "assets/icons/anvil.png",
   "shots": [
@@ -713,10 +714,10 @@
    "assets/shots/anvil-2.jpg",
    "assets/shots/anvil-3.jpg"
   ],
-  "changed": 1791736617000,
+  "changed": 1795102544000,
   "whatsnew": "New look: a redesigned home screen with a weekly ring, new fonts, and clearer lists, number pages and confirmations; your workouts, records and recovery data stay exactly as they were.",
   "devices": 153,
-  "updates": 2
+  "updates": 3
  },
  {
   "id": "66ab4fb6-b24f-4d5a-b852-b69d5a017eac",

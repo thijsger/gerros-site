@@ -21,7 +21,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 **How is the price built up?** From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.
 **Do you do NDAs and invoices?** Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.
 
-## Apps (24, all run on the watch without a phone, account or subscription)
+## Apps (25, all run on the watch without a phone, account or subscription)
 
 - [Caffi](https://gerros.app/apps/caffi.html): Caffeine in your body, hour by hour. Health & habits, version 3.0.2, store: https://apps.garmin.com/apps/67e8316b-2d74-46fe-abda-86ba4e7a4188. Rating 4.8/5 from 9 reviews.
 - [Sobr](https://gerros.app/apps/sobr.html): Blood-alcohol estimate with the time you drop under your limit. Health & habits, version 3.1.0, store: https://apps.garmin.com/apps/b20b6df0-5943-48bb-be5e-73b3441253d7. Rating 5.0/5 from 6 reviews.
@@ -46,7 +46,8 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [AltiZone](https://gerros.app/apps/altizone.html): Barometric altimeter with colour zones and alerts. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/b651a1e9-7f33-41c3-a477-42c5037e5f67. Rating 5.0/5 from 3 reviews.
 - [Spent](https://gerros.app/apps/spent.html): Daily budget and spending tracker. Money & work, version 2.0.0, store: https://apps.garmin.com/apps/7b530ce0-2510-4669-b06e-abc0b2448567. Rating 5.0/5 from 1 reviews.
 - [Stepwise](https://gerros.app/apps/stepwise.html): Everyday steps without the workouts. Health & habits, version 2.0.0, store: https://apps.garmin.com/apps/951a6602-dd32-4744-b968-e9b2ef092678. Rating in the Connect IQ Store.
-- [Anvil](https://gerros.app/apps/anvil.html): Gym tracker with muscle recovery. Sport & outdoors, version 1.0.1, store: https://apps.garmin.com/apps/cbda12de-19df-467c-9e95-4a4aedf471b1. Rating in the Connect IQ Store.
+- [Anvil](https://gerros.app/apps/anvil.html): Gym tracker with muscle recovery. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/cbda12de-19df-467c-9e95-4a4aedf471b1. Rating in the Connect IQ Store.
+- [Coolhour](https://gerros.app/apps/coolhour.html): The best hour to run in the heat. Sport & outdoors, version 1.0.1, store: https://apps.garmin.com/apps/7b9987dd-9357-44b0-b4f8-aea6be0c2439. Rating in the Connect IQ Store.
 
 ## Pages
 
