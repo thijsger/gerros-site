@@ -943,6 +943,34 @@
           "Humidity, wind, sun and WBGT for each hour"
         ]
       ]
+    },
+    "lastpage": {
+      "title": "Lastpage",
+      "cat": "tools",
+      "tag": "Reading tracker with your finish date",
+      "screens": [
+        [
+          "Know when you will finish your book",
+          "Your finish date from your own reading pace"
+        ],
+        [
+          "Time every reading session",
+          "See your page and time to the end of the chapter"
+        ],
+        [
+          "Your personal reading pace",
+          "Pages per minute, measured from your sessions"
+        ],
+        [
+          "A yearly reading goal",
+          "Books read, and whether you are ahead or behind"
+        ],
+        [
+          "Keep your reading streak",
+          "Days in a row and minutes read per day"
+        ]
+      ],
+      "accent": "#F0B45A"
     }
   },
   "wearos": [
@@ -978,6 +1006,7 @@
     "anvil",
     "coolhour",
     "listo",
-    "adapt"
+    "adapt",
+    "lastpage"
   ]
 }

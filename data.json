@@ -1241,7 +1241,7 @@
    "assets/shots/lastpage-5.jpg"
   ],
   "changed": 1793959699000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "A completely new look: a progress ring around your book, large clear numbers, smoother menus and easier number entry, with all your books and reading history kept.",
   "devices": 185,
   "updates": 3
  },
@@ -3892,7 +3892,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.2.0",
+  "version": "2.0.0",
   "category": "219",
   "icon": "assets/icons/adapt.png",
   "shots": [
@@ -3902,10 +3902,10 @@
    "assets/shots/adapt-4.jpg",
    "assets/shots/adapt-5.jpg"
   ],
-  "changed": 1794846178000,
+  "changed": 1795113388000,
   "whatsnew": "A completely new look: redesigned screens with a calorie ring, a cleaner weight chart, larger keypad and smoothly scrolling menus; your logs and goal stay as they are.",
   "devices": 178,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065",

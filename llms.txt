@@ -21,7 +21,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 **How is the price built up?** From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.
 **Do you do NDAs and invoices?** Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.
 
-## Apps (27, all run on the watch without a phone, account or subscription)
+## Apps (28, all run on the watch without a phone, account or subscription)
 
 - [Caffi](https://gerros.app/apps/caffi.html): Caffeine in your body, hour by hour. Health & habits, version 3.0.2, store: https://apps.garmin.com/apps/67e8316b-2d74-46fe-abda-86ba4e7a4188. Rating 4.8/5 from 9 reviews.
 - [Sobr](https://gerros.app/apps/sobr.html): Blood-alcohol estimate with the time you drop under your limit. Health & habits, version 3.2.0, store: https://apps.garmin.com/apps/b20b6df0-5943-48bb-be5e-73b3441253d7. Rating 5.0/5 from 6 reviews.
@@ -49,7 +49,8 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Anvil](https://gerros.app/apps/anvil.html): Gym tracker with muscle recovery. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/cbda12de-19df-467c-9e95-4a4aedf471b1. Rating in the Connect IQ Store.
 - [Coolhour](https://gerros.app/apps/coolhour.html): The best hour to run in the heat. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/7b9987dd-9357-44b0-b4f8-aea6be0c2439. Rating in the Connect IQ Store.
 - [Listo](https://gerros.app/apps/listo.html): Shopping list sorted by aisle. Everyday tools, version 3.0.0, store: https://apps.garmin.com/apps/acf0e837-8f06-42c0-a1b7-62275ac792fc. Rating 5.0/5 from 2 reviews.
-- [Adapt](https://gerros.app/apps/adapt.html): Calorie target from your measured burn. Health & habits, version 1.2.0, store: https://apps.garmin.com/apps/8576f079-6cbc-4fe3-9351-63fcd34f22f8. Rating 5.0/5 from 2 reviews.
+- [Adapt](https://gerros.app/apps/adapt.html): Calorie target from your measured burn. Health & habits, version 2.0.0, store: https://apps.garmin.com/apps/8576f079-6cbc-4fe3-9351-63fcd34f22f8. Rating 5.0/5 from 2 reviews.
+- [Lastpage](https://gerros.app/apps/lastpage.html): Reading tracker with your finish date. Everyday tools, version 1.0.1, store: https://apps.garmin.com/apps/5130c288-b013-451b-bc83-dd37f1641ae2. Rating in the Connect IQ Store.
 
 ## Pages
 
