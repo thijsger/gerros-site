@@ -1230,7 +1230,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "2.0.0",
   "category": "202",
   "icon": "assets/icons/lastpage.png",
   "shots": [
@@ -1240,10 +1240,10 @@
    "assets/shots/lastpage-4.jpg",
    "assets/shots/lastpage-5.jpg"
   ],
-  "changed": 1793959699000,
+  "changed": 1795119449000,
   "whatsnew": "A completely new look: a progress ring around your book, large clear numbers, smoother menus and easier number entry, with all your books and reading history kept.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "5ae53323-9c5b-48d6-8474-c04dc1492845",
@@ -2482,7 +2482,7 @@
    "assets/shots/meridia-3.jpg"
   ],
   "changed": 1794804690000,
-  "whatsnew": "New Caribbean region with 26 island capitals, including St. George's (Grenada), Kingston, Port of Spain, Bridgetown and Nassau. Havana now follows Cuba's decision to stay on daylight saving time through winter 2026-27.",
+  "whatsnew": "New look: a 24-hour ring per city, the time big, call window and clock changes redrawn, and new menus with - and + for hours.",
   "devices": 161,
   "updates": 7
  },

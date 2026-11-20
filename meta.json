@@ -971,6 +971,34 @@
         ]
       ],
       "accent": "#F0B45A"
+    },
+    "meridia": {
+      "title": "Meridia",
+      "cat": "tools",
+      "tag": "World clock with daylight saving",
+      "screens": [
+        [
+          "Your cities at a glance",
+          "Local time with every other city beneath it"
+        ],
+        [
+          "A full page for every city",
+          "Time, day, offset and when their workday starts"
+        ],
+        [
+          "Find the best time to call",
+          "The window when everyone is within working hours"
+        ],
+        [
+          "See daylight saving changes coming",
+          "When the time gap to each city shifts"
+        ],
+        [
+          "Plan a meeting across time zones",
+          "Pick a time and see it in every city"
+        ]
+      ],
+      "accent": "#F0B23C"
     }
   },
   "wearos": [
@@ -1007,6 +1035,7 @@
     "coolhour",
     "listo",
     "adapt",
-    "lastpage"
+    "lastpage",
+    "meridia"
   ]
 }
