@@ -70,7 +70,7 @@
    "assets/shots/hydrosmart-5.jpg"
   ],
   "changed": 1794846077000,
-  "whatsnew": "Times now follow your watch's 12/24-hour setting (for example 3:20 PM). In ounces, every whole ounce can now be picked (12 oz was skipped). Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
+  "whatsnew": "Drink reminders now show their text (time to drink and how far behind you are) on every watch.",
   "devices": 164,
   "updates": 3
  },
@@ -1079,7 +1079,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 1,
+  "downloads": 10,
   "version": "1.0.1",
   "category": "216",
   "icon": "assets/icons/chainline.png",
@@ -1105,7 +1105,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "212",
   "icon": "assets/icons/blueline.png",
   "shots": [
@@ -1115,10 +1115,10 @@
    "assets/shots/blueline-4.jpg",
    "assets/shots/blueline-5.jpg"
   ],
-  "changed": 1793947481000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1795167862000,
+  "whatsnew": "Available again on older watches like fenix 5, fenix 6S, Forerunner 245/645/745/935/945, Venu, vivoactive 3/4 and MARQ.",
   "devices": 185,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "3505a472-7b3c-4db6-b511-a42f7b8a9692",
@@ -2473,7 +2473,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "2.0.0",
   "category": "213",
   "icon": "assets/icons/meridia.png",
   "shots": [
@@ -2481,10 +2481,10 @@
    "assets/shots/meridia-2.jpg",
    "assets/shots/meridia-3.jpg"
   ],
-  "changed": 1794804690000,
+  "changed": 1795120293000,
   "whatsnew": "New look: a 24-hour ring per city, the time big, call window and clock changes redrawn, and new menus with - and + for hours.",
   "devices": 161,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "f4c1c1f5-dc19-4546-9b17-726765b5367f",
@@ -4554,7 +4554,7 @@
   "nl": "Sobr is een promillage-tracker voor je Garmin-horloge. Log een drankje met één tik en Sobr toont realtime je geschatte promillage, wanneer het weer onder je eigen persoonlijke drempel zakt en wanneer je volledig nuchter bent — berekend met een echt farmacokinetisch model, geen simpele drankjesteller.\n\nZO WERKT HET\nSobr modelleert hoe alcohol echt door je lichaam beweegt: opname na elk drankje en een constante afbraaksnelheid, gepersonaliseerd met je gewicht, lengte en geslacht (Widmark-methode). Het resultaat is een live curve die stijgt terwijl je drinkt en daalt terwijl je lichaam de alcohol afbreekt — inclusief drankjes die nog niet volledig zijn aangekomen.\n\nLOGGEN MET ÉÉN TIK\n• Kant-en-klare presets: bier, wijn, sterke drank, cocktails, champagne en meer\n• Herhaal je laatste drankje met één tik, en je meest gekozen drankjes staan bovenaan\n• Vergeten te loggen? Stel in hoeveel minuten geleden je het dronk\n• Maak je eigen shortcuts op het horloge zelf (naam, inhoud, percentage)\n• Alles kan: stel gewoon ml en % in\n\nKEN JE AVOND\n• Statusring met je live promillage in ‰ en groene, oranje en rode zones\n• Het tijdstip waarop je weer onder je drempel zakt, direct op het hoofdscherm, met daaronder wanneer je nuchter bent\n• Volledige grafiek: je avond tot nu toe plus de uren vooruit, met je persoonlijke drempel en het exacte moment dat je er weer onder zakt\n• Glance: check je niveau zonder de app te openen\n\nHIJ KOMT NAAR JOU\n• Automatische melding: je horloge trilt zodra je geschatte promillage onder je eigen drempel zakt — ook met de app dicht\n• Ochtend-recap: open Sobr de dag erna en zie het hele verhaal — aantal drankjes, je piek en wanneer je weer nuchter was\n\nJOUW DREMPEL, JOUW REGELS\nDe drempel is volledig instelbaar en helemaal persoonlijk. Zet hem op wat voor jou belangrijk is — een grens voor nog een rondje, een niveau waaronder je morgen weer wilt sporten, of gewoon nul. Sobr zegt nooit wat een niveau betekent; hij zegt alleen wanneer je eronder zit.\n\nVOLG JE GEWOONTES\n• Daglog: tik op een drankje om de tijd of inhoud aan te passen, of om het te verwijderen\n• Stel je eigen daglimiet in en zie hem op elk scherm\n• Grafieken van 14 en 30 dagen tegen je daglimiet, en je hele jaar maand voor maand\n\nVAN JOU, PRIVÉ\n• Werkt volledig offline — geen account, geen telefoon-app, geen data van je horloge af\n• Beschikbaar in 16 talen\n\nOp oudere horloges met weinig geheugen (fenix 5 en 6, Forerunner 245, 645 en 935, vívoactive 3, Venu Sq, Enduro) houdt Sobr zijn vorige uiterlijk.\n\nBELANGRIJK\nSobr geeft alleen schattingen. Het werkelijke promillage verschilt per persoon en per drankje. Geen enkele hoeveelheid alcohol is veilig om mee te rijden. Gebruik deze app nooit om te beslissen of je kunt rijden of machines kunt bedienen — heb je gedronken, rijd dan niet. Geen medisch hulpmiddel.",
   "type": "2",
   "rating": 5.0,
-  "reviews": 6,
+  "reviews": 7,
   "downloads": 100,
   "version": "3.2.0",
   "category": "205",
@@ -4567,7 +4567,7 @@
    "assets/shots/sobr-5.jpg"
   ],
   "changed": 1795105631000,
-  "whatsnew": "Edit your shortcuts on the phone with separate fields for name, ml and %, show or hide standard drinks, set their order, and reach Shortcuts directly from Today and the add list.",
+  "whatsnew": "Fixed: own drinks typed in the phone settings were lost before saving. All fields are now on the main settings page, next to Save.",
   "devices": 178,
   "updates": 26
  },
