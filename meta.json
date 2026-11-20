@@ -506,9 +506,32 @@
     },
     "adapt": {
       "title": "Adapt",
-      "tag": "Calorie target that follows your weight",
+      "tag": "Calorie target from your measured burn",
       "cat": "health",
-      "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8"
+      "id": "8576f079-6cbc-4fe3-9351-63fcd34f22f8",
+      "screens": [
+        [
+          "Calories left for today",
+          "Your daily target, with protein in the inner ring"
+        ],
+        [
+          "Your real weight trend",
+          "A smoothed line through 30 days of weigh-ins"
+        ],
+        [
+          "Know when you reach your goal",
+          "Days to go, and whether you are on plan"
+        ],
+        [
+          "Your burn, measured from your log",
+          "What you eat and weigh shows your real daily burn"
+        ],
+        [
+          "Log a meal in seconds",
+          "Type the calories straight on your watch"
+        ]
+      ],
+      "accent": "#64D2FF"
     },
     "radar": {
       "title": "Radar",
@@ -954,6 +977,7 @@
     "stepwise",
     "anvil",
     "coolhour",
-    "listo"
+    "listo",
+    "adapt"
   ]
 }

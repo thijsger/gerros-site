@@ -3903,7 +3903,7 @@
    "assets/shots/adapt-5.jpg"
   ],
   "changed": 1794846178000,
-  "whatsnew": "Optional protein tracking (off by default): log grams with or after your calories, set an automatic (1.6 g/kg) or manual daily goal, and follow it with a second ring on the today screen and in the glance.",
+  "whatsnew": "A completely new look: redesigned screens with a calorie ring, a cleaner weight chart, larger keypad and smoothly scrolling menus; your logs and goal stay as they are.",
   "devices": 178,
   "updates": 12
  },
@@ -4092,7 +4092,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.2.6",
+  "version": "3.0.0",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -4102,10 +4102,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1794554905000,
+  "changed": 1795112468000,
   "whatsnew": "A completely new look: a colourful route ring per aisle, pages for budget, last trip and running low, and smoother native scrolling lists; your lists stay as they are.",
   "devices": 54,
-  "updates": 16
+  "updates": 17
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
