@@ -366,8 +366,31 @@
     },
     "listo": {
       "title": "Listo",
-      "tag": "Grocery list in colour, sorted by aisle",
-      "cat": "tools"
+      "tag": "Shopping list sorted by aisle",
+      "cat": "tools",
+      "accent": "#62D97F",
+      "screens": [
+        [
+          "Your shopping list, sorted by aisle",
+          "Each coloured segment is one aisle on your route"
+        ],
+        [
+          "A budget for every shop",
+          "See what is left before you reach the till"
+        ],
+        [
+          "Every trip remembered",
+          "Time, items and total of your last shop"
+        ],
+        [
+          "Knows what is running low",
+          "Items you buy often, ready to add again"
+        ],
+        [
+          "Done in one round",
+          "Items, time and total when you check out"
+        ]
+      ]
     },
     "remindersplus": {
       "title": "Reminders+",
@@ -930,6 +953,7 @@
     "spent",
     "stepwise",
     "anvil",
-    "coolhour"
+    "coolhour",
+    "listo"
   ]
 }

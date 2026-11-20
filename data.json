@@ -1576,7 +1576,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "category": "219",
   "icon": "assets/icons/nappr.png",
   "shots": [
@@ -1584,10 +1584,10 @@
    "assets/shots/nappr-2.jpg",
    "assets/shots/nappr-3.jpg"
   ],
-  "changed": 1793964691000,
+  "changed": 1795107019000,
   "whatsnew": "The alarm is now stronger and more reliable: tone on by default, vibration and tone no longer cancel each other, it keeps going until you stop it, and the app warns you when Do Not Disturb or the watch's vibration or tone settings could silence it.",
   "devices": 189,
-  "updates": 7
+  "updates": 8
  },
  {
   "id": "2d0cc53e-6856-4a02-819b-399f9ac29fb5",
@@ -4103,7 +4103,7 @@
    "assets/shots/listo-5.jpg"
   ],
   "changed": 1794554905000,
-  "whatsnew": "Two new sections, Garage & DIY and Garden, with 40 products. You can now type your own products straight into any section, or move them to another section.",
+  "whatsnew": "A completely new look: a colourful route ring per aisle, pages for budget, last trip and running low, and smoother native scrolling lists; your lists stay as they are.",
   "devices": 54,
   "updates": 16
  },
