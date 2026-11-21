@@ -4567,7 +4567,7 @@
    "assets/shots/sobr-5.jpg"
   ],
   "changed": 1795168656000,
-  "whatsnew": "Fixed: own drinks typed in the phone settings were lost before saving. All fields are now on the main settings page, next to Save.",
+  "whatsnew": "After picking a shortcut you can now adjust the amount with − and + before it is logged.",
   "devices": 178,
   "updates": 27
  },
