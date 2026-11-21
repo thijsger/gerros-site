@@ -3253,7 +3253,7 @@
   "nl": "Beam is de voet-duim-rekenmachine en de hellingmeter die op je pols blijven als je handen vol zijn. Optellen, aftrekken, vermenigvuldigen en delen in voet, duim en zestienden of in millimeters en meters, en elk antwoord staat meteen in beide stelsels, want de omrekening staat altijd een regel onder de uitkomst.\n\nVijf andere schermen doen wat een rolmaat niet kan. Trap maakt van een totale hoogte een aantal optredes, een optredehoogte, de aantrede en de steekhoek, en controleert dat tegen de vuistregel 2x optrede + aantrede. Dakspant maakt van een overspanning en een helling de spantlengte, de nokhoogte, de kophoek en de verstekhoek. Verstek halveert elke gemeten hoek en geeft er de schuine snede bij. Materiaalstaat maakt van een oppervlak of een volume plus een verliespercentage hele zakken, dozen, blikken of planken, en zegt hoeveel je overhoudt. En de hellingmeter leest de hoek uit de versnellingsmeter in graden, procent en verhouding op twaalf, met een nulpunt dat je tegen elk referentievlak kunt zetten.\n\nWAT HET DOET\n- Voet, duim en zestienden of metrisch, met elk antwoord in allebei\n- Trap: aantal optredes, optredehoogte, aantrede, steekhoek en de 2R+A-controle\n- Dakspant: spantlengte, nokhoogte, kophoek en verstekhoek uit overspanning, helling en overstek\n- Verstek en schuine snede voor elke gemeten hoek, of direct uit het aantal zijden\n- Materiaal: zakken, dozen, blikken of planken, altijd naar boven afgerond, met de rest erbij\n- Hellingmeter in graden, procent en verhouding op twaalf, nul te stellen tegen elk vlak\n- Een scherm per taak, drie waarden per scherm, grote plus- en minvlakken in plaats van een toetsenbord\n- Vijf talen en een glance met de laatste uitkomst\n\nWAT HET NODIG HEEFT\n- Geen telefoon, geen account, geen internet: alles wordt op het horloge uitgerekend\n- De hellingmeter gebruikt de ingebouwde versnellingsmeter: leg het horloge op het vlak en laat het een halve seconde rusten",
   "type": "2",
   "rating": 5.0,
-  "reviews": 1,
+  "reviews": 2,
   "downloads": 10,
   "version": "1.2.5",
   "category": "213",
@@ -3264,7 +3264,7 @@
    "assets/shots/beam-3.jpg"
   ],
   "changed": 1793945863000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "Enter values directly: type them on touch watches (e.g. 5' 7 3/8\", 5-7-3/8 or 1.2 m) or set them digit by digit with the buttons; the old steps remain under Input in the menu.",
   "devices": 178,
   "updates": 9
  },
@@ -4567,7 +4567,7 @@
    "assets/shots/sobr-5.jpg"
   ],
   "changed": 1795255917000,
-  "whatsnew": "On touchscreen watches, names are now typed with Garmin's own keyboard, which you can also type into from your phone.",
+  "whatsnew": "The graph now shows when you're under the limit and when you're sober, plus the times of your drinks, and \"Most picked\" really follows your choices again, also for drinks from the phone.",
   "devices": 178,
   "updates": 29
  },
