@@ -33,7 +33,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 1,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.1.1",
   "category": "255",
   "icon": "assets/icons/domora.png",
@@ -84,7 +84,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "220",
   "icon": "assets/icons/coolhour.png",
   "shots": [
@@ -94,10 +94,10 @@
    "assets/shots/coolhour-4.jpg",
    "assets/shots/coolhour-5.jpg"
   ],
-  "changed": 1795104526000,
-  "whatsnew": "New look: a ring with every start time in its heat colour, rounded hourly bars, clearer paces and rankings, and settings in easy lists with large buttons.",
+  "changed": 1795240419000,
+  "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 144,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "d5c08143-9a4f-4f72-a678-0adc2d603ed1",
@@ -546,7 +546,7 @@
   "rating": 0,
   "reviews": 0,
   "downloads": 10,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "222",
   "icon": "assets/icons/stepwise.png",
   "shots": [
@@ -555,10 +555,10 @@
    "assets/shots/stepwise-3.jpg",
    "assets/shots/stepwise-4.jpg"
   ],
-  "changed": 1795097814000,
-  "whatsnew": "New look: a ring for today's life steps, cleaner forecast, hour, week, month and goal pages, and easier settings with a confirmation before erasing data.",
+  "changed": 1795241046000,
+  "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "229de2c4-c1d4-406d-8689-3e605a9e298c",
@@ -684,7 +684,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "2.0.4",
   "category": "206",
   "icon": "assets/icons/reelix.png",
@@ -1227,10 +1227,10 @@
   "desc": "Lastpage tells you when you will finish your book. Start the timer on your wrist when you sit down to read, and when you stop, enter the page you are on. From those sessions the app learns your pace in pages per minute for each book, with recent sessions counting most, and turns it into the time you still need and a finish date based on how long you usually read per day.\n\nReading for a book club or a class? Set a deadline and Lastpage shows how many pages a day you need and whether your usual pace gets you there. Set a yearly goal and it shows whether you are ahead of or behind schedule, and how often you need to finish a book from here. The glance shows your current book and its finish date without opening the app.\n\nWHAT IT DOES\n- Reading timer with pause; it keeps counting if you leave the app\n- Pace per book in pages per minute, weighted towards recent sessions\n- Time left in the book and a finish date from your average reading time per day (7, 14 or 30 days)\n- Estimated page while you read and time left in the chapter, with a buzz at the chapter end\n- Deadline: pages per day and minutes per day needed, on track or days late\n- Yearly book goal: ahead or behind schedule, one book every N days needed\n- Reading streak, the last seven days as bars, totals for this year\n- Up to 30 books with titles typed on the watch, log past reading afterwards\n- Glance with the current book, its finish date and progress\n\nWHAT IT NEEDS\nA Connect IQ watch. No phone connection, no account and no sensors: everything is stored on the watch. The finish date appears after your first session of at least a minute.",
   "nl": "Lastpage vertelt je wanneer je boek uit is. Start de timer op je pols als je gaat lezen en vul bij het stoppen de pagina in waar je bent. Uit die sessies leert de app je tempo in pagina's per minuut per boek, waarbij recente sessies het zwaarst tellen, en maakt daar de leestijd die je nog nodig hebt van en een uitleesdatum op basis van hoe lang je gemiddeld per dag leest.\n\nLees je voor een leesclub of een opleiding? Stel een deadline in en Lastpage laat zien hoeveel pagina's per dag je nodig hebt en of je met je gewone tempo op tijd bent. Met een jaardoel zie je of je voor of achter ligt op schema en hoe vaak je vanaf nu een boek moet uitlezen. De glance toont je huidige boek en de uitleesdatum zonder de app te openen.\n\nWAT HET DOET\n- Leestimer met pauze; hij telt door als je de app verlaat\n- Tempo per boek in pagina's per minuut, gewogen naar recente sessies\n- Resterende leestijd en een uitleesdatum uit je gemiddelde leestijd per dag (7, 14 of 30 dagen)\n- Geschatte pagina tijdens het lezen en tijd tot het einde van het hoofdstuk, met een tril aan het eind\n- Deadline: benodigde pagina's en minuten per dag, op schema of dagen te laat\n- Jaardoel voor boeken: voor of achter op schema, elke hoeveel dagen een boek\n- Leesreeks, de laatste zeven dagen als staafjes, totalen van dit jaar\n- Tot 30 boeken met titels getypt op het horloge, lezen achteraf invoeren\n- Glance met je huidige boek, de uitleesdatum en de voortgang\n\nWAT HET NODIG HEEFT\nEen Connect IQ-horloge. Geen telefoonverbinding, geen account en geen sensoren: alles staat op het horloge. De uitleesdatum verschijnt na je eerste sessie van minstens een minuut.",
   "type": "2",
-  "rating": 0,
-  "reviews": 0,
+  "rating": 5.0,
+  "reviews": 1,
   "downloads": 10,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "202",
   "icon": "assets/icons/lastpage.png",
   "shots": [
@@ -1240,10 +1240,10 @@
    "assets/shots/lastpage-4.jpg",
    "assets/shots/lastpage-5.jpg"
   ],
-  "changed": 1795119449000,
-  "whatsnew": "A completely new look: a progress ring around your book, large clear numbers, smoother menus and easier number entry, with all your books and reading history kept.",
+  "changed": 1795240760000,
+  "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 185,
-  "updates": 4
+  "updates": 5
  },
  {
   "id": "5ae53323-9c5b-48d6-8474-c04dc1492845",
@@ -2482,7 +2482,7 @@
    "assets/shots/meridia-3.jpg"
   ],
   "changed": 1795120293000,
-  "whatsnew": "New look: a 24-hour ring per city, the time big, call window and clock changes redrawn, and new menus with - and + for hours.",
+  "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 161,
   "updates": 8
  },
@@ -3892,7 +3892,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "219",
   "icon": "assets/icons/adapt.png",
   "shots": [
@@ -3902,10 +3902,10 @@
    "assets/shots/adapt-4.jpg",
    "assets/shots/adapt-5.jpg"
   ],
-  "changed": 1795113388000,
-  "whatsnew": "A completely new look: redesigned screens with a calorie ring, a cleaner weight chart, larger keypad and smoothly scrolling menus; your logs and goal stay as they are.",
+  "changed": 1795240648000,
+  "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 178,
-  "updates": 13
+  "updates": 14
  },
  {
   "id": "cbbd7d39-09f9-4172-94c6-a981894fe065",
@@ -3967,7 +3967,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "220",
   "icon": "assets/icons/racecast.png",
   "shots": [
@@ -3977,10 +3977,10 @@
    "assets/shots/racecast-4.jpg",
    "assets/shots/racecast-5.jpg"
   ],
-  "changed": 1794835082000,
-  "whatsnew": "A fresh new look: cleaner screens, larger numbers and redesigned menus with smooth native scrolling.",
+  "changed": 1795240294000,
+  "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 178,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "6c1b3cc5-4cb8-4a3c-8bfa-ec1e72112d0c",
@@ -4067,7 +4067,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "204",
   "icon": "assets/icons/spent.png",
   "shots": [
@@ -4077,10 +4077,10 @@
    "assets/shots/spent-4.jpg",
    "assets/shots/spent-5.jpg"
   ],
-  "changed": 1795093991000,
-  "whatsnew": "A completely new look: a cleaner today screen with a ring and big amount, a new keypad, rounded charts and smoother scrolling lists, with all your expenses and budgets kept.",
+  "changed": 1795240956000,
+  "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 59,
-  "updates": 13
+  "updates": 14
  },
  {
   "id": "acf0e837-8f06-42c0-a1b7-62275ac792fc",
@@ -4092,7 +4092,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "3.0.0",
+  "version": "3.0.1",
   "category": "213",
   "icon": "assets/icons/listo.png",
   "shots": [
@@ -4102,10 +4102,10 @@
    "assets/shots/listo-4.jpg",
    "assets/shots/listo-5.jpg"
   ],
-  "changed": 1795112468000,
-  "whatsnew": "A completely new look: a colourful route ring per aisle, pages for budget, last trip and running low, and smoother native scrolling lists; your lists stay as they are.",
+  "changed": 1795240527000,
+  "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 54,
-  "updates": 17
+  "updates": 18
  },
  {
   "id": "409882ba-56a0-4730-b224-9ebb55e5a9f2",
@@ -4363,7 +4363,7 @@
   "rating": 4.4,
   "reviews": 7,
   "downloads": 100,
-  "version": "2.0.1",
+  "version": "2.0.2",
   "category": "219",
   "icon": "assets/icons/breathgym.png",
   "shots": [
@@ -4373,10 +4373,10 @@
    "assets/shots/breathgym-4.jpg",
    "assets/shots/breathgym-5.jpg"
   ],
-  "changed": 1794835172000,
+  "changed": 1795171263000,
   "whatsnew": "Times now follow your watch's 12/24-hour setting.",
   "devices": 178,
-  "updates": 15
+  "updates": 16
  },
  {
   "id": "0d5c42f2-903c-4428-98c6-f7ffaf674555",
@@ -4387,7 +4387,7 @@
   "type": "2",
   "rating": 4.0,
   "reviews": 7,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.2.5",
   "category": "202",
   "icon": "assets/icons/morsetap.png",
@@ -4554,7 +4554,7 @@
   "nl": "Sobr is een promillage-tracker voor je Garmin-horloge. Log een drankje met één tik en Sobr toont realtime je geschatte promillage, wanneer het weer onder je eigen persoonlijke drempel zakt en wanneer je volledig nuchter bent — berekend met een echt farmacokinetisch model, geen simpele drankjesteller.\n\nZO WERKT HET\nSobr modelleert hoe alcohol echt door je lichaam beweegt: opname na elk drankje en een constante afbraaksnelheid, gepersonaliseerd met je gewicht, lengte en geslacht (Widmark-methode). Het resultaat is een live curve die stijgt terwijl je drinkt en daalt terwijl je lichaam de alcohol afbreekt — inclusief drankjes die nog niet volledig zijn aangekomen.\n\nLOGGEN MET ÉÉN TIK\n• Kant-en-klare presets: bier, wijn, sterke drank, cocktails, champagne en meer\n• Herhaal je laatste drankje met één tik, en je meest gekozen drankjes staan bovenaan\n• Vergeten te loggen? Stel in hoeveel minuten geleden je het dronk\n• Maak je eigen shortcuts op het horloge zelf (naam, inhoud, percentage)\n• Alles kan: stel gewoon ml en % in\n\nKEN JE AVOND\n• Statusring met je live promillage in ‰ en groene, oranje en rode zones\n• Het tijdstip waarop je weer onder je drempel zakt, direct op het hoofdscherm, met daaronder wanneer je nuchter bent\n• Volledige grafiek: je avond tot nu toe plus de uren vooruit, met je persoonlijke drempel en het exacte moment dat je er weer onder zakt\n• Glance: check je niveau zonder de app te openen\n\nHIJ KOMT NAAR JOU\n• Automatische melding: je horloge trilt zodra je geschatte promillage onder je eigen drempel zakt — ook met de app dicht\n• Ochtend-recap: open Sobr de dag erna en zie het hele verhaal — aantal drankjes, je piek en wanneer je weer nuchter was\n\nJOUW DREMPEL, JOUW REGELS\nDe drempel is volledig instelbaar en helemaal persoonlijk. Zet hem op wat voor jou belangrijk is — een grens voor nog een rondje, een niveau waaronder je morgen weer wilt sporten, of gewoon nul. Sobr zegt nooit wat een niveau betekent; hij zegt alleen wanneer je eronder zit.\n\nVOLG JE GEWOONTES\n• Daglog: tik op een drankje om de tijd of inhoud aan te passen, of om het te verwijderen\n• Stel je eigen daglimiet in en zie hem op elk scherm\n• Grafieken van 14 en 30 dagen tegen je daglimiet, en je hele jaar maand voor maand\n\nVAN JOU, PRIVÉ\n• Werkt volledig offline — geen account, geen telefoon-app, geen data van je horloge af\n• Beschikbaar in 16 talen\n\nOp oudere horloges met weinig geheugen (fenix 5 en 6, Forerunner 245, 645 en 935, vívoactive 3, Venu Sq, Enduro) houdt Sobr zijn vorige uiterlijk.\n\nBELANGRIJK\nSobr geeft alleen schattingen. Het werkelijke promillage verschilt per persoon en per drankje. Geen enkele hoeveelheid alcohol is veilig om mee te rijden. Gebruik deze app nooit om te beslissen of je kunt rijden of machines kunt bedienen — heb je gedronken, rijd dan niet. Geen medisch hulpmiddel.",
   "type": "2",
   "rating": 5.0,
-  "reviews": 7,
+  "reviews": 8,
   "downloads": 100,
   "version": "3.2.1",
   "category": "205",
