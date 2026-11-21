@@ -4239,7 +4239,7 @@
   "rating": 4.3,
   "reviews": 8,
   "downloads": 100,
-  "version": "1.5.4",
+  "version": "2.0.0",
   "category": "213",
   "icon": "assets/icons/speedometer-pro.png",
   "shots": [
@@ -4249,10 +4249,10 @@
    "assets/shots/speedometer-pro-4.jpg",
    "assets/shots/speedometer-pro-5.jpg"
   ],
-  "changed": 1794174914000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1795265330000,
+  "whatsnew": "New look: redesigned menu, trip page, drag lists and glance, now in your language, while the ten faces and Drag mode stay exactly as they were.",
   "devices": 178,
-  "updates": 14
+  "updates": 15
  },
  {
   "id": "be12dc0d-65b0-46e8-be2e-7677289ca9fe",
@@ -4314,7 +4314,7 @@
   "rating": 5.0,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.5.4",
+  "version": "2.0.0",
   "category": "206",
   "icon": "assets/icons/reactr.png",
   "shots": [
@@ -4324,10 +4324,10 @@
    "assets/shots/reactr-4.jpg",
    "assets/shots/reactr-5.jpg"
   ],
-  "changed": 1794173143000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1795267903000,
+  "whatsnew": "Reactr 2.0 has a brand-new look: your best time and world ranking at a glance, a records page with trend chart per mode, a progress page and a clear menu.",
   "devices": 104,
-  "updates": 13
+  "updates": 14
  },
  {
   "id": "4709a2ba-d48e-48b9-8cc0-ff741a5a85e2",
@@ -4554,9 +4554,9 @@
   "nl": "Sobr is een promillage-tracker voor je Garmin-horloge. Log een drankje met één tik en Sobr toont realtime je geschatte promillage, wanneer het weer onder je eigen persoonlijke drempel zakt en wanneer je volledig nuchter bent — berekend met een echt farmacokinetisch model, geen simpele drankjesteller.\n\nZO WERKT HET\nSobr modelleert hoe alcohol echt door je lichaam beweegt: opname na elk drankje en een constante afbraaksnelheid, gepersonaliseerd met je gewicht, lengte en geslacht (Widmark-methode). Het resultaat is een live curve die stijgt terwijl je drinkt en daalt terwijl je lichaam de alcohol afbreekt — inclusief drankjes die nog niet volledig zijn aangekomen.\n\nLOGGEN MET ÉÉN TIK\n• Kant-en-klare presets: bier, wijn, sterke drank, cocktails, champagne en meer\n• Herhaal je laatste drankje met één tik, en je meest gekozen drankjes staan bovenaan\n• Vergeten te loggen? Stel in hoeveel minuten geleden je het dronk\n• Maak je eigen shortcuts op het horloge zelf (naam, inhoud, percentage)\n• Alles kan: stel gewoon ml en % in\n\nKEN JE AVOND\n• Statusring met je live promillage in ‰ en groene, oranje en rode zones\n• Het tijdstip waarop je weer onder je drempel zakt, direct op het hoofdscherm, met daaronder wanneer je nuchter bent\n• Volledige grafiek: je avond tot nu toe plus de uren vooruit, met je persoonlijke drempel en het exacte moment dat je er weer onder zakt\n• Glance: check je niveau zonder de app te openen\n\nHIJ KOMT NAAR JOU\n• Automatische melding: je horloge trilt zodra je geschatte promillage onder je eigen drempel zakt — ook met de app dicht\n• Ochtend-recap: open Sobr de dag erna en zie het hele verhaal — aantal drankjes, je piek en wanneer je weer nuchter was\n\nJOUW DREMPEL, JOUW REGELS\nDe drempel is volledig instelbaar en helemaal persoonlijk. Zet hem op wat voor jou belangrijk is — een grens voor nog een rondje, een niveau waaronder je morgen weer wilt sporten, of gewoon nul. Sobr zegt nooit wat een niveau betekent; hij zegt alleen wanneer je eronder zit.\n\nVOLG JE GEWOONTES\n• Daglog: tik op een drankje om de tijd of inhoud aan te passen, of om het te verwijderen\n• Stel je eigen daglimiet in en zie hem op elk scherm\n• Grafieken van 14 en 30 dagen tegen je daglimiet, en je hele jaar maand voor maand\n\nVAN JOU, PRIVÉ\n• Werkt volledig offline — geen account, geen telefoon-app, geen data van je horloge af\n• Beschikbaar in 16 talen\n\nOp oudere horloges met weinig geheugen (fenix 5 en 6, Forerunner 245, 645 en 935, vívoactive 3, Venu Sq, Enduro) houdt Sobr zijn vorige uiterlijk.\n\nBELANGRIJK\nSobr geeft alleen schattingen. Het werkelijke promillage verschilt per persoon en per drankje. Geen enkele hoeveelheid alcohol is veilig om mee te rijden. Gebruik deze app nooit om te beslissen of je kunt rijden of machines kunt bedienen — heb je gedronken, rijd dan niet. Geen medisch hulpmiddel.",
   "type": "2",
   "rating": 5.0,
-  "reviews": 8,
+  "reviews": 9,
   "downloads": 100,
-  "version": "3.3.0",
+  "version": "3.3.1",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -4566,10 +4566,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1795255100000,
+  "changed": 1795255917000,
   "whatsnew": "On touchscreen watches, names are now typed with Garmin's own keyboard, which you can also type into from your phone.",
   "devices": 178,
-  "updates": 28
+  "updates": 29
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
@@ -4581,7 +4581,7 @@
   "rating": 4.8,
   "reviews": 9,
   "downloads": 100,
-  "version": "3.0.2",
+  "version": "3.1.0",
   "category": "219",
   "icon": "assets/icons/caffi.png",
   "shots": [
@@ -4591,10 +4591,10 @@
    "assets/shots/caffi-4.jpg",
    "assets/shots/caffi-5.jpg"
   ],
-  "changed": 1794845904000,
-  "whatsnew": "Times now follow your watch's 12/24-hour setting (for example 3:20 PM). Lists now scroll the native Garmin way: smoother with touch, buttons and swipes, in the same look.",
+  "changed": 1795268516000,
+  "whatsnew": "Edit your shortcuts on the phone with separate fields for name, amount, mg and position, show or hide standard drinks and set their order; on the watch, pick the amount with -/+ before adding and open Shortcuts directly from Today.",
   "devices": 178,
-  "updates": 28
+  "updates": 29
  },
  {
   "id": "173e9d71-48e0-4ded-8515-27c3011032da",
