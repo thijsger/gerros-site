@@ -221,7 +221,30 @@
     "speedometer-pro": {
       "title": "Speedometer Pro",
       "tag": "GPS speedometer with ten instrument faces",
-      "cat": "sport"
+      "cat": "sport",
+      "accent": "#FF5A1F",
+      "screens": [
+        [
+          "Your speed, live from GPS",
+          "Ten instrument faces, from classic dial to digital"
+        ],
+        [
+          "Every trip in numbers",
+          "Distance, moving time, average and top speed"
+        ],
+        [
+          "Time your 0-100 runs",
+          "Drag mode starts the clock as you pull away"
+        ],
+        [
+          "Pick your favourite face",
+          "Switch faces and record the drive as an activity"
+        ],
+        [
+          "km/h, mph, knots or m/s",
+          "For the car, the bike or the boat"
+        ]
+      ]
     },
     "altizone": {
       "title": "AltiZone",
@@ -1113,6 +1136,7 @@
     "meridia",
     "morsetap",
     "nappr",
-    "reactr"
+    "reactr",
+    "speedometer-pro"
   ]
 }
