@@ -51,7 +51,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Listo](https://gerros.app/apps/listo.html): Shopping list sorted by aisle. Everyday tools, version 3.0.1, store: https://apps.garmin.com/apps/acf0e837-8f06-42c0-a1b7-62275ac792fc. Rating 5.0/5 from 2 reviews.
 - [Adapt](https://gerros.app/apps/adapt.html): Calorie target from your measured burn. Health & habits, version 2.0.1, store: https://apps.garmin.com/apps/8576f079-6cbc-4fe3-9351-63fcd34f22f8. Rating 5.0/5 from 2 reviews.
 - [Lastpage](https://gerros.app/apps/lastpage.html): Reading tracker with your finish date. Everyday tools, version 2.0.1, store: https://apps.garmin.com/apps/5130c288-b013-451b-bc83-dd37f1641ae2. Rating 5.0/5 from 1 reviews.
-- [Meridia](https://gerros.app/apps/meridia.html): World clock with daylight saving. Everyday tools, version 2.0.0, store: https://apps.garmin.com/apps/2bf457d8-1a2e-4cf0-8248-5d8e862d3da0. Rating 5.0/5 from 1 reviews.
+- [Meridia](https://gerros.app/apps/meridia.html): World clock with daylight saving. Everyday tools, version 2.0.1, store: https://apps.garmin.com/apps/2bf457d8-1a2e-4cf0-8248-5d8e862d3da0. Rating 5.0/5 from 1 reviews.
 
 ## Pages
 

@@ -2473,7 +2473,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "category": "213",
   "icon": "assets/icons/meridia.png",
   "shots": [
@@ -2481,10 +2481,10 @@
    "assets/shots/meridia-2.jpg",
    "assets/shots/meridia-3.jpg"
   ],
-  "changed": 1795120293000,
+  "changed": 1795240867000,
   "whatsnew": "Page dots now follow the screen edge and no longer overlap the ring or other content.",
   "devices": 161,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "f4c1c1f5-dc19-4546-9b17-726765b5367f",
@@ -2933,7 +2933,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.3.0",
+  "version": "1.3.1",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -2941,10 +2941,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1795053563000,
-  "whatsnew": "Yards now apply everywhere: swim screens, summary, lap alerts and the data in Garmin Connect, and the main swim numbers are bigger.",
+  "changed": 1795243038000,
+  "whatsnew": "Fixes: the swim clock now follows real time (it could fall behind) and Discard no longer leaves an activity in Garmin Connect.",
   "devices": 185,
-  "updates": 16
+  "updates": 17
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
