@@ -4388,7 +4388,7 @@
   "rating": 4.0,
   "reviews": 7,
   "downloads": 100,
-  "version": "1.2.5",
+  "version": "2.0.0",
   "category": "202",
   "icon": "assets/icons/morsetap.png",
   "shots": [
@@ -4397,10 +4397,10 @@
    "assets/shots/morsetap-3.jpg",
    "assets/shots/morsetap-4.jpg"
   ],
-  "changed": 1793964422000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1795269457000,
+  "whatsnew": "MorseTap 2.0 has a whole new look: a home screen with your course ring, day streak and next letters, swipeable progress pages, smoother lists, a redesigned chart and translator, and a new glance.",
   "devices": 38,
-  "updates": 10
+  "updates": 11
  },
  {
   "id": "b651a1e9-7f33-41c3-a477-42c5037e5f67",

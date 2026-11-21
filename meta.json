@@ -475,7 +475,30 @@
     "morsetap": {
       "title": "MorseTap",
       "tag": "Learn, practise and translate Morse code",
-      "cat": "tools"
+      "cat": "tools",
+      "accent": "#FFCC00",
+      "screens": [
+        [
+          "Learn Morse by ear",
+          "Koch lessons with a daily streak"
+        ],
+        [
+          "See which letters you know",
+          "Every character, from new to mastered"
+        ],
+        [
+          "A few minutes every day",
+          "Practice time per day, with your streak"
+        ],
+        [
+          "Tap it out yourself",
+          "Tap for a dot, hold for a dash"
+        ],
+        [
+          "Blitz against the clock",
+          "Tap as many letters as you can in one minute"
+        ]
+      ]
     },
     "wordclock": {
       "title": "WordClock",
@@ -1036,6 +1059,7 @@
     "listo",
     "adapt",
     "lastpage",
-    "meridia"
+    "meridia",
+    "morsetap"
   ]
 }
