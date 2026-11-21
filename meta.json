@@ -1022,6 +1022,34 @@
         ]
       ],
       "accent": "#F0B23C"
+    },
+    "nappr": {
+      "title": "Nappr",
+      "tag": "Power nap that wakes you before deep sleep",
+      "cat": "health",
+      "accent": "#6FB4F2",
+      "screens": [
+        [
+          "Nap 20 minutes after you fall asleep",
+          "The timer starts when your heart rate drops"
+        ],
+        [
+          "Wakes you before deep sleep",
+          "Live countdown with your resting heart rate"
+        ],
+        [
+          "A strong alarm you will notice",
+          "Vibration and tone until you press Stop"
+        ],
+        [
+          "How well did you nap?",
+          "Time to fall asleep, heart rate drop and grogginess"
+        ],
+        [
+          "Every nap in your history",
+          "Average time to fall asleep and nap length"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1060,6 +1088,7 @@
     "adapt",
     "lastpage",
     "meridia",
-    "morsetap"
+    "morsetap",
+    "nappr"
   ]
 }
