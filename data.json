@@ -4556,7 +4556,7 @@
   "rating": 5.0,
   "reviews": 8,
   "downloads": 100,
-  "version": "3.2.1",
+  "version": "3.3.0",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -4566,10 +4566,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1795168656000,
-  "whatsnew": "After picking a shortcut you can now adjust the amount with − and + before it is logged.",
+  "changed": 1795255100000,
+  "whatsnew": "On touchscreen watches, names are now typed with Garmin's own keyboard, which you can also type into from your phone.",
   "devices": 178,
-  "updates": 27
+  "updates": 28
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
