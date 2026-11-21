@@ -273,8 +273,31 @@
     },
     "reactr": {
       "title": "Reactr",
-      "tag": "Reaction-time trainer with a world ranking",
-      "cat": "sport"
+      "tag": "Reaction-time trainer with a 5-round test",
+      "cat": "sport",
+      "accent": "#FF9900",
+      "screens": [
+        [
+          "How fast are your reflexes?",
+          "Tap when the screen turns, in milliseconds"
+        ],
+        [
+          "Watch yourself get faster",
+          "Best, average and every try in one graph"
+        ],
+        [
+          "Beat your best time",
+          "Every try is rated, from slow to lightning"
+        ],
+        [
+          "The 5-round test",
+          "Your average over five tries, round by round"
+        ],
+        [
+          "See how you compare",
+          "Your best time against typical human reaction times"
+        ]
+      ]
     },
     "racecast": {
       "title": "Racecast",
@@ -1089,6 +1112,7 @@
     "lastpage",
     "meridia",
     "morsetap",
-    "nappr"
+    "nappr",
+    "reactr"
   ]
 }
