@@ -165,6 +165,37 @@
   "main": "1",
   "screens": 5
  },
+ "blueline": {
+  "circles": {
+   "1": [
+    338.2,
+    495.1,
+    226.1,
+    "GESCHAT"
+   ],
+   "2": [
+    1164.6,
+    503.3,
+    247.5,
+    "bezel+lijn"
+   ],
+   "3": [
+    364.2,
+    503.3,
+    242.0,
+    "GESCHAT"
+   ],
+   "cover": [
+    248.5,
+    232.4,
+    111.9,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "breathgym": {
   "circles": {
    "1": [

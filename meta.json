@@ -1116,6 +1116,26 @@
           "Next step only when your heart rate stays steady"
         ]
       ]
+    },
+    "blueline": {
+      "title": "Blueline",
+      "tag": "Ice hockey shifts and recovery",
+      "cat": "sport",
+      "accent": "#4EA8DE",
+      "screens": [
+        [
+          "Every shift timed on the ice",
+          "Shift length and heart rate live"
+        ],
+        [
+          "Recovery on the bench",
+          "Heart rate drop and time until you are ready"
+        ],
+        [
+          "Every period compared",
+          "Shifts, ice time and recovery per period"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1158,6 +1178,7 @@
     "nappr",
     "reactr",
     "speedometer-pro",
-    "graded"
+    "graded",
+    "blueline"
   ]
 }
