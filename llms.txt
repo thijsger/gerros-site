@@ -24,7 +24,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 ## Apps (33, all run on the watch without a phone, account or subscription)
 
 - [Caffi](https://gerros.app/apps/caffi.html): Caffeine in your body, hour by hour. Health & habits, version 3.1.0, store: https://apps.garmin.com/apps/67e8316b-2d74-46fe-abda-86ba4e7a4188. Rating 4.8/5 from 9 reviews.
-- [Sobr](https://gerros.app/apps/sobr.html): Blood-alcohol estimate with the time you drop under your limit. Health & habits, version 3.3.1, store: https://apps.garmin.com/apps/b20b6df0-5943-48bb-be5e-73b3441253d7. Rating 5.0/5 from 9 reviews.
+- [Sobr](https://gerros.app/apps/sobr.html): Blood-alcohol estimate with the time you drop under your limit. Health & habits, version 3.4.0, store: https://apps.garmin.com/apps/b20b6df0-5943-48bb-be5e-73b3441253d7. Rating 5.0/5 from 9 reviews.
 - [Fasted](https://gerros.app/apps/fasted.html): Intermittent fasting timer, from 16:8 to Ramadan. Health & habits, version 3.0.3, store: https://apps.garmin.com/apps/cec46a63-db0b-4506-b046-2a59e120d2d0. Rating 4.1/5 from 9 reviews.
 - [Cyra](https://gerros.app/apps/cyra.html): Menstrual cycle and period tracker with training suggestions. Health & habits, version 2.0.1, store: https://apps.garmin.com/apps/bb58d388-2f00-4ad2-a768-f665f372e436. Rating 3.0/5 from 2 reviews.
 - [Smokeless](https://gerros.app/apps/smokeless.html): Quit-smoking tracker with cravings and savings. Health & habits, version 2.0.1, store: https://apps.garmin.com/apps/be12dc0d-65b0-46e8-be2e-7677289ca9fe. Rating 3.4/5 from 5 reviews.

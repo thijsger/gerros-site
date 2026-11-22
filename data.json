@@ -1585,7 +1585,7 @@
    "assets/shots/nappr-3.jpg"
   ],
   "changed": 1795271043000,
-  "whatsnew": "New look: a ring that shows your nap from falling asleep to wake-up, a clearer alarm and test screen, rounded history bars and easy settings lists, with your naps and the alarm working exactly as before.",
+  "whatsnew": "Nappr now stays open during the whole nap, so the alarm and your nap log are no longer lost when the screen turns off.",
   "devices": 189,
   "updates": 9
  },
@@ -3255,7 +3255,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 10,
-  "version": "1.2.5",
+  "version": "1.3.0",
   "category": "213",
   "icon": "assets/icons/beam.png",
   "shots": [
@@ -3263,10 +3263,10 @@
    "assets/shots/beam-2.jpg",
    "assets/shots/beam-3.jpg"
   ],
-  "changed": 1793945863000,
+  "changed": 1795279192000,
   "whatsnew": "Enter values directly: type them on touch watches (e.g. 5' 7 3/8\", 5-7-3/8 or 1.2 m) or set them digit by digit with the buttons; the old steps remain under Input in the menu.",
   "devices": 178,
-  "updates": 9
+  "updates": 10
  },
  {
   "id": "acb6e144-0df2-4a0a-9860-80536e1359d2",
@@ -4556,7 +4556,7 @@
   "rating": 5.0,
   "reviews": 9,
   "downloads": 100,
-  "version": "3.3.1",
+  "version": "3.4.0",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -4566,10 +4566,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1795255917000,
+  "changed": 1795279091000,
   "whatsnew": "The graph now shows when you're under the limit and when you're sober, plus the times of your drinks, and \"Most picked\" really follows your choices again, also for drinks from the phone.",
   "devices": 178,
-  "updates": 29
+  "updates": 30
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
