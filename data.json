@@ -109,7 +109,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.2",
+  "version": "2.0.0",
   "category": "222",
   "icon": "assets/icons/graded.png",
   "shots": [
@@ -117,10 +117,10 @@
    "assets/shots/graded-2.jpg",
    "assets/shots/graded-3.jpg"
   ],
-  "changed": 1794833583000,
-  "whatsnew": "Total ascent is now saved to your activity, so it shows on the watch and in Garmin Connect, with a climb chart and ascent per lap.",
+  "changed": 1795345618000,
+  "whatsnew": "New look: a clear start screen with a Start button, - and + on the session screen, a short how-it-works guide and a list of all your sessions.",
   "devices": 185,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "f8f78c95-5682-4594-a6f9-248b4e551ff0",
@@ -638,7 +638,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.2",
   "category": "206",
   "icon": "assets/icons/blackjack.png",
@@ -1105,7 +1105,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "2.0.0",
   "category": "212",
   "icon": "assets/icons/blueline.png",
   "shots": [
@@ -1115,10 +1115,10 @@
    "assets/shots/blueline-4.jpg",
    "assets/shots/blueline-5.jpg"
   ],
-  "changed": 1795167862000,
-  "whatsnew": "Available again on older watches like fenix 5, fenix 6S, Forerunner 245/645/745/935/945, Venu, vivoactive 3/4 and MARQ.",
+  "changed": 1795345988000,
+  "whatsnew": "New look: bigger shift and bench clocks, redesigned pages and menus that work by touch, and your games and settings are kept.",
   "devices": 185,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "3505a472-7b3c-4db6-b511-a42f7b8a9692",
@@ -3578,7 +3578,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 2,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.2.3",
   "category": "219",
   "icon": "assets/icons/flexa.png",
@@ -4434,8 +4434,8 @@
   "desc": "CardVault – Cards, Tickets & 2FA\n\nWebsite: cardvault.site\n\nAll your loyalty cards, tickets and two-factor codes — right on your watch. Leave your phone in your pocket.\n\nWhat you can store\n\n• Loyalty & membership cards as scannable barcodes (EAN-13, CODE128)\n\n• Tickets, Wi-Fi and links as QR codes, drawn right on your watch\n\n• Two-factor (2FA) authentication codes with a live countdown ring (SHA-1 & SHA-256 — works with Google, GitHub, Microsoft and more)\n\nBuilt for speed\n\nOpen the app, swipe to your card, and show it at the counter, the gym, the library or the login screen. Your favourite card is always first.\n\nEasy to add — no typing\n\nAdd cards on the free companion website: scan with your camera, upload a screenshot, or import all your Google Authenticator accounts at once. Send them to your watch with a single pairing code — new cards appear automatically. Prefer no server? Paste them straight into the app settings in Garmin Connect instead.\n\nYour data stays yours\n\nEverything is processed locally. No account, no tracking. Card data used for syncing is kept for at most 30 minutes and then deleted. Lock the app with an optional PIN.\n\nManage on your watch\n\nRename cards, change their colour, mark favourites or delete them — all without your phone.\n\nWebsite: cardvault.site",
   "nl": "CardVault – Kaarten, Tickets & 2FA\n\nWebsite: cardvault.site\n\nAl je klantenkaarten, tickets en tweestapsverificatiecodes — direct op je horloge. Laat je telefoon gewoon in je zak.\n\nWat je kunt bewaren\n\n• Klanten- en lidmaatschapskaarten als scanbare barcodes (EAN-13, CODE128)\n\n• Tickets, wifi en links als QR-codes, direct op je horloge getekend\n\n• Tweestapsverificatiecodes (2FA) met een live afteltellring (SHA-1 & SHA-256 — werkt met Google, GitHub, Microsoft en meer)\n\nGemaakt voor snelheid\n\nOpen de app, veeg naar je kaart en toon 'm bij de kassa, de sportschool, de bibliotheek of het inlogscherm. Je favoriete kaart staat altijd vooraan.\n\nEenvoudig toevoegen — zonder typen\n\nVoeg kaarten toe op de gratis begeleidende website: scan met je camera, upload een screenshot, of importeer al je Google Authenticator-accounts in één keer. Stuur ze met één koppelcode naar je horloge — nieuwe kaarten verschijnen automatisch. Liever geen server? Plak ze rechtstreeks in de app-instellingen in Garmin Connect.\n\nJe gegevens blijven van jou\n\nAlles wordt lokaal verwerkt. Geen account, geen tracking. Kaartgegevens voor synchronisatie worden maximaal 30 minuten bewaard en daarna verwijderd. Vergrendel de app met een optionele pincode.\n\nBeheer op je horloge\n\nHernoem kaarten, verander hun kleur, markeer favorieten of verwijder ze — allemaal zonder je telefoon.\n\nWebsite: cardvault.site",
   "type": "2",
-  "rating": 5.0,
-  "reviews": 3,
+  "rating": 4.5,
+  "reviews": 4,
   "downloads": 100,
   "version": "1.4.0",
   "category": "213",

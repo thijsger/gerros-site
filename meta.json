@@ -1096,6 +1096,26 @@
           "Average time to fall asleep and nap length"
         ]
       ]
+    },
+    "graded": {
+      "title": "Graded",
+      "tag": "Incline treadmill walking coach",
+      "cat": "sport",
+      "accent": "#FF8A3D",
+      "screens": [
+        [
+          "Your incline walk, ready to start",
+          "12 % at 4.8 km/h for 35 minutes"
+        ],
+        [
+          "Live session on the incline",
+          "Time, speed and heart rate zone"
+        ],
+        [
+          "Build-up week by week",
+          "Next step only when your heart rate stays steady"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1137,6 +1157,7 @@
     "morsetap",
     "nappr",
     "reactr",
-    "speedometer-pro"
+    "speedometer-pro",
+    "graded"
   ]
 }
