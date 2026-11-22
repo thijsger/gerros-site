@@ -4556,7 +4556,7 @@
   "rating": 5.0,
   "reviews": 9,
   "downloads": 100,
-  "version": "3.4.0",
+  "version": "3.5.0",
   "category": "205",
   "icon": "assets/icons/sobr.png",
   "shots": [
@@ -4566,10 +4566,10 @@
    "assets/shots/sobr-4.jpg",
    "assets/shots/sobr-5.jpg"
   ],
-  "changed": 1795279091000,
-  "whatsnew": "The graph now shows when you're under the limit and when you're sober, plus the times of your drinks, and \"Most picked\" really follows your choices again, also for drinks from the phone.",
+  "changed": 1795291421000,
+  "whatsnew": "Body data can now come from your Garmin profile: the weight is always up to date and the Widmark factor is calculated personally from height, weight, age and sex (Watson formula); manual values remain available under Settings.",
   "devices": 178,
-  "updates": 30
+  "updates": 31
  },
  {
   "id": "67e8316b-2d74-46fe-abda-86ba4e7a4188",
