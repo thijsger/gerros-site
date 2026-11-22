@@ -53,7 +53,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Lastpage](https://gerros.app/apps/lastpage.html): Reading tracker with your finish date. Everyday tools, version 2.0.1, store: https://apps.garmin.com/apps/5130c288-b013-451b-bc83-dd37f1641ae2. Rating 5.0/5 from 1 reviews.
 - [Meridia](https://gerros.app/apps/meridia.html): World clock with daylight saving. Everyday tools, version 2.0.1, store: https://apps.garmin.com/apps/2bf457d8-1a2e-4cf0-8248-5d8e862d3da0. Rating 5.0/5 from 1 reviews.
 - [MorseTap](https://gerros.app/apps/morsetap.html): Learn, practise and translate Morse code. Everyday tools, version 2.0.0, store: https://apps.garmin.com/apps/0d5c42f2-903c-4428-98c6-f7ffaf674555. Rating 4.0/5 from 7 reviews.
-- [Nappr](https://gerros.app/apps/nappr.html): Power nap that wakes you before deep sleep. Health & habits, version 2.0.0, store: https://apps.garmin.com/apps/af54a959-2564-4117-8de7-7e1e90b807b5. Rating 5.0/5 from 2 reviews.
+- [Nappr](https://gerros.app/apps/nappr.html): Power nap that wakes you before deep sleep. Health & habits, version 2.0.1, store: https://apps.garmin.com/apps/af54a959-2564-4117-8de7-7e1e90b807b5. Rating 5.0/5 from 2 reviews.
 - [Reactr](https://gerros.app/apps/reactr.html): Reaction-time trainer with a 5-round test. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/b3c49541-6aba-49c8-a271-ee0a4967ee79. Rating 5.0/5 from 3 reviews.
 - [Speedometer Pro](https://gerros.app/apps/speedometer-pro.html): GPS speedometer with ten instrument faces. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/9f23b16c-4816-43e4-b467-8aac293d0d31. Rating 4.3/5 from 8 reviews.
 
