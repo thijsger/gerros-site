@@ -2942,7 +2942,7 @@
    "assets/shots/flume-3.jpg"
   ],
   "changed": 1795243038000,
-  "whatsnew": "Fixes: the swim clock now follows real time (it could fall behind) and Discard no longer leaves an activity in Garmin Connect.",
+  "whatsnew": "A new look with cleaner screens, scrolling lists, saved plans and a list of all your swims; your swims, settings and the big swim screen stay as they were.",
   "devices": 185,
   "updates": 17
  },

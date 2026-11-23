@@ -602,6 +602,37 @@
   "main": "1",
   "screens": 3
  },
+ "flume": {
+  "circles": {
+   "1": [
+    332.9,
+    503.0,
+    227.3,
+    "bezel+lijn"
+   ],
+   "2": [
+    1185.3,
+    505.5,
+    231.9,
+    "GESCHAT"
+   ],
+   "3": [
+    366.6,
+    499.9,
+    225.5,
+    "GESCHAT"
+   ],
+   "cover": [
+    250.3,
+    237.3,
+    109.0,
+    "bezel+lijn"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "graded": {
   "circles": {
    "1": [

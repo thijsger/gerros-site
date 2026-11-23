@@ -1196,6 +1196,26 @@
           "Runs, top speed and a daily goal"
         ]
       ]
+    },
+    "flume": {
+      "title": "Flume",
+      "tag": "Endless pool swim tracker",
+      "cat": "sport",
+      "accent": "#4EC3E0",
+      "screens": [
+        [
+          "Intervals in your endless pool",
+          "Rep time, distance, stroke rate and heart rate"
+        ],
+        [
+          "Your swim week",
+          "Distance against your weekly goal"
+        ],
+        [
+          "Every swim summed up",
+          "Distance and pace per 100 m"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1242,6 +1262,7 @@
     "blueline",
     "fixpoint",
     "baseline",
-    "schuss"
+    "schuss",
+    "flume"
   ]
 }
