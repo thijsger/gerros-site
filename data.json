@@ -1030,7 +1030,7 @@
   "rating": 5.0,
   "reviews": 1,
   "downloads": 100,
-  "version": "1.0.1",
+  "version": "2.0.0",
   "category": "210",
   "icon": "assets/icons/fixpoint.png",
   "shots": [
@@ -1040,10 +1040,10 @@
    "assets/shots/fixpoint-4.jpg",
    "assets/shots/fixpoint-5.jpg"
   ],
-  "changed": 1793951260000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1795383532000,
+  "whatsnew": "New look: redesigned screens and compass rose, larger text and native scrolling lists, with all your points, fixes and settings kept.",
   "devices": 182,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "2edddb99-2ff5-4837-b57f-fcf21e3271b8",
@@ -3025,7 +3025,7 @@
   "rating": 3.5,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.1.6",
+  "version": "2.0.0",
   "category": "219",
   "icon": "assets/icons/baseline.png",
   "shots": [
@@ -3033,10 +3033,10 @@
    "assets/shots/baseline-2.jpg",
    "assets/shots/baseline-3.jpg"
   ],
-  "changed": 1793945726000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1795383900000,
+  "whatsnew": "New look: a clearer day score, and every signal now says in plain words how it is doing or why it is still missing.",
   "devices": 185,
-  "updates": 8
+  "updates": 9
  },
  {
   "id": "0c2e5921-af6d-47e7-bf91-3a4899a2a752",

@@ -1136,6 +1136,26 @@
           "Shifts, ice time and recovery per period"
         ]
       ]
+    },
+    "fixpoint": {
+      "title": "Fixpoint",
+      "tag": "Position from compass bearings",
+      "cat": "tools",
+      "accent": "#F0B23C",
+      "screens": [
+        [
+          "Find where you are",
+          "From bearings on three landmarks"
+        ],
+        [
+          "Aim at a landmark",
+          "Tap to lock the bearing"
+        ],
+        [
+          "See how good the fix is",
+          "95% error ellipse and cocked hat"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1179,6 +1199,7 @@
     "reactr",
     "speedometer-pro",
     "graded",
-    "blueline"
+    "blueline",
+    "fixpoint"
   ]
 }

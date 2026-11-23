@@ -540,6 +540,37 @@
   "main": "1",
   "screens": 5
  },
+ "fixpoint": {
+  "circles": {
+   "1": [
+    343.9,
+    513.2,
+    232.5,
+    "GESCHAT"
+   ],
+   "2": [
+    1164.7,
+    502.6,
+    234.0,
+    "GESCHAT"
+   ],
+   "3": [
+    371.1,
+    495.3,
+    221.8,
+    "GESCHAT"
+   ],
+   "cover": [
+    247.6,
+    243.6,
+    119.7,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "graded": {
   "circles": {
    "1": [
