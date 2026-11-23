@@ -1216,6 +1216,26 @@
           "Distance and pace per 100 m"
         ]
       ]
+    },
+    "laddr": {
+      "title": "Laddr",
+      "tag": "Pull-up and push-up plan",
+      "cat": "sport",
+      "accent": "#FF8A3D",
+      "screens": [
+        [
+          "Your pull-up plan for today",
+          "Small sets spread through the day"
+        ],
+        [
+          "Every rep counted",
+          "Target per set with auto count"
+        ],
+        [
+          "Watch your max grow",
+          "Weekly progress and the next retest"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1263,6 +1283,7 @@
     "fixpoint",
     "baseline",
     "schuss",
-    "flume"
+    "flume",
+    "laddr"
   ]
 }

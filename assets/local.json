@@ -830,6 +830,37 @@
   "main": "1",
   "screens": 4
  },
+ "laddr": {
+  "circles": {
+   "1": [
+    350.2,
+    493.7,
+    236.0,
+    "GESCHAT"
+   ],
+   "2": [
+    1179.8,
+    487.0,
+    230.9,
+    "bezel+lijn"
+   ],
+   "3": [
+    327.1,
+    496.2,
+    223.2,
+    "GESCHAT"
+   ],
+   "cover": [
+    249.1,
+    240.3,
+    114.5,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "lastpage": {
   "circles": {
    "1": [

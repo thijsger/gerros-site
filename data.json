@@ -407,7 +407,7 @@
   "type": "2",
   "rating": 0,
   "reviews": 0,
-  "downloads": 10,
+  "downloads": 100,
   "version": "1.0.1",
   "category": "220",
   "icon": "assets/icons/thresh.png",
@@ -1677,7 +1677,7 @@
    "assets/shots/laddr-3.jpg"
   ],
   "changed": 1794241524000,
-  "whatsnew": "Exercise choice (pull-ups, push-ups, dips) is now easy to find: you pick it at first start, and a new Menu page gives access to exercise, plan and settings on every watch.",
+  "whatsnew": "New look with a guided first start (exercise, program, max), clear + and − buttons during a set, your max entered with − and +, and a How it works guide.",
   "devices": 189,
   "updates": 6
  },
@@ -1760,7 +1760,7 @@
   "rating": 2.3,
   "reviews": 3,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "2.0.0",
   "category": "219",
   "icon": "assets/icons/oneira.png",
   "shots": [
@@ -1768,10 +1768,10 @@
    "assets/shots/oneira-2.jpg",
    "assets/shots/oneira-3.jpg"
   ],
-  "changed": 1794171162000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "changed": 1795397961000,
+  "whatsnew": "New look and a key fix: Oneira now keeps itself open all night so the cues can reach you, with a clear first-start guide and a cue test before you sleep.",
   "devices": 189,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "2a619a51-4b35-4758-ad6a-1ed2bfa3a518",
@@ -2818,7 +2818,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.4",
+  "version": "2.0.0",
   "category": "212",
   "icon": "assets/icons/schuss.png",
   "shots": [
@@ -2826,10 +2826,10 @@
    "assets/shots/schuss-2.jpg",
    "assets/shots/schuss-3.jpg"
   ],
-  "changed": 1794177227000,
+  "changed": 1795385128000,
   "whatsnew": "New look: redesigned screens with bigger numbers, a scrolling menu that is easy to use with gloves and a clearer glance; your ski days and records stay as they were.",
   "devices": 159,
-  "updates": 5
+  "updates": 6
  },
  {
   "id": "1bebbca2-3389-4b1f-968d-d24553c1dd96",
@@ -2933,7 +2933,7 @@
   "rating": 5.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.3.1",
+  "version": "2.0.0",
   "category": "221",
   "icon": "assets/icons/flume.png",
   "shots": [
@@ -2941,10 +2941,10 @@
    "assets/shots/flume-2.jpg",
    "assets/shots/flume-3.jpg"
   ],
-  "changed": 1795243038000,
+  "changed": 1795385846000,
   "whatsnew": "A new look with cleaner screens, scrolling lists, saved plans and a list of all your swims; your swims, settings and the big swim screen stay as they were.",
   "devices": 185,
-  "updates": 17
+  "updates": 18
  },
  {
   "id": "7a4a7d3f-f01d-4b6d-b994-abee4b7e47e2",
@@ -3578,7 +3578,7 @@
   "type": "2",
   "rating": 5.0,
   "reviews": 2,
-  "downloads": 100,
+  "downloads": 10,
   "version": "1.2.3",
   "category": "219",
   "icon": "assets/icons/flexa.png",
