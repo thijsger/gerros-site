@@ -2827,7 +2827,7 @@
    "assets/shots/schuss-3.jpg"
   ],
   "changed": 1794177227000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New look: redesigned screens with bigger numbers, a scrolling menu that is easy to use with gloves and a clearer glance; your ski days and records stay as they were.",
   "devices": 159,
   "updates": 5
  },
@@ -4437,7 +4437,7 @@
   "rating": 4.5,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.4.0",
+  "version": "1.4.1",
   "category": "213",
   "icon": "assets/icons/cardvault.png",
   "shots": [
@@ -4447,10 +4447,10 @@
    "assets/shots/cardvault-4.jpg",
    "assets/shots/cardvault-5.jpg"
   ],
-  "changed": 1794834994000,
-  "whatsnew": "A fresh new look: cleaner screens, larger numbers and redesigned menus with smooth native scrolling.",
+  "changed": 1795384822000,
+  "whatsnew": "The code screen stays on and bright again while it is open, also when you turn your wrist towards a scanner.",
   "devices": 64,
-  "updates": 13
+  "updates": 14
  },
  {
   "id": "2f0cb757-209f-4c24-bf73-c5ec56863d70",

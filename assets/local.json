@@ -1137,6 +1137,37 @@
   "main": "1",
   "screens": 4
  },
+ "schuss": {
+  "circles": {
+   "1": [
+    354.7,
+    497.2,
+    220.8,
+    "GESCHAT"
+   ],
+   "2": [
+    1161.7,
+    502.0,
+    241.3,
+    "bezel+lijn"
+   ],
+   "3": [
+    349.1,
+    505.3,
+    229.6,
+    "GESCHAT"
+   ],
+   "cover": [
+    248.6,
+    236.2,
+    115.2,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "shiftpay": {
   "circles": {
    "1": [

@@ -1176,6 +1176,26 @@
           "Each day on or off your baseline"
         ]
       ]
+    },
+    "schuss": {
+      "title": "Schuss",
+      "tag": "Ski and snowboard tracker",
+      "cat": "sport",
+      "accent": "#FAA924",
+      "screens": [
+        [
+          "Live speed on every run",
+          "Drop, time and runs until the last lift"
+        ],
+        [
+          "Lifts are recognised on their own",
+          "Climb, ride time and lift speed"
+        ],
+        [
+          "Your day in vertical metres",
+          "Runs, top speed and a daily goal"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1221,6 +1241,7 @@
     "graded",
     "blueline",
     "fixpoint",
-    "baseline"
+    "baseline",
+    "schuss"
   ]
 }
