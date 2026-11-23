@@ -1156,6 +1156,26 @@
           "95% error ellipse and cocked hat"
         ]
       ]
+    },
+    "baseline": {
+      "title": "Baseline",
+      "tag": "Daily check of six health signals",
+      "cat": "health",
+      "accent": "#5AB4F0",
+      "screens": [
+        [
+          "Your daily check",
+          "Six health signals against your usual"
+        ],
+        [
+          "Six signals at a glance",
+          "Heart rate, stress, Body Battery, sleep and oxygen"
+        ],
+        [
+          "Your last four weeks",
+          "Each day on or off your baseline"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1200,6 +1220,7 @@
     "speedometer-pro",
     "graded",
     "blueline",
-    "fixpoint"
+    "fixpoint",
+    "baseline"
   ]
 }

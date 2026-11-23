@@ -165,6 +165,37 @@
   "main": "1",
   "screens": 5
  },
+ "baseline": {
+  "circles": {
+   "1": [
+    363.5,
+    504.8,
+    225.2,
+    "GESCHAT"
+   ],
+   "2": [
+    1176.2,
+    509.4,
+    240.6,
+    "bezel+lijn"
+   ],
+   "3": [
+    330.5,
+    507.7,
+    233.1,
+    "GESCHAT"
+   ],
+   "cover": [
+    248.3,
+    238.3,
+    117.7,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "blueline": {
   "circles": {
    "1": [
