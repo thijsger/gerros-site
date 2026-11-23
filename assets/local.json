@@ -1076,6 +1076,37 @@
   "main": "1",
   "screens": 5
  },
+ "oneira": {
+  "circles": {
+   "1": [
+    359.1,
+    505.3,
+    217.8,
+    "GESCHAT"
+   ],
+   "2": [
+    1180.1,
+    492.6,
+    236.1,
+    "GESCHAT"
+   ],
+   "3": [
+    344.6,
+    492.4,
+    220.9,
+    "GESCHAT"
+   ],
+   "cover": [
+    247.6,
+    238.7,
+    113.6,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "racecast": {
   "circles": {
    "1": [

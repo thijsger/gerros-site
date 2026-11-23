@@ -1236,6 +1236,26 @@
           "Weekly progress and the next retest"
         ]
       ]
+    },
+    "oneira": {
+      "title": "Oneira",
+      "tag": "Lucid dream cues",
+      "cat": "health",
+      "accent": "#A594FF",
+      "screens": [
+        [
+          "Cues while you dream",
+          "Soft vibrations in likely REM sleep"
+        ],
+        [
+          "Your night at a glance",
+          "Estimated REM, cues given and time asleep"
+        ],
+        [
+          "Find your cue strength",
+          "Felt in the dream, without waking you"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1284,6 +1304,7 @@
     "baseline",
     "schuss",
     "flume",
-    "laddr"
+    "laddr",
+    "oneira"
   ]
 }

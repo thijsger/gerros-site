@@ -1668,7 +1668,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "1.0.5",
+  "version": "2.0.0",
   "category": "277",
   "icon": "assets/icons/laddr.png",
   "shots": [
@@ -1676,10 +1676,10 @@
    "assets/shots/laddr-2.jpg",
    "assets/shots/laddr-3.jpg"
   ],
-  "changed": 1794241524000,
+  "changed": 1795397852000,
   "whatsnew": "New look with a guided first start (exercise, program, max), clear + and − buttons during a set, your max entered with − and +, and a How it works guide.",
   "devices": 189,
-  "updates": 6
+  "updates": 7
  },
  {
   "id": "887525cf-b0c0-42ea-85f9-1acb25b29120",
