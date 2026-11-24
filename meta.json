@@ -773,6 +773,10 @@
           "Period forecast from your own history"
         ],
         [
+          "Know when to change",
+          "A timer for your product, then a reminder"
+        ],
+        [
           "Last night against your usual",
           "Heart rate, stress and Body Battery per phase"
         ],
@@ -783,10 +787,6 @@
         [
           "Log flow and symptoms",
           "Correct any day on the watch"
-        ],
-        [
-          "Your cycle lengths",
-          "Median, spread and days of bleeding"
         ]
       ]
     },

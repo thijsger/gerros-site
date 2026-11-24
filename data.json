@@ -277,7 +277,7 @@
    "assets/shots/tidewell-3.jpg"
   ],
   "changed": 1794176112000,
-  "whatsnew": "Now available in 16 languages, including Italian, Polish, Portuguese, Czech, Swedish, Danish, Norwegian, Finnish, Japanese, Korean and Chinese.",
+  "whatsnew": "New Text size setting (Normal, Large, Extra large) that makes the time, the fields and the tide times on the curve bigger, on the watch and in the phone settings.",
   "devices": 111,
   "updates": 3
  },
@@ -3531,7 +3531,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.0.1",
+  "version": "2.1.0",
   "category": "219",
   "icon": "assets/icons/cyra.png",
   "shots": [
@@ -3541,10 +3541,10 @@
    "assets/shots/cyra-4.jpg",
    "assets/shots/cyra-5.jpg"
   ],
-  "changed": 1794835450000,
+  "changed": 1795452949000,
   "whatsnew": "New Products page: pick your pad, liner, tampon, cup, disc or period underwear and its absorbency, tap Changed, and Cyra counts down to the next change with a reminder, a change log and adjustable times per product.",
   "devices": 174,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
