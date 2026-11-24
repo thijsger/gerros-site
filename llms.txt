@@ -63,7 +63,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Schuss](https://gerros.app/apps/schuss.html): Ski and snowboard tracker. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/542eec60-a9f7-47d8-9037-49a0c1221959. Rating 3.0/5 from 2 reviews.
 - [Flume](https://gerros.app/apps/flume.html): Endless pool swim tracker. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/d555d45f-cc9c-4229-85d7-4ce515f8c534. Rating 5.0/5 from 2 reviews.
 - [Laddr](https://gerros.app/apps/laddr.html): Pull-up and push-up plan. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/7565fe42-c64b-41f2-a3d5-bd76fba0cb9c. Rating 3.0/5 from 2 reviews.
-- [Oneira](https://gerros.app/apps/oneira.html): Lucid dream cues. Health & habits, version 2.0.0, store: https://apps.garmin.com/apps/ff34fbc8-34f5-4142-9065-16d6679c0fc3. Rating 2.3/5 from 4 reviews.
+- [Oneira](https://gerros.app/apps/oneira.html): Lucid dream cues. Health & habits, version 2.1.0, store: https://apps.garmin.com/apps/ff34fbc8-34f5-4142-9065-16d6679c0fc3. Rating 2.3/5 from 4 reviews.
 
 ## Pages
 
