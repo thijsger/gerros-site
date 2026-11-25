@@ -1413,6 +1413,28 @@
           "Your daily steps raise the multiplier"
         ]
       ]
+    },
+    "offpeak": {
+      "title": "Offpeak",
+      "tag": "Cheapest time to run appliances",
+      "cat": "money",
+      "id": "235ff735-ad5e-44df-ad52-86f01afbd7fe",
+      "pending": true,
+      "accent": "#3DDC84",
+      "screens": [
+        [
+          "Power price right now",
+          "And the cheapest start for your dishwasher"
+        ],
+        [
+          "Best start for each appliance",
+          "And how much it saves"
+        ],
+        [
+          "Prices for the next 24 hours",
+          "The lowest and highest hour"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1469,6 +1491,7 @@
     "treadset",
     "sledline",
     "loyly",
-    "stepcrop"
+    "stepcrop",
+    "offpeak"
   ]
 }

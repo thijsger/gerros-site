@@ -1138,6 +1138,37 @@
   "main": "1",
   "screens": 5
  },
+ "offpeak": {
+  "circles": {
+   "1": [
+    364.3,
+    484.8,
+    252.9,
+    "GESCHAT"
+   ],
+   "2": [
+    1135.8,
+    491.8,
+    269.9,
+    "bezel+lijn"
+   ],
+   "3": [
+    361.1,
+    481.5,
+    246.4,
+    "GESCHAT"
+   ],
+   "cover": [
+    249.3,
+    243.1,
+    90.5,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "oneira": {
   "circles": {
    "1": [
