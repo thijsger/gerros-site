@@ -1347,6 +1347,28 @@
           "Distance or time per rep"
         ]
       ]
+    },
+    "sledline": {
+      "title": "Sledline",
+      "tag": "HYROX-style race pacing",
+      "cat": "sport",
+      "id": "d553ee86-1c94-4398-9bf9-2e02b53794d1",
+      "pending": true,
+      "accent": "#FFD60A",
+      "screens": [
+        [
+          "A target for every station",
+          "Pace per lane, live finish time"
+        ],
+        [
+          "Plan from your goal time",
+          "Run pace for your division"
+        ],
+        [
+          "Runs, stations and Roxzone",
+          "The goal split into every part"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1400,6 +1422,7 @@
     "powcast",
     "bender",
     "pillyr",
-    "treadset"
+    "treadset",
+    "sledline"
   ]
 }

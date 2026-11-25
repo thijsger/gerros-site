@@ -1397,6 +1397,37 @@
   "main": "1",
   "screens": 4
  },
+ "sledline": {
+  "circles": {
+   "1": [
+    352.2,
+    508.7,
+    237.6,
+    "bezel+lijn"
+   ],
+   "2": [
+    1166.9,
+    504.5,
+    234.7,
+    "GESCHAT"
+   ],
+   "3": [
+    333.4,
+    513.0,
+    229.6,
+    "GESCHAT"
+   ],
+   "cover": [
+    249.1,
+    244.6,
+    117.4,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "smokeless": {
   "circles": {
    "1": [
