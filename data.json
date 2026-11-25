@@ -1990,7 +1990,7 @@
   "rating": 3.8,
   "reviews": 4,
   "downloads": 100,
-  "version": "1.2.1",
+  "version": "1.2.2",
   "category": "219",
   "icon": "assets/icons/vagal.png",
   "shots": [
@@ -1998,10 +1998,10 @@
    "assets/shots/vagal-2.jpg",
    "assets/shots/vagal-3.jpg"
   ],
-  "changed": 1794918721000,
+  "changed": 1795618346000,
   "whatsnew": "New Week setting: keep the rolling 7-day total or reset every calendar week from Monday or Sunday, with the days left shown on the home screen and the glance following your choice.",
   "devices": 186,
-  "updates": 11
+  "updates": 12
  },
  {
   "id": "703a9bcc-7034-4447-9105-8ed408166a64",
@@ -3554,7 +3554,7 @@
   "rating": 3.0,
   "reviews": 2,
   "downloads": 100,
-  "version": "2.1.0",
+  "version": "2.1.1",
   "category": "219",
   "icon": "assets/icons/cyra.png",
   "shots": [
@@ -3564,10 +3564,10 @@
    "assets/shots/cyra-4.jpg",
    "assets/shots/cyra-5.jpg"
   ],
-  "changed": 1795452949000,
+  "changed": 1795618540000,
   "whatsnew": "Products: undo an accidental Changed within 5 minutes, and delete a change or adjust its time in the change log, with the timer and reminder following along.",
   "devices": 174,
-  "updates": 12
+  "updates": 13
  },
  {
   "id": "814a3e75-b2a4-4b8a-9519-4ee1b7bf8d69",
@@ -4741,6 +4741,25 @@
   "changed": 1795639792184,
   "whatsnew": "",
   "devices": 106,
+  "updates": 1
+ },
+ {
+  "id": "2d849dac-5ab4-44e9-a4ab-8ce0ae4ec98b",
+  "slug": "loyly",
+  "name": "Loyly - Sauna and cold plunge rounds",
+  "desc": "Loyly times sauna, cold plunge and rest in one session, round after round, and works out what the minutes in between mean. Press START to move from heat to cold to rest; the buttons do everything, so wet fingers and a locked touchscreen are no problem. One free app, no subscription.\n\nWhile you sit in the heat, Loyly estimates your core temperature from your heart rate (the Kalman filter of Buller et al., 2013) and turns it into the Physiological Strain Index from 0 to 10 (Moran et al., 1998). In the rest it fits your heart rate recovery curve and suggests when you are ready for the next round. In the cold it measures your cold shock, the rise in heart rate in the first 30 seconds, and shows how it changes over the weeks. Your weekly minutes of heat and cold are kept against a goal (57 and 11 minutes, from Søberg et al., 2021) with a suggestion for the days that are left.\n\nWHAT IT DOES\nSauna, cold and rest rounds in one session with a plan for rounds and minutes. Start with sauna or with cold. Buzz at the end of each phase and when your heart rate has recovered. Strain index and estimated core temperature live, with an optional buzz at a level you choose. Undo a phase switch with BACK within 15 seconds. Automatic switch to cold and rest on the watch temperature sensor, where the watch has one. Heart rate graph and round table during the session. Summary with sauna and water temperature in °C or °F (up to 120 °C / 248 °F). Saved as an activity in Garmin Connect with strain, core estimate, rounds and cold shock in the charts. Week page, 8-week trend, cold shock trend and recovery trend. History with editing and deleting, sessions added afterwards, adjustable week goals, and a glance with this week's minutes. 16 languages.\n\nWHAT IT NEEDS\nA Garmin watch with wrist heart rate. The temperature sensor is optional. Loyly is not a medical device and gives no safety advice. Watches are not made for sauna heat: use at your own risk and listen to your body.",
+  "nl": "Loyly houdt sauna, koud bad en rust bij in één sessie, ronde na ronde, en rekent uit wat de minuten ertussen betekenen. Met START ga je van warm naar koud naar rust; alles werkt met de knoppen, dus natte vingers en een uitgeschakeld touchscreen zijn geen probleem. Eén gratis app, geen abonnement.\n\nTerwijl je in de warmte zit, schat Loyly je kerntemperatuur uit je hartslag (het Kalman-filter van Buller e.a., 2013) en maakt daar de Physiological Strain Index van 0 tot 10 van (Moran e.a., 1998). In de rust past het je hartslagherstel aan een curve en stelt voor wanneer je klaar bent voor de volgende ronde. In het koude water meet het je koudeshock, de stijging van je hartslag in de eerste 30 seconden, en laat zien hoe die over de weken verandert. Je weekminuten warm en koud worden bijgehouden tegen een doel (57 en 11 minuten, uit Søberg e.a., 2021) met een voorstel voor de dagen die over zijn.\n\nWAT HET DOET\nRondes sauna, koud en rust in één sessie met een plan voor rondes en minuten. Begin met sauna of met koud. Trillen aan het eind van elke fase en wanneer je hartslag hersteld is. Belastingsindex en geschatte kerntemperatuur live, met een optioneel trilsignaal op een niveau naar keuze. Een fasewissel maak je binnen 15 seconden ongedaan met TERUG. Automatisch naar koud en rust op de temperatuursensor van het horloge, als het horloge die heeft. Hartslaggrafiek en rondetabel tijdens de sessie. Samenvatting met sauna- en watertemperatuur in °C of °F (tot 120 °C / 248 °F). Opgeslagen als activiteit in Garmin Connect met belasting, kernschatting, rondes en koudeshock in de grafieken. Weekpagina, trend over 8 weken, koudeshocktrend en hersteltrend. Geschiedenis met aanpassen en verwijderen, sessies achteraf toevoegen, instelbare weekdoelen en een glance met de minuten van deze week. 16 talen.\n\nWAT HET NODIG HEEFT\nEen Garmin-horloge met hartslag aan de pols. De temperatuursensor is optioneel. Loyly is geen medisch hulpmiddel en geeft geen veiligheidsadvies. Horloges zijn niet gemaakt voor saunahitte: gebruik op eigen risico en luister naar je lichaam.",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/loyly.png",
+  "shots": [],
+  "changed": 1795641209310,
+  "whatsnew": "",
+  "devices": 104,
   "updates": 1
  }
 ]
