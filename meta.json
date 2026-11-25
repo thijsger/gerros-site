@@ -1282,6 +1282,28 @@
           "ECMWF, GFS and ICON side by side"
         ]
       ]
+    },
+    "bender": {
+      "title": "Bender",
+      "tag": "Conduit bending marks",
+      "cat": "tools",
+      "id": "694cfa85-0920-4cc0-9c91-3552e63ec8f2",
+      "pending": true,
+      "accent": "#F2B441",
+      "screens": [
+        [
+          "Offset bends",
+          "Distance between marks and shrink"
+        ],
+        [
+          "Every mark in order",
+          "Angle, bender arrow and when to rotate"
+        ],
+        [
+          "Bend to the angle",
+          "The watch buzzes on target"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1332,6 +1354,7 @@
     "flume",
     "laddr",
     "oneira",
-    "powcast"
+    "powcast",
+    "bender"
   ]
 }
