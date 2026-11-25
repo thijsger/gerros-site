@@ -1113,6 +1113,37 @@
   "main": "1",
   "screens": 4
  },
+ "powcast": {
+  "circles": {
+   "1": [
+    351.4,
+    514.6,
+    240.6,
+    "GESCHAT"
+   ],
+   "2": [
+    1164.0,
+    505.7,
+    237.8,
+    "GESCHAT"
+   ],
+   "3": [
+    369.6,
+    516.6,
+    231.1,
+    "GESCHAT"
+   ],
+   "cover": [
+    249.0,
+    248.1,
+    116.2,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "racecast": {
   "circles": {
    "1": [

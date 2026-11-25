@@ -1260,6 +1260,28 @@
           "Felt in the dream, without waking you"
         ]
       ]
+    },
+    "powcast": {
+      "title": "Powcast",
+      "tag": "Snow forecast and powder score",
+      "cat": "sport",
+      "id": "432da6e6-76d4-42cd-815c-afbb00c81079",
+      "pending": true,
+      "accent": "#8FD3FF",
+      "screens": [
+        [
+          "Fresh snow today",
+          "Powder score from 0 to 10"
+        ],
+        [
+          "Seven days of snow",
+          "Top and base, best day marked"
+        ],
+        [
+          "Three weather models",
+          "ECMWF, GFS and ICON side by side"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1309,6 +1331,7 @@
     "schuss",
     "flume",
     "laddr",
-    "oneira"
+    "oneira",
+    "powcast"
   ]
 }
