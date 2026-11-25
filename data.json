@@ -1999,7 +1999,7 @@
    "assets/shots/vagal-3.jpg"
   ],
   "changed": 1794918721000,
-  "whatsnew": "Fixed: tapping 'Tap to breathe' on the RMSSD and coherence pages now starts a session. Menus during a session respond faster; Discard is now the default when stopping a test.",
+  "whatsnew": "New Week setting: keep the rolling 7-day total or reset every calendar week from Monday or Sunday, with the days left shown on the home screen and the glance following your choice.",
   "devices": 186,
   "updates": 11
  },
@@ -3565,7 +3565,7 @@
    "assets/shots/cyra-5.jpg"
   ],
   "changed": 1795452949000,
-  "whatsnew": "New Products page: pick your pad, liner, tampon, cup, disc or period underwear and its absorbency, tap Changed, and Cyra counts down to the next change with a reminder, a change log and adjustable times per product.",
+  "whatsnew": "Products: undo an accidental Changed within 5 minutes, and delete a change or adjust its time in the change log, with the timer and reminder following along.",
   "devices": 174,
   "updates": 12
  },
