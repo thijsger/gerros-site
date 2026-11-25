@@ -1705,6 +1705,37 @@
   "main": "1",
   "screens": 4
  },
+ "stepcrop": {
+  "circles": {
+   "1": [
+    351.2,
+    497.0,
+    197.4,
+    "GESCHAT"
+   ],
+   "2": [
+    1176.5,
+    493.4,
+    212.2,
+    "GESCHAT"
+   ],
+   "3": [
+    357.9,
+    512.3,
+    214.1,
+    "GESCHAT"
+   ],
+   "cover": [
+    249.4,
+    244.6,
+    122.2,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "stepwise": {
   "circles": {
    "1": [

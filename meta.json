@@ -1391,6 +1391,28 @@
           "Average, max and heat strain"
         ]
       ]
+    },
+    "stepcrop": {
+      "title": "Stepcrop",
+      "tag": "Idle farm powered by your steps",
+      "cat": "games",
+      "id": "efbd6817-848f-42fa-b710-caf2896d3ae4",
+      "pending": true,
+      "accent": "#7BD650",
+      "screens": [
+        [
+          "A farm that grows as you walk",
+          "Every step is harvest"
+        ],
+        [
+          "The advisor picks your next buy",
+          "What pays back in the fewest steps"
+        ],
+        [
+          "More steps, bigger harvest",
+          "Your daily steps raise the multiplier"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1446,6 +1468,7 @@
     "pillyr",
     "treadset",
     "sledline",
-    "loyly"
+    "loyly",
+    "stepcrop"
   ]
 }
