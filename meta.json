@@ -1325,6 +1325,28 @@
           "Doses taken over 7 or 30 days"
         ]
       ]
+    },
+    "treadset": {
+      "title": "Treadset",
+      "tag": "Treadmill runs at belt speed",
+      "cat": "sport",
+      "id": "e2e72d9c-12a7-4053-bd79-5fa0fa6ea30c",
+      "pending": true,
+      "accent": "#FF6B4A",
+      "screens": [
+        [
+          "Set the belt speed",
+          "Distance and pace follow the treadmill"
+        ],
+        [
+          "Changed the belt?",
+          "It suggests the new speed from your cadence"
+        ],
+        [
+          "Interval workouts",
+          "Distance or time per rep"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1377,6 +1399,7 @@
     "oneira",
     "powcast",
     "bender",
-    "pillyr"
+    "pillyr",
+    "treadset"
   ]
 }

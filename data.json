@@ -4704,5 +4704,24 @@
   "whatsnew": "",
   "devices": 106,
   "updates": 1
+ },
+ {
+  "id": "e2e72d9c-12a7-4053-bd79-5fa0fa6ea30c",
+  "slug": "treadset",
+  "name": "Treadset - Treadmill runs at belt speed",
+  "desc": "Treadset measures your treadmill run from the belt, not from your wrist. Set the speed the treadmill runs at with two buttons and distance, pace and splits follow from it to the metre, so a tempo run at 14.9 km/h finally shows 14.9 km/h instead of whatever the arm swing guessed.\nAfter a minute at two speeds Treadset knows your own cadence curve. Changed the belt and forgot the watch? It notices the new cadence, suggests the speed (\"12.0?\") and one press rewrites the distance from that moment. Is the treadmill itself off? Time a tape mark on the belt and every metre is corrected.\nWHAT IT DOES\nSpeed and incline with UP/DOWN or swipes, START switches between them. Free run, intervals by distance or time, progression runs and goal pace (pick a race distance and a time, Treadset works out the belt speed). Steps change on their own with a vibration and \"Set the belt to 15.0 km/h\". Splits per km or mile, laps per km or per step. Outdoor pace for the same effort on a flat road (no air resistance on the belt: the 1% rule of Jones and Doust, incline cost from Minetti). Calories from the ACSM running equation. Undo a mistaken press, keep running after an accidental stop. Week ring with a weekly distance goal, last 7 and 30 days, 8-week trend, splits of the last run, full history to edit, delete or add runs. km or miles, 16 languages. Glance with this week's distance. Saved as a treadmill run with belt distance, belt speed, incline and outdoor equivalent in Garmin Connect.\nWHAT IT NEEDS\nA watch with buttons or a touchscreen; heart rate and cadence come from the watch when available. Treadset cannot run Garmin Coach workouts. Garmin Connect also keeps its own wrist-based distance next to the Treadset fields.",
+  "nl": "Treadset meet je loopbandloop aan de band, niet aan je pols. Zet met twee knoppen de snelheid waarop de band draait en afstand, tempo en splits volgen daaruit, op de meter. Een tempoloop op 14,9 km/u staat dan eindelijk ook als 14,9 km/u op je horloge.\nNa een minuut op twee snelheden kent Treadset jouw eigen cadanscurve. Band verzet en het horloge vergeten? Hij merkt de nieuwe cadans, stelt de snelheid voor (\"12.0?\") en één druk herschrijft de afstand vanaf dat moment. Wijkt de loopband zelf af? Klok een streepje tape op de band en elke meter wordt gecorrigeerd.\nWAT HET DOET\nSnelheid en helling met OMHOOG/OMLAAG of vegen, START wisselt ertussen. Vrij lopen, intervallen op afstand of tijd, opbouwlopen en doeltempo (kies een wedstrijdafstand en een tijd, Treadset rekent de bandsnelheid uit). Stappen wisselen vanzelf met een trilling en \"Zet de band op 15.0 km/h\". Splits per km of mijl, rondes per km of per stap. Buitentempo voor dezelfde inspanning op een vlakke weg (geen luchtweerstand op de band: de 1%-regel van Jones en Doust, hellingkosten volgens Minetti). Calorieën met de ACSM-loopformule. Een verkeerde druk terugzetten, doorlopen na een per ongeluk gestopte loop. Weekring met een weekdoel in kilometers, laatste 7 en 30 dagen, trend over 8 weken, splits van de laatste loop, volledige geschiedenis om loopjes te wijzigen, te verwijderen of toe te voegen. Km of mijl, 16 talen. Glance met de afstand van deze week. Opgeslagen als loopbandactiviteit met bandafstand, bandsnelheid, helling en buiten-equivalent in Garmin Connect.\nWAT HET NODIG HEEFT\nEen horloge met knoppen of een touchscreen; hartslag en cadans komen van het horloge als die er zijn. Treadset kan geen Garmin Coach-trainingen draaien. Garmin Connect toont naast de Treadset-velden ook zijn eigen afstand uit de pols.",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "220",
+  "icon": "assets/icons/treadset.png",
+  "shots": [],
+  "changed": 1795626198306,
+  "whatsnew": "",
+  "devices": 106,
+  "updates": 1
  }
 ]

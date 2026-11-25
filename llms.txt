@@ -21,7 +21,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 **How is the price built up?** From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.
 **Do you do NDAs and invoices?** Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.
 
-## Apps (44, all run on the watch without a phone, account or subscription)
+## Apps (45, all run on the watch without a phone, account or subscription)
 
 - [Caffi](https://gerros.app/apps/caffi.html): Caffeine in your body, hour by hour. Health & habits, version 3.1.0, store: https://apps.garmin.com/apps/67e8316b-2d74-46fe-abda-86ba4e7a4188. Rating 4.8/5 from 9 reviews.
 - [Sobr](https://gerros.app/apps/sobr.html): Blood-alcohol estimate with the time you drop under your limit. Health & habits, version 3.5.0, store: https://apps.garmin.com/apps/b20b6df0-5943-48bb-be5e-73b3441253d7. Rating 5.0/5 from 9 reviews.
@@ -67,6 +67,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Powcast](https://gerros.app/apps/powcast.html): Snow forecast and powder score. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/432da6e6-76d4-42cd-815c-afbb00c81079. Status: in review.
 - [Bender](https://gerros.app/apps/bender.html): Conduit bending marks. Everyday tools, version 1.0.0, store: https://apps.garmin.com/apps/694cfa85-0920-4cc0-9c91-3552e63ec8f2. Status: in review.
 - [Pillyr](https://gerros.app/apps/pillyr.html): Medication reminders and refills. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/cf6073c6-3ebc-4a26-ba8a-93e2811fb3cb. Rating in the Connect IQ Store.
+- [Treadset](https://gerros.app/apps/treadset.html): Treadmill runs at belt speed. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/e2e72d9c-12a7-4053-bd79-5fa0fa6ea30c. Status: in review.
 
 ## Pages
 
