@@ -1304,6 +1304,27 @@
           "The watch buzzes on target"
         ]
       ]
+    },
+    "pillyr": {
+      "title": "Pillyr",
+      "tag": "Medication reminders and refills",
+      "cat": "health",
+      "id": "cf6073c6-3ebc-4a26-ba8a-93e2811fb3cb",
+      "accent": "#5FD6AE",
+      "screens": [
+        [
+          "Your doses for today",
+          "A reminder when each one is due"
+        ],
+        [
+          "Know when to refill",
+          "Stock counts down with every dose"
+        ],
+        [
+          "See how you kept up",
+          "Doses taken over 7 or 30 days"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1355,6 +1376,7 @@
     "laddr",
     "oneira",
     "powcast",
-    "bender"
+    "bender",
+    "pillyr"
   ]
 }
