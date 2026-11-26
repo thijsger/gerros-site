@@ -1354,6 +1354,37 @@
   "main": "1",
   "screens": 5
  },
+ "reload": {
+  "circles": {
+   "1": [
+    361.9,
+    502.0,
+    232.5,
+    "GESCHAT"
+   ],
+   "2": [
+    1166.7,
+    522.7,
+    242.3,
+    "GESCHAT"
+   ],
+   "3": [
+    350.5,
+    512.9,
+    234.3,
+    "GESCHAT"
+   ],
+   "cover": [
+    248.1,
+    247.6,
+    122.9,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "remindersplus": {
   "circles": {
    "1": [

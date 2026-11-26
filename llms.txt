@@ -21,7 +21,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 **How is the price built up?** From the hours the brief needs: screens, features, devices and languages. You get one fixed price for the whole scope before anything is built, so the risk of overrun is mine, not yours.
 **Do you do NDAs and invoices?** Yes. GerrOS is a registered Dutch company; you get a proper invoice, VAT reverse-charged for EU businesses.
 
-## Apps (49, all run on the watch without a phone, account or subscription)
+## Apps (50, all run on the watch without a phone, account or subscription)
 
 - [Caffi](https://gerros.app/apps/caffi.html): Caffeine in your body, hour by hour. Health & habits, version 3.1.0, store: https://apps.garmin.com/apps/67e8316b-2d74-46fe-abda-86ba4e7a4188. Rating 4.8/5 from 9 reviews.
 - [Sobr](https://gerros.app/apps/sobr.html): Blood-alcohol estimate with the time you drop under your limit. Health & habits, version 3.5.0, store: https://apps.garmin.com/apps/b20b6df0-5943-48bb-be5e-73b3441253d7. Rating 5.0/5 from 9 reviews.
@@ -72,6 +72,7 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Loyly](https://gerros.app/apps/loyly.html): Sauna and cold plunge rounds. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/2d849dac-5ab4-44e9-a4ab-8ce0ae4ec98b. Rating in the Connect IQ Store.
 - [Stepcrop](https://gerros.app/apps/stepcrop.html): Idle farm powered by your steps. Games & puzzles, version 1.0.0, store: https://apps.garmin.com/apps/efbd6817-848f-42fa-b710-caf2896d3ae4. Status: in review.
 - [Offpeak](https://gerros.app/apps/offpeak.html): Cheapest time to run appliances. Money & work, version 1.0.0, store: https://apps.garmin.com/apps/235ff735-ad5e-44df-ad52-86f01afbd7fe. Status: in review.
+- [Reload](https://gerros.app/apps/reload.html): Tendon load coach. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/9c8d2ec3-744a-4134-8d29-55dd09de5ac0. Status: in review.
 
 ## Pages
 

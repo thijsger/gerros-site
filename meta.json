@@ -1430,6 +1430,28 @@
           "The lowest and highest hour"
         ]
       ]
+    },
+    "reload": {
+      "title": "Reload",
+      "tag": "Tendon load coach",
+      "cat": "health",
+      "id": "9c8d2ec3-744a-4134-8d29-55dd09de5ac0",
+      "pending": true,
+      "accent": "#33C9C0",
+      "screens": [
+        [
+          "Today’s session",
+          "Sets, load and tempo for this week"
+        ],
+        [
+          "Timed isometric holds",
+          "Load and time for every hold"
+        ],
+        [
+          "Pain score sets the next step",
+          "During, after and the next morning"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1487,6 +1509,7 @@
     "sledline",
     "loyly",
     "stepcrop",
-    "offpeak"
+    "offpeak",
+    "reload"
   ]
 }

@@ -823,7 +823,7 @@
   "rating": 4.7,
   "reviews": 3,
   "downloads": 10,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "172",
   "icon": "assets/icons/tickdown.png",
   "shots": [
@@ -831,10 +831,10 @@
    "assets/shots/tickdown-2.jpg",
    "assets/shots/tickdown-3.jpg"
   ],
-  "changed": 1794209589000,
+  "changed": 1795633089000,
   "whatsnew": "New Time size setting (Normal, Large, Extra large) that makes the clock bigger, on the watch and in the phone settings.",
   "devices": 193,
-  "updates": 3
+  "updates": 4
  },
  {
   "id": "3fbe32ff-7691-4e08-b4f8-2cc1bb840d2c",
@@ -4816,6 +4816,25 @@
   "icon": "assets/icons/offpeak.png",
   "shots": [],
   "changed": 1795649143712,
+  "whatsnew": "",
+  "devices": 106,
+  "updates": 1
+ },
+ {
+  "id": "9c8d2ec3-744a-4134-8d29-55dd09de5ac0",
+  "slug": "reload",
+  "name": "Reload - Tendon Load Coach",
+  "desc": "Reload walks you through published tendon loading protocols on the watch: isometric holds, eccentric heel drops, heavy slow resistance and a walk-run ladder back to running. The watch buzzes the tempo and counts the holds, sets and rests, so both hands stay free for the wall or the weight.\n\nAfter each session you rate the pain during and right after (0-10), and the next morning you rate it again. Reload applies the pain-monitoring model from the tendon research (pain up to 5 of 10 is allowed, the next morning must be back to where it was, mornings must not rise week on week) and suggests the next load: one step up, keep it, or one step back.\n\nWHAT IT DOES\n- Four protocols: isometric (5 x 45 s holds, about 70 % effort), eccentric (3 x 15, straight and bent knee, twice a day, Alfredson), heavy slow resistance (15RM to 6RM over 12 weeks, 3 s down and 3 s up, Beyer and Kongsgaard) and a 12-step walk-run ladder.\n- Buzzing tempo for every lowering and push, buzzes at the start and end of every hold, rest and interval, and a countdown on the screen.\n- Pain model per tendon: during, after, the next morning and the weekly trend, with the reason behind every suggestion.\n- Load suggestions: +2.5 % for holds, +5 kg in the backpack for eccentric work, the next weight for heavy slow resistance (worked out from your last sets when the RM changes), the next ladder step. At most one step up per week, one step back right away.\n- Up to four tendons side by side: Achilles, patellar tendon, heel, hamstring, gluteal, elbow; left, right or both.\n- Hold time, repetitions, sets, rest, lowering tempo, weight step and the green limit can all be set; every session, pain score and morning can be changed or deleted afterwards.\n- Morning check reminder and training reminder on your training days.\n- Sessions are saved to Garmin Connect as strength training (or running for the ladder) with laps per set and pain, time under tension and stage in the summary.\n- 7-day load chart against morning pain, 7 and 30-day averages, 30 days of history.\n- Pause, step back and skip during a session; screen taps do nothing while you sweat, so a wet wrist never ends a set. kg or lb. 16 languages.\n- Glance with the last outcome and the next dose, or the morning check when it is due.\n\nWHAT IT NEEDS\n- A Connect IQ watch with vibration. No phone connection, no sensors, no account.\n- Reload suggests; it does not diagnose or treat and does not replace advice from a doctor or physiotherapist. Sources: Silbernagel 2007, Rio 2015, Alfredson 1998, Beyer 2015, Kongsgaard 2009, UW Health return-to-running program.",
+  "nl": "Reload leidt je op het horloge door gepubliceerde peesbelasting-protocollen: isometrisch vasthouden, excentrisch zakken, zwaar en traag krachtwerk en een wandel-loopladder terug naar hardlopen. Het horloge trilt het tempo en telt de houdingen, sets en rust, zodat je beide handen vrij hebt voor de muur of het gewicht.\n\nNa elke sessie vul je de pijn tijdens en direct erna in (0-10), en de ochtend erna nog een keer. Reload past het pijnmonitor-model uit het peesonderzoek toe (pijn tot 5 van 10 mag, de ochtend erna moet het terug zijn op het oude niveau, de ochtenden mogen week op week niet oplopen) en stelt de volgende belasting voor: een stap verder, gelijk houden of een stap terug.\n\nWAT HET DOET\n- Vier protocollen: isometrisch (5 x 45 s vasthouden, ongeveer 70 % kracht), excentrisch (3 x 15, gestrekte en gebogen knie, 2x per dag, Alfredson), zwaar en traag (15RM naar 6RM in 12 weken, 3 s zakken en 3 s duwen, Beyer en Kongsgaard) en een wandel-loopladder van 12 treden.\n- Trillend tempo bij elk zakken en duwen, trillen aan het begin en eind van elke houding, rust en interval, en een aftelling op het scherm.\n- Pijnmodel per pees: tijdens, erna, de ochtend erna en de weektrend, met de reden achter elk voorstel.\n- Voorstellen voor de belasting: +2,5 % bij vasthouden, +5 kg in de rugzak bij excentrisch, het volgende gewicht bij zwaar en traag (berekend uit je laatste sets als het RM verandert), de volgende trede. Hooguit één stap omhoog per week, een stap terug meteen.\n- Tot vier pezen naast elkaar: achillespees, kniepees, hiel, hamstring, bil, elleboog; links, rechts of beide.\n- Houdtijd, herhalingen, sets, rust, zaktempo, gewichtsstap en de groen-grens zijn in te stellen; elke sessie, elk pijncijfer en elke ochtend is achteraf te wijzigen of te wissen.\n- Herinnering voor de ochtendcheck en voor de training op je trainingsdagen.\n- Sessies worden in Garmin Connect opgeslagen als krachttraining (of hardlopen voor de ladder) met een ronde per set en pijn, tijd onder spanning en stand in de samenvatting.\n- Grafiek van 7 dagen belasting tegen ochtendpijn, gemiddelden over 7 en 30 dagen, 30 dagen historie.\n- Pauze, stap terug en overslaan tijdens een sessie; tikken op het scherm doet niets terwijl je zweet. kg of lb. 16 talen.\n- Glance met de laatste uitslag en de volgende dosis, of de ochtendcheck als die open staat.\n\nWAT HET NODIG HEEFT\n- Een Connect IQ-horloge met trilfunctie. Geen telefoonverbinding, geen sensoren, geen account.\n- Reload stelt voor; het stelt geen diagnose, behandelt niet en vervangt geen advies van een arts of fysiotherapeut. Bronnen: Silbernagel 2007, Rio 2015, Alfredson 1998, Beyer 2015, Kongsgaard 2009, UW Health terug-naar-hardlopen-schema.",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "219",
+  "icon": "assets/icons/reload.png",
+  "shots": [],
+  "changed": 1795658158594,
   "whatsnew": "",
   "devices": 106,
   "updates": 1
