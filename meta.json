@@ -1266,7 +1266,6 @@
       "tag": "Snow forecast and powder score",
       "cat": "sport",
       "id": "432da6e6-76d4-42cd-815c-afbb00c81079",
-      "pending": true,
       "accent": "#8FD3FF",
       "screens": [
         [
@@ -1288,7 +1287,6 @@
       "tag": "Conduit bending marks",
       "cat": "tools",
       "id": "694cfa85-0920-4cc0-9c91-3552e63ec8f2",
-      "pending": true,
       "accent": "#F2B441",
       "screens": [
         [
@@ -1331,7 +1329,6 @@
       "tag": "Treadmill runs at belt speed",
       "cat": "sport",
       "id": "e2e72d9c-12a7-4053-bd79-5fa0fa6ea30c",
-      "pending": true,
       "accent": "#FF6B4A",
       "screens": [
         [
@@ -1353,7 +1350,6 @@
       "tag": "HYROX-style race pacing",
       "cat": "sport",
       "id": "d553ee86-1c94-4398-9bf9-2e02b53794d1",
-      "pending": true,
       "accent": "#FFD60A",
       "screens": [
         [
@@ -1375,7 +1371,6 @@
       "tag": "Sauna and cold plunge rounds",
       "cat": "health",
       "id": "2d849dac-5ab4-44e9-a4ab-8ce0ae4ec98b",
-      "pending": true,
       "accent": "#FF8A4C",
       "screens": [
         [

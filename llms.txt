@@ -64,12 +64,12 @@ Contact: thijsjwger@gmail.com · Custom app requests: https://gerros.app/custom.
 - [Flume](https://gerros.app/apps/flume.html): Endless pool swim tracker. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/d555d45f-cc9c-4229-85d7-4ce515f8c534. Rating 5.0/5 from 2 reviews.
 - [Laddr](https://gerros.app/apps/laddr.html): Pull-up and push-up plan. Sport & outdoors, version 2.0.0, store: https://apps.garmin.com/apps/7565fe42-c64b-41f2-a3d5-bd76fba0cb9c. Rating 3.0/5 from 2 reviews.
 - [Oneira](https://gerros.app/apps/oneira.html): Lucid dream cues. Health & habits, version 2.1.0, store: https://apps.garmin.com/apps/ff34fbc8-34f5-4142-9065-16d6679c0fc3. Rating 2.3/5 from 4 reviews.
-- [Powcast](https://gerros.app/apps/powcast.html): Snow forecast and powder score. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/432da6e6-76d4-42cd-815c-afbb00c81079. Status: in review.
-- [Bender](https://gerros.app/apps/bender.html): Conduit bending marks. Everyday tools, version 1.0.0, store: https://apps.garmin.com/apps/694cfa85-0920-4cc0-9c91-3552e63ec8f2. Status: in review.
+- [Powcast](https://gerros.app/apps/powcast.html): Snow forecast and powder score. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/432da6e6-76d4-42cd-815c-afbb00c81079. Rating in the Connect IQ Store.
+- [Bender](https://gerros.app/apps/bender.html): Conduit bending marks. Everyday tools, version 1.0.0, store: https://apps.garmin.com/apps/694cfa85-0920-4cc0-9c91-3552e63ec8f2. Rating in the Connect IQ Store.
 - [Pillyr](https://gerros.app/apps/pillyr.html): Medication reminders and refills. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/cf6073c6-3ebc-4a26-ba8a-93e2811fb3cb. Rating in the Connect IQ Store.
-- [Treadset](https://gerros.app/apps/treadset.html): Treadmill runs at belt speed. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/e2e72d9c-12a7-4053-bd79-5fa0fa6ea30c. Status: in review.
-- [Sledline](https://gerros.app/apps/sledline.html): HYROX-style race pacing. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/d553ee86-1c94-4398-9bf9-2e02b53794d1. Status: in review.
-- [Loyly](https://gerros.app/apps/loyly.html): Sauna and cold plunge rounds. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/2d849dac-5ab4-44e9-a4ab-8ce0ae4ec98b. Status: in review.
+- [Treadset](https://gerros.app/apps/treadset.html): Treadmill runs at belt speed. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/e2e72d9c-12a7-4053-bd79-5fa0fa6ea30c. Rating in the Connect IQ Store.
+- [Sledline](https://gerros.app/apps/sledline.html): HYROX-style race pacing. Sport & outdoors, version 1.0.0, store: https://apps.garmin.com/apps/d553ee86-1c94-4398-9bf9-2e02b53794d1. Rating in the Connect IQ Store.
+- [Loyly](https://gerros.app/apps/loyly.html): Sauna and cold plunge rounds. Health & habits, version 1.0.0, store: https://apps.garmin.com/apps/2d849dac-5ab4-44e9-a4ab-8ce0ae4ec98b. Rating in the Connect IQ Store.
 - [Stepcrop](https://gerros.app/apps/stepcrop.html): Idle farm powered by your steps. Games & puzzles, version 1.0.0, store: https://apps.garmin.com/apps/efbd6817-848f-42fa-b710-caf2896d3ae4. Status: in review.
 - [Offpeak](https://gerros.app/apps/offpeak.html): Cheapest time to run appliances. Money & work, version 1.0.0, store: https://apps.garmin.com/apps/235ff735-ad5e-44df-ad52-86f01afbd7fe. Status: in review.
 
