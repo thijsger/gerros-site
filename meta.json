@@ -1452,6 +1452,28 @@
           "During, after and the next morning"
         ]
       ]
+    },
+    "rollset": {
+      "title": "Rollset",
+      "tag": "Pipe offsets and cut lengths",
+      "cat": "tools",
+      "id": "e531ca30-f1af-43dd-af1a-96e22b92bd6c",
+      "pending": true,
+      "accent": "#5AA9E6",
+      "screens": [
+        [
+          "Rolling offsets",
+          "Cut length and travel"
+        ],
+        [
+          "Miter wrap template",
+          "A mark at every station around the pipe"
+        ],
+        [
+          "Cut list from stock lengths",
+          "Pieces, total and offcut"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1510,6 +1532,7 @@
     "loyly",
     "stepcrop",
     "offpeak",
-    "reload"
+    "reload",
+    "rollset"
   ]
 }

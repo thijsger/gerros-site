@@ -1422,6 +1422,37 @@
   "main": "1",
   "screens": 4
  },
+ "rollset": {
+  "circles": {
+   "1": [
+    379.3,
+    502.3,
+    243.1,
+    "GESCHAT"
+   ],
+   "2": [
+    1167.6,
+    500.6,
+    241.5,
+    "GESCHAT"
+   ],
+   "3": [
+    355.5,
+    502.1,
+    225.0,
+    "bezel+lijn"
+   ],
+   "cover": [
+    249.2,
+    244.8,
+    122.0,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "schuss": {
   "circles": {
    "1": [
