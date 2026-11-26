@@ -42,6 +42,37 @@
   "main": "1",
   "screens": 5
  },
+ "afterglow": {
+  "circles": {
+   "1": [
+    334.9,
+    493.2,
+    237.3,
+    "GESCHAT"
+   ],
+   "2": [
+    1140.8,
+    490.7,
+    233.5,
+    "GESCHAT"
+   ],
+   "3": [
+    364.5,
+    500.4,
+    237.5,
+    "GESCHAT"
+   ],
+   "cover": [
+    248.5,
+    239.1,
+    117.3,
+    "GESCHAT"
+   ]
+  },
+  "hero": true,
+  "main": "1",
+  "screens": 3
+ },
  "altizone": {
   "circles": {
    "1": [

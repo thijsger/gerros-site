@@ -4857,5 +4857,24 @@
   "whatsnew": "",
   "devices": 106,
   "updates": 1
+ },
+ {
+  "id": "2f8ab6fb-37c1-44a6-ae00-d2cfb06f9e3c",
+  "slug": "afterglow",
+  "name": "Afterglow - Sunset score",
+  "desc": "Afterglow tells you how good tonight's sunset and tomorrow's sunrise will be, as a score from 0 to 100, for today and the next three days. It looks at the clouds above you, the low clouds on the horizon towards the sun, and how clean and dry the air is, then shows the best moment, where to look and one line on why.\nThe glance keeps counting down without opening the app, and the watch can tap you on the wrist before a good one. Clouds are hard to forecast, so every score comes with a certainty and a range. Weather data by Open-Meteo.com (CC BY 4.0) and CAMS; a forecast, not a guarantee.\nWHAT IT DOES\nScore 0-100 for every sunrise and sunset, today and three days ahead, with the best one highlighted. Peak moment, colour window and compass direction to look. Why: high, mid and low cloud, low cloud on the horizon 200 to 330 km towards the sun, haze and humidity. Golden hour, blue hour and sunrise or sunset times. Alert before the peak when the score reaches your threshold (40-90, 15-120 minutes ahead); the watch checks a fresh forecast first. Your own position or up to five saved spots. Sunsets, sunrises or both. Kilometres or miles. The last forecast stays on the watch and shows its age when the phone is away. 16 languages.\nWHAT IT NEEDS\nA phone with Garmin Connect for the forecast (no account, no key). GPS once for your position. Notifications appear on watches with Connect IQ 5.1 or later; on older watches the app opens and vibrates instead.",
+  "nl": "Afterglow vertelt hoe mooi de zonsondergang van vanavond en de zonsopkomst van morgen worden, als score van 0 tot 100, voor vandaag en de drie dagen erna. Het kijkt naar de wolken boven je, de lage wolken aan de horizon richting de zon en hoe schoon en droog de lucht is, en toont dan het beste moment, waar je moet kijken en in één regel waarom.\nDe glance telt af zonder dat je de app opent, en het horloge kan je vooraf een seintje geven als het mooi wordt. Wolken zijn lastig te voorspellen, dus elke score krijgt een zekerheid en een bandbreedte. Weerdata van Open-Meteo.com (CC BY 4.0) en CAMS; een verwachting, geen garantie.\nWAT HET DOET\nScore 0-100 voor elke zonsopkomst en -ondergang, vandaag en drie dagen vooruit, met de beste gemarkeerd. Piekmoment, kleurvenster en kompasrichting om te kijken. Waarom: hoge, middelhoge en lage wolken, lage wolken aan de horizon 200 tot 330 km richting de zon, nevel en vocht. Gouden uur, blauwe uur en tijden van opkomst of ondergang. Seintje voor de piek als de score je drempel haalt (40-90, 15-120 minuten vooraf); het horloge kijkt eerst naar een verse verwachting. Je eigen positie of tot vijf bewaarde plekken. Ondergangen, opkomsten of beide. Kilometers of mijlen. De laatste verwachting blijft op het horloge en toont zijn leeftijd als de telefoon weg is. 16 talen.\nWAT HET NODIG HEEFT\nEen telefoon met Garmin Connect voor de verwachting (geen account, geen sleutel). Eén keer GPS voor je positie. Meldingen verschijnen op horloges met Connect IQ 5.1 of nieuwer; op oudere horloges opent de app en trilt hij.",
+  "type": "2",
+  "rating": null,
+  "reviews": 0,
+  "downloads": 0,
+  "version": "1.0.0",
+  "category": "213",
+  "icon": "assets/icons/afterglow.png",
+  "shots": [],
+  "changed": 1795661936081,
+  "whatsnew": "",
+  "devices": 106,
+  "updates": 1
  }
 ]

@@ -1474,6 +1474,28 @@
           "Pieces, total and offcut"
         ]
       ]
+    },
+    "afterglow": {
+      "title": "Afterglow",
+      "tag": "Sunset and sunrise color score",
+      "cat": "sport",
+      "id": "2f8ab6fb-37c1-44a6-ae00-d2cfb06f9e3c",
+      "pending": true,
+      "accent": "#FF7A90",
+      "screens": [
+        [
+          "Tonight’s sunset score",
+          "Peak time and where to look"
+        ],
+        [
+          "The next four days",
+          "Sunrise and sunset, best one marked"
+        ],
+        [
+          "Why it scores high",
+          "Cloud layers, horizon and air"
+        ]
+      ]
     }
   },
   "wearos": [
@@ -1533,6 +1555,7 @@
     "stepcrop",
     "offpeak",
     "reload",
-    "rollset"
+    "rollset",
+    "afterglow"
   ]
 }
